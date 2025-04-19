@@ -393,7 +393,8 @@ El Empathy Mapping es una herramienta que ayuda a comprender más profundamente 
 
 **Segmento 1**: Personas interesadas en su salud
 
-![Mapa de empatía 1 ](https://github.com/user-attachments/assets/785c1842-888c-40f5-aa21-3e045370d349)
+![Mapa de empatía 1  (1)](https://github.com/user-attachments/assets/7ce77cdd-c794-4d3c-8ed1-0dbcdaec9763)
+
 
 
 **Segmento 2**: Empresas y organizaciones que operan maquinaria de alta emisión electromagnética
