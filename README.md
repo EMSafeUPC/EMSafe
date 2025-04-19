@@ -316,6 +316,34 @@ Para , es muy importante la información de cada entrevista que se realizará y 
 
 A fin de obtener información valiosa sobre las necesidades, deseos y desafíos de nuestro público objetivo, hemos planteado una serie de preguntas.
 
+**Entrevistas - Perfil de Usuario 1: María (Usuario Individual)**
+
+**Introducción:**
+Gracias por tu tiempo. Esta entrevista busca conocer tu experiencia con dispositivos electrónicos y tu nivel de preocupación por los efectos de la radiación en la salud.
+
+**Preguntas:**
+1. ¿Cuáles son los dispositivos tecnológicos que más usas en tu hogar?
+2. ¿Has oído hablar de la radiación electromagnética? ¿Qué opinas de ello?
+3. ¿Te has sentido alguna vez incómoda debido a la exposición a dispositivos como tu móvil o router?
+4. ¿Qué medidas tomas para protegerte de los efectos de la tecnología (por ejemplo, usando auriculares, apagando el móvil por la noche)?
+5. ¿Qué tan importante sería para ti poder monitorear los niveles de radiación en tu hogar?
+6. ¿Estarías dispuesta a usar un sistema que te avise cuando los niveles sean altos? ¿Por qué?
+
+---
+
+**Entrevistas - Perfil de Usuario 2: Ricardo (Usuario Corporativo)**
+
+**Introducción:**
+Gracias por tomarte el tiempo. Queremos entender cómo manejas la seguridad relacionada con la radiación electromagnética en tu empresa y cómo una plataforma como EMSafe podría ser útil.
+
+**Preguntas:**
+1. ¿Cómo gestionan actualmente la seguridad de los trabajadores frente a los riesgos tecnológicos?
+2. ¿Tienen protocolos específicos para medir o controlar la exposición a radiación electromagnética en el lugar de trabajo?
+3. ¿Utilizan alguna herramienta o sistema para monitorear los riesgos ambientales (en relación con equipos tecnológicos)?
+4. ¿Estarías interesado en integrar una plataforma como EMSafe en tu empresa? ¿Por qué?
+5. ¿Qué barreras o problemas ves al implementar un sistema como EMSafe en tu lugar de trabajo?
+6. ¿Qué funcionalidades consideras más importantes para este tipo de solución?
+
 
 <div id="222"><h3>2.2.2. Registro de entrevistas</h3></div>
 
