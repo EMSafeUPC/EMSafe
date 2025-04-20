@@ -376,15 +376,137 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 
 <div id="43"><h3>4.3. Landing Page UI Design</h3></div>
 
+Las Landing Pages juegan un rol fundamental en la conversión de visitantes en potenciales usuarios, empleando para ello mensajes persuasivos, información clave sobre el producto y un diseño intuitivo. Reconociendo su importancia, se ha desarrollado una propuesta de diseño preliminar adaptable tanto a dispositivos móviles como a computadoras de escritorio.
+
+Para la experiencia en computadoras, se ha concebido una interfaz con secciones visuales y opciones de navegación explícitas, acompañadas de descripciones concisas de las funcionalidades principales del sitio web. El objetivo es asegurar una comprensión inmediata y eliminar cualquier posible fricción para el usuario. Adicionalmente, se ha dispuesto una barra de navegación de posición fija, garantizando su accesibilidad constante y facilitando la exploración fluida del contenido de la Landing Page.
+
 <div id="431"><h3>4.3.1. Landing Page Wireframe</h3></div>
+
+En esta sección se presentarán los wireframes de la versión de la versión con menos exactitud del Landing Page.
+
+* **Sección Inicio**
+
+![Inicio](https://github.com/user-attachments/assets/4b40dab9-d65c-4211-8b3e-aa2003240123)
+
+
+* **Sección Beneficios**
+
+![Beneficios](https://github.com/user-attachments/assets/72993c1d-ab7b-448f-8192-0f1ad6fca2ac)
+
+* **Sección Problema**
+
+![Image](https://github.com/user-attachments/assets/5b8d77a6-29d8-477a-9d93-38fcae29df0f)
+
+* **Sección Ubicacion**
+
+![Problema](https://github.com/user-attachments/assets/512eabee-38e6-4e1b-9fa1-4101fb616701)
+
+* **Sección Contacto**
+
+![Contacto](https://github.com/user-attachments/assets/c4268374-5209-4a38-b24c-f26370de7c56)
+
+Figma: [Enlace Figma](https://www.figma.com/design/nq4yhzzZgAy1SSPUPYF9Tc/WIREFRAMES-EMSAFE?node-id=0-1&t=N1QN54YfB3NFtAtt-1)
+
+
+<br>
 
 <div id="432"><h3>4.3.2. Landing Page Mock-up</h3></div>
 
+En esta sección se presenta el mock-up de la landing page diseñada para la plataforma EMSafe. A diferencia del wireframe, este mock-up ofrece una representación visual más cercana al producto final, incorporando elementos gráficos, colores, tipografías y disposición de contenido que reflejan la identidad visual de la marca. El objetivo de esta propuesta es demostrar cómo se comunicarán los principales beneficios del sistema, el problema que resuelve, su ubicación, y facilitar el contacto con potenciales usuarios.
+
+* **Sección Inicio**
+
+![Image](https://github.com/user-attachments/assets/f94c9238-7226-45d3-af8b-ccf378be8f85)
+
+
+* **Sección Beneficios**
+
+![Image](https://github.com/user-attachments/assets/9a84e9c3-a4da-41a6-9295-300673f4ac6d)
+
+* **Sección Problema**
+
+![Image](https://github.com/user-attachments/assets/316e7431-5db4-4986-bbb0-e2377bd06a61)
+
+* **Sección Testimonio**
+
+![Image](https://github.com/user-attachments/assets/096f562a-63bc-4a57-8082-a2827e04cc22)
+
+* **Sección Ubicacion**
+
+![Image](https://github.com/user-attachments/assets/478ab082-6450-4194-babf-91357c8b691b)
+
+* **Sección Contacto**
+
+![Image](https://github.com/user-attachments/assets/ac91781d-58da-4f69-bcd9-0fd7a05c7d3b)
+
+Figma: [Enlace Figma](https://www.figma.com/design/nq4yhzzZgAy1SSPUPYF9Tc/WIREFRAMES-EMSAFE?node-id=0-1&t=N1QN54YfB3NFtAtt-1)
+
+<br>
+
 <div id="44"><h3>4.4. Web Applications UX/UI Design</h3></div>
+
+Esta sección muestra los wireframes que representan la organización y el diseño de los elementos dentro de la interfaz de la aplicación web. A través de estos esquemas, es posible apreciar de forma simple y ordenada cómo se distribuyen los componentes en cada página, lo cual resulta útil para planificar tanto el diseño visual como la experiencia de navegación.
 
 <div id="441"><h3>4.4.1. Web Applications Wireframes</h3></div>
 
+Esta sección muestra los wireframes que representan la organización y distribución de los elementos dentro de la interfaz de la aplicación web. A través de estos esquemas, es posible obtener una visión clara de cómo se estructuran los componentes en cada página, lo cual contribuye a una mejor planificación del diseño y una navegación más intuitiva. 
+
+
+![Wireframe1](https://github.com/user-attachments/assets/5ed952e8-838e-4fce-9b8c-fdd8de58851e)
+
+![Wireframe2](https://github.com/user-attachments/assets/24627a38-c4f7-45c1-aa7e-a39c52ec7e00)
+
+![Wireframe3](https://github.com/user-attachments/assets/afd7a57f-c1d3-4d79-a2e1-29e0a9f3a2bd)
+
 <div id="442"><h3>4.4.2. Web Applications Wireflow Diagrams</h3></div>
+
+1. **Flujo Principal de Navegación**
+
+**User Goal**: Navegar eficientemente entre las diferentes secciones principales de la aplicación para monitorear y gestionar dispositivos de radiación.  
+
+**Descripción**: Este flujo muestra las rutas de navegación primarias que permiten al usuario moverse entre el dashboard, historial de dispositivos, gestión de dispositivos, historial de alarmas y mapa de radiación. El diseño de navegación lateral persistente facilita el acceso rápido a cualquier sección desde cualquier punto de la aplicación.
+
+![Image](https://github.com/user-attachments/assets/d808c065-3dc0-46ac-8034-7f5306aea48d)
+
+2. **Flujo de Autenticación**
+
+**User Goal**: Acceder de forma segura a la aplicación o crear una nueva cuenta para comenzar a utilizar el sistema de monitoreo.
+
+**Descripción**: Este flujo abarca los procesos de inicio de sesión, registro de nuevos usuarios y recuperación de contraseñas. Incluye validaciones para garantizar la seguridad y proporciona rutas alternativas en caso de problemas de autenticación, asegurando que tanto usuarios nuevos como existentes puedan acceder al sistema.
+
+![Image](https://github.com/user-attachments/assets/ea4f62f6-a035-4b7d-b059-d3d83f569bca)
+
+3. **Flujo de Historial de Dispositivos**
+
+**User Goal**: Consultar y analizar el historial de lecturas de los dispositivos de monitoreo de radiación para identificar tendencias y anomalías.
+
+**Descripción**: Este flujo permite a los usuarios visualizar datos históricos en diferentes formatos (tabla, tarjetas o gráficos), aplicar filtros para encontrar información específica, y exportar datos para análisis externos. El usuario puede profundizar en los detalles de lecturas específicas para investigar incidentes o patrones.
+
+![Image](https://github.com/user-attachments/assets/cfd18c2b-11c7-44d6-9592-088cfb9344a7)
+
+4. **Flujo de Gestión de Dispositivos**
+
+**User Goal**: Administrar eficientemente la red de dispositivos de monitoreo, incluyendo añadir, editar, configurar o eliminar dispositivos.
+
+**Descripción**: Este flujo facilita todas las operaciones CRUD (Crear, Leer, Actualizar, Eliminar) relacionadas con los dispositivos de monitoreo. Incluye formularios para la configuración detallada de cada dispositivo, validaciones para asegurar la integridad de los datos, y confirmaciones para acciones críticas como la eliminación de dispositivos.
+
+![Image](https://github.com/user-attachments/assets/c4ab0a0b-2c94-4533-9d10-a521afcb412a)
+
+5. **Flujo de Historial de Alarmas**
+
+**User Goal**: Monitorear, analizar y resolver alarmas generadas por niveles anómalos de radiación detectados por los dispositivos.
+
+**Descripción**: Este flujo permite a los usuarios ver todas las alarmas (activas y resueltas), filtrarlas por diferentes criterios, acceder a detalles específicos de cada incidente, y documentar la resolución de alarmas. El diseño prioriza la visibilidad de alarmas críticas y facilita su rápida resolución.
+
+![Image](https://github.com/user-attachments/assets/ba68b570-e1ae-446f-aa7f-f9b764c10dc9)
+
+6. **Flujo del Mapa de Radiación**
+
+**User Goal**: Visualizar geográficamente los niveles de radiación para identificar zonas de riesgo y monitorear la distribución espacial de las lecturas. 
+
+**Descripción**: Este flujo proporciona una representación visual de los datos de radiación en un mapa interactivo. Los usuarios pueden cambiar entre diferentes visualizaciones, aplicar filtros, ajustar rangos de niveles, y acceder a información detallada sobre zonas específicas. También incluye funcionalidades para compartir vistas del mapa y localizar la posición del usuario.
+
+![Image](https://github.com/user-attachments/assets/2717c894-d8b9-42b8-b621-faf0692b6836)
 
 
 <div id="443"><h3>4.4.3. Web Applications Mock-ups</h3></div>
@@ -411,14 +533,123 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 
 <div id="471"><h3>4.7.1. Class Diagrams</h3></div>
 
+A continuación, se muestra el diagrama de clases de EMSafe, una herramienta clave en la programación orientada a objetos que permite representar de forma visual la estructura estática del sistema. Este diagrama facilita la identificación de las clases involucradas, sus atributos y métodos.
+
+
+![Image](https://github.com/user-attachments/assets/1af30274-0c13-4a76-85c8-c17461db6992)
 
 <div id="472"><h3>4.7.2. Class Dictionary</h3></div>
+
+1. **Usuario**
+
+    - **Atributos:**
+        - `id`: Identificador único del usuario.
+        - `nombre`: Nombre del usuario.
+        - `correo`: Dirección de correo electrónico del usuario.
+        - `contrasena`: Contraseña del usuario para acceder al sistema.
+        - `tipo_usuario`: Tipo de usuario (ej: "normal", "administrador").
+        - `ubicacion`: Ubicación actual del usuario (ej: coordenadas, dirección).
+
+    - **Métodos:**
+        - `registrar()`: Permite crear una nueva cuenta de usuario en el sistema.
+        - `iniciar_sesion()`: Permite al usuario acceder al sistema verificando sus credenciales.
+        - `historial_radiacion()`: Muestra el historial de radiación asociado a los dispositivos del usuario.
+        - `agregar_dispositivo()`: Permite al usuario añadir un nuevo dispositivo a su cuenta.
+        - `eliminar_dispositivo()`: Permite al usuario eliminar un dispositivo de su cuenta.
+
+2. **Recomendacion**
+
+    - **Atributos:**
+        - `id`: Identificador único de la recomendación.
+        - `mensaje`: Contenido del mensaje de la recomendación.
+
+    - **Métodos:**
+        - `generar()`: Crea una nueva recomendación basada en los niveles de radiación.
+        - `mostrar_por_usuario()`: Muestra las recomendaciones específicas para un usuario.
+
+3. **Mapa_radiacion**
+
+    - **Atributos:**
+        - `zona`: Identificador de una zona geográfica.
+        - `nivel_promedio`: Nivel promedio de radiación en esa zona.
+        - `fecha_actualizacion`: Fecha y hora de la última actualización de los datos de radiación de la zona.
+
+    - **Métodos:**
+        - `mostrar_zonas()`: Muestra todas las zonas con sus niveles de radiación.
+        - `zona_cercana(ubicacion_usuario)`: Muestra las zonas cercanas a la ubicación proporcionada del usuario.
+        - `actualizar_zonas()`: Permite actualizar los datos de radiación de las zonas.
+
+4. **Dispositivo**
+
+    - **Atributos:**
+        - `id`: Identificador único del dispositivo.
+        - `nombre`: Nombre del dispositivo.
+        - `tipo`: Tipo de dispositivo (ej: "electrodoméstico", "industrial").
+        - `ubicacion`: Ubicación del dispositivo.
+        - `nivel_radiacion`: Nivel actual de radiación emitido por el dispositivo.
+        - `estado`: Estado actual del dispositivo (ej: "activo", "inactivo").
+
+    - **Métodos:**
+        - `agregar()`: Permite añadir un nuevo dispositivo al sistema (probablemente por un admin).
+        - `eliminar()`: Permite eliminar un dispositivo del sistema (probablemente por un admin).
+        - `actualizar_radiacion()`: Permite actualizar el nivel de radiación del dispositivo.
+
+5. **Sensor**
+    - **Atributos:**
+        - `id`: Identificador único del sensor.
+        - `ubicacion`: Ubicación del sensor.
+        - `tipo`: Tipo de sensor (ej: "electromagnético").
+        - `frecuencia`: Frecuencia con la que el sensor toma mediciones.
+
+    - **Métodos:**
+        - `enviar_medicion()`: Envía la lectura actual del sensor.
+        - `configurar()`: Permite ajustar la configuración del sensor (ej: frecuencia de medición).
+
+6. **Alarma**
+    - **Atributos:**
+        - `id`: Identificador único de la alarma.
+        - `nivel_detectado`: Nivel de radiación que activó la alarma.
+        - `umbral`: Nivel máximo permitido de radiación que activa la alarma.
+        - `fecha_generacion`: Fecha y hora en que se generó la alarma.
+        - `estado_alarma`: Estado actual de la alarma (ej: "activa", "resuelta").
+        - `fecha_resolucion`: Fecha y hora en que se resolvió la alarma (si aplica).
+
+    - **Métodos:**
+        - `verificar_nivel()`: Comprueba si el nivel de radiación supera el umbral.
+        - `filtrar()`: Permite filtrar las alarmas por diferentes criterios (ej: estado, fecha).
+        - `marcar_resuelto()`: Permite marcar una alarma como resuelta.
+
+7. **Dashboard**
+
+    - **Métodos:**
+        - `mostrar_resumen()`: Muestra un resumen general de la información relevante (ej: promedio de radiación, número de alarmas).
+        - `general()`: Proporciona una vista general de los datos.
+        - `generar_graficos()`: Genera gráficos para visualizar los datos de radiación.
+
+8. **Historial**
+    
+    - **Atributos:**
+        - `id_historial`: Identificador único del registro de historial.
+        - `id_dispositivo`: Identificador del dispositivo asociado a este registro.
+        - `fecha_hora_medicion`: Fecha y hora en que se tomó la medición.
+        - `nivel_radiacion`: Nivel de radiación registrado en ese momento.
+        - `id_sensor`: Identificador del sensor que realizó la medición.
+        - `comentario`: Comentario adicional sobre la medición (opcional).
+
+    - **Métodos:**
+        - `registrar_medicion()`: Guarda una nueva medición en el historial.
+        - `consultar_historial_dispositivo()`: Muestra el historial de mediciones para un dispositivo específico.
+        - `consultar_historial_usuario()`: Muestra el historial de mediciones para todos los dispositivos de un usuario.
+        - `filtrar_por_fecha()`: Permite filtrar el historial por un rango de fechas.
 
 
 <div id="48"><h2>4.8. Database Design</h2></div>
 
 <div id="481"><h3>4.8.1. Database Diagram</h3></div>
 
+En esta sección se presenta la organización de la base de datos mediante un esquema que muestra la estructura y las relaciones entre sus tablas. Esta visualización permite entender con claridad cómo se vincula la información. La representación gráfica resulta fundamental para asegurar la integridad de los datos, ya que facilita la identificación de claves primarias y foráneas, así como las cardinalidades entre las entidades. Asimismo, se ha aplicado el proceso de normalización, lo cual es esencial para mantener la coherencia de los datos y minimizar la duplicación.
+
+![Image](https://github.com/user-attachments/assets/8a0d3d31-3b1f-41f4-a582-5dd854009c38)
 
 
 <div id="5"><h1>Capítulo V: Product Implementation, Validation & Deployment</h1></div>
