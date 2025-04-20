@@ -376,6 +376,10 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 
 <div id="43"><h3>4.3. Landing Page UI Design</h3></div>
 
+Las Landing Pages juegan un rol fundamental en la conversión de visitantes en potenciales usuarios, empleando para ello mensajes persuasivos, información clave sobre el producto y un diseño intuitivo. Reconociendo su importancia, se ha desarrollado una propuesta de diseño preliminar adaptable tanto a dispositivos móviles como a computadoras de escritorio.
+
+Para la experiencia en computadoras, se ha concebido una interfaz con secciones visuales y opciones de navegación explícitas, acompañadas de descripciones concisas de las funcionalidades principales del sitio web. El objetivo es asegurar una comprensión inmediata y eliminar cualquier posible fricción para el usuario. Adicionalmente, se ha dispuesto una barra de navegación de posición fija, garantizando su accesibilidad constante y facilitando la exploración fluida del contenido de la Landing Page.
+
 <div id="431"><h3>4.3.1. Landing Page Wireframe</h3></div>
 
 <div id="432"><h3>4.3.2. Landing Page Mock-up</h3></div>
