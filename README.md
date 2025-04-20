@@ -412,6 +412,37 @@ Figma: [Enlace Figma](https://www.figma.com/design/nq4yhzzZgAy1SSPUPYF9Tc/WIREFR
 
 <div id="432"><h3>4.3.2. Landing Page Mock-up</h3></div>
 
+En esta sección se presenta el mock-up de la landing page diseñada para la plataforma EMSafe. A diferencia del wireframe, este mock-up ofrece una representación visual más cercana al producto final, incorporando elementos gráficos, colores, tipografías y disposición de contenido que reflejan la identidad visual de la marca. El objetivo de esta propuesta es demostrar cómo se comunicarán los principales beneficios del sistema, el problema que resuelve, su ubicación, y facilitar el contacto con potenciales usuarios.
+
+* **Sección Inicio**
+
+![Image](https://github.com/user-attachments/assets/f94c9238-7226-45d3-af8b-ccf378be8f85)
+
+
+* **Sección Beneficios**
+
+![Image](https://github.com/user-attachments/assets/9a84e9c3-a4da-41a6-9295-300673f4ac6d)
+
+* **Sección Problema**
+
+![Image](https://github.com/user-attachments/assets/316e7431-5db4-4986-bbb0-e2377bd06a61)
+
+* **Sección Testimonio**
+
+![Image](https://github.com/user-attachments/assets/096f562a-63bc-4a57-8082-a2827e04cc22)
+
+* **Sección Ubicacion**
+
+![Image](https://github.com/user-attachments/assets/478ab082-6450-4194-babf-91357c8b691b)
+
+* **Sección Contacto**
+
+![Image](https://github.com/user-attachments/assets/ac91781d-58da-4f69-bcd9-0fd7a05c7d3b)
+
+Figma: [Enlace Figma](https://www.figma.com/design/nq4yhzzZgAy1SSPUPYF9Tc/WIREFRAMES-EMSAFE?node-id=0-1&t=N1QN54YfB3NFtAtt-1)
+
+<br>
+
 <div id="44"><h3>4.4. Web Applications UX/UI Design</h3></div>
 
 <div id="441"><h3>4.4.1. Web Applications Wireframes</h3></div>
