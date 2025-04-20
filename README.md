@@ -460,6 +460,54 @@ Esta sección muestra los wireframes que representan la organización y distribu
 
 <div id="442"><h3>4.4.2. Web Applications Wireflow Diagrams</h3></div>
 
+1. **Flujo Principal de Navegación**
+
+**User Goal**: Navegar eficientemente entre las diferentes secciones principales de la aplicación para monitorear y gestionar dispositivos de radiación.  
+
+**Descripción**: Este flujo muestra las rutas de navegación primarias que permiten al usuario moverse entre el dashboard, historial de dispositivos, gestión de dispositivos, historial de alarmas y mapa de radiación. El diseño de navegación lateral persistente facilita el acceso rápido a cualquier sección desde cualquier punto de la aplicación.
+
+![Image](https://github.com/user-attachments/assets/d808c065-3dc0-46ac-8034-7f5306aea48d)
+
+2. **Flujo de Autenticación**
+
+**User Goal**: Acceder de forma segura a la aplicación o crear una nueva cuenta para comenzar a utilizar el sistema de monitoreo.
+
+**Descripción**: Este flujo abarca los procesos de inicio de sesión, registro de nuevos usuarios y recuperación de contraseñas. Incluye validaciones para garantizar la seguridad y proporciona rutas alternativas en caso de problemas de autenticación, asegurando que tanto usuarios nuevos como existentes puedan acceder al sistema.
+
+![Image](https://github.com/user-attachments/assets/ea4f62f6-a035-4b7d-b059-d3d83f569bca)
+
+3. **Flujo de Historial de Dispositivos**
+
+**User Goal**: Consultar y analizar el historial de lecturas de los dispositivos de monitoreo de radiación para identificar tendencias y anomalías.
+
+**Descripción**: Este flujo permite a los usuarios visualizar datos históricos en diferentes formatos (tabla, tarjetas o gráficos), aplicar filtros para encontrar información específica, y exportar datos para análisis externos. El usuario puede profundizar en los detalles de lecturas específicas para investigar incidentes o patrones.
+
+![Image](https://github.com/user-attachments/assets/cfd18c2b-11c7-44d6-9592-088cfb9344a7)
+
+4. **Flujo de Gestión de Dispositivos**
+
+**User Goal**: Administrar eficientemente la red de dispositivos de monitoreo, incluyendo añadir, editar, configurar o eliminar dispositivos.
+
+**Descripción**: Este flujo facilita todas las operaciones CRUD (Crear, Leer, Actualizar, Eliminar) relacionadas con los dispositivos de monitoreo. Incluye formularios para la configuración detallada de cada dispositivo, validaciones para asegurar la integridad de los datos, y confirmaciones para acciones críticas como la eliminación de dispositivos.
+
+![Image](https://github.com/user-attachments/assets/c4ab0a0b-2c94-4533-9d10-a521afcb412a)
+
+5. **Flujo de Historial de Alarmas**
+
+**User Goal**: Monitorear, analizar y resolver alarmas generadas por niveles anómalos de radiación detectados por los dispositivos.
+
+**Descripción**: Este flujo permite a los usuarios ver todas las alarmas (activas y resueltas), filtrarlas por diferentes criterios, acceder a detalles específicos de cada incidente, y documentar la resolución de alarmas. El diseño prioriza la visibilidad de alarmas críticas y facilita su rápida resolución.
+
+![Image](https://github.com/user-attachments/assets/ba68b570-e1ae-446f-aa7f-f9b764c10dc9)
+
+6. **Flujo del Mapa de Radiación**
+
+**User Goal**: Visualizar geográficamente los niveles de radiación para identificar zonas de riesgo y monitorear la distribución espacial de las lecturas. 
+
+**Descripción**: Este flujo proporciona una representación visual de los datos de radiación en un mapa interactivo. Los usuarios pueden cambiar entre diferentes visualizaciones, aplicar filtros, ajustar rangos de niveles, y acceder a información detallada sobre zonas específicas. También incluye funcionalidades para compartir vistas del mapa y localizar la posición del usuario.
+
+![Image](https://github.com/user-attachments/assets/2717c894-d8b9-42b8-b621-faf0692b6836)
+
 
 <div id="443"><h3>4.4.3. Web Applications Mock-ups</h3></div>
 
