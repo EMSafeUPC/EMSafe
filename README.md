@@ -382,6 +382,34 @@ Para la experiencia en computadoras, se ha concebido una interfaz con secciones 
 
 <div id="431"><h3>4.3.1. Landing Page Wireframe</h3></div>
 
+En esta sección se presentarán los wireframes de la versión de la versión con menos exactitud del Landing Page.
+
+* **Sección Inicio**
+
+![Inicio](https://github.com/user-attachments/assets/4b40dab9-d65c-4211-8b3e-aa2003240123)
+
+
+* **Sección Beneficios**
+
+![Beneficios](https://github.com/user-attachments/assets/72993c1d-ab7b-448f-8192-0f1ad6fca2ac)
+
+* **Sección Problema**
+
+![Image](https://github.com/user-attachments/assets/5b8d77a6-29d8-477a-9d93-38fcae29df0f)
+
+* **Sección Ubicacion**
+
+![Problema](https://github.com/user-attachments/assets/512eabee-38e6-4e1b-9fa1-4101fb616701)
+
+* **Sección Contacto**
+
+![Contacto](https://github.com/user-attachments/assets/c4268374-5209-4a38-b24c-f26370de7c56)
+
+Figma: [Enlace Figma](https://www.figma.com/design/nq4yhzzZgAy1SSPUPYF9Tc/WIREFRAMES-EMSAFE?node-id=0-1&t=N1QN54YfB3NFtAtt-1)
+
+
+<br>
+
 <div id="432"><h3>4.3.2. Landing Page Mock-up</h3></div>
 
 <div id="44"><h3>4.4. Web Applications UX/UI Design</h3></div>
