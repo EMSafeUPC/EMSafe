@@ -445,7 +445,18 @@ Figma: [Enlace Figma](https://www.figma.com/design/nq4yhzzZgAy1SSPUPYF9Tc/WIREFR
 
 <div id="44"><h3>4.4. Web Applications UX/UI Design</h3></div>
 
+Esta sección muestra los wireframes que representan la organización y el diseño de los elementos dentro de la interfaz de la aplicación web. A través de estos esquemas, es posible apreciar de forma simple y ordenada cómo se distribuyen los componentes en cada página, lo cual resulta útil para planificar tanto el diseño visual como la experiencia de navegación.
+
 <div id="441"><h3>4.4.1. Web Applications Wireframes</h3></div>
+
+Esta sección muestra los wireframes que representan la organización y distribución de los elementos dentro de la interfaz de la aplicación web. A través de estos esquemas, es posible obtener una visión clara de cómo se estructuran los componentes en cada página, lo cual contribuye a una mejor planificación del diseño y una navegación más intuitiva. 
+
+
+![Wireframe1](https://github.com/user-attachments/assets/5ed952e8-838e-4fce-9b8c-fdd8de58851e)
+
+![Wireframe2](https://github.com/user-attachments/assets/24627a38-c4f7-45c1-aa7e-a39c52ec7e00)
+
+![Wireframe3](https://github.com/user-attachments/assets/afd7a57f-c1d3-4d79-a2e1-29e0a9f3a2bd)
 
 <div id="442"><h3>4.4.2. Web Applications Wireflow Diagrams</h3></div>
 
