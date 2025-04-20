@@ -647,6 +647,9 @@ A continuación, se muestra el diagrama de clases de EMSafe, una herramienta cla
 
 <div id="481"><h3>4.8.1. Database Diagram</h3></div>
 
+En esta sección se presenta la organización de la base de datos mediante un esquema que muestra la estructura y las relaciones entre sus tablas. Esta visualización permite entender con claridad cómo se vincula la información. La representación gráfica resulta fundamental para asegurar la integridad de los datos, ya que facilita la identificación de claves primarias y foráneas, así como las cardinalidades entre las entidades. Asimismo, se ha aplicado el proceso de normalización, lo cual es esencial para mantener la coherencia de los datos y minimizar la duplicación.
+
+![Image](https://github.com/user-attachments/assets/8a0d3d31-3b1f-41f4-a582-5dd854009c38)
 
 
 <div id="5"><h1>Capítulo V: Product Implementation, Validation & Deployment</h1></div>
