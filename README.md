@@ -533,6 +533,10 @@ Esta sección muestra los wireframes que representan la organización y distribu
 
 <div id="471"><h3>4.7.1. Class Diagrams</h3></div>
 
+A continuación, se muestra el diagrama de clases de EMSafe, una herramienta clave en la programación orientada a objetos que permite representar de forma visual la estructura estática del sistema. Este diagrama facilita la identificación de las clases involucradas, sus atributos y métodos.
+
+
+![Image](https://github.com/user-attachments/assets/1af30274-0c13-4a76-85c8-c17461db6992)
 
 <div id="472"><h3>4.7.2. Class Dictionary</h3></div>
 
