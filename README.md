@@ -540,6 +540,108 @@ A continuación, se muestra el diagrama de clases de EMSafe, una herramienta cla
 
 <div id="472"><h3>4.7.2. Class Dictionary</h3></div>
 
+1. **Usuario**
+
+    - **Atributos:**
+        - `id`: Identificador único del usuario.
+        - `nombre`: Nombre del usuario.
+        - `correo`: Dirección de correo electrónico del usuario.
+        - `contrasena`: Contraseña del usuario para acceder al sistema.
+        - `tipo_usuario`: Tipo de usuario (ej: "normal", "administrador").
+        - `ubicacion`: Ubicación actual del usuario (ej: coordenadas, dirección).
+
+    - **Métodos:**
+        - `registrar()`: Permite crear una nueva cuenta de usuario en el sistema.
+        - `iniciar_sesion()`: Permite al usuario acceder al sistema verificando sus credenciales.
+        - `historial_radiacion()`: Muestra el historial de radiación asociado a los dispositivos del usuario.
+        - `agregar_dispositivo()`: Permite al usuario añadir un nuevo dispositivo a su cuenta.
+        - `eliminar_dispositivo()`: Permite al usuario eliminar un dispositivo de su cuenta.
+
+2. **Recomendacion**
+
+    - **Atributos:**
+        - `id`: Identificador único de la recomendación.
+        - `mensaje`: Contenido del mensaje de la recomendación.
+
+    - **Métodos:**
+        - `generar()`: Crea una nueva recomendación basada en los niveles de radiación.
+        - `mostrar_por_usuario()`: Muestra las recomendaciones específicas para un usuario.
+
+3. **Mapa_radiacion**
+
+    - **Atributos:**
+        - `zona`: Identificador de una zona geográfica.
+        - `nivel_promedio`: Nivel promedio de radiación en esa zona.
+        - `fecha_actualizacion`: Fecha y hora de la última actualización de los datos de radiación de la zona.
+
+    - **Métodos:**
+        - `mostrar_zonas()`: Muestra todas las zonas con sus niveles de radiación.
+        - `zona_cercana(ubicacion_usuario)`: Muestra las zonas cercanas a la ubicación proporcionada del usuario.
+        - `actualizar_zonas()`: Permite actualizar los datos de radiación de las zonas.
+
+4. **Dispositivo**
+
+    - **Atributos:**
+        - `id`: Identificador único del dispositivo.
+        - `nombre`: Nombre del dispositivo.
+        - `tipo`: Tipo de dispositivo (ej: "electrodoméstico", "industrial").
+        - `ubicacion`: Ubicación del dispositivo.
+        - `nivel_radiacion`: Nivel actual de radiación emitido por el dispositivo.
+        - `estado`: Estado actual del dispositivo (ej: "activo", "inactivo").
+
+    - **Métodos:**
+        - `agregar()`: Permite añadir un nuevo dispositivo al sistema (probablemente por un admin).
+        - `eliminar()`: Permite eliminar un dispositivo del sistema (probablemente por un admin).
+        - `actualizar_radiacion()`: Permite actualizar el nivel de radiación del dispositivo.
+
+5. **Sensor**
+    - **Atributos:**
+        - `id`: Identificador único del sensor.
+        - `ubicacion`: Ubicación del sensor.
+        - `tipo`: Tipo de sensor (ej: "electromagnético").
+        - `frecuencia`: Frecuencia con la que el sensor toma mediciones.
+
+    - **Métodos:**
+        - `enviar_medicion()`: Envía la lectura actual del sensor.
+        - `configurar()`: Permite ajustar la configuración del sensor (ej: frecuencia de medición).
+
+6. **Alarma**
+    - **Atributos:**
+        - `id`: Identificador único de la alarma.
+        - `nivel_detectado`: Nivel de radiación que activó la alarma.
+        - `umbral`: Nivel máximo permitido de radiación que activa la alarma.
+        - `fecha_generacion`: Fecha y hora en que se generó la alarma.
+        - `estado_alarma`: Estado actual de la alarma (ej: "activa", "resuelta").
+        - `fecha_resolucion`: Fecha y hora en que se resolvió la alarma (si aplica).
+
+    - **Métodos:**
+        - `verificar_nivel()`: Comprueba si el nivel de radiación supera el umbral.
+        - `filtrar()`: Permite filtrar las alarmas por diferentes criterios (ej: estado, fecha).
+        - `marcar_resuelto()`: Permite marcar una alarma como resuelta.
+
+7. **Dashboard**
+
+    - **Métodos:**
+        - `mostrar_resumen()`: Muestra un resumen general de la información relevante (ej: promedio de radiación, número de alarmas).
+        - `general()`: Proporciona una vista general de los datos.
+        - `generar_graficos()`: Genera gráficos para visualizar los datos de radiación.
+
+8. **Historial**
+    
+    - **Atributos:**
+        - `id_historial`: Identificador único del registro de historial.
+        - `id_dispositivo`: Identificador del dispositivo asociado a este registro.
+        - `fecha_hora_medicion`: Fecha y hora en que se tomó la medición.
+        - `nivel_radiacion`: Nivel de radiación registrado en ese momento.
+        - `id_sensor`: Identificador del sensor que realizó la medición.
+        - `comentario`: Comentario adicional sobre la medición (opcional).
+
+    - **Métodos:**
+        - `registrar_medicion()`: Guarda una nueva medición en el historial.
+        - `consultar_historial_dispositivo()`: Muestra el historial de mediciones para un dispositivo específico.
+        - `consultar_historial_usuario()`: Muestra el historial de mediciones para todos los dispositivos de un usuario.
+        - `filtrar_por_fecha()`: Permite filtrar el historial por un rango de fechas.
+
 
 <div id="48"><h2>4.8. Database Design</h2></div>
 
