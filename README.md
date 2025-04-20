@@ -42,7 +42,7 @@ width=30%"/>
 ## Team members:
 | Nombre |Código|
 |:-------:|:----------:|
-|-|-|
+|Nicolich Alvis, Fabio Maurizio |U202218791|
 |Gongora Castillejos,Williams Jesus|U20221C186|
 |-|-|
 |-|-|
