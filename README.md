@@ -321,31 +321,6 @@ En esta sección se detallan las suposiciones relacionadas con los resultados es
 
 5) Creemos que la integración de una interfaz intuitiva, clara y simple permitirá que cualquier persona, sin conocimientos técnicos, pueda utilizar la plataforma de monitoreo de forma rápida y sin necesidad de entrenamiento especializado, reduciendo las barreras de adopción.
 
-<h4>1.2.2.2.1. Assumptions Worksheet</h4>
-
-1. **¿Quién es el usuario?**
-
-
-
-2. **¿Dónde encaja nuestro producto en su trabajo o vida?**
-   
-
-
-3. **¿Qué problemas tiene nuestro producto? ¿Resolver?**
-   
-
-
-4. **¿Cuándo y cómo es nuestro producto utilizado?**
-   
-
-5. **¿Qué características son importantes?**
-
-
-
-6. **¿Cómo debe verse nuestro producto y cómo comportarse?**
-   
-
-
 <div id="1223"><h4>1.2.2.3. Lean UX Hypothesis Statements</h4></div>
 
 
