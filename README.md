@@ -42,11 +42,11 @@ width=30%"/>
 ## Team members:
 | Nombre |Código|
 |:-------:|:----------:|
+|Nicolich Alvis, Fabio Maurizio|U202218791|
+|Gongora Castillejos, Williams Jesus|U20221C186|
 |-|-|
-|Gongora Castillejos,Williams Jesus|U20221C186|
 |-|-|
-|-|-|
-|Lopez de la Cruz Mauro Fabricio|U202215695|
+|Lopez de la Cruz, Mauro Fabricio|U202215695|
 
 </br></br>
 
@@ -71,10 +71,10 @@ Para el desarrollo del informe correspondiente a la entrega TB1, se estableció 
 
 |Integrante|Tareas Asignadas|
 |-|-|
-|Williams Gongora Castilejos|-|
+|Williams Gongora|-|
+|Fabio Nicolich|-|
 |-|-|
-|-|-|
-|Lopez de la Cruz Mauro Fabricio|-|
+|Fabricio Lopez|-|
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
 
@@ -85,7 +85,7 @@ El proceso de colaboración en el informe se realizó mediante commits constante
 Los integrantes son:
 
 * Williams Gongora (WiJeGo)
-* 
+* Fabio Nicolich (Nicolini03)
 * 
 * Fabricio Lopez (lopezFABRAX)
 * 
@@ -215,7 +215,7 @@ El propósito es proteger la salud y promover espacios seguros, basándose en es
 
 |Descripción del integrante|Perfil del integrante del equipo|
 | :--------| :--------:|
-|-|-foto|
+|Soy estudiante de Ingeniería de Software, cursando actualmente el quinto ciclo de la carrera. Me destaco por ser responsable, proactivo y poseer sólidas habilidades de liderazgo. Estoy comprometido con el trabajo en equipo, fomentando una comunicación efectiva y colaborativa para alcanzar resultados sobresalientes. Mi enfoque está en garantizar la calidad y el éxito de los proyectos, aportando creatividad, esfuerzo y dedicación en cada etapa del desarrollo. Cuento con conocimientos en lenguajes como C++, HTML, CSS, JavaScript y Python, y estoy enfocado en aprender a crear proyectos utilizando frameworks como Angular y Vue.|![fabio](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/)|
 | Mi nombre es **Williams Jesús Góngora Castillejos** y soy estudiante de la carrera de Ingeniería de Software. Me considero una persona inteligente en todo lo que conlleva a números y razonamiento intuitivo, además de ser creativo para generar soluciones como ingeniero. Cuento con conocimientos en SQL, C++ y Python. Dentro de mis habilidades interpersonales, soy amable, empático y trato de establecer confianza entre mis compañeros para realizar un mejor trabajo en equipo. |![williams](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/williams.jpg)|
 |-|-foto|
 |-|-foto|
