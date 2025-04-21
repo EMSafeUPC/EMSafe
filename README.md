@@ -207,7 +207,9 @@ El curso contribuye al cumplimiento del Student Outcome ABET:</br>
 <div id="11"><h2>1.1. Startup Profile</h2></div>
 <div id="111"><h3>1.1.1. Descripción de la Startup</h3></div>
 
-
+La plataforma web permite a usuarios, organizaciones y comunidades monitorear y evaluar en tiempo real la contaminación electromagnética generada por dispositivos tecnológicos que forman parte de su entorno diario. A través de servicios de análisis, medición y visualización, se proporcionan datos precisos sobre los niveles de radiación no ionizante emitida por routers, teléfonos móviles, electrodomésticos y estaciones de telecomunicaciones.
+Para lograrlo, se implementa una red de sensores IoT que detectan y transmiten datos de campos electromagnéticos mediante protocolos como WiFi. Estos sensores envían las mediciones a una infraestructura en la nube, donde la plataforma web centralizada procesa y almacena los datos, generando reportes en tiempo real. Además, mediante una API REST, se facilita la integración con otros sistemas y la recepción de actualizaciones en tiempo real, garantizando una comunicación fluida y eficiente entre sensores, servidor y usuarios.
+El propósito es proteger la salud y promover espacios seguros, basándose en estándares internacionales, mediante alertas automáticas y recomendaciones personalizadas que permiten tomar decisiones informadas y reducir la exposición a fuentes de radiación electromagnética.
 
 <div id="111"><h3>1.1.2. Perfiles de integrantes del equipo</h3></div>
 
