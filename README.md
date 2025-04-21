@@ -677,53 +677,81 @@ En esta sección se presenta la organización de la base de datos mediante un es
 
 <div id="521"><h3>5.2.1. Sprint 1</h3></div>
 
+En esta sección se expone el avance correspondiente al Sprint 1, planificando el desarrollo y despliegue del Landing Page de la startup y su correcto funcionamiento para el desenvolvimiento del usuario. Se incorporan el Sprint Planning, el Sprint Backlog, evidencias del desarrollo y ejecución para la Sprint Review, documentación relacionada con los servicios, y conclusiones sobre la dinámica de colaboración del equipo a lo largo de este sprint.
+
 <div id="5211"><h4>5.2.1.1. Sprint Planning 1</h4></div>
 
+<div id="5211"><h4>5.2.1.2. Aspect Leaders and Collaborators</h4></div>
 
 <br>
 
-<div id="5212"><h4>5.2.1.2. Sprint Backlog 1</h4></div>
+<div id="5212"><h4>5.2.1.3. Sprint Backlog 1</h4></div>
 
-
-El propósito de este primer sprint es la implementación de una Landing Page estática. Además, se utilizó una tabla en Trello para gestionar los Work-Items de manera eficiente.
-
+En esta primera iteración, el objetivo fue desarrollar el diseño de nuestra Landing Page. Esto implica que, al concluir el Sprint, todas las secciones del header tales como Características, Beneficios, Problemática, Testimonios, Ubicación, Contacto e Iniciar Sesión, debían estar completamente implementadas. Además, se utilizó una tabla en Trello para gestionar los Work-Items de manera eficiente.
 
 
 
-<div id="5213"><h4>5.2.1.3. Development Evidence for Sprint Review</h4></div>
+<div id="5213"><h4>5.2.1.3.4. Development Evidence for Sprint Review</h4></div>
 
-
-<div id="5214"><h4>5.2.1.4. Testing Suite Evidence for Sprint Review</h4></div>
-
-
+En esta sección se mostrará la evidencia del progreso alcanzado en el desarrollo del software. Se detallarán las características implementadas durante el sprint actual, resaltando los avances más relevantes en la Landing Page.
 
 <div id="5215"><h4>5.2.1.5. Execution Evidence for Sprint Review</h4></div>
 
+En este primer Sprint del proyecto, hemos logrado implementar y desplegar una Landing Page de EMSafe, nuestra startup. Utilizando tecnologías esenciales como HTML, CSS y JavaScript, construimos una interfaz simple, atractiva y funcional, diseñada para resaltar los beneficios y propósito de la plataforma.
 
+La estructura de la página se desarrolló con HTML, los estilos personalizados se aplicaron mediante CSS, y se incorporaron interacciones básicas con JavaScript para brindar una experiencia de usuario más dinámica. El despliegue se realizó de manera exitosa a través de GitHub Pages, permitiendo que la página esté disponible públicamente de forma rápida y accesible.
+
+Este primer Sprint representa el punto de partida del proyecto, estableciendo la base para futuros avances y la integración de nuevas funcionalidades. A continuación, se muestran capturas de pantalla de las principales secciones desarrolladas, junto con un enlace a un video demostrativo que recorre la navegación y las características básicas implementadas hasta el momento.
+
+**Landing Page:**
+
+**Encabezado (Header):** Incluye el logo de la startup, el título y el menú de navegación que comunica de manera clara las secciones del Landing Page.
+
+**Body:** Incluye las secciones presentadas en el header las cuales pueden ser navegadas desde dicho menú
+
+**Pie de página (Footer):** Incluye enlaces a las políticas de privacidad, términos y condiciones, perfiles en redes sociales y otros contenidos de interés, como información de contacto y datos relevantes sobre la plataforma.
+
+**Llamado a la acción (CTA):** Un botón o enlace destacado que invita al usuario a realizar una acción importante, como crear o iniciar sesión con una cuenta.
+
+**Formulario de captura (Lead Form):** Un formulario simple donde el usuario puede ingresar sus datos de contacto, como nombre y correo electrónico, con el objetivo de recibir actualizaciones, información personalizada o descargar recursos relacionados con la contaminación electromagnética.
+
+
+**Video - LandingPage:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218791_upc_edu_pe/EahQualeON5FvFH1hlpNqTABN-q04gYGaZyajhej-8nFXQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cMoRGP
 
 <div id="5216"><h4>5.2.1.6. Services Documentation Evidence for Sprint Review</h4></div>
 
-Durante este primer sprint, nos enfocamos únicamente en la creación de la Landing Page estática, por lo que no se trabajó con servicios web. Como resultado, en esta ocasión no se elaboró la documentación correspondiente al uso de servicios web.
+Aquí se presentará la documentación relacionada con los servicios de monitoreo ofrecidos a través de la plataforma web. Esto puede incluir mediciones, alertas, y recomendaciones orientadas a usuarios y organizaciones interesadas en evaluar y gestionar la contaminación electromagnética en su entorno.
+
+Durante este primer sprint, el enfoque estuvo centrado exclusivamente en el desarrollo de la Landing Page estática, por lo que no se realizaron trabajos relacionados con servicios web. Como consecuencia, en esta etapa no se generó documentación asociada al uso o implementación de servicios web.
 
 <div id="5217"><h4>5.2.1.7. Software Deployment Evidence for Sprint Review</h4></div>
 
-Al finalizar el trabajo con todas las historias de usuario, realizamos el despliegue de la Landing Page utilizando GitHub Pages.
+En esta sección se describe el proceso de implementación de la plataforma en un entorno de producción. Además, se presentarán los hitos más importantes que marcarán el despliegue del proyecto y garantizarán su disponibilidad para los usuarios finales.
 
-URL de despliegue de la Landing Page: 
+**URL de despliegue del Landing Page:** https://github.com/EMSafeUPC/EMSafe.github.io 
 
-<br>
-
-* Para realizar el despliegue, accedimos a la configuración del repositorio y navegamos a la sección de Pages. Posteriormente, seleccionamos la rama main desde la cual se llevará a cabo el deployment.
+1) Para la Landing Page, nuestro equipo creó una rama denominada “main” dentro del repositorio, en la cual se organizaron y almacenaron todos los archivos correspondientes al desarrollo de la Landing Page.
 
 
-<br>
-
-* Finalmente, solo queda esperar a que GitHub genere la página y proporcione el enlace correspondiente.
+2) Posteriormente, nos dirigimos a configuración y empleamos GitHub Pages, el servicio de alojamiento para sitios estáticos de GitHub, para publicar y poner en línea nuestra Landing Page.
 
 
+3) Se seleccionó la rama previamente configurada y se procedió con el despliegue de la página.
 
+
+4) Finalmente, obtuvimos el enlace de publicación, que nos permite acceder y visualizar la Landing Page en línea.
 
 <div id="5218"><h4>5.2.1.8. Team Collaboration Insights during Sprint</h4></div>
+
+Se proporcionará información detallada sobre la colaboración y comunicación entre los miembros del equipo de desarrollo durante el sprint. Esto incluirá la coordinación de actividades, la gestión de tareas asignadas y la resolución de inconvenientes surgidos en el proceso. Las responsabilidades se distribuyeron equitativamente entre los integrantes del equipo. A continuación, se presenta un análisis general de los commits realizados por cada aportante, reflejando su participación en el proyecto.
+
+**Integrantes y aportantes:**
+
+**Analítica de los commits de los aportantes:**
+
+**Desarrollo para el Sprint 1:**
+
+**Network: se muestran los últimos commits efectuados**
 
 
 
