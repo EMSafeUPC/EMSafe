@@ -245,17 +245,27 @@ El curso contribuye al cumplimiento del Student Outcome ABET:</br>
 
 <div id="122"><h3>1.2.2. Lean UX Process</h3></div>
 
+En esta parte se implementa el Lean UX Process, abordando la visión del modelo de negocio que respaldará al producto de software. Se incluyen los Problem Statements, que contemplan elementos como el dominio, los segmentos de clientes, los puntos de dolor, las brechas, la visión/estrategia y el segmento inicial. Además, se definen las Assumptions y los Hypothesis Statements de acuerdo con la metodología Lean UX. Finalmente, se presenta el Lean UX Canvas que resume y organiza estos elementos.
+
 <div id="1221"><h4>1.2.2.1. Lean UX Problem Statements</h4></div>
 
-</br>
+El estado actual en la gestión y monitoreo de la contaminación electromagnética en hogares, oficinas, comunidades y zonas urbanas se ha centrado principalmente en mediciones esporádicas, manuales y con equipos especializados de difícil acceso para la mayoría de personas y organizaciones. 
 
-|Problem Statement|
-|:----:|
-|-|
-|-|
-|-|
+Lo que los productos y servicios existentes no logran abordar es la falta de una solución accesible, integrada y automatizada que aproveche la tecnología IoT para ofrecer una supervisión continua y en tiempo real de los niveles de radiación no ionizante generada por dispositivos tecnológicos como routers, teléfonos móviles, electrodomésticos y estaciones de telecomunicaciones. Actualmente, las alternativas son fragmentadas, estáticas y no permiten una visualización centralizada ni la capacidad de tomar decisiones informadas basadas en datos actualizados al instante (Sujay, 2024, p. 7).
 
-</br>
+Nuestro producto abordará esta brecha mediante el desarrollo de una plataforma web de monitoreo de contaminación electromagnética basada en IoT. Este sistema integrará una red de sensores inteligentes capaces de detectar y medir de manera continua los niveles de radiación no ionizante en diferentes entornos. Los datos se transmitirán en tiempo real a una infraestructura en la nube, donde serán procesados, almacenados y analizados para detectar niveles elevados o comportamientos anómalos. Además, la plataforma generará alertas automáticas, reportes personalizados y recomendaciones específicas para reducir la exposición, permitiendo a los usuarios, organizaciones y comunidades tomar decisiones proactivas y fundamentadas.
+
+Inicialmente, centraremos nuestra atención en hogares, oficinas y comunidades urbanas que buscan crear entornos más saludables y seguros, alineados con las recomendaciones de organismos internacionales, brindando herramientas accesibles y visuales para quienes desean monitorear la contaminación electromagnética que los rodea y reducir riesgos potenciales a su salud.
+
+Sabremos que hemos tenido éxito cuando logremos:
+
+1) Aumentar significativamente la cantidad de usuarios que monitorean sus niveles de radiación de forma continua.
+
+2) Reducir los niveles de exposición en espacios monitoreados, gracias a la toma de decisiones basada en las recomendaciones personalizadas de la plataforma.
+
+3) Incrementar la conciencia pública y organizacional sobre los riesgos de la contaminación electromagnética.
+
+4) Recibir retroalimentación positiva sobre la facilidad de uso, claridad de la información y valor práctico de las alertas y reportes generados.
 
 <div id="1222"><h4>1.2.2.2. Lean UX Assumptions</h4></div>
 
