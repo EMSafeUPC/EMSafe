@@ -360,6 +360,27 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 
 <div id="411"><h3>4.1.1. General Style Guidelines</h3></div>
 
+**Branding**
+El nombre EMSafe surge de la combinación de “EM” (campos electromagnéticos) y “Safe” (seguro), reflejando nuestra misión de proteger de la exposición excesiva a la radiación no ionizante.
+Buscamos un nombre que fuera claro, directo y fácil de recordar, pero que también transmitiera confianza tecnológica. Al incluir un término en inglés, se alinea con el lenguaje común del sector y nos permite conectar con una audiencia global.
+Elegir un nombre con significado refuerza la identidad de la marca y nos diferencia frente a otras propuestas, facilitando que nuestro público identifique rápidamente el propósito del servicio y se sienta atraído por la solución que ofrecemos.
+Logo de EMSafe:
+
+**Typography**
+Para EMSafe se eligió la tipografía Poppins por su estilo moderno, limpio y geométrico, alineado con la identidad tecnológica de la plataforma. Su buena legibilidad y versatilidad en distintos pesos permite organizar la información de forma clara y jerárquica. Además, al estar optimizada para web, asegura una experiencia fluida en todos los dispositivos.
+
+**Colors**
+Se usará una paleta que refuerce la identidad de EMSafe, transmitiendo tecnología, confianza y bienestar. El azul profundo representa profesionalismo y seguridad, mientras que el púrpura aporta un toque distintivo y moderno. Como acento, el cian sugiere innovación y frescura, guiando la atención del usuario en elementos clave.
+Los fondos claros y tarjetas blancas aseguran una interfaz limpia y legible, mientras que los grises complementan la composición con sobriedad y contraste visual. Esta combinación permite construir una experiencia coherente, accesible y visualmente equilibrada.
+
+**Spacing**
+Tanto en la Landing Page como en la aplicación se utiliza un espaciado limpio y equilibrado para mejorar la legibilidad, evitar la sobrecarga visual y facilitar la navegación. El uso estratégico de espacios en blanco ayuda a organizar el contenido, dar respiro a la vista y guiar la atención del usuario hacia la información más relevante.
+
+**Tone & Language**
+La comunicación de EMSafe adopta un tono serio pero accesible, formal sin ser rígido y siempre claro y directo. Buscamos informar y orientar sin alarmar, por lo que el lenguaje utilizado es sereno, empático y fácil de entender. 
+Dado que tratamos un tema técnico como la radiación no ionizante, evitamos tecnicismos innecesarios y priorizamos explicaciones simples, permitiendo que cualquier persona pueda comprender la información y tomar decisiones informadas. Este estilo nos ayuda a transmitir confianza y cercanía, reforzando nuestro compromiso con el bienestar y la seguridad a través de la tecnología.
+
+
 <div id="412"><h3>4.1.2. Web Style Guidelines</h3></div>
 
 <div id="42"><h2>4.2. Information Architecture</h2></div>
