@@ -711,6 +711,55 @@ En esta primera iteración, el objetivo fue desarrollar el diseño de nuestra La
 
 En esta sección se mostrará la evidencia del progreso alcanzado en el desarrollo del software. Se detallarán las características implementadas durante el sprint actual, resaltando los avances más relevantes en la Landing Page.
 
+A continuación, se muestra una tabla que documenta los commits clave asociados con la implementación de cada repositorio del proyecto, lo que facilita la visualización del progreso del desarrollo técnico a lo largo de este sprint.
+
+| **Repository**            | **Branch** | **Commit Id** | **Commit Message**                                        | **Commit Message Body** | **Committed on (Date)** |
+|---------------------------|------------|---------------|----------------------------------------------------------|-------------------------|-------------------------|
+| EMSafe/WiJeGo     | Main          | 86b4d24       | chore: Create Readme structure                            | empty                   | 16/04/2025              |
+| EMSafe/WiJeGo     | develop       | a8dfe99       | docs: Update Student Outcome                              | empty                   | 17/04/2025              |
+| EMSafe/WiJeGo     | develop       | 3ce10bd       | docs: add Landing Page UI Design                          | empty                   | 19/04/2025              |
+| EMSafe/WiJeGo     | develop       | adda627       | docs: add Landing Page Wireframe                          | empty                   | 19/04/2025               |
+| EMSafe/WiJeGo     | develop       | a875c95       | docs: add Landing Page Mock-up                            | empty                   | 19/04/2025               |
+| EMSafe/WiJeGo     | develop       | 7f09dbc       | docs: add Web Applications Wireframes                     | empty                   | 19/04/2025               |
+| EMSafe/WiJeGo     | develop       | 9bea7f8       | docs: add Web Applications Wireflow Diagrams               | empty                   | 19/04/2025             |
+| EMSafe/WiJeGo     | develop       | 9cbd61d       | docs: add Class Diagrams                                   | empty                   | 19/04/2025               |
+| EMSafe/WiJeGo     | develop       | b07b3fd       | docs: add Class Dictionary                                 | empty                   | 19/04/2025               |
+| EMSafe/WiJeGo     | develop       | d90db2b       | docs: add Database Diagram                                 | empty                   | 19/04/2025               |
+| EMSafe/WiJeGo     | develop       | 5f64270       | Merge pull request #3 from EMSafeUPC/feature/Landing-Page-UI-Design | empty          | 19/04/2025               |
+| EMSafe/WiJeGo     | develop       | d0b8fc6       | feat(home): add content to Home component                  | empty                   | 19/04/2025               |
+| EMSafe/WiJeGo     | develop       | 3df7373       | feat(appointment): add content to Appointment component    | empty                   | 19/04/2025               |
+| EMSafe/WiJeGo     | develop       | 42a6619       | feat(doctors): add content to Doctors component            | empty                   | 19/04/2025               |
+| EMSafe/WiJeGo     | develop       | 213fdcf       | feat(account-elder): create Account Elder component        | empty                   | 19/04/2025               |
+| EMSafe/WiJeGo     | develop       | ebf68cb       | feat(registration): implement user registration feature    | empty                   | 19/04/2025               |
+| EMSafe/WiJeGo          | develop       | 5dca2bf       | feat: create new Vue component for elder-profile.component.vue | empty                   | 19/04/2025               |
+| tukun-vue/rafooo6          | develop       | 1c63a73       | feat: create new Vue component for emergency-numbers.component.vue | empty                   | 27/09/2024              |
+| tukun-vue/rafooo6          | develop       | 94541c4       | feat: create new Vue component for home-elder.component.vue | empty                   | 27/09/2024              |
+| tukun-vue/rafooo6          | develop       | 88940f9       | feat: create new Vue component for icu-pat.component.vue   | empty                   | 27/09/2024              |
+| tukun-vue/rafooo6          | develop       | 77dce03       | feat: create new Vue component for login-component.vue     | empty                   | 27/09/2024              |
+| tukun-vue/rafooo6          | develop       | 8d1e517       | feat: create new Vue component for login-elder.component.vue | empty                   | 27/09/2024              |
+| tukun-vue/rafooo6          | develop       | 2971d79       | feat: create new Vue component for medical-registration.component.vue | empty                   | 27/09/2024              |
+| tukun-vue/rafooo6          | develop       | 0e34d7d       | feat: create new Vue component for patient-registration.component.vue | empty                   | 27/09/2024              |
+| tukun-vue/rafooo6          | develop      | a38b1b4       | feat: create new Vue component for patients.component.vue  | empty                   | 27/09/2024              |
+| tukun-vue/rafooo6          | develop       | 141cbe8       | feat: create new Vue component for post-pat.component.vue  | empty                   | 27/09/2024              |
+| tukun-vue/AdriPCH          | develop       | 832992a       | feat(component): add reminder component                    | empty                   | 27/09/2024              |
+| tukun-vue/AdriPCH          | develop       | 7b0f090       | feat(component): add reschedule-appointments component      | empty                   | 27/09/2024              |
+| tukun-vue/AdriPCH          | develop       | 755e640       | feat(component): add features in reminder component         | empty                   | 27/09/2024              |
+| tukun-vue/AdriPCH          | develop       | 6014084       | feat(component): add features in reschedule appointments component | empty                   | 27/09/2024              |
+| tukun-vue/AdriPCH          | develop       | 1a6c771       | add: add router in app.vue                                 | empty                   | 27/09/2024              |
+| tukun-vue/AdriPCH          | develop       | 1ac3bfb       | remove: remove style.css                                   | empty                   | 27/09/2024              |
+| tukun-vue/Ericksnpaii       | develop       | 9ad01d5       | create: create schedule-appointments.component.vue          | empty                   | 27/09/2024              |
+| tukun-vue/Ericksnpaii       | main       | 3123389       | feat(schedule.appointments.component.vue): update schedule-appointments.component.vue | empty                   | 27/09/2024              |
+| tukun-vue/Ericksnpaii       | main       | d623005       | create: create technical-support.component.vue              | empty                   | 27/09/2024              |
+| tukun-vue/Ericksnpaii       | main       | 340c49d       | feat(technical-support.component.vue): add technical-support.component.vue | empty                   | 27/09/2024              |
+| tukun-vue/Ericksnpaii       | main       | 14b20ed       | create(toolbar-clinic.component.vue): create toolbar-clinic.component.vue | empty                   | 27/09/2024              |
+| tukun-vue/Ericksnpaii       | main       | 668b068       | feat(toolbar-clinic.component.vue): add toolbar-clinic.component.vue | empty                   | 27/09/2024              |
+| tukun-vue/Ericksnpaii       | main       | 895056c       | feat(toolbar-clinic.component.vue): refactor toolbar-clinic.component.vue | empty                   | 27/09/2024              |
+| tukun-vue/Ericksnpaii       | main       | 9364403       | feat(toolbar-clinic.component.vue): refactor toolbar-clinic.component.vue | empty                   | 27/09/2024              |
+| tukun-vue/nicolini03        | main       | cba892a       | create vs-panel component                                   | empty                   | 27/09/2024              |
+| tukun-vue/nicolini03        | main       | 5b83f5e       | create update-appointments component                        | empty                   | 27/09/2024              |
+| tukun-vue/nicolini03        | main       | 99fd234       | create toolbar-elder component                              | empty                   | 27/09/2024              |
+| tukun-vue/nicolini03        | main       | 0c22acb       | create css style                                            | empty                   | 27/09/2024              |
+
 <div id="5215"><h4>5.2.1.5. Execution Evidence for Sprint Review</h4></div>
 
 En este primer Sprint del proyecto, hemos logrado implementar y desplegar una Landing Page de EMSafe, nuestra startup. Utilizando tecnologías esenciales como HTML, CSS y JavaScript, construimos una interfaz simple, atractiva y funcional, diseñada para resaltar los beneficios y propósito de la plataforma.
