@@ -413,7 +413,7 @@ La web estará optimizada para cargar de forma rápida y eficiente, minimizando 
 
 Esta sección describe los sistemas de organización implementados tanto en la Landing Page actual como en futuras versiones de la plataforma EMSafe. Se definen los esquemas jerárquicos, secuenciales y temáticos utilizados para estructurar la información de manera clara, eficiente y alineada con los objetivos del proyecto. Esto garantiza una navegación fluida y una experiencia coherente para los distintos tipos de usuarios.
 
-**Grupo de Usuarios 1: Personas interesadas en su salud**
+### Grupo de Usuarios 1: Personas interesadas en su salud
 
 **Organización jerárquica:**
 
@@ -421,7 +421,7 @@ La estructura de la landing está pensada para captar rápidamente la atención 
 Categorización por tópicos:
 La información está dividida en secciones temáticas (Características, Beneficios, Problemática, Testimonios), permitiendo a los usuarios enfocarse en los aspectos que más les interesan de manera rápida y directa.
 
-**Grupo de Usuarios 2: Empresas con alta maquinaria electromagnética**
+### Grupo de Usuarios 2: Empresas con alta maquinaria electromagnética
 
 **Organización jerárquica:**
 
@@ -461,7 +461,8 @@ Los SEO Tags y Meta Tags son esenciales para mejorar el posicionamiento de la la
 
 Para facilitar el acceso a información específica y evitar que los usuarios se sientan abrumados entre grandes volúmenes de datos, EMSafe implementará diferentes sistemas de búsqueda dentro de la Aplicación Web. Estos estarán diseñados de acuerdo a las necesidades particulares de cada segmento de usuario, priorizando la rapidez, claridad y relevancia de los resultados.
 
-**Segmento 1: Personas interesadas en su salud**
+
+### Segmento 1: Personas interesadas en su salud
 
 Este grupo utilizará principalmente el sistema de búsqueda dentro del historial de mediciones. Para ello, se brindará un buscador simple acompañado de filtros intuitivos:
 - Buscador por fecha o rango de fechas
@@ -476,7 +477,7 @@ Los resultados se mostrarán en una tabla con:
 
 Además se incluirá un gráfico para una mayor comprensión del resultado.
 
-**Segmento 2: Empresas con maquinaria electromagnética**
+### Segmento 2: Empresas con maquinaria electromagnética
 
 Dado que las empresas pueden tener decenas de sensores distribuidos en distintas zonas, se implementará un sistema de búsqueda avanzado con múltiples filtros combinables:
 - Filtro por zona o ubicación
