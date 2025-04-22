@@ -224,6 +224,8 @@ El propósito es proteger la salud y promover espacios seguros, basándose en es
 
 <div id="12"><h3>1.2. Solution Profile</h3></div>
 
+Esta sección se divide en dos apartados. El primero, Antecedentes y Problemática, presenta la definición del problema, junto con una descripción de los aspectos clave que la solución debe abordar, además de establecer los objetivos y restricciones que determinan el alcance del proyecto. El segundo apartado, Lean UX Process, muestra los resultados obtenidos tras aplicar este enfoque metodológico en el contexto del problema planteado.
+
 <div id="121"><h3>1.2.1. Antecedenetes y problemática</h3></div>
 
 * **What - ¿Cuál es el problema?**
