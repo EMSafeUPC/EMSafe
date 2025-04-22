@@ -40,13 +40,7 @@ width=30%"/>
 </div>
 
 ## Team members:
-| Nombre |Código|
-|:-------:|:----------:|
-|Nicolich Alvis, Fabio Maurizio|U202218791|
-|Gongora Castillejos, Williams Jesus|U20221C186|
-|-|-|
-|-|-|
-|Lopez de la Cruz, Mauro Fabricio|U202215695|
+
 
 </br></br>
 
@@ -1257,53 +1251,178 @@ El backend, desarrollado con **Spring Boot**, también se desplegará en **Railw
 
 <div id="521"><h3>5.2.1. Sprint 1</h3></div>
 
+En esta sección se expone el avance correspondiente al Sprint 1, planificando el desarrollo y despliegue del Landing Page de la startup y su correcto funcionamiento para el desenvolvimiento del usuario. Se incorporan el Sprint Planning, el Sprint Backlog, evidencias del desarrollo y ejecución para la Sprint Review, documentación relacionada con los servicios, y conclusiones sobre la dinámica de colaboración del equipo a lo largo de este sprint.
+
 <div id="5211"><h4>5.2.1.1. Sprint Planning 1</h4></div>
 
+<div id="5211"><h4>5.2.1.2. Aspect Leaders and Collaborators</h4></div>
 
-<br>
+En este Sprint se prioriza el desarrollo del Landing Page para la plataforma de monitoreo de contaminación electromagnética. Este componente es clave para la presentación inicial del producto, ya que permite comunicar de manera clara y atractiva el propósito, beneficios y funcionamiento de la solución, orientado tanto a usuarios interesados en su salud como a empresas con alta presencia de maquinaria electromagnética.
 
-<div id="5212"><h4>5.2.1.2. Sprint Backlog 1</h4></div>
+El Sprint se enfoca en definir y construir el layout principal, la estructura de navegación y los contenidos esenciales que transmitan el valor de la plataforma, garantizando una experiencia intuitiva, accesible y coherente con la identidad del proyecto. A continuación, se presenta un cuadro a detalle.
 
+![Aspect Leaders and Collaborators](https://github.com/user-attachments/assets/4495ccc3-63bf-4bdb-9693-62499c65d498)
 
-El propósito de este primer sprint es la implementación de una Landing Page estática. Además, se utilizó una tabla en Trello para gestionar los Work-Items de manera eficiente.
+**Leadership-andCollaboration Matrix (LACX)**
 
+![Leadership and Collaboration Matrix](https://github.com/user-attachments/assets/0bab59af-3d3e-46ab-89bf-06a30fb17179)
 
+<div id="5212"><h4>5.2.1.3. Sprint Backlog 1</h4></div>
 
+En esta primera iteración, el objetivo fue desarrollar el diseño de nuestra Landing Page. Esto implica que, al concluir el Sprint, todas las secciones del header tales como Características, Beneficios, Problemática, Testimonios, Ubicación, Contacto e Iniciar Sesión, debían estar completamente implementadas. Además, se utilizó una tabla en Trello para gestionar los Work-Items de manera eficiente.
 
-<div id="5213"><h4>5.2.1.3. Development Evidence for Sprint Review</h4></div>
+| **Sprint #** | Sprint 1 |
+|--------------|----------|
 
+| **User Story** | **Work-Item / Task** | **Id** | **Title** | **Description**                                                                                                                       | **Estimation (Hours)** | **Assigned To** | **Status (To-do / In-Process / To-Review / Done)** |
+|---------------|----------------------|--------|-----------|---------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------|----------------------------------------------------|
+| US          | Diseño del Layout Principal del Landing Page              | 01      | Implementación de la estructura para el Landing Page                | Como developer de EMSafe, quiero implementar la estructura básica del landing page usando HTML para establecer la base visual y organizativa de la página de inicio de la aplicación.          | 3                      | Fabricio           | Done                |
+| US          | Diseño del Layout Principal del Landing Page | 2      | Implementación de estilos para el Landing Page | Como developer de EMSafe, quiero aplicar estilos visuales y de diseño al landing page utilizando CSS y JavaScript para mejorar la apariencia, la experiencia de usuario y la interacción dinámica de la página de inicio. | 2                      | Williams           | Done                           |
+| US          | Diseño del Layout Principal del Landing Page        | 3      | Estructura de Navegación para el Landing Page         | Como developer de EMSafe, quiero crear una barra de navegación intuitiva que permita a los usuarios desplazarse fácilmente por las diferentes secciones de la página para mejorar la usabilidad y facilitar el acceso a la información.               | 1                      | Fabio           | Done                                               |
+| US          | Implementación de la Sección Características del Landing Page         | 4      | Navegar y visualizar hacia la sección Características           | Como developer de EMSafe, quiero desarrollar la estructura y los estilos de la sección Características para presentar de forma clara, atractiva y organizada los beneficios y funcionalidades principales del sistema. | 3                      | Esteban         | Done                                               |
+| US          | Implementación de la Sección Beneficios del Landing Page      | 5      | Navegar y visualizar hacia la sección Beneficios        | Como developer de EMSafe, quiero desarrollar la estructura y los estilos de la sección Beneficios para mostrar de manera visual y ordenada las ventajas que ofrece el sistema a sus usuarios, destacando su valor diferencial. | 3                      | Williams         | Done                                               |
+| US          | Implementación de la Sección Problemática del Landing Page      | 6      | Navegar y visualizar hacia la sección Problemática        | Como developer de EMSafe, quiero desarrollar la estructura y los estilos de la sección Problemática para comunicar de forma clara y visual la situación o necesidad que resuelve el sistema, generando conciencia e interés en los usuarios. | 3                      | Williams | Done                                               |
+| US          | Implementación de la Sección Testimonios del Landing Page                 | 7      | Navegar y visualizar hacia la sección Testimonios                 | Como developer de EMSafe, quiero desarrollar la estructura y los estilos de la sección Testimonios para mostrar de forma atractiva y confiable las opiniones y experiencias de los usuarios, fortaleciendo la credibilidad y confianza en el sistema.      | 3                      | Williams           | Done                                               |
+| US          | Implementación de la Sección Ubicación del Landing Page                 | 8      | Navegar y visualizar hacia la sección Ubicación                  | Como developer de EMSafe, quiero desarrollar la estructura y los estilos de la sección Ubicación para mostrar de manera clara y accesible la ubicación geográfica del servicio o de las oficinas, facilitando a los usuarios encontrar el lugar adecuado.         | 3                      | Williams           | Done                                               |
+| US          | Implementación de la Sección Contacto del Landing Page         | 9      | Navegar y visualizar hacia la sección Contacto           | Como developer de EMSafe, quiero desarrollar la estructura y los estilos de la sección Contacto para proporcionar una forma fácil y clara para que los usuarios se comuniquen con el equipo de soporte o con la empresa, facilitando la interacción y resolución de dudas.   |                        | Williams          | Done                                               |
+| US          | Implementación de la Sección Iniciar Sesión del Landing Page     | 10     | Navegar y visualizar hacia la sección Landing Page       | Como developer de EMSafe, quiero desarrollar la estructura y los estilos de la sección Iniciar Sesión para ofrecer una experiencia de acceso intuitiva y segura, permitiendo a los usuarios ingresar fácilmente a su cuenta o plataforma. | 4                      | Esteban          | Done                                               |
+| US          | Despliegue del Landing Page en Github   | 11     | Añadir Landing Page al repositorio de Github     | Como developer de EMSafe, quiero añadir el código del Landing Page al repositorio de Github para mantener un control de versiones adecuado, facilitar la colaboración en el desarrollo y garantizar la disponibilidad del código fuente. | 1                      | Andree          | Done                                               |
+| US          | Despliegue del Landing Page en Github                | 12     | Visualización del Landing Page en Github                  | Configuración para el despliegue del repositorio en github pages      | 1                      | Andree           | Done                                               |
 
-<div id="5214"><h4>5.2.1.4. Testing Suite Evidence for Sprint Review</h4></div>
+<div id="5213"><h4>5.2.1.3.4. Development Evidence for Sprint Review</h4></div>
 
+En esta sección se mostrará la evidencia del progreso alcanzado en el desarrollo del software. Se detallarán las características implementadas durante el sprint actual, resaltando los avances más relevantes en la Landing Page.
 
+A continuación, se muestra una tabla que documenta los commits clave asociados con la implementación de cada repositorio del proyecto, lo que facilita la visualización del progreso del desarrollo técnico a lo largo de este sprint.
+
+| **Repository**            | **Branch** | **Commit Id** | **Commit Message**                                        | **Commit Message Body** | **Committed on (Date)** |
+|---------------------------|------------|---------------|----------------------------------------------------------|-------------------------|-------------------------|
+| EMSafe/WiJeGo     | Main          | 86b4d24       | chore: Create Readme structure                            | empty                   | 16/04/2025              |
+| EMSafe/WiJeGo     | develop       | a8dfe99       | docs: Update Student Outcome                              | empty                   | 17/04/2025              |
+| EMSafe/WiJeGo     | develop       | 3ce10bd       | docs: add Landing Page UI Design                          | empty                   | 19/04/2025              |
+| EMSafe/WiJeGo     | develop       | adda627       | docs: add Landing Page Wireframe                          | empty                   | 19/04/2025               |
+| EMSafe/WiJeGo     | develop       | a875c95       | docs: add Landing Page Mock-up                            | empty                   | 19/04/2025               |
+| EMSafe/WiJeGo     | develop       | 7f09dbc       | docs: add Web Applications Wireframes                     | empty                   | 19/04/2025               |
+| EMSafe/WiJeGo     | develop       | 9bea7f8       | docs: add Web Applications Wireflow Diagrams               | empty                   | 19/04/2025             |
+| EMSafe/WiJeGo     | develop       | 9cbd61d       | docs: add Class Diagrams                                   | empty                   | 19/04/2025               |
+| EMSafe/WiJeGo     | develop       | b07b3fd       | docs: add Class Dictionary                                 | empty                   | 19/04/2025               |
+| EMSafe/WiJeGo     | develop       | d90db2b       | docs: add Database Diagram                                 | empty                   | 19/04/2025               |
+| EMSafe/WiJeGo     | develop       | 5f64270       | Merge pull request #3 from EMSafeUPC/feature/Landing-Page-UI-Design | empty          | 19/04/2025               |
+| EMSafe/WiJeGo     | develop       | d0b8fc6       | feat(home): add content to Home component                  | empty                   | 19/04/2025               |
+| EMSafe/WiJeGo     | develop       | 3df7373       | feat(appointment): add content to Appointment component    | empty                   | 19/04/2025               |
+| EMSafe/WiJeGo     | develop       | 42a6619       | feat(doctors): add content to Doctors component            | empty                   | 19/04/2025               |
+| EMSafe/WiJeGo     | develop       | 213fdcf       | feat(account-elder): create Account Elder component        | empty                   | 19/04/2025               |
+| EMSafe/WiJeGo     | develop       | ebf68cb       | feat(registration): implement user registration feature    | empty                   | 19/04/2025               |
+| EMSafe/WiJeGo          | develop       | 5dca2bf       | feat: create new Vue component for elder-profile.component.vue | empty                   | 19/04/2025               |
+| tukun-vue/rafooo6          | develop       | 1c63a73       | feat: create new Vue component for emergency-numbers.component.vue | empty                   | 27/09/2024              |
+| tukun-vue/rafooo6          | develop       | 94541c4       | feat: create new Vue component for home-elder.component.vue | empty                   | 27/09/2024              |
+| tukun-vue/rafooo6          | develop       | 88940f9       | feat: create new Vue component for icu-pat.component.vue   | empty                   | 27/09/2024              |
+| tukun-vue/rafooo6          | develop       | 77dce03       | feat: create new Vue component for login-component.vue     | empty                   | 27/09/2024              |
+| tukun-vue/rafooo6          | develop       | 8d1e517       | feat: create new Vue component for login-elder.component.vue | empty                   | 27/09/2024              |
+| tukun-vue/rafooo6          | develop       | 2971d79       | feat: create new Vue component for medical-registration.component.vue | empty                   | 27/09/2024              |
+| tukun-vue/rafooo6          | develop       | 0e34d7d       | feat: create new Vue component for patient-registration.component.vue | empty                   | 27/09/2024              |
+| tukun-vue/rafooo6          | develop      | a38b1b4       | feat: create new Vue component for patients.component.vue  | empty                   | 27/09/2024              |
+| tukun-vue/rafooo6          | develop       | 141cbe8       | feat: create new Vue component for post-pat.component.vue  | empty                   | 27/09/2024              |
+| tukun-vue/AdriPCH          | develop       | 832992a       | feat(component): add reminder component                    | empty                   | 27/09/2024              |
+| tukun-vue/AdriPCH          | develop       | 7b0f090       | feat(component): add reschedule-appointments component      | empty                   | 27/09/2024              |
+| tukun-vue/AdriPCH          | develop       | 755e640       | feat(component): add features in reminder component         | empty                   | 27/09/2024              |
+| tukun-vue/AdriPCH          | develop       | 6014084       | feat(component): add features in reschedule appointments component | empty                   | 27/09/2024              |
+| tukun-vue/AdriPCH          | develop       | 1a6c771       | add: add router in app.vue                                 | empty                   | 27/09/2024              |
+| tukun-vue/AdriPCH          | develop       | 1ac3bfb       | remove: remove style.css                                   | empty                   | 27/09/2024              |
+| tukun-vue/Ericksnpaii       | develop       | 9ad01d5       | create: create schedule-appointments.component.vue          | empty                   | 27/09/2024              |
+| tukun-vue/Ericksnpaii       | main       | 3123389       | feat(schedule.appointments.component.vue): update schedule-appointments.component.vue | empty                   | 27/09/2024              |
+| tukun-vue/Ericksnpaii       | main       | d623005       | create: create technical-support.component.vue              | empty                   | 27/09/2024              |
+| tukun-vue/Ericksnpaii       | main       | 340c49d       | feat(technical-support.component.vue): add technical-support.component.vue | empty                   | 27/09/2024              |
+| tukun-vue/Ericksnpaii       | main       | 14b20ed       | create(toolbar-clinic.component.vue): create toolbar-clinic.component.vue | empty                   | 27/09/2024              |
+| tukun-vue/Ericksnpaii       | main       | 668b068       | feat(toolbar-clinic.component.vue): add toolbar-clinic.component.vue | empty                   | 27/09/2024              |
+| tukun-vue/Ericksnpaii       | main       | 895056c       | feat(toolbar-clinic.component.vue): refactor toolbar-clinic.component.vue | empty                   | 27/09/2024              |
+| tukun-vue/Ericksnpaii       | main       | 9364403       | feat(toolbar-clinic.component.vue): refactor toolbar-clinic.component.vue | empty                   | 27/09/2024              |
+| tukun-vue/nicolini03        | main       | cba892a       | create vs-panel component                                   | empty                   | 27/09/2024              |
+| tukun-vue/nicolini03        | main       | 5b83f5e       | create update-appointments component                        | empty                   | 27/09/2024              |
+| tukun-vue/nicolini03        | main       | 99fd234       | create toolbar-elder component                              | empty                   | 27/09/2024              |
+| tukun-vue/nicolini03        | main       | 0c22acb       | create css style                                            | empty                   | 27/09/2024              |
 
 <div id="5215"><h4>5.2.1.5. Execution Evidence for Sprint Review</h4></div>
 
+En este primer Sprint del proyecto, hemos logrado implementar y desplegar una Landing Page de EMSafe, nuestra startup. Utilizando tecnologías esenciales como HTML, CSS y JavaScript, construimos una interfaz simple, atractiva y funcional, diseñada para resaltar los beneficios y propósito de la plataforma.
 
+La estructura de la página se desarrolló con HTML, los estilos personalizados se aplicaron mediante CSS, y se incorporaron interacciones básicas con JavaScript para brindar una experiencia de usuario más dinámica. El despliegue se realizó de manera exitosa a través de GitHub Pages, permitiendo que la página esté disponible públicamente de forma rápida y accesible.
+
+Este primer Sprint representa el punto de partida del proyecto, estableciendo la base para futuros avances y la integración de nuevas funcionalidades. A continuación, se muestran capturas de pantalla de las principales secciones desarrolladas, junto con un enlace a un video demostrativo que recorre la navegación y las características básicas implementadas hasta el momento.
+
+**Landing Page:**
+![LandingPage](https://github.com/user-attachments/assets/d4db94ee-b76c-45fc-b929-58c6b15a6eff)
+
+
+**Encabezado (Header):** Incluye el logo de la startup, el título y el menú de navegación que comunica de manera clara las secciones del Landing Page.
+![Header](https://github.com/user-attachments/assets/a5a638a9-96a1-4a6c-8ffc-a33e3627cd3a)
+
+
+**Body:** Incluye las secciones presentadas en el header las cuales pueden ser navegadas desde dicho menú
+![Body1](https://github.com/user-attachments/assets/5228d8ab-676c-411a-93cc-cc26428781cf)
+
+![Body2](https://github.com/user-attachments/assets/2e46304e-aec7-42ec-92f8-0548ef62ad64)
+
+![Body3](https://github.com/user-attachments/assets/d3fa1029-d0ee-4a6d-ae81-8a361efedb09)
+
+![Body4](https://github.com/user-attachments/assets/4abfc738-bb1c-4155-b168-74968bae633b)
+
+![Body5](https://github.com/user-attachments/assets/fb9b80ff-4027-47ad-befc-04ba9e308bc4)
+
+
+**Pie de página (Footer):** Incluye enlaces a las políticas de privacidad, términos y condiciones, perfiles en redes sociales y otros contenidos de interés, como información de contacto y datos relevantes sobre la plataforma.
+![Footer](https://github.com/user-attachments/assets/9e39b594-242d-4133-b9b5-32987e37bd2c)
+
+
+**Llamado a la acción (CTA):** Un botón o enlace destacado que invita al usuario a crear o iniciar sesión con una cuenta.
+![CTA](https://github.com/user-attachments/assets/9f2c24e9-7b2d-4bfc-ac11-474adb4c3b2c)
+
+
+**Formulario de captura (Lead Form):** Un formulario simple donde el usuario puede ingresar sus datos de contacto, como nombre y correo electrónico, con el objetivo de recibir actualizaciones, información personalizada o descargar recursos relacionados con la contaminación electromagnética.
+![LeadForm](https://github.com/user-attachments/assets/61bc70d8-3eba-4e50-9a87-a86f09162119)
+
+
+**Video - LandingPage:** [Video - LandingPage](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218791_upc_edu_pe/EahQualeON5FvFH1hlpNqTABN-q04gYGaZyajhej-8nFXQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cMoRGP)
 
 <div id="5216"><h4>5.2.1.6. Services Documentation Evidence for Sprint Review</h4></div>
 
-Durante este primer sprint, nos enfocamos únicamente en la creación de la Landing Page estática, por lo que no se trabajó con servicios web. Como resultado, en esta ocasión no se elaboró la documentación correspondiente al uso de servicios web.
+Aquí se presentará la documentación relacionada con los servicios de monitoreo ofrecidos a través de la plataforma web. Esto puede incluir mediciones, alertas, y recomendaciones orientadas a usuarios y organizaciones interesadas en evaluar y gestionar la contaminación electromagnética en su entorno.
+
+Durante este primer sprint, el enfoque estuvo centrado exclusivamente en el desarrollo de la Landing Page estática, por lo que no se realizaron trabajos relacionados con servicios web. Como consecuencia, en esta etapa no se generó documentación asociada al uso o implementación de servicios web.
 
 <div id="5217"><h4>5.2.1.7. Software Deployment Evidence for Sprint Review</h4></div>
 
-Al finalizar el trabajo con todas las historias de usuario, realizamos el despliegue de la Landing Page utilizando GitHub Pages.
+En esta sección se describe el proceso de implementación de la plataforma en un entorno de producción. Además, se presentarán los hitos más importantes que marcarán el despliegue del proyecto y garantizarán su disponibilidad para los usuarios finales.
 
-URL de despliegue de la Landing Page: 
+**URL de despliegue del Landing Page:** [Landing Page Desplegado](https://github.com/EMSafeUPC/EMSafe.github.io) 
 
-<br>
-
-* Para realizar el despliegue, accedimos a la configuración del repositorio y navegamos a la sección de Pages. Posteriormente, seleccionamos la rama main desde la cual se llevará a cabo el deployment.
-
-
-<br>
-
-* Finalmente, solo queda esperar a que GitHub genere la página y proporcione el enlace correspondiente.
+1) Para la Landing Page, nuestro equipo creó una rama denominada “main” dentro del repositorio, en la cual se organizaron y almacenaron todos los archivos correspondientes al desarrollo de la Landing Page.
+![LandingPageDeployment1](https://github.com/user-attachments/assets/4c7d1c1e-972f-43e8-b48f-24a4ac658ac0)
 
 
+2) Posteriormente, nos dirigimos a configuración y empleamos GitHub Pages, el servicio de alojamiento para sitios estáticos de GitHub, para publicar y poner en línea nuestra Landing Page.
+![LandingPageDeployment2](https://github.com/user-attachments/assets/e3e034e4-3dc4-464e-9d24-fa6be0f65eb6)
+
+
+4) Se seleccionó la rama previamente configurada y se procedió con el despliegue de la página.
+![LandingPageDeployment3](https://github.com/user-attachments/assets/d2db02ec-ff78-4116-a8a3-d759157ca629)
+
+
+5) Finalmente, obtuvimos el enlace de publicación, que nos permite acceder y visualizar la Landing Page en línea.
+![LandingPageDeployment4](https://github.com/user-attachments/assets/cd696973-d0af-4c1e-b909-ccd8190690f4)
 
 
 <div id="5218"><h4>5.2.1.8. Team Collaboration Insights during Sprint</h4></div>
+
+Se proporcionará información detallada sobre la colaboración y comunicación entre los miembros del equipo de desarrollo durante el sprint. Esto incluirá la coordinación de actividades, la gestión de tareas asignadas y la resolución de inconvenientes surgidos en el proceso. Las responsabilidades se distribuyeron equitativamente entre los integrantes del equipo. A continuación, se presenta un análisis general de los commits realizados por cada aportante, reflejando su participación en el proyecto.
+
+**Integrantes y aportantes:**
+
+**Analítica de los commits de los aportantes:**
+
+**Desarrollo para el Sprint 1:**
+
+**Network: se muestran los últimos commits efectuados**
 
 
 
@@ -1313,9 +1432,17 @@ URL de despliegue de la Landing Page:
 
 <div id="bibliografia"><h1>Bibliografía</h1></div>
 
+* Parrales H. Y. (2021). Análisis de ondas electromagnéticas no ionizantes y sus efectos en el medio ambiente. [Tesis de grado]. Universidad Estatal del Sur de Manabí. [Análisis de ondas electromagnéticas no ionizantes y sus efectos en el medio ambiente](https://repositorio.unesum.edu.ec/handle/53000/2832) 
+
+* Sujay, L. (2024). Number of IoT connections worldwide 2022-2033. Statista. [Number of IoT connections worldwide 2022-2033](https://www.statista.com/statistics/1183457/iot-connected-devices-worldwide/) 
 
 </br>
 
 <br>
 <div id="anexo"><h1>Anexo</h1></div>
+
+- Link del Landing Page Desplegado: [Landing Page Desplegado](https://github.com/EMSafeUPC/EMSafe.github.io) 
+- Video presentación del LandingPage: [Video - LandingPage](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218791_upc_edu_pe/EahQualeON5FvFH1hlpNqTABN-q04gYGaZyajhej-8nFXQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cMoRGP)
+
+
 
