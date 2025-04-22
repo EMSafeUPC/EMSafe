@@ -1324,29 +1324,29 @@ A continuación, se muestra una tabla que documenta los commits clave asociados 
 | EMSafe/WiJeGo     | develop       | 42a6619       | feat(doctors): add content to Doctors component            | empty                   | 19/04/2025               |
 | EMSafe/WiJeGo     | develop       | 213fdcf       | feat(account-elder): create Account Elder component        | empty                   | 19/04/2025               |
 | EMSafe/WiJeGo     | develop       | ebf68cb       | feat(registration): implement user registration feature    | empty                   | 19/04/2025               |
-| EMSafe/WiJeGo          | develop       | 5dca2bf       | feat: create new Vue component for elder-profile.component.vue | empty                   | 19/04/2025               |
-| tukun-vue/rafooo6          | develop       | 1c63a73       | feat: create new Vue component for emergency-numbers.component.vue | empty                   | 27/09/2024              |
-| tukun-vue/rafooo6          | develop       | 94541c4       | feat: create new Vue component for home-elder.component.vue | empty                   | 27/09/2024              |
-| tukun-vue/rafooo6          | develop       | 88940f9       | feat: create new Vue component for icu-pat.component.vue   | empty                   | 27/09/2024              |
-| tukun-vue/rafooo6          | develop       | 77dce03       | feat: create new Vue component for login-component.vue     | empty                   | 27/09/2024              |
-| tukun-vue/rafooo6          | develop       | 8d1e517       | feat: create new Vue component for login-elder.component.vue | empty                   | 27/09/2024              |
-| tukun-vue/rafooo6          | develop       | 2971d79       | feat: create new Vue component for medical-registration.component.vue | empty                   | 27/09/2024              |
-| tukun-vue/rafooo6          | develop       | 0e34d7d       | feat: create new Vue component for patient-registration.component.vue | empty                   | 27/09/2024              |
-| tukun-vue/rafooo6          | develop      | a38b1b4       | feat: create new Vue component for patients.component.vue  | empty                   | 27/09/2024              |
-| tukun-vue/rafooo6          | develop       | 141cbe8       | feat: create new Vue component for post-pat.component.vue  | empty                   | 27/09/2024              |
-| tukun-vue/AdriPCH          | develop       | 832992a       | feat(component): add reminder component                    | empty                   | 27/09/2024              |
-| tukun-vue/AdriPCH          | develop       | 7b0f090       | feat(component): add reschedule-appointments component      | empty                   | 27/09/2024              |
-| tukun-vue/AdriPCH          | develop       | 755e640       | feat(component): add features in reminder component         | empty                   | 27/09/2024              |
-| tukun-vue/AdriPCH          | develop       | 6014084       | feat(component): add features in reschedule appointments component | empty                   | 27/09/2024              |
-| tukun-vue/AdriPCH          | develop       | 1a6c771       | add: add router in app.vue                                 | empty                   | 27/09/2024              |
-| tukun-vue/AdriPCH          | develop       | 1ac3bfb       | remove: remove style.css                                   | empty                   | 27/09/2024              |
-| tukun-vue/Ericksnpaii       | develop       | 9ad01d5       | create: create schedule-appointments.component.vue          | empty                   | 27/09/2024              |
-| tukun-vue/Ericksnpaii       | main       | 3123389       | feat(schedule.appointments.component.vue): update schedule-appointments.component.vue | empty                   | 27/09/2024              |
-| tukun-vue/Ericksnpaii       | main       | d623005       | create: create technical-support.component.vue              | empty                   | 27/09/2024              |
-| tukun-vue/Ericksnpaii       | main       | 340c49d       | feat(technical-support.component.vue): add technical-support.component.vue | empty                   | 27/09/2024              |
-| tukun-vue/Ericksnpaii       | main       | 14b20ed       | create(toolbar-clinic.component.vue): create toolbar-clinic.component.vue | empty                   | 27/09/2024              |
-| tukun-vue/Ericksnpaii       | main       | 668b068       | feat(toolbar-clinic.component.vue): add toolbar-clinic.component.vue | empty                   | 27/09/2024              |
-| tukun-vue/Ericksnpaii       | main       | 895056c       | feat(toolbar-clinic.component.vue): refactor toolbar-clinic.component.vue | empty                   | 27/09/2024              |
+| EMSafe/Nicolini03          | develop       | 4e19483       | docs: Added Descripcion de la Startup | empty                   | 21/04/2025              |
+| EMSafe/Nicolini03          | develop       | 3a950d8       | docs: Added Solution Profile | empty                   | 21/04/2025              |
+| EMSafe/Nicolini03          | develop       | e0091e7       | docs: Added Antecedentes y problemática   | empty                   | 21/04/2025              |
+| EMSafe/Nicolini03         | develop       | dd3c4e3       | docs: Added Lean UX Problem Statements.     | empty                   | 21/04/2025              |
+| EMSafe/Nicolini03          | develop       | 762a487      | docs: Added Lean UX Assumptions | empty                   | 21/04/2025 |
+| EMSafe/Nicolini03          | develop       | a9e6190       | docs: Added Lean UX Hypothesis Statements | empty                   | 21/04/2025              |
+| EMSafe/este-dev597          | develop       | a46e129       | docs: Added General Style Guidelines / texto | empty                   | 21/04/2025              |
+| EMSafe/Nicolini03          | develop      | 0b2bcab       | docs:  Added Lean UX Canvas  | empty                   | 21/04/2025              |
+| EMSafe/Nicolini03          | develop       | 135e685      | docs: Added Segmentos Objetivos  | empty                   | 21/04/2025              |
+| EMSafe/Nicolini03          | develop       | 567aa83       | docs: Added Sprint 1                    | empty                   | 21/04/2025              |
+| EMSafe/Nicolini03          | develop       | ff848c5       | docs: Added Sprint Backlog 1      | empty                   | 21/04/2025              |
+| EMSafe/este-dev597         | develop       | 7cd6443       | docs: Added Web Style Guidelines         | empty                   | 21/04/2025              |
+| EMSafe/este-dev597          | develop       | 7aa5bd6       | docs: Added Organization Systems | empty                   | 21/04/2025              |
+| EMSafe/este-dev597  H          | develop       | 51f9d68       | docs: Added Labeling Systems                                 | empty                   | 21/04/2025              |
+| EMSafe/este-dev597            | develop       | 44a6653
+       | docs: Added SEO Tags and Meta Tags                                   | empty                   | 21/04/2025              |
+| EMSafe/este-dev597         | develop       | 3094fb6       | docs: Added Searching Systems          | empty                   | 21/04/2025              |
+| EMSafe/este-dev597         | develop       | 743985f       | docs: Added Navigation Systems | empty                   | 27/09/2024              |
+| EMSafe/este-dev597         | develop       | dd24099       | docs: Added General Style Guidelines / img              | empty                   | 21/04/2025              |
+| EMSafe/este-dev597         | develop       | 340c49d       | feat(technical-support.component.vue): add technical-support.component.vue | empty                   | 21/04/2025              |
+| EMSafe/este-dev597         | develop       | 14b20ed       | create(toolbar-clinic.component.vue): create toolbar-clinic.component.vue | empty                   | 21/04/2025              |
+| EMSafe/este-dev597         | develop       | 668b068       | feat(toolbar-clinic.component.vue): add toolbar-clinic.component.vue | empty                   | 21/04/2025              |
+| EMSafe/este-dev597         | develop       | 895056c       | feat(toolbar-clinic.component.vue): refactor toolbar-clinic.component.vue | empty                   | 21/04/2025              |
 | tukun-vue/Ericksnpaii       | main       | 9364403       | feat(toolbar-clinic.component.vue): refactor toolbar-clinic.component.vue | empty                   | 27/09/2024              |
 | tukun-vue/nicolini03        | main       | cba892a       | create vs-panel component                                   | empty                   | 27/09/2024              |
 | tukun-vue/nicolini03        | main       | 5b83f5e       | create update-appointments component                        | empty                   | 27/09/2024              |
