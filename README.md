@@ -890,6 +890,62 @@ En esta sección se muestran los mock-ups de las aplicaciones web, creados con b
 
 <div id="444"><h3>4.4.4. Web Applications User Flow Diagrams</h3></div>
 
+1. **Autenticación y Acceso al Sistema**
+
+**User Goal**: Acceder de forma segura al sistema de monitoreo de radiación
+
+**Descripción**: Este flujo muestra cómo los usuarios inician sesión en el sistema, con validación de credenciales y redirección al dashboard principal. También incluye el proceso de registro para nuevos usuarios y la recuperación de contraseña
+
+![Image](https://github.com/user-attachments/assets/ebc30da9-bb14-48ef-ba76-1b72171b862d)
+
+2. **Monitoreo en Dashboard**
+
+**User Goal**: Obtener una visión general del estado de todos los dispositivos y alertas activas
+
+**Descripción**: Este flujo muestra cómo los usuarios interactúan con el dashboard principal para monitorear el estado de los dispositivos, ver alertas recientes y acceder a información detallada
+
+![Image](https://github.com/user-attachments/assets/0a9ba8ff-55dc-45a5-8872-b9ca7d1cdca8)
+
+3. **Historial de Dispositivos**
+
+**User Goal**: Analizar el historial de lecturas y comportamiento de los dispositivos.
+
+**Descripción**: Este flujo muestra cómo los usuarios pueden acceder y analizar el historial de lecturas de los dispositivos, aplicar filtros y exportar datos para análisis adicionales.
+
+![Image](https://github.com/user-attachments/assets/c2cb2f4c-a3c2-4366-afa5-5696f17d4f83)
+
+4. **Gestión de Dispositivos**
+
+**User Goal**: Administrar eficientemente los dispositivos de monitoreo de radiación.
+
+**Descripción**: Este flujo muestra cómo los usuarios pueden añadir, editar, eliminar y gestionar dispositivos de monitoreo, incluyendo la configuración de sus parámetros y ubicación.
+
+![Image](https://github.com/user-attachments/assets/aa284167-64a6-4109-8f9b-5bca1d12f58b)
+
+5. **Historial de Alarmas**
+
+**User Goal**: Monitorear y responder a las alarmas generadas por niveles anormales de radiación.
+
+**Descripción**: Este flujo muestra cómo los usuarios pueden visualizar, filtrar y gestionar las alarmas del sistema, incluyendo la resolución de alarmas activas y la revisión del historial de alarmas.
+
+![Image](https://github.com/user-attachments/assets/c61a51d7-fd13-4ded-b28e-060767705298)
+
+6. **Mapa de Radiación**
+
+**User Goal**: Visualizar geográficamente los niveles de radiación para identificar patrones y zonas críticas.
+
+**Descripción**: Este flujo muestra cómo los usuarios pueden interactuar con el mapa de radiación, aplicar filtros, visualizar zonas cercanas y compartir la visualización con otros usuarios.
+
+![Image](https://github.com/user-attachments/assets/8bd22a92-4021-4c28-ad3d-150ba527aad2)
+
+7. **Gestión de Perfil**
+
+**User Goal**: Personalizar la configuración de la cuenta y preferencias de notificación.
+
+**Descripción**: Este flujo muestra cómo los usuarios pueden gestionar su información personal, configurar preferencias de seguridad y personalizar las notificaciones que reciben del sistema.
+
+![Image](https://github.com/user-attachments/assets/fdc0b41b-3bb8-402c-a6a4-4176f0d2c7ea)
+
 
 <div id="45"><h3>4.5. Web Applications Prototyping</h3></div>
 
