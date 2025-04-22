@@ -310,31 +310,64 @@ El curso contribuye al cumplimiento del Student Outcome ABET:</br>
 <div id="22"><h2>2.2. Entrevistas</h2></div>
 
 Una entrevista es un proceso de comunicación en el que una persona (entrevistador) realiza preguntas y otra persona (entrevistado) responde, con el objetivo de obtener información relevante sobre un tema específico. En este ámbito sería conocer la opinión y necesidades respecto a las preguntas que se le haría para llegar a comprender a nuestro público. 
-Para , es muy importante la información de cada entrevista que se realizará y de esa forma nuestra StartUp pueda lograr el éxito. Finalmente, realizaremos en total 3 entrevistas, 3 por el segmento a dueños de hogar que poseen consumo de agua y luz, y al segmento de dueños de taller y/o fábricas. Un integrante del grupo realizó las entrevistas de manera virtual por diversas plataformas.
+Para , es muy importante la información de cada entrevista que se realizará y de esa forma nuestra StartUp pueda lograr el éxito. Finalmente, realizaremos un total de seis entrevistas: tres dirigidas al segmento de Hogares y ciudadanos conscientes de la salud y tres al segmento de Oficinas, pymes e instituciones educativas.
 
 <div id="221"><h3>2.2.1. Diseño de entrevistas</h3></div>
 
 A fin de obtener información valiosa sobre las necesidades, deseos y desafíos de nuestro público objetivo, hemos planteado una serie de preguntas.
 
+---
+
 ## 🏠 Segmento 1: Hogares y ciudadanos conscientes de la salud
 
-1. ¿Sabías que los aparatos electrónicos emiten radiación electromagnética constantemente dentro del hogar?
-2. ¿Has experimentado molestias como insomnio o dolores de cabeza que asocies con el uso prolongado de dispositivos electrónicos?
-3. ¿Qué tanto te preocupa la exposición a campos electromagnéticos en tu entorno diario?
-4. ¿Qué acciones tomas actualmente para reducir tu exposición a dispositivos electrónicos?
-5. ¿Qué información te gustaría tener para sentirte más seguro respecto a este tipo de exposición?
-6. ¿Usarías una aplicación que te alerte cuando los niveles de radiación en tu casa sean elevados?
+### Información personal:
+- ¿Cuál es su nombre?
+- ¿Cuál es su edad?
+- ¿En qué ciudad resides?
+- ¿Cuál es su ocupación profesional? ¿Se encuentra laborando actualmente?
+
+### Personalidad, aspecto emocional y habilidades del usuario:
+- ¿Podrías compartir una frase o dicho que refleje tu forma de ver la vida?
+- ¿Cuáles son algunas de tus fortalezas o debilidades personales?
+- ¿Qué medios digitales (TV, YouTube, redes sociales, etc.) sueles consumir?
+- ¿Te sientes cómodo/a usando aplicaciones móviles o dispositivos electrónicos en casa? ¿Has tenido dificultades para aprender a usarlos?
+- ¿Qué sistema operativo utilizas en tu celular? ¿iOS o Android?
+- ¿Qué navegador web usas con mayor frecuencia?
+
+### Evaluación del problema:
+- ¿Sabías que los aparatos electrónicos emiten radiación electromagnética constantemente dentro del hogar?
+- ¿Has experimentado molestias como insomnio o dolores de cabeza que asocies con el uso prolongado de dispositivos electrónicos?
+- ¿Qué tanto te preocupa la exposición a campos electromagnéticos en tu entorno diario?
+- ¿Qué acciones tomas actualmente para reducir tu exposición a dispositivos electrónicos?
+- ¿Qué información te gustaría tener para sentirte más seguro respecto a este tipo de exposición?
+- ¿Usarías una aplicación que te alerte cuando los niveles de radiación en tu casa sean elevados?
 
 ---
 
 ## 🏢 Segmento 2: Oficinas, pymes e instituciones educativas
 
-1. ¿Consideras que el ambiente tecnológico de tu organización podría estar afectando la salud de los trabajadores o estudiantes?
-2. ¿Existen actualmente protocolos de monitoreo ambiental en tu institución (ruido, calidad del aire, etc.)?
-3. ¿Has recibido quejas de fatiga, dolores de cabeza u otros síntomas relacionados con el entorno de trabajo?
-4. ¿Qué tan importante crees que sería monitorear la exposición a radiación electromagnética en tu espacio laboral?
-5. ¿Qué beneficios verías en contar con alertas automáticas o reportes sobre estos niveles?
-6. ¿Estarías dispuesto a implementar sensores IoT en tu oficina para prevenir posibles riesgos invisibles?
+### Información personal:
+- ¿Cuál es su nombre?
+- ¿Cuál es su edad?
+- ¿En qué ciudad resides?
+- ¿Cuál es su rol dentro de la organización? ¿Desde hace cuánto tiempo lo desempeñas?
+
+### Personalidad, aspecto emocional y habilidades del usuario:
+- ¿Qué lema o principio te guía en tu trabajo diario?
+- ¿Qué cualidades personales consideras importantes para gestionar un entorno laboral saludable?
+- ¿Qué plataformas digitales sueles usar para informarte o entretenerte?
+- ¿Qué nivel de familiaridad tienes con el uso de aplicaciones o herramientas tecnológicas en tu entorno laboral?
+- ¿Qué sistema operativo usas en tu celular y computadora?
+- ¿Te consideras alguien abierto a la implementación de nuevas tecnologías?
+
+### Evaluación del problema:
+- ¿Consideras que el ambiente tecnológico de tu organización podría estar afectando la salud de los trabajadores o estudiantes?
+- ¿Existen actualmente protocolos de monitoreo ambiental en tu institución (ruido, calidad del aire, etc.)?
+- ¿Has recibido quejas de fatiga, dolores de cabeza u otros síntomas relacionados con el entorno de trabajo?
+- ¿Qué tan importante crees que sería monitorear la exposición a radiación electromagnética en tu espacio laboral?
+- ¿Qué beneficios verías en contar con alertas automáticas o reportes sobre estos niveles?
+- ¿Estarías dispuesto a implementar sensores IoT en tu oficina para prevenir posibles riesgos invisibles?
+
 
 
 <div id="222"><h3>2.2.2. Registro de entrevistas</h3></div>
