@@ -451,19 +451,160 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 
 <div id="411"><h3>4.1.1. General Style Guidelines</h3></div>
 
+**Branding**
+
+El nombre EMSafe surge de la combinación de “EM” (campos electromagnéticos) y “Safe” (seguro), reflejando nuestra misión de proteger de la exposición excesiva a la radiación no ionizante.
+Buscamos un nombre que fuera claro, directo y fácil de recordar, pero que también transmitiera confianza tecnológica. Al incluir un término en inglés, se alinea con el lenguaje común del sector y nos permite conectar con una audiencia global.
+Elegir un nombre con significado refuerza la identidad de la marca y nos diferencia frente a otras propuestas, facilitando que nuestro público identifique rápidamente el propósito del servicio y se sienta atraído por la solución que ofrecemos.
+Logo de EMSafe:
+![Image](https://github.com/user-attachments/assets/2243eed3-cf97-4f8b-bd2d-e6962eb941e2)
+
+**Typography**
+
+Para EMSafe se eligió la tipografía Poppins por su estilo moderno, limpio y geométrico, alineado con la identidad tecnológica de la plataforma. Su buena legibilidad y versatilidad en distintos pesos permite organizar la información de forma clara y jerárquica. Además, al estar optimizada para web, asegura una experiencia fluida en todos los dispositivos.
+![Image](https://github.com/user-attachments/assets/d4a1e347-404f-48c0-9641-03a0e6c32427)
+
+**Colors**
+
+Se usará una paleta que refuerce la identidad de EMSafe, transmitiendo tecnología, confianza y bienestar. El azul profundo representa profesionalismo y seguridad, mientras que el púrpura aporta un toque distintivo y moderno. Como acento, el cian sugiere innovación y frescura, guiando la atención del usuario en elementos clave.
+Los fondos claros y tarjetas blancas aseguran una interfaz limpia y legible, mientras que los grises complementan la composición con sobriedad y contraste visual. Esta combinación permite construir una experiencia coherente, accesible y visualmente equilibrada.
+![Image](https://github.com/user-attachments/assets/66675eb2-df4e-4a37-995a-73cfe81e768b)
+
+**Spacing**
+
+Tanto en la Landing Page como en la aplicación se utiliza un espaciado limpio y equilibrado para mejorar la legibilidad, evitar la sobrecarga visual y facilitar la navegación. El uso estratégico de espacios en blanco ayuda a organizar el contenido, dar respiro a la vista y guiar la atención del usuario hacia la información más relevante.
+
+**Tone & Language**
+
+La comunicación de EMSafe adopta un tono serio pero accesible, formal sin ser rígido y siempre claro y directo. Buscamos informar y orientar sin alarmar, por lo que el lenguaje utilizado es sereno, empático y fácil de entender. 
+Dado que tratamos un tema técnico como la radiación no ionizante, evitamos tecnicismos innecesarios y priorizamos explicaciones simples, permitiendo que cualquier persona pueda comprender la información y tomar decisiones informadas. Este estilo nos ayuda a transmitir confianza y cercanía, reforzando nuestro compromiso con el bienestar y la seguridad a través de la tecnología.
+
+
 <div id="412"><h3>4.1.2. Web Style Guidelines</h3></div>
+
+**Diseño Responsivo**
+
+El sitio web de EMSafe está pensado para ofrecer una experiencia óptima sin importar el tipo de dispositivo. Gracias al uso de CSS responsivo y estructuras flexibles, la interfaz se ajusta de forma fluida a pantallas de escritorio, tablets y móviles, manteniendo la funcionalidad y el diseño en cada vista.
+
+**Interacción intuitiva**
+
+La experiencia de navegación será sencilla y directa. Se prioriza un acceso rápido a las secciones más importantes, con menús organizados, etiquetas claras y sin necesidad de hacer scroll para llegar a las opciones clave. Esto garantiza que cualquier usuario, técnico o no, pueda orientarse fácilmente.
+
+**Estilo visual coherente**
+
+Todo el diseño mantiene una línea gráfica consistente, utilizando la paleta de colores definida, la tipografía Poppins, y estilos homogéneos en botones, formularios y enlaces. Esta coherencia refuerza la identidad de EMSafe y mejora la comprensión visual del contenido.
+
+**Optimización del rendimiento**
+
+La web estará optimizada para cargar de forma rápida y eficiente, minimizando el uso de recursos pesados. Se emplearán buenas prácticas como compresión de imágenes, carga diferida de scripts y limpieza del código para asegurar estabilidad incluso con conexiones lentas.
 
 <div id="42"><h2>4.2. Information Architecture</h2></div>
 
 <div id="421"><h3>4.2.1. Organization Systems</h3></div>
 
+Esta sección describe los sistemas de organización implementados tanto en la Landing Page actual como en futuras versiones de la plataforma EMSafe. Se definen los esquemas jerárquicos, secuenciales y temáticos utilizados para estructurar la información de manera clara, eficiente y alineada con los objetivos del proyecto. Esto garantiza una navegación fluida y una experiencia coherente para los distintos tipos de usuarios.
+
+### Grupo de Usuarios 1: Personas interesadas en su salud
+
+**Organización jerárquica:**
+
+La estructura de la landing está pensada para captar rápidamente la atención de este perfil de usuario. Se presenta primero la propuesta de valor "Protege tu entorno de la radiación electromagnética", seguida de las características principales del sistema, sus beneficios a nivel personal, la problemática global, testimonios de usuarios reales y finalmente el contacto. Esta jerarquía permite al visitante comprender de forma progresiva cómo EMSafe puede ayudarle directamente en su vida diaria.
+Categorización por tópicos:
+La información está dividida en secciones temáticas (Características, Beneficios, Problemática, Testimonios), permitiendo a los usuarios enfocarse en los aspectos que más les interesan de manera rápida y directa.
+
+### Grupo de Usuarios 2: Empresas con alta maquinaria electromagnética
+
+**Organización jerárquica:**
+
+Este tipo de usuario encuentra primero información orientada al valor organizacional del sistema: monitoreo en tiempo real, prevención de riesgos laborales y cumplimiento normativo. Luego, se presenta evidencia del impacto positivo (testimonios de empresas) y un formulario de contacto para solicitar una demo adaptada a sus necesidades.
+Organización matricial:
+En la aplicación empresarial proyectada, se implementará una visualización matricial que permita monitorear múltiples sensores distribuidos por áreas o locaciones, facilitando el análisis simultáneo y la detección de puntos críticos dentro de la infraestructura de la empresa.
+
 <div id="422"><h3>4.2.2. Labeling Systems</h3></div>
+
+A continuación, se presenta el sistema de etiquetado utilizado en la Landing Page de EMSafe, el cual busca representar de forma clara, concisa y accesible los distintos grupos de información. Las etiquetas seleccionadas tienen un lenguaje simple y directo para facilitar la navegación y evitar confusión en los usuarios.
+
+Actualmente, la Landing Page cuenta con secciones identificadas con headings claros y minimalistas, orientados a explicar el funcionamiento y propósito de la plataforma.
+
+| **Sección**     | **Descripción**                                                                                  |
+|------------------|--------------------------------------------------------------------------------------------------|
+| **Inicio**       | Presentación del nombre, descripción del sistema y llamado a la acción.                         |
+| **Características** | Funciones clave como monitoreo, análisis y alertas, explicadas de forma visual.                |
+| **Beneficios**   | Ventajas del sistema para usuarios individuales y empresas, mostradas en tarjetas.              |
+| **Problemática** | Contexto sobre los riesgos de la radiación y la necesidad de EMSafe.                            |
+| **Testimonios**  | Experiencias breves de distintos usuarios, etiquetados por rol y nombre.                        |
+| **Ubicación**    | Mapa que muestre la localización del equipo desarrollador del proyecto.                         |
+| **Contacto**     | Proyecto corto con campos básicos para recibir información o solicitar demo.                    |
 
 <div id="423"><h3>4.2.3. SEO Tags and Meta Tags</h3></div>
 
+Los SEO Tags y Meta Tags son esenciales para mejorar el posicionamiento de la landing page de EMSafe en los motores de búsqueda y facilitar que los usuarios encuentren la plataforma al buscar soluciones relacionadas con salud, tecnología y monitoreo ambiental.
+
+**Title**: EMSafe – Monitorea la radiación electromagnética en tu entorno
+
+**Description**: Plataforma web para monitorear en tiempo real la contaminación electromagnética de tu hogar, oficina o comunidad mediante sensores inteligentes.
+
+**Keywords**: radiación no ionizante, campos electromagnéticos, monitoreo EMF, salud, tecnología, sensores IoT, contaminación electromagnética, seguridad, ambiente, bienestar, exposición, protección.
+
+**Author**: EMSafe Team
+
 <div id="424"><h3>4.2.4. Searching Systems</h3></div>
 
+Para facilitar el acceso a información específica y evitar que los usuarios se sientan abrumados entre grandes volúmenes de datos, EMSafe implementará diferentes sistemas de búsqueda dentro de la Aplicación Web. Estos estarán diseñados de acuerdo a las necesidades particulares de cada segmento de usuario, priorizando la rapidez, claridad y relevancia de los resultados.
+
+
+### Segmento 1: Personas interesadas en su salud
+
+Este grupo utilizará principalmente el sistema de búsqueda dentro del historial de mediciones. Para ello, se brindará un buscador simple acompañado de filtros intuitivos:
+- Buscador por fecha o rango de fechas
+- Filtro por tipo de alerta
+- Filtro por zona monitoreada
+
+Los resultados se mostrarán en una tabla con:
+- Nivel EMF registrado
+- Fecha y hora de la medición
+- Estado del sensor (activo/inactivo)
+- Color de alerta (verde, amarillo, rojo)
+
+Además se incluirá un gráfico para una mayor comprensión del resultado.
+
+### Segmento 2: Empresas con maquinaria electromagnética
+
+Dado que las empresas pueden tener decenas de sensores distribuidos en distintas zonas, se implementará un sistema de búsqueda avanzado con múltiples filtros combinables:
+- Filtro por zona o ubicación
+- Filtro por sensor específico
+- Filtro por fecha y hora
+- Filtro por nivel de exposición
+- Búsqueda por palabra clave
+
+Los resultados se desplegarán en tablas con opción de ordenar las columnas, exportar los datos (Excel/PDF) o generar gráficas comparativas por zona y período.
+
 <div id="425"><h3>4.2.5. Navigation Systems</h3></div>
+La Landing Page de EMSafe cuenta con un menú principal horizontal ubicado en la parte superior del sitio, visible en todo momento mientras el usuario navega. Este menú está compuesto por enlaces que lo llevan directamente a las distintas secciones del contenido utilizando un sistema de anclas para hacer scroll automático hacia cada bloque de información.
+El orden de las secciones fue pensado para seguir un flujo natural de lectura e interés: primero se presenta la solución (Inicio y Características), luego se refuerza su valor (Beneficios), se plantea el problema que resuelve (Problemática), se muestran pruebas sociales (Testimonios) y finalmente se invita a interactuar (Contacto). Este sistema de navegación permite que el usuario recorra el contenido de forma lineal o salte directamente a la sección que más le interese, con tiempos de carga inmediatos gracias al uso de navegación interna. Además, el menú está diseñado para ser completamente responsive, adaptándose a dispositivos móviles mediante un ícono desplegable, asegurando una buena experiencia desde cualquier pantalla.
+A continuación se explicará la información que se puede visualizar en cada una de las secciones según el usuario logueado en la plataforma de EMSafe.
+
+**Segmento 1: Personas interesadas en su salud**
+
+Este grupo de usuarios accede a la plataforma con el objetivo de monitorear la exposición a radiación electromagnética en su entorno personal, como el hogar o espacios compartidos. Por ello, se prioriza una navegación sencilla, guiada y centrada en la información útil y en tiempo real.
+
+- **Inicio (Dashboard)**: Sección principal tras iniciar sesión. Muestra el nivel actual de exposición, gráficas simples, estado del sensor y mensajes importantes.
+- **Mi sensor**: Vista donde el usuario puede ver los detalles del sensor instalado: ubicación, intensidad de señal y estado de funcionamiento.
+- **Historial**: Permite revisar mediciones pasadas, compararlas por día o semana y acceder a estadísticas de exposición.
+- **Recomendaciones**: Muestra consejos personalizados para reducir la exposición, basados en las mediciones recientes del usuario.
+- **Perfil**: Configuración básica de la cuenta, información personal y preferencias de notificación.
+- **Soporte**: Sección de ayuda con preguntas frecuentes, contacto directo y guía rápida para nuevos usuarios.
+
+**Segmento 2: Empresas con maquinaria electromagnética**
+
+Este perfil requiere un acceso más técnico y administrativo, ya que busca monitorear múltiples áreas, sensores y usuarios al mismo tiempo, a menudo dentro de instalaciones industriales o clínicas. La navegación está organizada por áreas de control y gestión.
+
+- **Dashboard general**: Vista principal con un mapa o listado de zonas monitoreadas, mostrando los niveles actuales de exposición en cada una. Se resaltan con color aquellas áreas que exceden los límites recomendados.
+- **Zonas monitoreadas**: Listado detallado de todas las áreas con sensores, permitiendo acceder a los datos de cada una por separado.
+- **Alertas**: Historial de eventos críticos, categorizados por gravedad y fecha. Incluye sistema de filtros para búsquedas específicas.
+- **Reportes**: Generador de informes descargables (PDF, Excel) con estadísticas por área, fecha o tipo de sensor.
+- **Usuarios y permisos**: Gestión de cuentas internas, asignación de roles y configuración de accesos diferenciados por perfil (técnico, supervisor, administrador).
+- **Configuración**: Ajustes generales del sistema, umbrales de alerta, mantenimiento de sensores, personalización del panel.
 
 <div id="43"><h3>4.3. Landing Page UI Design</h3></div>
 
