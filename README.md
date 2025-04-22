@@ -931,7 +931,71 @@ En esta sección se describen las herramientas utilizadas por nuestro equipo de 
 
 <div id="512"><h3>5.1.2. Source Code Management</h3></div>
 
+Para la gestión del código fuente del proyecto EMSafe, nuestro equipo utiliza [**GitHub**](https://github.com/) como plataforma central, aprovechando el sistema de control de versiones [**Git**](https://git-scm.com/) para facilitar la colaboración, el seguimiento de cambios y la integración de nuevas funcionalidades de forma ordenada y segura.
 
+---
+
+#### Repositorios del Proyecto
+
+- **Landing Page**:  
+  [https://github.com/EMSafeUPC/EMSafe.github.io](https://github.com/EMSafeUPC/EMSafe.github.io)
+
+- **Frontend Web Application (Angular)**:  
+  [https://github.com/EMSafeUPC/EMSafe-frontend](https://github.com/EMSafeUPC/EMSafe-frontend)
+
+- **Web Services (Spring Boot – Backend)**:  
+  [https://github.com/EMSafeUPC/EMSafe-backend](https://github.com/EMSafeUPC/EMSafe-backend)
+
+---
+
+#### Modelo de Ramas - GitFlow
+
+Para el desarrollo colaborativo y el control de versiones, adoptamos el workflow **GitFlow**, basado en la estructura propuesta por *Vincent Driessen*. Este modelo permite desarrollar múltiples funcionalidades en paralelo, controlar versiones estables y facilitar correcciones en producción.
+
+##### Ramas principales
+
+- **`main`**: Contiene el código en estado estable, listo para producción o despliegue. Solo se fusionan cambios aprobados, verificados y testeados.
+- **`develop`**: Rama de integración donde se combinan todas las nuevas funcionalidades antes de ser consideradas para una nueva versión estable.
+
+##### Ramas de soporte
+
+- **feature/**: Se crean a partir de `develop` para desarrollar nuevas funcionalidades.
+- **release/**: Se crean desde `develop` cuando se prepara una nueva versión del sistema. Se realizan ajustes menores, documentación y pruebas finales antes de integrarse a `main`.
+- **hotfix/**: Se crean directamente desde `main` para corregir errores críticos en producción. Una vez resuelto el problema, se fusionan tanto en `main` como en `develop`.
+
+---
+
+#### Semantic Versioning (SemVer)
+
+EMSafe aplica la convención [**Semantic Versioning 2.0.0**](https://semver.org/), donde los números de versión siguen el formato `MAJOR.MINOR.PATCH`:
+
+- **MAJOR**: Se incrementa cuando se introducen cambios incompatibles con versiones anteriores.
+- **MINOR**: Se incrementa cuando se agregan nuevas funcionalidades de forma retrocompatible.
+- **PATCH**: Se incrementa al aplicar correcciones menores o ajustes retrocompatibles.
+
+---
+
+#### Convención de Commits – Conventional Commits
+
+Para mantener un historial claro y significativo de los cambios, el equipo utiliza la convención [**Conventional Commits**](https://www.conventionalcommits.org/), lo que facilita:
+
+- la lectura del historial de versiones,
+- el uso de herramientas de integración continua,
+- la generación automática de changelogs.
+
+##### Tipos de commits utilizados:
+
+- `feat`: Nueva funcionalidad  
+- `fix`: Corrección de errores  
+- `docs`: Cambios en documentación  
+- `style`: Cambios en formato/estilo sin afectar la lógica  
+- `refactor`: Reestructuración del código sin cambio funcional  
+- `test`: Cambios en tests  
+- `build`: Cambios que afectan al sistema de compilación o dependencias  
+- `ci`: Configuraciones de integración continua  
+- `chore`: Tareas menores de mantenimiento  
+- `perf`: Mejoras de rendimiento  
+- `revert`: Reversión de un commit anterior  
 
 <div id="513"><h3>5.1.3. Source Code Style Guide & Conventions</h3></div>
 
