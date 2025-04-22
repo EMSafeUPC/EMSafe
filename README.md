@@ -683,7 +683,15 @@ En esta sección se expone el avance correspondiente al Sprint 1, planificando e
 
 <div id="5211"><h4>5.2.1.2. Aspect Leaders and Collaborators</h4></div>
 
-<br>
+En este Sprint se prioriza el desarrollo del Landing Page para la plataforma de monitoreo de contaminación electromagnética. Este componente es clave para la presentación inicial del producto, ya que permite comunicar de manera clara y atractiva el propósito, beneficios y funcionamiento de la solución, orientado tanto a usuarios interesados en su salud como a empresas con alta presencia de maquinaria electromagnética.
+
+El Sprint se enfoca en definir y construir el layout principal, la estructura de navegación y los contenidos esenciales que transmitan el valor de la plataforma, garantizando una experiencia intuitiva, accesible y coherente con la identidad del proyecto. A continuación, se presenta un cuadro a detalle.
+
+![Aspect Leaders and Collaborators](https://github.com/user-attachments/assets/4495ccc3-63bf-4bdb-9693-62499c65d498)
+
+**Leadership-andCollaboration Matrix (LACX)**
+
+![Leadership and Collaboration Matrix](https://github.com/user-attachments/assets/0bab59af-3d3e-46ab-89bf-06a30fb17179)
 
 <div id="5212"><h4>5.2.1.3. Sprint Backlog 1</h4></div>
 
@@ -769,19 +777,38 @@ La estructura de la página se desarrolló con HTML, los estilos personalizados 
 Este primer Sprint representa el punto de partida del proyecto, estableciendo la base para futuros avances y la integración de nuevas funcionalidades. A continuación, se muestran capturas de pantalla de las principales secciones desarrolladas, junto con un enlace a un video demostrativo que recorre la navegación y las características básicas implementadas hasta el momento.
 
 **Landing Page:**
+![LandingPage](https://github.com/user-attachments/assets/d4db94ee-b76c-45fc-b929-58c6b15a6eff)
+
 
 **Encabezado (Header):** Incluye el logo de la startup, el título y el menú de navegación que comunica de manera clara las secciones del Landing Page.
+![Header](https://github.com/user-attachments/assets/a5a638a9-96a1-4a6c-8ffc-a33e3627cd3a)
+
 
 **Body:** Incluye las secciones presentadas en el header las cuales pueden ser navegadas desde dicho menú
+![Body1](https://github.com/user-attachments/assets/5228d8ab-676c-411a-93cc-cc26428781cf)
+
+![Body2](https://github.com/user-attachments/assets/2e46304e-aec7-42ec-92f8-0548ef62ad64)
+
+![Body3](https://github.com/user-attachments/assets/d3fa1029-d0ee-4a6d-ae81-8a361efedb09)
+
+![Body4](https://github.com/user-attachments/assets/4abfc738-bb1c-4155-b168-74968bae633b)
+
+![Body5](https://github.com/user-attachments/assets/fb9b80ff-4027-47ad-befc-04ba9e308bc4)
+
 
 **Pie de página (Footer):** Incluye enlaces a las políticas de privacidad, términos y condiciones, perfiles en redes sociales y otros contenidos de interés, como información de contacto y datos relevantes sobre la plataforma.
+![Footer](https://github.com/user-attachments/assets/9e39b594-242d-4133-b9b5-32987e37bd2c)
 
-**Llamado a la acción (CTA):** Un botón o enlace destacado que invita al usuario a realizar una acción importante, como crear o iniciar sesión con una cuenta.
+
+**Llamado a la acción (CTA):** Un botón o enlace destacado que invita al usuario a crear o iniciar sesión con una cuenta.
+![CTA](https://github.com/user-attachments/assets/9f2c24e9-7b2d-4bfc-ac11-474adb4c3b2c)
+
 
 **Formulario de captura (Lead Form):** Un formulario simple donde el usuario puede ingresar sus datos de contacto, como nombre y correo electrónico, con el objetivo de recibir actualizaciones, información personalizada o descargar recursos relacionados con la contaminación electromagnética.
+![LeadForm](https://github.com/user-attachments/assets/61bc70d8-3eba-4e50-9a87-a86f09162119)
 
 
-**Video - LandingPage:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218791_upc_edu_pe/EahQualeON5FvFH1hlpNqTABN-q04gYGaZyajhej-8nFXQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cMoRGP
+**Video - LandingPage:** [Video - LandingPage](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218791_upc_edu_pe/EahQualeON5FvFH1hlpNqTABN-q04gYGaZyajhej-8nFXQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cMoRGP)
 
 <div id="5216"><h4>5.2.1.6. Services Documentation Evidence for Sprint Review</h4></div>
 
@@ -793,18 +820,23 @@ Durante este primer sprint, el enfoque estuvo centrado exclusivamente en el desa
 
 En esta sección se describe el proceso de implementación de la plataforma en un entorno de producción. Además, se presentarán los hitos más importantes que marcarán el despliegue del proyecto y garantizarán su disponibilidad para los usuarios finales.
 
-**URL de despliegue del Landing Page:** https://github.com/EMSafeUPC/EMSafe.github.io 
+**URL de despliegue del Landing Page:** [Landing Page Desplegado](https://github.com/EMSafeUPC/EMSafe.github.io) 
 
 1) Para la Landing Page, nuestro equipo creó una rama denominada “main” dentro del repositorio, en la cual se organizaron y almacenaron todos los archivos correspondientes al desarrollo de la Landing Page.
+![LandingPageDeployment1](https://github.com/user-attachments/assets/4c7d1c1e-972f-43e8-b48f-24a4ac658ac0)
 
 
 2) Posteriormente, nos dirigimos a configuración y empleamos GitHub Pages, el servicio de alojamiento para sitios estáticos de GitHub, para publicar y poner en línea nuestra Landing Page.
+![LandingPageDeployment2](https://github.com/user-attachments/assets/e3e034e4-3dc4-464e-9d24-fa6be0f65eb6)
 
 
-3) Se seleccionó la rama previamente configurada y se procedió con el despliegue de la página.
+4) Se seleccionó la rama previamente configurada y se procedió con el despliegue de la página.
+![LandingPageDeployment3](https://github.com/user-attachments/assets/d2db02ec-ff78-4116-a8a3-d759157ca629)
 
 
-4) Finalmente, obtuvimos el enlace de publicación, que nos permite acceder y visualizar la Landing Page en línea.
+5) Finalmente, obtuvimos el enlace de publicación, que nos permite acceder y visualizar la Landing Page en línea.
+![LandingPageDeployment4](https://github.com/user-attachments/assets/cd696973-d0af-4c1e-b909-ccd8190690f4)
+
 
 <div id="5218"><h4>5.2.1.8. Team Collaboration Insights during Sprint</h4></div>
 
@@ -826,9 +858,17 @@ Se proporcionará información detallada sobre la colaboración y comunicación 
 
 <div id="bibliografia"><h1>Bibliografía</h1></div>
 
+* Parrales H. Y. (2021). Análisis de ondas electromagnéticas no ionizantes y sus efectos en el medio ambiente. [Tesis de grado]. Universidad Estatal del Sur de Manabí. [Análisis de ondas electromagnéticas no ionizantes y sus efectos en el medio ambiente](https://repositorio.unesum.edu.ec/handle/53000/2832) 
+
+* Sujay, L. (2024). Number of IoT connections worldwide 2022-2033. Statista. [Number of IoT connections worldwide 2022-2033](https://www.statista.com/statistics/1183457/iot-connected-devices-worldwide/) 
 
 </br>
 
 <br>
 <div id="anexo"><h1>Anexo</h1></div>
+
+- Link del Landing Page Desplegado: [Landing Page Desplegado](https://github.com/EMSafeUPC/EMSafe.github.io) 
+- Video presentación del LandingPage: [Video - LandingPage](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218791_upc_edu_pe/EahQualeON5FvFH1hlpNqTABN-q04gYGaZyajhej-8nFXQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cMoRGP)
+
+
 
