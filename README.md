@@ -492,7 +492,17 @@ Link al Lean UX Canvas:
 
 <div id="13"><h2>1.3. Segmentos Objetivos</h2></div>
 
+La exposición continua a campos electromagnéticos no ionizantes provenientes de dispositivos tecnológicos como routers, teléfonos móviles, maquinaria industrial y estaciones de telecomunicaciones, puede tener efectos potenciales sobre la salud humana. Esta preocupación ha crecido especialmente en ambientes altamente tecnologizados y en espacios donde las personas pasan largas jornadas expuestas sin conocer los niveles de radiación a los que están sometidos.
 
+Por otro lado, investigaciones destacan que en entornos laborales industriales y empresariales donde se utilizan equipos de alto consumo electromagnético, existe una preocupación latente por la exposición continua del personal técnico y administrativo, lo que ha llevado a ciertas organizaciones a implementar planes preventivos, aunque muchas veces sin información precisa ni monitoreo continuo.
+
+Por todo lo mencionado, se establecen los dos segmentos objetivos que serán abordados a lo largo del proyecto:
+
+**Segmento 1:**
+Personas interesadas en su salud
+
+**Segmento 2:**
+Empresas y organizaciones que operan maquinaria de alta emisión electromagnética
 
 <div id="2"><h1>Capítulo II: Requirements Elicitation & Analysis</h1></div>
 
