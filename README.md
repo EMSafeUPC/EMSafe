@@ -1073,7 +1073,65 @@ Todas las variables, funciones, clases y elementos del sistema se nombrarán en 
 
 <div id="514"><h3>5.1.4. Software Deployment Configuration</h3></div>
 
+La estrategia de despliegue está diseñada para asegurar que las aplicaciones funcionen correctamente y de forma estable en los entornos de producción. Para ello, se aplicarán herramientas y prácticas que permitan un proceso ágil, seguro y automatizado.
 
+---
+
+#### Landing Page
+
+La Landing Page está desarrollada como un sitio web estático utilizando HTML, CSS y JavaScript, y es desplegada mediante **GitHub Pages**, aprovechando la integración directa con el repositorio de código.
+
+- **Repositorio**:  
+  [https://github.com/EMSafeUPC/EMSafe.github.io](https://github.com/EMSafeUPC/EMSafe.github.io)
+
+- **Plataforma de despliegue**: GitHub Pages  
+- **Dominio de publicación**:  
+  [https://emsafeupc.github.io/EMSafe.github.io/](https://emsafeupc.github.io/EMSafe.github.io/)
+
+- **Modo de despliegue**:  
+  Automático, activado desde la rama `main`, con el contenido publicado desde la carpeta raíz del repositorio.
+
+Cada vez que se realiza un `push` a la rama `main`, la Landing Page se actualiza automáticamente en producción, permitiendo mantener siempre en línea la última versión del contenido público.
+
+---
+
+#### Frontend Web Application (Angular)
+
+La aplicación web de EMSafe, desarrollada con **Angular**, es desplegada mediante **Railway**, una plataforma que permite conectar directamente con GitHub y automatizar todo el proceso de compilación y publicación del proyecto.
+
+- **Repositorio**:  
+  [https://github.com/EMSafeUPC/EMSafe-frontend](https://github.com/EMSafeUPC/EMSafe-frontend)
+
+- **Comando de build**:  
+  `ng build --configuration=production`
+
+- **Despliegue**:  
+  Railway detecta los cambios en la rama `main`, compila el proyecto y publica automáticamente la nueva versión.
+
+- **Configuración adicional**:  
+  Las variables de entorno necesarias para la conexión con la API del backend serán gestionadas desde el panel de Railway.
+
+Este enfoque permite mantener el frontend actualizado sin necesidad de despliegues manuales, garantizando eficiencia y rapidez en la entrega de nuevas versiones.
+
+---
+
+#### Web Services (Spring Boot)
+
+El backend, desarrollado con **Spring Boot**, también se desplegará en **Railway**, permitiendo exponer la API REST de forma pública y controlada. Railway gestiona el servidor, los puertos, las variables de entorno y el acceso a la base de datos.
+
+- **Repositorio**:  
+  [https://github.com/EMSafeUPC/EMSafe-backend](https://github.com/EMSafeUPC/EMSafe-backend)
+
+- **Compilación del proyecto**:  
+  `./mvnw clean package`  
+  o  
+  `./gradlew build`
+
+- **Despliegue**:  
+  Automático mediante integración con GitHub. Railway se encarga de detectar cambios en `main`, construir el `.jar`, y ejecutar el servicio en su entorno cloud.
+
+- **API Documentation**:  
+  Al desplegarse, el backend expone la interfaz de prueba **Swagger UI**, útil para validar los endpoints y probar funcionalidades.
 
 <br>
 
