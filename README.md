@@ -881,6 +881,12 @@ Esta sección muestra los wireframes que representan la organización y distribu
 
 <div id="443"><h3>4.4.3. Web Applications Mock-ups</h3></div>
 
+En esta sección se muestran los mock-ups de las aplicaciones web, creados con base a los Wireframes previamente definidos. Estos prototipos visuales permiten anticipar la estructura y el diseño de la interfaz, sirviendo como guía para comprender y llevar a cabo su implementación durante la fase de desarrollo.
+
+![Image](https://github.com/user-attachments/assets/d93c850b-d7fc-4ce9-b637-c8286c2cacfd)
+
+![Image](https://github.com/user-attachments/assets/96c0fbc1-9e5a-4f34-a38d-a39cd6022ec2)
+
 
 <div id="444"><h3>4.4.4. Web Applications User Flow Diagrams</h3></div>
 
