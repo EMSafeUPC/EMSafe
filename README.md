@@ -292,8 +292,11 @@ El curso contribuye al cumplimiento del Student Outcome ABET:</br>
 
 A continuación, se presenta el Lean UX Canvas, una herramienta que sigue los principios de Lean UX y facilita la comprensión de los problemas del usuario, la definición de supuestos, la formulación de hipótesis y la planificación de experimentos para validar o refutar dichas hipótesis de manera ágil. Su principal ventaja radica en la reducción de riesgos en el desarrollo del producto, ya que posibilita iteraciones rápidas y efectivas basadas en la retroalimentación directa de los usuarios.
 
+![Lean UX Canvas](https://github.com/user-attachments/assets/4a6e1ab1-d0f9-4074-ab91-dbbd5222046c)
 
-Link del Lean UX Canvas: https://miro.com/welcomeonboard/dWg4cFdETllpeXhiWTdSSTViZVZnaGtJQVJWbFBZSWhmRlNGWWYvcXJpdGVqTjFOckhoVmdLWm5yNy84N3k2Vjh3aWxhaVA3WE9nNTlHUjJDWlZPVm0vcjNPQjd6aXMzdjVTRXJWVFVqZUZReE81WjBWTWhLdXNHWkM0T3BRUjBzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=829080626711  
+Link al Lean UX Canvas: 
+[LeanUXCanvas](https://miro.com/welcomeonboard/dWg4cFdETllpeXhiWTdSSTViZVZnaGtJQVJWbFBZSWhmRlNGWWYvcXJpdGVqTjFOckhoVmdLWm5yNy84N3k2Vjh3aWxhaVA3WE9nNTlHUjJDWlZPVm0vcjNPQjd6aXMzdjVTRXJWVFVqZUZReE81WjBWTWhLdXNHWkM0T3BRUjBzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=829080626711)
+ 
 
 <div id="13"><h2>1.3. Segmentos Objetivos</h2></div>
 
