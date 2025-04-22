@@ -316,6 +316,26 @@ Para , es muy importante la información de cada entrevista que se realizará y 
 
 A fin de obtener información valiosa sobre las necesidades, deseos y desafíos de nuestro público objetivo, hemos planteado una serie de preguntas.
 
+## 🏠 Segmento 1: Hogares y ciudadanos conscientes de la salud
+
+1. ¿Sabías que los aparatos electrónicos emiten radiación electromagnética constantemente dentro del hogar?
+2. ¿Has experimentado molestias como insomnio o dolores de cabeza que asocies con el uso prolongado de dispositivos electrónicos?
+3. ¿Qué tanto te preocupa la exposición a campos electromagnéticos en tu entorno diario?
+4. ¿Qué acciones tomas actualmente para reducir tu exposición a dispositivos electrónicos?
+5. ¿Qué información te gustaría tener para sentirte más seguro respecto a este tipo de exposición?
+6. ¿Usarías una aplicación que te alerte cuando los niveles de radiación en tu casa sean elevados?
+
+---
+
+## 🏢 Segmento 2: Oficinas, pymes e instituciones educativas
+
+1. ¿Consideras que el ambiente tecnológico de tu organización podría estar afectando la salud de los trabajadores o estudiantes?
+2. ¿Existen actualmente protocolos de monitoreo ambiental en tu institución (ruido, calidad del aire, etc.)?
+3. ¿Has recibido quejas de fatiga, dolores de cabeza u otros síntomas relacionados con el entorno de trabajo?
+4. ¿Qué tan importante crees que sería monitorear la exposición a radiación electromagnética en tu espacio laboral?
+5. ¿Qué beneficios verías en contar con alertas automáticas o reportes sobre estos niveles?
+6. ¿Estarías dispuesto a implementar sensores IoT en tu oficina para prevenir posibles riesgos invisibles?
+
 
 <div id="222"><h3>2.2.2. Registro de entrevistas</h3></div>
 
