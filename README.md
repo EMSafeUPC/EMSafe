@@ -424,7 +424,61 @@ En esta sección se detallan las suposiciones relacionadas con los resultados es
 
 <div id="1223"><h4>1.2.2.3. Lean UX Hypothesis Statements</h4></div>
 
+En esta sección, se busca validar el impacto de nuestra plataforma web para el monitoreo en tiempo real de contaminación electromagnética en entornos cotidianos. Las hipótesis planteadas analizan cómo esta herramienta puede contribuir a mejorar la conciencia ambiental, facilitar la toma de decisiones preventivas, reducir riesgos para la salud y generar confianza entre usuarios, comunidades y organizaciones. Asimismo, se evalúa cómo el modelo de negocio, basado en la integración con sensores IoT, puede generar ingresos recurrentes y establecer relaciones sostenibles con organizaciones, comunidades y proveedores de soluciones tecnológicas.
 
+**Hypothesis Statement #1**
+
+**Creemos que** lograremos mejorar la conciencia y acción en la reducción de la exposición a la contaminación electromagnética.
+
+**Si** las comunidades y organizaciones
+
+**Obtienen** acceso en tiempo real a los niveles de radiación electromagnética en su entorno
+
+**Con** una plataforma web basada en sensores IoT que monitorea y analiza la contaminación electromagnética.
+
+
+**Hypothesis Statement #2**
+
+**Creemos que** reduciremos la preocupación por los efectos en la salud debido a la exposición constante a la radiación electromagnética.
+
+**Si** los usuarios
+
+**Obtienen** una plataforma fácil de usar para monitorear los niveles de radiación electromagnética en sus hogares y oficinas
+
+**Con** alertas automáticas y recomendaciones personalizadas para reducir la exposición.
+
+
+**Hypothesis Statement #3**
+
+**Creemos que** mejoraremos la toma de decisiones en cuanto a la seguridad de las exposiciones a radiación electromagnética.
+
+**Si** las organizaciones y comunidades
+
+**Obtienen** informes detallados y visualizaciones sobre los niveles de radiación en tiempo real
+
+**Con** una plataforma centralizada que proporciona datos precisos y procesados de forma continua.
+
+
+**Hypothesis Statement #4**
+
+**Creemos que** aumentaremos la confianza de los usuarios en la medición y monitoreo de la contaminación electromagnética en sus entornos.
+
+**Si** los usuarios y las organizaciones
+
+**Obtienen** acceso a información precisa, clara y confiable sobre los niveles de radiación en sus entornos
+
+**Con** un sistema que utiliza estándares internacionales para el monitoreo y ofrece recomendaciones de reducción de exposición basadas en esos datos.
+
+
+**Hypothesis Statement #5**
+
+**Creemos** que mejoraremos la capacidad de los usuarios para gestionar la exposición a la contaminación electromagnética en su entorno cotidiano.
+
+**Si** los usuarios
+
+**Obtienen** acceso a datos históricos y tendencias sobre la radiación electromagnética
+
+**Con** una plataforma que presenta análisis longitudinales y notificaciones de alertas cuando los niveles son preocupantes.
 
 <div id="1224"><h4>1.2.2.4. Lean UX Canvas</h4></div>
 
