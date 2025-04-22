@@ -440,6 +440,32 @@ Los SEO Tags y Meta Tags son esenciales para mejorar el posicionamiento de la la
 
 <div id="424"><h3>4.2.4. Searching Systems</h3></div>
 
+Para facilitar el acceso a información específica y evitar que los usuarios se sientan abrumados entre grandes volúmenes de datos, EMSafe implementará diferentes sistemas de búsqueda dentro de la Aplicación Web. Estos estarán diseñados de acuerdo a las necesidades particulares de cada segmento de usuario, priorizando la rapidez, claridad y relevancia de los resultados.
+
+**Segmento 1: Personas interesadas en su salud**
+Este grupo utilizará principalmente el sistema de búsqueda dentro del historial de mediciones. Para ello, se brindará un buscador simple acompañado de filtros intuitivos:
+- Buscador por fecha o rango de fechas
+- Filtro por tipo de alerta
+- Filtro por zona monitoreada
+
+Los resultados se mostrarán en una tabla con:
+- Nivel EMF registrado
+- Fecha y hora de la medición
+- Estado del sensor (activo/inactivo)
+- Color de alerta (verde, amarillo, rojo)
+
+Además se incluirá un gráfico para una mayor comprensión del resultado.
+
+**Segmento 2: Empresas con maquinaria electromagnética**
+Dado que las empresas pueden tener decenas de sensores distribuidos en distintas zonas, se implementará un sistema de búsqueda avanzado con múltiples filtros combinables:
+- Filtro por zona o ubicación
+- Filtro por sensor específico
+- Filtro por fecha y hora
+- Filtro por nivel de exposición
+- Búsqueda por palabra clave
+
+Los resultados se desplegarán en tablas con opción de ordenar las columnas, exportar los datos (Excel/PDF) o generar gráficas comparativas por zona y período.
+
 <div id="425"><h3>4.2.5. Navigation Systems</h3></div>
 
 <div id="43"><h3>4.3. Landing Page UI Design</h3></div>
