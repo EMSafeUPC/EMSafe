@@ -889,6 +889,44 @@ En esta sección se presenta la organización de la base de datos mediante un es
 <div id="51"><h2>5.1. Software Configuration Management</h2></div>
 
 <div id="511"><h3>5.1.1. Software Development Environment Configuration</h3></div>
+En esta sección se describen las herramientas utilizadas por nuestro equipo de EMSafe para colaborar de manera efectiva durante todo el ciclo de vida del producto digital. Estas herramientas se organizan según las actividades que soportan: gestión del proyecto, diseño de producto, desarrollo de software, despliegue y documentación.
+
+#### Project Management y Requirements Management
+
+- [**Trello**](https://trello.com/): Herramienta visual utilizada para la planificación y seguimiento de tareas del proyecto. Facilita el trabajo en equipo mediante tableros compartidos.
+- [**Google Drive**](https://drive.google.com/) & [**Google Docs**](https://docs.google.com/): Plataforma de trabajo colaborativo para almacenar documentación, redactar informes y gestionar entregables todo en la nube.
+
+---
+
+#### Product UX/UI Design
+
+- [**Figma**](https://www.figma.com/): Herramienta principal para diseñar interfaces, crear wireframes y prototipos interactivos. Soporta colaboración en tiempo real.
+- [**Miro**](https://miro.com/): Plataforma para crear mapas mentales, flujos de usuario y esquemas de navegación, útil en fases iniciales del diseño y planificación.
+
+---
+
+#### Software Development
+
+- [**IntelliJ IDEA**](https://www.jetbrains.com/idea/): Entorno de desarrollo utilizado para programar el backend en Spring Boot. Ofrece herramientas avanzadas para depuración, testing y gestión de proyectos en Java.
+- [**Visual Studio Code (VS Code)**](https://code.visualstudio.com/): Editor de código utilizado para desarrollar la aplicación frontend en Angular. Ligero, extensible y con terminal integrada.
+- [**Angular**](https://angular.io/): Framework para construir la interfaz web del sistema. Permite desarrollar aplicaciones SPA modernas y mantenibles.
+- [**Angular Material**](https://material.angular.io/): Librería de componentes basada en Material Design que permite mantener un diseño coherente, accesible y profesional en la interfaz.
+- [**Spring Boot**](https://spring.io/projects/spring-boot): Framework Java para el desarrollo del backend. Facilita la creación de APIs RESTful que se comunican con el frontend y la base de datos.
+- [**Git**](https://git-scm.com/) + [**GitHub**](https://github.com/): Sistema de control de versiones distribuido para gestionar el código fuente, colaborar entre miembros del equipo y mantener el historial de cambios.
+
+---
+
+#### Software Deployment
+
+- [**GitHub Pages**](https://pages.github.com/): Servicio utilizado para el despliegue de la Landing Page estática del proyecto directamente desde un repositorio GitHub.
+- [**Railway**](https://railway.app/): Servicio en la nube empleado para desplegar tanto el frontend en Angular como el backend en Spring Boot. Estos entornos permiten exponer los servicios web y la aplicación de forma pública.
+
+---
+
+#### Software Documentation
+
+- [**Notion**](https://www.notion.so/): Espacio centralizado para almacenar documentación técnica y funcional del sistema, como manuales de usuario, decisiones de arquitectura y guías de uso.
+- [**Swagger**](https://swagger.io/): Herramienta para documentar y visualizar la API REST del backend desarrollado en Spring Boot. Permite probar endpoints desde una interfaz gráfica.
 
 
 <div id="512"><h3>5.1.2. Source Code Management</h3></div>
