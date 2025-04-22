@@ -999,7 +999,77 @@ Para mantener un historial claro y significativo de los cambios, el equipo utili
 
 <div id="513"><h3>5.1.3. Source Code Style Guide & Conventions</h3></div>
 
+Con el objetivo de mantener un código legible, limpio, coherente y fácilmente mantenible, se aplicarán guías de estilo y convenciones específicas para cada uno de los lenguajes y tecnologías utilizadas en el desarrollo del sistema.  
+Todas las variables, funciones, clases y elementos del sistema se nombrarán en inglés, siguiendo las convenciones estándar de nomenclatura y formato para cada lenguaje.
 
+---
+
+#### HTML / CSS
+
+- **Guía adoptada**: [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+- **Estructura**:
+  - El código HTML será indentado con 2 espacios (sin tabulaciones).
+  - Se dejarán líneas en blanco entre secciones para mejorar la legibilidad.
+- **Etiquetas**:
+  - Todas las etiquetas se cerrarán correctamente.
+  - Se evitará el uso de atributos innecesarios.
+  - Se usarán comillas dobles (`"`) para todos los valores de atributos.
+- **Nomenclatura CSS**:
+  - Se aplicará la metodología **BEM (Block Element Modifier)** para nombrar clases, mejorando la organización, escalabilidad y reutilización de estilos.
+
+---
+
+#### JavaScript / TypeScript
+
+- **Guías adoptadas**:
+  - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+  - [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)
+
+- **Formato**:
+  - `camelCase` para variables y funciones.
+  - `PascalCase` para clases y componentes.
+  - Uso exclusivo de `let` y `const` (evitar `var`).
+  - Inclusión de espacios alrededor de operadores y después de comas.
+
+- **Comentarios**:
+  - Se usarán comentarios claros y concisos.
+  - Los bloques complejos estarán documentados con `/* */`.
+
+- **Scope**:
+  - Las variables se definirán en el **scope más reducido posible**.
+
+---
+
+#### Angular (Frontend)
+
+- **Guía adoptada**: [Angular Style Guide](https://angular.io/guide/styleguide)
+
+- **Estructura del proyecto**:
+  - Cada componente tendrá su propio directorio con archivos: `.ts`, `.html`, `.css`, y `.spec.ts`.
+  - Se seguirá la convención: `feature-name.component.ts`.
+
+- **Nomenclatura**:
+  - Componentes: `PascalCase`
+  - Variables: `camelCase`
+  - Módulos: `PascalCase`
+
+- **Modularización**:
+  - El código se organizará por características (**feature-based folders**) para facilitar el mantenimiento y escalabilidad.
+
+---
+
+#### Java + Spring Boot (Backend)
+
+- **Guía adoptada**: [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) + buenas prácticas de Spring Boot.
+
+- **Estructura del proyecto**:
+  - Separación por capas: `controller`, `service`, `repository`, `dto`, `model`.
+  - Uso adecuado de anotaciones: `@Service`, `@RestController`, `@Repository`.
+
+- **Nomenclatura**:
+  - Clases: `PascalCase`
+  - Variables y métodos: `camelCase`
+  - Constantes: `MAYÚSCULAS_CON_GUIONES`
 
 <div id="514"><h3>5.1.4. Software Deployment Configuration</h3></div>
 
