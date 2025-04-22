@@ -415,6 +415,20 @@ En la aplicación empresarial proyectada, se implementará una visualización ma
 
 <div id="422"><h3>4.2.2. Labeling Systems</h3></div>
 
+A continuación, se presenta el sistema de etiquetado utilizado en la Landing Page de EMSafe, el cual busca representar de forma clara, concisa y accesible los distintos grupos de información. Las etiquetas seleccionadas tienen un lenguaje simple y directo para facilitar la navegación y evitar confusión en los usuarios.
+
+Actualmente, la Landing Page cuenta con secciones identificadas con headings claros y minimalistas, orientados a explicar el funcionamiento y propósito de la plataforma.
+
+| **Sección**     | **Descripción**                                                                                  |
+|------------------|--------------------------------------------------------------------------------------------------|
+| **Inicio**       | Presentación del nombre, descripción del sistema y llamado a la acción.                         |
+| **Características** | Funciones clave como monitoreo, análisis y alertas, explicadas de forma visual.                |
+| **Beneficios**   | Ventajas del sistema para usuarios individuales y empresas, mostradas en tarjetas.              |
+| **Problemática** | Contexto sobre los riesgos de la radiación y la necesidad de EMSafe.                            |
+| **Testimonios**  | Experiencias breves de distintos usuarios, etiquetados por rol y nombre.                        |
+| **Ubicación**    | Mapa que muestre la localización del equipo desarrollador del proyecto.                         |
+| **Contacto**     | Proyecto corto con campos básicos para recibir información o solicitar demo.                    |
+
 <div id="423"><h3>4.2.3. SEO Tags and Meta Tags</h3></div>
 
 <div id="424"><h3>4.2.4. Searching Systems</h3></div>
