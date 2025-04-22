@@ -226,24 +226,111 @@ El propósito es proteger la salud y promover espacios seguros, basándose en es
 
 <div id="121"><h3>1.2.1. Antecedenetes y problemática</h3></div>
 
-* **What (Qué):**
+* **What - ¿Cuál es el problema?**
 
+La exposición constante a la contaminación electromagnética generada por dispositivos tecnológicos (routers, teléfonos móviles, electrodomésticos, estaciones de telecomunicaciones) en entornos cotidianos, sin que exista una herramienta accesible, confiable y en tiempo real que permita a las personas y comunidades medir, monitorear y evaluar estos niveles de radiación no ionizante, lo que impide tomar decisiones informadas para reducir riesgos a la salud.
 
-* **Where (Dónde):**
+* **When - ¿Cuánto sucede el problema?**
 
-* **When (Cuándo):**
+El problema ocurre de manera continua y permanente, ya que los dispositivos emisores de radiación electromagnética están en funcionamiento las 24 horas del día, los 7 días de la semana. El riesgo se incrementa a medida que crece la cantidad y concentración de dispositivos tecnológicos en hogares, oficinas y espacios públicos.
 
-* **Who (Quién):**
+* **Where - ¿Dónde surge el problema?**
 
+Surge en hogares, oficinas, centros educativos, hospitales, zonas urbanas densamente pobladas y áreas cercanas a estaciones de telecomunicaciones, donde múltiples fuentes de radiación electromagnética coexisten y generan una acumulación de emisiones que afecta a las personas en su vida diaria.
 
-* **Why (Por qué):**
+* **Who - ¿Quiénes son afectados por el problema?**
 
+Principalmente:
 
-* **How (Cómo):**
+- Individuos y familias expuestos en sus hogares y lugares de trabajo.
 
+- Organizaciones y comunidades preocupadas por la salud de sus miembros.
 
-* **How Much (Cuánto):**
+- Entidades gubernamentales y autoridades sanitarias, encargadas de velar por el bienestar de la población.
 
+- Personas sensibles a los campos electromagnéticos (electrosensibles) que pueden experimentar síntomas físicos.
+
+* **Why - ¿Cuál es la causa del problema?**
+
+La causa principal es la creciente proliferación de dispositivos electrónicos inalámbricos y fuentes emisoras de radiación electromagnética, que funcionan de manera continua sin que los usuarios tengan conciencia de los niveles de exposición a los que están sometidos, ni herramientas simples y accesibles para medir y controlar esos niveles.
+
+* **How - ¿Cómo se manifiesta el problema?**
+
+Se manifiesta en:
+
+- Exposición constante a radiación no ionizante sin información precisa sobre los niveles presentes.
+
+- Posibles efectos adversos en la salud como dolores de cabeza, fatiga, insomnio o estrés.
+
+- Falta de control y toma de decisiones informadas, ya que los usuarios desconocen los riesgos o cómo reducirlos.
+
+- Carencia de sistemas accesibles y en tiempo real que permitan conocer, visualizar y actuar ante niveles elevados de contaminación electromagnética.
+
+* **How Much - ¿Cuál es la magnitud del problema?**
+
+El problema es cada vez mayor, ya que:
+
+- Se pronostica que el número de dispositivos del Internet de las Cosas (IoT) en todo el mundo casi se duplicará, pasando de 15.9 mil millones en 2023 a más de 32.1 mil millones de dispositivos IoT en 2030 (Sujay, 2024).
+
+- Las zonas urbanas concentran altos niveles de radiación debido a la densidad de redes WiFi, antenas y dispositivos.
+
+- A nivel global, miles de personas reportan síntomas relacionados con la exposición a CEM, y aunque no existe consenso médico absoluto, sí hay evidencias suficientes para recomendar medidas preventivas (Parrales, 2021, p. 28).
+
+- La magnitud también se refleja en la ausencia de soluciones accesibles y confiables para medir y gestionar esta exposición en tiempo real, especialmente en comunidades residenciales y organizaciones de mediano tamaño. 
+
+**Enunciado de problema:**
+
+La contaminación electromagnética generada por dispositivos tecnológicos en entornos urbanos y domésticos está en aumento, lo que genera preocupaciones sobre sus posibles efectos negativos en la salud (Parrales, 2021, p. 3). A pesar de la proliferación de dispositivos como teléfonos móviles, routers, electrodomésticos y estaciones de telecomunicaciones, no existe una herramienta accesible y precisa que permita a los usuarios, organizaciones y comunidades medir, evaluar y monitorear los niveles de radiación no ionizante en tiempo real. Esto dificulta la toma de decisiones informadas para minimizar la exposición y proteger la salud pública. 
+
+**Puntos importantes que debe resolver la solución propuesta:**
+
+* **Medición precisa y en tiempo real:**
+La plataforma debe proporcionar datos precisos y actualizados sobre los niveles de contaminación electromagnética generada por diversos dispositivos electrónicos.
+
+* **Visualización clara y accesible:** 
+Los usuarios deben poder visualizar los datos de radiación de forma clara y comprensible a través de la plataforma web, facilitando la interpretación en base a estos datos.
+
+* **Alertas automáticas:**
+La solución debe generar alertas automáticas cuando los niveles de radiación excedan los umbrales de seguridad establecidos por estándares internacionales.
+
+* **Recomendaciones personalizadas:** 
+La plataforma debe ofrecer recomendaciones personalizadas para reducir la exposición a la contaminación electromagnética en función de los datos recolectados.
+
+* **Integración con otros sistemas:** 
+La plataforma debe permitir la integración con otros sistemas mediante una API REST, lo que permitirá actualizar los datos en tiempo real y facilitar la gestión externa de la información.
+
+* **Escalabilidad y accesibilidad:** 
+Debe ser escalable para adaptarse a comunidades de diferentes tamaños y accesible para una amplia variedad de usuarios, desde individuos hasta grandes organizaciones.
+
+**Objetivos:**
+- Medir y evaluar en tiempo real la contaminación electromagnética generada por dispositivos tecnológicos en entornos urbanos y domésticos.
+
+- Proporcionar una plataforma web interactiva que permita a los usuarios acceder a datos precisos y actualizados sobre los niveles de radiación no ionizante.
+
+- Generar alertas automáticas cuando los niveles de radiación excedan los umbrales de seguridad establecidos por las normativas internacionales.
+
+- Ofrecer recomendaciones personalizadas a los usuarios para reducir su exposición a la contaminación electromagnética.
+
+- Facilitar la integración de la plataforma con otros sistemas mediante una API REST para mejorar la comunicación y la automatización de los procesos.
+
+- Promover la conciencia pública sobre los efectos de la contaminación electromagnética y fomentar la creación de espacios más seguros para la salud humana.
+
+**Restricciones que delimitan el alcance del proyecto:**
+
+* **Ámbito geográfico limitado:** 
+Inicialmente, la plataforma puede centrarse en áreas urbanas o regiones específicas antes de expandirse globalmente.
+
+* **Tipos de dispositivos medidos:** 
+La plataforma se centrará en la medición de radiación de dispositivos comunes como teléfonos móviles, routers y electrodomésticos. No se incluirán dispositivos industriales o equipos muy especializados en las primeras versiones.
+
+* **Normativas internacionales:**
+La plataforma debe basarse en los estándares internacionales establecidos para la medición y evaluación de la radiación no ionizante, pero no podrá abarcar todas las normativas locales o regionales de cada país.
+
+* **Dependencia de la infraestructura IoT:**
+El rendimiento de la plataforma dependerá de la red de sensores IoT desplegada, y su efectividad podría verse limitada por la disponibilidad y cobertura de estos sensores.
+
+* **Fase inicial de alertas y recomendaciones:**
+Las alertas automáticas y las recomendaciones personalizadas estarán disponibles solo para ciertos umbrales de radiación, con la posibilidad de expandir estas funcionalidades en versiones posteriores.
 
 <div id="122"><h3>1.2.2. Lean UX Process</h3></div>
 
