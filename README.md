@@ -42,25 +42,17 @@ width=30%"/>
 ## Team members:
 | Nombre |Código|
 |:-------:|:----------:|
-<<<<<<< feature/Sprint-1
-|fabio|-|
+|Nicolich Alvis, Fabio Maurizio |U202218791|
 |Gongora Castillejos,Williams Jesus|U20221C186|
-=======
-|Nicolich Alvis, Fabio Maurizio|U202218791|
-|Gongora Castillejos, Williams Jesus|U20221C186|
 |-|-|
->>>>>>> develop
 |-|-|
-|Lopez de la Cruz, Mauro Fabricio|U202215695|
+|Lopez de la Cruz Mauro Fabricio|U202215695|
 
 </br></br>
 
 ## Registro de versiones del informe
 
 
-|Versión|Fecha|Autor|Descripción de modificación|
-|:-:|:-:|:-:|:-:|
-|TB1|||Creación del documento de trabajo en formato markdown, capítulo I, capítulo II, capítulo III, capítulo IV y capítulo V    |
 
 
 </br></br>
@@ -200,11 +192,34 @@ El curso contribuye al cumplimiento del Student Outcome ABET:</br>
 
 </br>
 
-| **Criterio específico**| **Acciones realizadas**| **Conclusiones**|
-|--|--|--|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Gongora Castillejos, Williams**<br>**TB1:** | - |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Gongora Castillejos, Williams**<br>**TB1:** | - |
+**Criterio específico:**
+Comunica oralmente con efectividad a diferentes rangos de audiencia
 
+| Acción Realizada | Participantes          | Descripción |
+|------------------|------------------------|-------------|
+| TB1              | Lopez de La Cruz, Fabricio | Identificación de Problemáticas:<br>Realicé una investigación preliminar para entender los problemas y necesidades del usuario.<br>Analicé el contexto y el mercado para identificar desafíos y oportunidades.<br>Documentación y Comunicación:<br>Generación de Documentación: Creé documentación completa de procesos, decisiones y resultados. |
+| TB1              | Orellana Rodriguez, Andree  | Definición de Requisitos:<br>User Stories: Redacté historias de usuario que detallan los requisitos funcionales.<br>Modelado de Solución: Representé la solución visualmente con diagramas y otros artefactos.<br>Documentación y Comunicación:<br>Generación de Documentación: Creé documentación completa de procesos, decisiones y resultados. |
+| TB1              | Espinoza Ayquipa, Esteban  | Diseño Visual y Prototipado:<br>Principios de Diseño: Creé una propuesta visual coherente.<br>Prototipos: Creé y refiné diseños interactivos.<br>Documentación y Comunicación:<br>Generación de Documentación: Creé documentación completa de procesos, decisiones y resultados. |
+| TB1              | Gongora Castillejos, Williams | Implementación de Landing Page:<br>Desarrollo: Implementé la Landing Page, servicios del servidor y aplicaciones web con los lenguajes, frameworks y herramientas especificados.<br>Documentación y Comunicación:<br>Generación de Documentación: Creé documentación completa de procesos, decisiones y resultados. |
+| TB1              | Nicolich Alvis, Fabio | Aplicación del Proceso Lean UX:<br>Segmentación de Objetivos: Definí objetivos según las necesidades.<br>Lean UX Canvas: Resumí la información en un Lean UX Canvas para una visión general y hoja de ruta del proyecto.<br>Documentación y Comunicación:<br>Generación de Documentación: Creé documentación completa de procesos, decisiones y resultados. |
+
+**Conclusiones**
+La incorporación de Lean UX y UX Research nos permitió comprender a fondo las necesidades de los usuarios y establecer con precisión los requisitos del proyecto. Esto contribuyó a la definición de User Stories y al desarrollo de un diseño visual sólido para la Landing Page y las aplicaciones web. Además, la adopción del patrón Domain Driven Design junto con tecnologías actualizadas nos permitió cumplir con los objetivos definidos en el product backlog y satisfacer los requisitos del sprint, asegurando una solución integral y funcional.
+
+**Criterio específico**
+Comunica por escrito con efectividad a diferentes rangos de audiencia
+
+| Acción Realizada | Participantes          | Descripción |
+|------------------|------------------------|-------------|
+| TB1              | Gongora Castillejos, Williams | Ejecución y Documentación de Procesos:<br>Lean UX y UX Research: Documenté procesos como User Personas, Task Matrix y Journey Maps.<br> |
+| TB1              | Orellana Rodriguez, Andree | Validación y Retroalimentación:<br>Validation Interviews: Entrevisté a representantes de User Personas para obtener feedback.<br>Identificación de Hallazgos: Documenté y abordé problemas encontrados en las entrevistas. |
+| TB1              | Espinoza Ayquipa, Esteban | Ejecución y Documentación de Procesos:<br>Design y Prototyping: Desarrollé y documenté el diseño visual y los prototipos. |
+| TB1              | Nicolich Alvis, Fabio Maurizio | Aplicación de Buenas Prácticas de Programación:<br>Convenciones y Nomenclatura: Seguí las convenciones de nomenclatura para consistencia y claridad. |
+| TB1              | Lopez de La Cruz, Fabricio | Ejecución y Documentación de Procesos:<br>Lean UX y UX Research: Documenté y ejecuté Lean UX y UX Research, incluyendo User Personas, Task Matrix y Journey Maps.<br>Design y Prototyping: Desarrollé y documenté el diseño visual y los prototipos. |
+
+
+#### Conclusiones
+El uso correcto de lenguajes de programación, herramientas especializadas y la aplicación de buenas prácticas y convenciones permitió una implementación efectiva y colaborativa del proyecto. La aplicación disciplinada de Lean UX, UX Research y metodologías ágiles, junto con una documentación bien elaborada, garantizó el desarrollo de una solución sólida y validada a través de entrevistas con User Personas. Además, el enfoque en la mejora continua facilitará la actualización y optimización de los artefactos en función de nuevos hallazgos y recomendaciones. Finalmente, se mantuvo una comunicación clara y precisa de la propuesta a lo largo del proceso.
 
 <br>
 
@@ -220,7 +235,7 @@ El propósito es proteger la salud y promover espacios seguros, basándose en es
 
 |Descripción del integrante|Perfil del integrante del equipo|
 | :--------| :--------:|
-|Soy estudiante de Ingeniería de Software, cursando actualmente el quinto ciclo de la carrera. Me destaco por ser responsable, proactivo y poseer sólidas habilidades de liderazgo. Estoy comprometido con el trabajo en equipo, fomentando una comunicación efectiva y colaborativa para alcanzar resultados sobresalientes. Mi enfoque está en garantizar la calidad y el éxito de los proyectos, aportando creatividad, esfuerzo y dedicación en cada etapa del desarrollo. Cuento con conocimientos en lenguajes como C++, HTML, CSS, JavaScript y Python, y estoy enfocado en aprender a crear proyectos utilizando frameworks como Angular y Vue.|![fabio](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/)|
+|Soy estudiante de Ingeniería de Software, cursando actualmente el quinto ciclo de la carrera. Me destaco por ser responsable, proactivo y poseer sólidas habilidades de liderazgo. Estoy comprometido con el trabajo en equipo, fomentando una comunicación efectiva y colaborativa para alcanzar resultados sobresalientes. Mi enfoque está en garantizar la calidad y el éxito de los proyectos, aportando creatividad, esfuerzo y dedicación en cada etapa del desarrollo. Cuento con conocimientos en lenguajes como C++, HTML, CSS, JavaScript, TypeScript y Python, y estoy enfocado en aprender a crear proyectos utilizando frameworks como Angular y Vue.|![Fabio](https://github.com/user-attachments/assets/4b9ef061-61ec-4ff8-b51f-b3ebc5209d7c)|
 | Mi nombre es **Williams Jesús Góngora Castillejos** y soy estudiante de la carrera de Ingeniería de Software. Me considero una persona inteligente en todo lo que conlleva a números y razonamiento intuitivo, además de ser creativo para generar soluciones como ingeniero. Cuento con conocimientos en SQL, C++ y Python. Dentro de mis habilidades interpersonales, soy amable, empático y trato de establecer confianza entre mis compañeros para realizar un mejor trabajo en equipo. |![williams](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/williams.jpg)|
 |-|-foto|
 |-|-foto|
