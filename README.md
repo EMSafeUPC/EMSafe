@@ -399,6 +399,20 @@ La web estará optimizada para cargar de forma rápida y eficiente, minimizando 
 
 <div id="421"><h3>4.2.1. Organization Systems</h3></div>
 
+Esta sección describe los sistemas de organización implementados tanto en la Landing Page actual como en futuras versiones de la plataforma EMSafe. Se definen los esquemas jerárquicos, secuenciales y temáticos utilizados para estructurar la información de manera clara, eficiente y alineada con los objetivos del proyecto. Esto garantiza una navegación fluida y una experiencia coherente para los distintos tipos de usuarios.
+
+**Grupo de Usuarios 1: Personas interesadas en su salud**
+**Organización jerárquica:**
+La estructura de la landing está pensada para captar rápidamente la atención de este perfil de usuario. Se presenta primero la propuesta de valor "Protege tu entorno de la radiación electromagnética", seguida de las características principales del sistema, sus beneficios a nivel personal, la problemática global, testimonios de usuarios reales y finalmente el contacto. Esta jerarquía permite al visitante comprender de forma progresiva cómo EMSafe puede ayudarle directamente en su vida diaria.
+Categorización por tópicos:
+La información está dividida en secciones temáticas (Características, Beneficios, Problemática, Testimonios), permitiendo a los usuarios enfocarse en los aspectos que más les interesan de manera rápida y directa.
+
+**Grupo de Usuarios 2: Empresas con alta maquinaria electromagnética**
+**Organización jerárquica:**
+Este tipo de usuario encuentra primero información orientada al valor organizacional del sistema: monitoreo en tiempo real, prevención de riesgos laborales y cumplimiento normativo. Luego, se presenta evidencia del impacto positivo (testimonios de empresas) y un formulario de contacto para solicitar una demo adaptada a sus necesidades.
+Organización matricial:
+En la aplicación empresarial proyectada, se implementará una visualización matricial que permita monitorear múltiples sensores distribuidos por áreas o locaciones, facilitando el análisis simultáneo y la detección de puntos críticos dentro de la infraestructura de la empresa.
+
 <div id="422"><h3>4.2.2. Labeling Systems</h3></div>
 
 <div id="423"><h3>4.2.3. SEO Tags and Meta Tags</h3></div>
