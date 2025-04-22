@@ -360,30 +360,67 @@ Sabremos que hemos tenido éxito cuando logremos:
 
 <div id="1222"><h4>1.2.2.2. Lean UX Assumptions</h4></div>
 
-<h4>1.2.2.2.1. Assumptions Worksheet</h4>
+En esta sección se detallan las suposiciones relacionadas con los resultados esperados del sistema de monitoreo en tiempo real de contaminación electromagnética. Estas suposiciones se organizan en tres categorías: Business Outcomes, que contemplan los beneficios comerciales y mejoras en la gestión ambiental; User Outcomes, enfocados en cómo usuarios, organizaciones y comunidades se beneficiarán al conocer y controlar los niveles de radiación en su entorno; y User Outcomes Assumptions, que examinan las necesidades, intereses y comportamientos de los usuarios que fundamentan las suposiciones anteriores. Cada categoría busca garantizar que la plataforma cumpla tanto con los objetivos comerciales como con las expectativas de quienes la utilizarán.
 
-1. **¿Quién es el usuario?**
+**Business Outcomes**
 
+1) Creemos que al implementar nuestra plataforma de monitoreo continuo de contaminación electromagnética basada en IoT, podremos aumentar en un 50% la cantidad de hogares, oficinas y comunidades que monitorean activamente sus niveles de radiación no ionizante.
 
+2) Creemos que al ofrecer alertas automáticas y recomendaciones personalizadas en tiempo real, lograremos reducir en un 30% los niveles de exposición en los entornos monitoreados, mediante ajustes informados y decisiones preventivas.
 
-2. **¿Dónde encaja nuestro producto en su trabajo o vida?**
-   
+3) Creemos que al proporcionar reportes visuales, comprensibles y respaldados por estándares internacionales, incrementaremos en un 40% la conciencia pública y organizacional sobre los riesgos asociados a la contaminación electromagnética.
 
+4) Creemos que al entregar una plataforma accesible, intuitiva y basada en datos en la nube, obtendremos una satisfacción de usuario superior al 85% respecto a la facilidad de uso y claridad de la información.
 
-3. **¿Qué problemas tiene nuestro producto? ¿Resolver?**
-   
+5) Creemos que al integrar esta solución con dashboards de análisis en tiempo real y registros históricos, permitiremos a los usuarios reducir en un 25% los comportamientos de riesgo relacionados con una alta exposición electromagnética.
 
+**Business Outcomes Assumptions**
 
-4. **¿Cuándo y cómo es nuestro producto utilizado?**
-   
+1) Creemos que la falta de monitoreo continuo y accesible de la contaminación electromagnética en hogares, oficinas y comunidades urbanas es un problema que afecta la salud y el bienestar de las personas.
 
-5. **¿Qué características son importantes?**
+2) Creemos que los usuarios, organizaciones y municipalidades estarán interesados en adoptar una plataforma de monitoreo ambiental que les permita conocer, gestionar y reducir su exposición a la radiación no ionizante, especialmente si esta es accesible, fácil de usar y basada en datos en tiempo real.
 
+3) Creemos que al implementar una solución que integre sensores IoT con monitoreo en tiempo real y alertas automáticas, los usuarios podrán crear entornos más seguros, alineados con las recomendaciones de organismos internacionales.
 
+4) Creemos que las personas y organizaciones valoran la automatización en la generación de reportes y alertas personalizadas, ya que permite tomar decisiones rápidas y fundamentadas sin necesidad de conocimientos técnicos especializados.
 
-6. **¿Cómo debe verse nuestro producto y cómo comportarse?**
-   
+5) Creemos que tanto usuarios particulares como empresas están interesados en soluciones que ofrezcan análisis visuales, históricos y predictivos sobre su exposición electromagnética para prevenir riesgos a largo plazo en su entorno personal y laboral.
 
+**User Outcomes**
+
+1) Creemos que al ofrecer un sistema que permita monitorear en tiempo real los niveles de contaminación electromagnética, los usuarios podrán tomar decisiones más rápidas y acertadas para reducir su exposición en entornos cotidianos.
+
+2) Creemos que al proporcionar una plataforma intuitiva y visual, cualquier persona podrá interpretar fácilmente los niveles de radiación en su entorno y tomar medidas preventivas.
+
+3) Creemos que al permitir el acceso remoto a los datos de exposición electromagnética, organizaciones y comunidades podrán gestionar de forma centralizada la seguridad ambiental de múltiples espacios, sin necesidad de realizar mediciones físicas constantes.
+
+4) Creemos que al ofrecer reportes históricos y análisis de tendencias, los usuarios podrán identificar patrones de exposición elevados o recurrentes en ciertos momentos o zonas, facilitando acciones preventivas más efectivas.
+
+5) Creemos que al incluir recomendaciones personalizadas basadas en los niveles detectados y en estándares internacionales, los usuarios podrán aplicar cambios prácticos y contextualizados para crear entornos más saludables y seguros.
+
+**User Outcomes Assumptions**
+
+1) Creemos que las personas y organizaciones necesitan acceso inmediato, claro y continuo a los niveles de contaminación electromagnética para tomar decisiones informadas que protejan su salud y bienestar.
+
+2) Creemos que los usuarios desean una plataforma simple y accesible que les permita recibir alertas automáticas sobre niveles elevados de radiación, sin tener que realizar mediciones manuales o interpretar datos técnicos.
+
+3) Creemos que los usuarios se sienten frustrados con las soluciones actuales de monitoreo esporádico y técnico, que son inaccesibles, complejas y no permiten reaccionar de manera rápida ante situaciones de riesgo.
+
+4) Creemos que los usuarios valoran herramientas que optimicen su tiempo y esfuerzo, evitando tener que recurrir a personal especializado o a costosos estudios para conocer el estado electromagnético de su entorno.
+
+5) Creemos que tanto familias, como profesionales y organizaciones, necesitan un sistema confiable que les brinde tranquilidad, sabiendo que serán notificados oportunamente cuando existan niveles peligrosos de radiación en sus espacios.
+
+**Features Assumptions**
+
+1) Creemos que agregar un dashboard centralizado que muestre en tiempo real los niveles de contaminación electromagnética permitirá a los usuarios monitorear múltiples entornos a la vez, mejorando la gestión ambiental de hogares, oficinas y comunidades.
+
+2) Creemos que implementar alertas automáticas basadas en umbrales de radiación permitirá a las personas y organizaciones reaccionar rápidamente ante niveles peligrosos, sin tener que revisar continuamente la plataforma.
+
+3) Creemos que la función de acceso remoto a los datos de exposición electromagnética permitirá a los usuarios consultar el estado de sus espacios desde cualquier lugar, lo que facilitará la gestión ambiental sin necesidad de presencia física.
+
+4) Creemos que agregar un historial de mediciones y reportes personalizables permitirá a los usuarios visualizar tendencias, identificar patrones de riesgo y tomar decisiones informadas sobre los cambios necesarios en sus entornos.
+
+5) Creemos que la integración de una interfaz intuitiva, clara y simple permitirá que cualquier persona, sin conocimientos técnicos, pueda utilizar la plataforma de monitoreo de forma rápida y sin necesidad de entrenamiento especializado, reduciendo las barreras de adopción.
 
 <div id="1223"><h4>1.2.2.3. Lean UX Hypothesis Statements</h4></div>
 
