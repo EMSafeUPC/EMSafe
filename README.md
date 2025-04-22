@@ -949,6 +949,24 @@ En esta sección se muestran los mock-ups de las aplicaciones web, creados con b
 
 <div id="45"><h3>4.5. Web Applications Prototyping</h3></div>
 
+En esta sección se presentan los prototipos desarrollados que simulan la navegación e interacción según los User Flow Diagrams establecidos. A continuación, se detallan los criterios clave que guiaron las decisiones de diseño e interacción:
+
+* **Estructura jerárquica clara:** La información está organizada por niveles de prioridad, permitiendo que las funciones críticas como monitoreo, alarmas y gestión de dispositivos estén siempre accesibles.
+
+* **Sistema de navegación consistente:** Se emplea un menú lateral persistente en desktop y un menú desplegable en mobile, facilitando el acceso rápido a todos los módulos del sistema.
+
+* **Agrupación de contenido por tareas:** Cada pantalla está orientada a una acción específica del usuario, como visualizar datos históricos o configurar dispositivos.
+
+* **Retroalimentación visual constante:** Se utilizan indicadores, alertas y estados visibles que informan al usuario sobre la actividad del sistema en tiempo real.
+
+* **Interacción centrada en el rol del usuario:** Las rutas y accesos se adaptan según el tipo de usuario, priorizando la seguridad y eficiencia en la navegación.
+
+![Image](https://github.com/user-attachments/assets/4e1ea3fa-9312-4875-9524-b5e5b542d99d)
+
+Enlace Prototyping: [Enlace Prototyping](https://kzmn783d18bhu2ibppvs.lite.vusercontent.net/)
+
+Enlace Video Explicación: [Video Explicación](https://drive.google.com/file/d/1BNS0XPBX7lb__Z1vwW7h488A4jqfWekX/view?usp=sharing)
+
 
 <div id="46"><h2>4.6. Domain-Driven Software Architecture</h2></div>
 
