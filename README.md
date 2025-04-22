@@ -366,12 +366,18 @@ Buscamos un nombre que fuera claro, directo y fácil de recordar, pero que tambi
 Elegir un nombre con significado refuerza la identidad de la marca y nos diferencia frente a otras propuestas, facilitando que nuestro público identifique rápidamente el propósito del servicio y se sienta atraído por la solución que ofrecemos.
 Logo de EMSafe:
 
+![Image](https://github.com/user-attachments/assets/cfd18c2b-11c7-44d6-9592-088cfb9344a7)
+
 **Typography**
 Para EMSafe se eligió la tipografía Poppins por su estilo moderno, limpio y geométrico, alineado con la identidad tecnológica de la plataforma. Su buena legibilidad y versatilidad en distintos pesos permite organizar la información de forma clara y jerárquica. Además, al estar optimizada para web, asegura una experiencia fluida en todos los dispositivos.
+
+![Image](https://github.com/user-attachments/assets/1af30274-0c13-4a76-85c8-c17461db6992)
 
 **Colors**
 Se usará una paleta que refuerce la identidad de EMSafe, transmitiendo tecnología, confianza y bienestar. El azul profundo representa profesionalismo y seguridad, mientras que el púrpura aporta un toque distintivo y moderno. Como acento, el cian sugiere innovación y frescura, guiando la atención del usuario en elementos clave.
 Los fondos claros y tarjetas blancas aseguran una interfaz limpia y legible, mientras que los grises complementan la composición con sobriedad y contraste visual. Esta combinación permite construir una experiencia coherente, accesible y visualmente equilibrada.
+
+![Image](https://github.com/user-attachments/assets/8a0d3d31-3b1f-41f4-a582-5dd854009c38)
 
 **Spacing**
 Tanto en la Landing Page como en la aplicación se utiliza un espaciado limpio y equilibrado para mejorar la legibilidad, evitar la sobrecarga visual y facilitar la navegación. El uso estratégico de espacios en blanco ayuda a organizar el contenido, dar respiro a la vista y guiar la atención del usuario hacia la información más relevante.
