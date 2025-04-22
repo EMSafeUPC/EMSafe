@@ -40,13 +40,7 @@ width=30%"/>
 </div>
 
 ## Team members:
-| Nombre |Código|
-|:-------:|:----------:|
-|fabio|-|
-|Gongora Castillejos,Williams Jesus|U20221C186|
-|-|-|
-|-|-|
-|Lopez de la Cruz Mauro Fabricio|U202215695|
+
 
 </br></br>
 
@@ -71,10 +65,10 @@ Para el desarrollo del informe correspondiente a la entrega TB1, se estableció 
 
 |Integrante|Tareas Asignadas|
 |-|-|
-|Williams Gongora Castilejos|-|
+|Williams Gongora|-|
+|Fabio Nicolich|-|
 |-|-|
-|-|-|
-|Lopez de la Cruz Mauro Fabricio|-|
+|Fabricio Lopez|-|
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
 
@@ -85,7 +79,7 @@ El proceso de colaboración en el informe se realizó mediante commits constante
 Los integrantes son:
 
 * Williams Gongora (WiJeGo)
-* 
+* Fabio Nicolich (Nicolini03)
 * 
 * Fabricio Lopez (lopezFABRAX)
 * 
@@ -207,13 +201,15 @@ El curso contribuye al cumplimiento del Student Outcome ABET:</br>
 <div id="11"><h2>1.1. Startup Profile</h2></div>
 <div id="111"><h3>1.1.1. Descripción de la Startup</h3></div>
 
-
+La plataforma web permite a usuarios, organizaciones y comunidades monitorear y evaluar en tiempo real la contaminación electromagnética generada por dispositivos tecnológicos que forman parte de su entorno diario. A través de servicios de análisis, medición y visualización, se proporcionan datos precisos sobre los niveles de radiación no ionizante emitida por routers, teléfonos móviles, electrodomésticos y estaciones de telecomunicaciones.
+Para lograrlo, se implementa una red de sensores IoT que detectan y transmiten datos de campos electromagnéticos mediante protocolos como WiFi. Estos sensores envían las mediciones a una infraestructura en la nube, donde la plataforma web centralizada procesa y almacena los datos, generando reportes en tiempo real. Además, mediante una API REST, se facilita la integración con otros sistemas y la recepción de actualizaciones en tiempo real, garantizando una comunicación fluida y eficiente entre sensores, servidor y usuarios.
+El propósito es proteger la salud y promover espacios seguros, basándose en estándares internacionales, mediante alertas automáticas y recomendaciones personalizadas que permiten tomar decisiones informadas y reducir la exposición a fuentes de radiación electromagnética.
 
 <div id="111"><h3>1.1.2. Perfiles de integrantes del equipo</h3></div>
 
 |Descripción del integrante|Perfil del integrante del equipo|
 | :--------| :--------:|
-|-|-foto|
+|Soy estudiante de Ingeniería de Software, cursando actualmente el quinto ciclo de la carrera. Me destaco por ser responsable, proactivo y poseer sólidas habilidades de liderazgo. Estoy comprometido con el trabajo en equipo, fomentando una comunicación efectiva y colaborativa para alcanzar resultados sobresalientes. Mi enfoque está en garantizar la calidad y el éxito de los proyectos, aportando creatividad, esfuerzo y dedicación en cada etapa del desarrollo. Cuento con conocimientos en lenguajes como C++, HTML, CSS, JavaScript y Python, y estoy enfocado en aprender a crear proyectos utilizando frameworks como Angular y Vue.|![fabio](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/)|
 | Mi nombre es **Williams Jesús Góngora Castillejos** y soy estudiante de la carrera de Ingeniería de Software. Me considero una persona inteligente en todo lo que conlleva a números y razonamiento intuitivo, además de ser creativo para generar soluciones como ingeniero. Cuento con conocimientos en SQL, C++ y Python. Dentro de mis habilidades interpersonales, soy amable, empático y trato de establecer confianza entre mis compañeros para realizar un mejor trabajo en equipo. |![williams](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/williams.jpg)|
 |-|-foto|
 |-|-foto|
@@ -222,78 +218,285 @@ El curso contribuye al cumplimiento del Student Outcome ABET:</br>
 
 <div id="12"><h3>1.2. Solution Profile</h3></div>
 
+Esta sección se divide en dos apartados. El primero, Antecedentes y Problemática, presenta la definición del problema, junto con una descripción de los aspectos clave que la solución debe abordar, además de establecer los objetivos y restricciones que determinan el alcance del proyecto. El segundo apartado, Lean UX Process, muestra los resultados obtenidos tras aplicar este enfoque metodológico en el contexto del problema planteado.
+
 <div id="121"><h3>1.2.1. Antecedenetes y problemática</h3></div>
 
-* **What (Qué):**
+* **What - ¿Cuál es el problema?**
 
+La exposición constante a la contaminación electromagnética generada por dispositivos tecnológicos (routers, teléfonos móviles, electrodomésticos, estaciones de telecomunicaciones) en entornos cotidianos, sin que exista una herramienta accesible, confiable y en tiempo real que permita a las personas y comunidades medir, monitorear y evaluar estos niveles de radiación no ionizante, lo que impide tomar decisiones informadas para reducir riesgos a la salud.
 
-* **Where (Dónde):**
+* **When - ¿Cuánto sucede el problema?**
 
-* **When (Cuándo):**
+El problema ocurre de manera continua y permanente, ya que los dispositivos emisores de radiación electromagnética están en funcionamiento las 24 horas del día, los 7 días de la semana. El riesgo se incrementa a medida que crece la cantidad y concentración de dispositivos tecnológicos en hogares, oficinas y espacios públicos.
 
-* **Who (Quién):**
+* **Where - ¿Dónde surge el problema?**
 
+Surge en hogares, oficinas, centros educativos, hospitales, zonas urbanas densamente pobladas y áreas cercanas a estaciones de telecomunicaciones, donde múltiples fuentes de radiación electromagnética coexisten y generan una acumulación de emisiones que afecta a las personas en su vida diaria.
 
-* **Why (Por qué):**
+* **Who - ¿Quiénes son afectados por el problema?**
 
+Principalmente:
 
-* **How (Cómo):**
+- Individuos y familias expuestos en sus hogares y lugares de trabajo.
 
+- Organizaciones y comunidades preocupadas por la salud de sus miembros.
 
-* **How Much (Cuánto):**
+- Entidades gubernamentales y autoridades sanitarias, encargadas de velar por el bienestar de la población.
 
+- Personas sensibles a los campos electromagnéticos (electrosensibles) que pueden experimentar síntomas físicos.
+
+* **Why - ¿Cuál es la causa del problema?**
+
+La causa principal es la creciente proliferación de dispositivos electrónicos inalámbricos y fuentes emisoras de radiación electromagnética, que funcionan de manera continua sin que los usuarios tengan conciencia de los niveles de exposición a los que están sometidos, ni herramientas simples y accesibles para medir y controlar esos niveles.
+
+* **How - ¿Cómo se manifiesta el problema?**
+
+Se manifiesta en:
+
+- Exposición constante a radiación no ionizante sin información precisa sobre los niveles presentes.
+
+- Posibles efectos adversos en la salud como dolores de cabeza, fatiga, insomnio o estrés.
+
+- Falta de control y toma de decisiones informadas, ya que los usuarios desconocen los riesgos o cómo reducirlos.
+
+- Carencia de sistemas accesibles y en tiempo real que permitan conocer, visualizar y actuar ante niveles elevados de contaminación electromagnética.
+
+* **How Much - ¿Cuál es la magnitud del problema?**
+
+El problema es cada vez mayor, ya que:
+
+- Se pronostica que el número de dispositivos del Internet de las Cosas (IoT) en todo el mundo casi se duplicará, pasando de 15.9 mil millones en 2023 a más de 32.1 mil millones de dispositivos IoT en 2030 (Sujay, 2024).
+
+- Las zonas urbanas concentran altos niveles de radiación debido a la densidad de redes WiFi, antenas y dispositivos.
+
+- A nivel global, miles de personas reportan síntomas relacionados con la exposición a CEM, y aunque no existe consenso médico absoluto, sí hay evidencias suficientes para recomendar medidas preventivas (Parrales, 2021, p. 28).
+
+- La magnitud también se refleja en la ausencia de soluciones accesibles y confiables para medir y gestionar esta exposición en tiempo real, especialmente en comunidades residenciales y organizaciones de mediano tamaño. 
+
+**Enunciado de problema:**
+
+La contaminación electromagnética generada por dispositivos tecnológicos en entornos urbanos y domésticos está en aumento, lo que genera preocupaciones sobre sus posibles efectos negativos en la salud (Parrales, 2021, p. 3). A pesar de la proliferación de dispositivos como teléfonos móviles, routers, electrodomésticos y estaciones de telecomunicaciones, no existe una herramienta accesible y precisa que permita a los usuarios, organizaciones y comunidades medir, evaluar y monitorear los niveles de radiación no ionizante en tiempo real. Esto dificulta la toma de decisiones informadas para minimizar la exposición y proteger la salud pública. 
+
+**Puntos importantes que debe resolver la solución propuesta:**
+
+* **Medición precisa y en tiempo real:**
+La plataforma debe proporcionar datos precisos y actualizados sobre los niveles de contaminación electromagnética generada por diversos dispositivos electrónicos.
+
+* **Visualización clara y accesible:** 
+Los usuarios deben poder visualizar los datos de radiación de forma clara y comprensible a través de la plataforma web, facilitando la interpretación en base a estos datos.
+
+* **Alertas automáticas:**
+La solución debe generar alertas automáticas cuando los niveles de radiación excedan los umbrales de seguridad establecidos por estándares internacionales.
+
+* **Recomendaciones personalizadas:** 
+La plataforma debe ofrecer recomendaciones personalizadas para reducir la exposición a la contaminación electromagnética en función de los datos recolectados.
+
+* **Integración con otros sistemas:** 
+La plataforma debe permitir la integración con otros sistemas mediante una API REST, lo que permitirá actualizar los datos en tiempo real y facilitar la gestión externa de la información.
+
+* **Escalabilidad y accesibilidad:** 
+Debe ser escalable para adaptarse a comunidades de diferentes tamaños y accesible para una amplia variedad de usuarios, desde individuos hasta grandes organizaciones.
+
+**Objetivos:**
+- Medir y evaluar en tiempo real la contaminación electromagnética generada por dispositivos tecnológicos en entornos urbanos y domésticos.
+
+- Proporcionar una plataforma web interactiva que permita a los usuarios acceder a datos precisos y actualizados sobre los niveles de radiación no ionizante.
+
+- Generar alertas automáticas cuando los niveles de radiación excedan los umbrales de seguridad establecidos por las normativas internacionales.
+
+- Ofrecer recomendaciones personalizadas a los usuarios para reducir su exposición a la contaminación electromagnética.
+
+- Facilitar la integración de la plataforma con otros sistemas mediante una API REST para mejorar la comunicación y la automatización de los procesos.
+
+- Promover la conciencia pública sobre los efectos de la contaminación electromagnética y fomentar la creación de espacios más seguros para la salud humana.
+
+**Restricciones que delimitan el alcance del proyecto:**
+
+* **Ámbito geográfico limitado:** 
+Inicialmente, la plataforma puede centrarse en áreas urbanas o regiones específicas antes de expandirse globalmente.
+
+* **Tipos de dispositivos medidos:** 
+La plataforma se centrará en la medición de radiación de dispositivos comunes como teléfonos móviles, routers y electrodomésticos. No se incluirán dispositivos industriales o equipos muy especializados en las primeras versiones.
+
+* **Normativas internacionales:**
+La plataforma debe basarse en los estándares internacionales establecidos para la medición y evaluación de la radiación no ionizante, pero no podrá abarcar todas las normativas locales o regionales de cada país.
+
+* **Dependencia de la infraestructura IoT:**
+El rendimiento de la plataforma dependerá de la red de sensores IoT desplegada, y su efectividad podría verse limitada por la disponibilidad y cobertura de estos sensores.
+
+* **Fase inicial de alertas y recomendaciones:**
+Las alertas automáticas y las recomendaciones personalizadas estarán disponibles solo para ciertos umbrales de radiación, con la posibilidad de expandir estas funcionalidades en versiones posteriores.
 
 <div id="122"><h3>1.2.2. Lean UX Process</h3></div>
 
+En esta parte se implementa el Lean UX Process, abordando la visión del modelo de negocio que respaldará al producto de software. Se incluyen los Problem Statements, que contemplan elementos como el dominio, los segmentos de clientes, los puntos de dolor, las brechas, la visión/estrategia y el segmento inicial. Además, se definen las Assumptions y los Hypothesis Statements de acuerdo con la metodología Lean UX. Finalmente, se presenta el Lean UX Canvas que resume y organiza estos elementos.
+
 <div id="1221"><h4>1.2.2.1. Lean UX Problem Statements</h4></div>
 
-</br>
+El estado actual en la gestión y monitoreo de la contaminación electromagnética en hogares, oficinas, comunidades y zonas urbanas se ha centrado principalmente en mediciones esporádicas, manuales y con equipos especializados de difícil acceso para la mayoría de personas y organizaciones. 
 
-|Problem Statement|
-|:----:|
-|-|
-|-|
-|-|
+Lo que los productos y servicios existentes no logran abordar es la falta de una solución accesible, integrada y automatizada que aproveche la tecnología IoT para ofrecer una supervisión continua y en tiempo real de los niveles de radiación no ionizante generada por dispositivos tecnológicos como routers, teléfonos móviles, electrodomésticos y estaciones de telecomunicaciones. Actualmente, las alternativas son fragmentadas, estáticas y no permiten una visualización centralizada ni la capacidad de tomar decisiones informadas basadas en datos actualizados al instante (Sujay, 2024, p. 7).
 
-</br>
+Nuestro producto abordará esta brecha mediante el desarrollo de una plataforma web de monitoreo de contaminación electromagnética basada en IoT. Este sistema integrará una red de sensores inteligentes capaces de detectar y medir de manera continua los niveles de radiación no ionizante en diferentes entornos. Los datos se transmitirán en tiempo real a una infraestructura en la nube, donde serán procesados, almacenados y analizados para detectar niveles elevados o comportamientos anómalos. Además, la plataforma generará alertas automáticas, reportes personalizados y recomendaciones específicas para reducir la exposición, permitiendo a los usuarios, organizaciones y comunidades tomar decisiones proactivas y fundamentadas.
+
+Inicialmente, centraremos nuestra atención en hogares, oficinas y comunidades urbanas que buscan crear entornos más saludables y seguros, alineados con las recomendaciones de organismos internacionales, brindando herramientas accesibles y visuales para quienes desean monitorear la contaminación electromagnética que los rodea y reducir riesgos potenciales a su salud.
+
+Sabremos que hemos tenido éxito cuando logremos:
+
+1) Aumentar significativamente la cantidad de usuarios que monitorean sus niveles de radiación de forma continua.
+
+2) Reducir los niveles de exposición en espacios monitoreados, gracias a la toma de decisiones basada en las recomendaciones personalizadas de la plataforma.
+
+3) Incrementar la conciencia pública y organizacional sobre los riesgos de la contaminación electromagnética.
+
+4) Recibir retroalimentación positiva sobre la facilidad de uso, claridad de la información y valor práctico de las alertas y reportes generados.
 
 <div id="1222"><h4>1.2.2.2. Lean UX Assumptions</h4></div>
 
-<h4>1.2.2.2.1. Assumptions Worksheet</h4>
+En esta sección se detallan las suposiciones relacionadas con los resultados esperados del sistema de monitoreo en tiempo real de contaminación electromagnética. Estas suposiciones se organizan en tres categorías: Business Outcomes, que contemplan los beneficios comerciales y mejoras en la gestión ambiental; User Outcomes, enfocados en cómo usuarios, organizaciones y comunidades se beneficiarán al conocer y controlar los niveles de radiación en su entorno; y User Outcomes Assumptions, que examinan las necesidades, intereses y comportamientos de los usuarios que fundamentan las suposiciones anteriores. Cada categoría busca garantizar que la plataforma cumpla tanto con los objetivos comerciales como con las expectativas de quienes la utilizarán.
 
-1. **¿Quién es el usuario?**
+**Business Outcomes**
 
+1) Creemos que al implementar nuestra plataforma de monitoreo continuo de contaminación electromagnética basada en IoT, podremos aumentar en un 50% la cantidad de hogares, oficinas y comunidades que monitorean activamente sus niveles de radiación no ionizante.
 
+2) Creemos que al ofrecer alertas automáticas y recomendaciones personalizadas en tiempo real, lograremos reducir en un 30% los niveles de exposición en los entornos monitoreados, mediante ajustes informados y decisiones preventivas.
 
-2. **¿Dónde encaja nuestro producto en su trabajo o vida?**
-   
+3) Creemos que al proporcionar reportes visuales, comprensibles y respaldados por estándares internacionales, incrementaremos en un 40% la conciencia pública y organizacional sobre los riesgos asociados a la contaminación electromagnética.
 
+4) Creemos que al entregar una plataforma accesible, intuitiva y basada en datos en la nube, obtendremos una satisfacción de usuario superior al 85% respecto a la facilidad de uso y claridad de la información.
 
-3. **¿Qué problemas tiene nuestro producto? ¿Resolver?**
-   
+5) Creemos que al integrar esta solución con dashboards de análisis en tiempo real y registros históricos, permitiremos a los usuarios reducir en un 25% los comportamientos de riesgo relacionados con una alta exposición electromagnética.
 
+**Business Outcomes Assumptions**
 
-4. **¿Cuándo y cómo es nuestro producto utilizado?**
-   
+1) Creemos que la falta de monitoreo continuo y accesible de la contaminación electromagnética en hogares, oficinas y comunidades urbanas es un problema que afecta la salud y el bienestar de las personas.
 
-5. **¿Qué características son importantes?**
+2) Creemos que los usuarios, organizaciones y municipalidades estarán interesados en adoptar una plataforma de monitoreo ambiental que les permita conocer, gestionar y reducir su exposición a la radiación no ionizante, especialmente si esta es accesible, fácil de usar y basada en datos en tiempo real.
 
+3) Creemos que al implementar una solución que integre sensores IoT con monitoreo en tiempo real y alertas automáticas, los usuarios podrán crear entornos más seguros, alineados con las recomendaciones de organismos internacionales.
 
+4) Creemos que las personas y organizaciones valoran la automatización en la generación de reportes y alertas personalizadas, ya que permite tomar decisiones rápidas y fundamentadas sin necesidad de conocimientos técnicos especializados.
 
-6. **¿Cómo debe verse nuestro producto y cómo comportarse?**
-   
+5) Creemos que tanto usuarios particulares como empresas están interesados en soluciones que ofrezcan análisis visuales, históricos y predictivos sobre su exposición electromagnética para prevenir riesgos a largo plazo en su entorno personal y laboral.
 
+**User Outcomes**
+
+1) Creemos que al ofrecer un sistema que permita monitorear en tiempo real los niveles de contaminación electromagnética, los usuarios podrán tomar decisiones más rápidas y acertadas para reducir su exposición en entornos cotidianos.
+
+2) Creemos que al proporcionar una plataforma intuitiva y visual, cualquier persona podrá interpretar fácilmente los niveles de radiación en su entorno y tomar medidas preventivas.
+
+3) Creemos que al permitir el acceso remoto a los datos de exposición electromagnética, organizaciones y comunidades podrán gestionar de forma centralizada la seguridad ambiental de múltiples espacios, sin necesidad de realizar mediciones físicas constantes.
+
+4) Creemos que al ofrecer reportes históricos y análisis de tendencias, los usuarios podrán identificar patrones de exposición elevados o recurrentes en ciertos momentos o zonas, facilitando acciones preventivas más efectivas.
+
+5) Creemos que al incluir recomendaciones personalizadas basadas en los niveles detectados y en estándares internacionales, los usuarios podrán aplicar cambios prácticos y contextualizados para crear entornos más saludables y seguros.
+
+**User Outcomes Assumptions**
+
+1) Creemos que las personas y organizaciones necesitan acceso inmediato, claro y continuo a los niveles de contaminación electromagnética para tomar decisiones informadas que protejan su salud y bienestar.
+
+2) Creemos que los usuarios desean una plataforma simple y accesible que les permita recibir alertas automáticas sobre niveles elevados de radiación, sin tener que realizar mediciones manuales o interpretar datos técnicos.
+
+3) Creemos que los usuarios se sienten frustrados con las soluciones actuales de monitoreo esporádico y técnico, que son inaccesibles, complejas y no permiten reaccionar de manera rápida ante situaciones de riesgo.
+
+4) Creemos que los usuarios valoran herramientas que optimicen su tiempo y esfuerzo, evitando tener que recurrir a personal especializado o a costosos estudios para conocer el estado electromagnético de su entorno.
+
+5) Creemos que tanto familias, como profesionales y organizaciones, necesitan un sistema confiable que les brinde tranquilidad, sabiendo que serán notificados oportunamente cuando existan niveles peligrosos de radiación en sus espacios.
+
+**Features Assumptions**
+
+1) Creemos que agregar un dashboard centralizado que muestre en tiempo real los niveles de contaminación electromagnética permitirá a los usuarios monitorear múltiples entornos a la vez, mejorando la gestión ambiental de hogares, oficinas y comunidades.
+
+2) Creemos que implementar alertas automáticas basadas en umbrales de radiación permitirá a las personas y organizaciones reaccionar rápidamente ante niveles peligrosos, sin tener que revisar continuamente la plataforma.
+
+3) Creemos que la función de acceso remoto a los datos de exposición electromagnética permitirá a los usuarios consultar el estado de sus espacios desde cualquier lugar, lo que facilitará la gestión ambiental sin necesidad de presencia física.
+
+4) Creemos que agregar un historial de mediciones y reportes personalizables permitirá a los usuarios visualizar tendencias, identificar patrones de riesgo y tomar decisiones informadas sobre los cambios necesarios en sus entornos.
+
+5) Creemos que la integración de una interfaz intuitiva, clara y simple permitirá que cualquier persona, sin conocimientos técnicos, pueda utilizar la plataforma de monitoreo de forma rápida y sin necesidad de entrenamiento especializado, reduciendo las barreras de adopción.
 
 <div id="1223"><h4>1.2.2.3. Lean UX Hypothesis Statements</h4></div>
 
+En esta sección, se busca validar el impacto de nuestra plataforma web para el monitoreo en tiempo real de contaminación electromagnética en entornos cotidianos. Las hipótesis planteadas analizan cómo esta herramienta puede contribuir a mejorar la conciencia ambiental, facilitar la toma de decisiones preventivas, reducir riesgos para la salud y generar confianza entre usuarios, comunidades y organizaciones. Asimismo, se evalúa cómo el modelo de negocio, basado en la integración con sensores IoT, puede generar ingresos recurrentes y establecer relaciones sostenibles con organizaciones, comunidades y proveedores de soluciones tecnológicas.
 
+**Hypothesis Statement #1**
+
+**Creemos que** lograremos mejorar la conciencia y acción en la reducción de la exposición a la contaminación electromagnética.
+
+**Si** las comunidades y organizaciones
+
+**Obtienen** acceso en tiempo real a los niveles de radiación electromagnética en su entorno
+
+**Con** una plataforma web basada en sensores IoT que monitorea y analiza la contaminación electromagnética.
+
+
+**Hypothesis Statement #2**
+
+**Creemos que** reduciremos la preocupación por los efectos en la salud debido a la exposición constante a la radiación electromagnética.
+
+**Si** los usuarios
+
+**Obtienen** una plataforma fácil de usar para monitorear los niveles de radiación electromagnética en sus hogares y oficinas
+
+**Con** alertas automáticas y recomendaciones personalizadas para reducir la exposición.
+
+
+**Hypothesis Statement #3**
+
+**Creemos que** mejoraremos la toma de decisiones en cuanto a la seguridad de las exposiciones a radiación electromagnética.
+
+**Si** las organizaciones y comunidades
+
+**Obtienen** informes detallados y visualizaciones sobre los niveles de radiación en tiempo real
+
+**Con** una plataforma centralizada que proporciona datos precisos y procesados de forma continua.
+
+
+**Hypothesis Statement #4**
+
+**Creemos que** aumentaremos la confianza de los usuarios en la medición y monitoreo de la contaminación electromagnética en sus entornos.
+
+**Si** los usuarios y las organizaciones
+
+**Obtienen** acceso a información precisa, clara y confiable sobre los niveles de radiación en sus entornos
+
+**Con** un sistema que utiliza estándares internacionales para el monitoreo y ofrece recomendaciones de reducción de exposición basadas en esos datos.
+
+
+**Hypothesis Statement #5**
+
+**Creemos** que mejoraremos la capacidad de los usuarios para gestionar la exposición a la contaminación electromagnética en su entorno cotidiano.
+
+**Si** los usuarios
+
+**Obtienen** acceso a datos históricos y tendencias sobre la radiación electromagnética
+
+**Con** una plataforma que presenta análisis longitudinales y notificaciones de alertas cuando los niveles son preocupantes.
 
 <div id="1224"><h4>1.2.2.4. Lean UX Canvas</h4></div>
 
+A continuación, se presenta el Lean UX Canvas, una herramienta que sigue los principios de Lean UX y facilita la comprensión de los problemas del usuario, la definición de supuestos, la formulación de hipótesis y la planificación de experimentos para validar o refutar dichas hipótesis de manera ágil. Su principal ventaja radica en la reducción de riesgos en el desarrollo del producto, ya que posibilita iteraciones rápidas y efectivas basadas en la retroalimentación directa de los usuarios.
+
+![Lean UX Canvas](https://github.com/user-attachments/assets/4a6e1ab1-d0f9-4074-ab91-dbbd5222046c)
+
+Link al Lean UX Canvas: 
+[LeanUXCanvas](https://miro.com/welcomeonboard/dWg4cFdETllpeXhiWTdSSTViZVZnaGtJQVJWbFBZSWhmRlNGWWYvcXJpdGVqTjFOckhoVmdLWm5yNy84N3k2Vjh3aWxhaVA3WE9nNTlHUjJDWlZPVm0vcjNPQjd6aXMzdjVTRXJWVFVqZUZReE81WjBWTWhLdXNHWkM0T3BRUjBzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=829080626711)
+ 
 
 <div id="13"><h2>1.3. Segmentos Objetivos</h2></div>
 
+La exposición continua a campos electromagnéticos no ionizantes provenientes de dispositivos tecnológicos como routers, teléfonos móviles, maquinaria industrial y estaciones de telecomunicaciones, puede tener efectos potenciales sobre la salud humana. Esta preocupación ha crecido especialmente en ambientes altamente tecnologizados y en espacios donde las personas pasan largas jornadas expuestas sin conocer los niveles de radiación a los que están sometidos.
 
+Por otro lado, investigaciones destacan que en entornos laborales industriales y empresariales donde se utilizan equipos de alto consumo electromagnético, existe una preocupación latente por la exposición continua del personal técnico y administrativo, lo que ha llevado a ciertas organizaciones a implementar planes preventivos, aunque muchas veces sin información precisa ni monitoreo continuo.
+
+Por todo lo mencionado, se establecen los dos segmentos objetivos que serán abordados a lo largo del proyecto:
+
+**Segmento 1:**
+Personas interesadas en su salud
+
+**Segmento 2:**
+Empresas y organizaciones que operan maquinaria de alta emisión electromagnética
 
 <div id="2"><h1>Capítulo II: Requirements Elicitation & Analysis</h1></div>
 
@@ -360,19 +563,160 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 
 <div id="411"><h3>4.1.1. General Style Guidelines</h3></div>
 
+**Branding**
+
+El nombre EMSafe surge de la combinación de “EM” (campos electromagnéticos) y “Safe” (seguro), reflejando nuestra misión de proteger de la exposición excesiva a la radiación no ionizante.
+Buscamos un nombre que fuera claro, directo y fácil de recordar, pero que también transmitiera confianza tecnológica. Al incluir un término en inglés, se alinea con el lenguaje común del sector y nos permite conectar con una audiencia global.
+Elegir un nombre con significado refuerza la identidad de la marca y nos diferencia frente a otras propuestas, facilitando que nuestro público identifique rápidamente el propósito del servicio y se sienta atraído por la solución que ofrecemos.
+Logo de EMSafe:
+![Image](https://github.com/user-attachments/assets/2243eed3-cf97-4f8b-bd2d-e6962eb941e2)
+
+**Typography**
+
+Para EMSafe se eligió la tipografía Poppins por su estilo moderno, limpio y geométrico, alineado con la identidad tecnológica de la plataforma. Su buena legibilidad y versatilidad en distintos pesos permite organizar la información de forma clara y jerárquica. Además, al estar optimizada para web, asegura una experiencia fluida en todos los dispositivos.
+![Image](https://github.com/user-attachments/assets/d4a1e347-404f-48c0-9641-03a0e6c32427)
+
+**Colors**
+
+Se usará una paleta que refuerce la identidad de EMSafe, transmitiendo tecnología, confianza y bienestar. El azul profundo representa profesionalismo y seguridad, mientras que el púrpura aporta un toque distintivo y moderno. Como acento, el cian sugiere innovación y frescura, guiando la atención del usuario en elementos clave.
+Los fondos claros y tarjetas blancas aseguran una interfaz limpia y legible, mientras que los grises complementan la composición con sobriedad y contraste visual. Esta combinación permite construir una experiencia coherente, accesible y visualmente equilibrada.
+![Image](https://github.com/user-attachments/assets/66675eb2-df4e-4a37-995a-73cfe81e768b)
+
+**Spacing**
+
+Tanto en la Landing Page como en la aplicación se utiliza un espaciado limpio y equilibrado para mejorar la legibilidad, evitar la sobrecarga visual y facilitar la navegación. El uso estratégico de espacios en blanco ayuda a organizar el contenido, dar respiro a la vista y guiar la atención del usuario hacia la información más relevante.
+
+**Tone & Language**
+
+La comunicación de EMSafe adopta un tono serio pero accesible, formal sin ser rígido y siempre claro y directo. Buscamos informar y orientar sin alarmar, por lo que el lenguaje utilizado es sereno, empático y fácil de entender. 
+Dado que tratamos un tema técnico como la radiación no ionizante, evitamos tecnicismos innecesarios y priorizamos explicaciones simples, permitiendo que cualquier persona pueda comprender la información y tomar decisiones informadas. Este estilo nos ayuda a transmitir confianza y cercanía, reforzando nuestro compromiso con el bienestar y la seguridad a través de la tecnología.
+
+
 <div id="412"><h3>4.1.2. Web Style Guidelines</h3></div>
+
+**Diseño Responsivo**
+
+El sitio web de EMSafe está pensado para ofrecer una experiencia óptima sin importar el tipo de dispositivo. Gracias al uso de CSS responsivo y estructuras flexibles, la interfaz se ajusta de forma fluida a pantallas de escritorio, tablets y móviles, manteniendo la funcionalidad y el diseño en cada vista.
+
+**Interacción intuitiva**
+
+La experiencia de navegación será sencilla y directa. Se prioriza un acceso rápido a las secciones más importantes, con menús organizados, etiquetas claras y sin necesidad de hacer scroll para llegar a las opciones clave. Esto garantiza que cualquier usuario, técnico o no, pueda orientarse fácilmente.
+
+**Estilo visual coherente**
+
+Todo el diseño mantiene una línea gráfica consistente, utilizando la paleta de colores definida, la tipografía Poppins, y estilos homogéneos en botones, formularios y enlaces. Esta coherencia refuerza la identidad de EMSafe y mejora la comprensión visual del contenido.
+
+**Optimización del rendimiento**
+
+La web estará optimizada para cargar de forma rápida y eficiente, minimizando el uso de recursos pesados. Se emplearán buenas prácticas como compresión de imágenes, carga diferida de scripts y limpieza del código para asegurar estabilidad incluso con conexiones lentas.
 
 <div id="42"><h2>4.2. Information Architecture</h2></div>
 
 <div id="421"><h3>4.2.1. Organization Systems</h3></div>
 
+Esta sección describe los sistemas de organización implementados tanto en la Landing Page actual como en futuras versiones de la plataforma EMSafe. Se definen los esquemas jerárquicos, secuenciales y temáticos utilizados para estructurar la información de manera clara, eficiente y alineada con los objetivos del proyecto. Esto garantiza una navegación fluida y una experiencia coherente para los distintos tipos de usuarios.
+
+### Grupo de Usuarios 1: Personas interesadas en su salud
+
+**Organización jerárquica:**
+
+La estructura de la landing está pensada para captar rápidamente la atención de este perfil de usuario. Se presenta primero la propuesta de valor "Protege tu entorno de la radiación electromagnética", seguida de las características principales del sistema, sus beneficios a nivel personal, la problemática global, testimonios de usuarios reales y finalmente el contacto. Esta jerarquía permite al visitante comprender de forma progresiva cómo EMSafe puede ayudarle directamente en su vida diaria.
+Categorización por tópicos:
+La información está dividida en secciones temáticas (Características, Beneficios, Problemática, Testimonios), permitiendo a los usuarios enfocarse en los aspectos que más les interesan de manera rápida y directa.
+
+### Grupo de Usuarios 2: Empresas con alta maquinaria electromagnética
+
+**Organización jerárquica:**
+
+Este tipo de usuario encuentra primero información orientada al valor organizacional del sistema: monitoreo en tiempo real, prevención de riesgos laborales y cumplimiento normativo. Luego, se presenta evidencia del impacto positivo (testimonios de empresas) y un formulario de contacto para solicitar una demo adaptada a sus necesidades.
+Organización matricial:
+En la aplicación empresarial proyectada, se implementará una visualización matricial que permita monitorear múltiples sensores distribuidos por áreas o locaciones, facilitando el análisis simultáneo y la detección de puntos críticos dentro de la infraestructura de la empresa.
+
 <div id="422"><h3>4.2.2. Labeling Systems</h3></div>
+
+A continuación, se presenta el sistema de etiquetado utilizado en la Landing Page de EMSafe, el cual busca representar de forma clara, concisa y accesible los distintos grupos de información. Las etiquetas seleccionadas tienen un lenguaje simple y directo para facilitar la navegación y evitar confusión en los usuarios.
+
+Actualmente, la Landing Page cuenta con secciones identificadas con headings claros y minimalistas, orientados a explicar el funcionamiento y propósito de la plataforma.
+
+| **Sección**     | **Descripción**                                                                                  |
+|------------------|--------------------------------------------------------------------------------------------------|
+| **Inicio**       | Presentación del nombre, descripción del sistema y llamado a la acción.                         |
+| **Características** | Funciones clave como monitoreo, análisis y alertas, explicadas de forma visual.                |
+| **Beneficios**   | Ventajas del sistema para usuarios individuales y empresas, mostradas en tarjetas.              |
+| **Problemática** | Contexto sobre los riesgos de la radiación y la necesidad de EMSafe.                            |
+| **Testimonios**  | Experiencias breves de distintos usuarios, etiquetados por rol y nombre.                        |
+| **Ubicación**    | Mapa que muestre la localización del equipo desarrollador del proyecto.                         |
+| **Contacto**     | Proyecto corto con campos básicos para recibir información o solicitar demo.                    |
 
 <div id="423"><h3>4.2.3. SEO Tags and Meta Tags</h3></div>
 
+Los SEO Tags y Meta Tags son esenciales para mejorar el posicionamiento de la landing page de EMSafe en los motores de búsqueda y facilitar que los usuarios encuentren la plataforma al buscar soluciones relacionadas con salud, tecnología y monitoreo ambiental.
+
+**Title**: EMSafe – Monitorea la radiación electromagnética en tu entorno
+
+**Description**: Plataforma web para monitorear en tiempo real la contaminación electromagnética de tu hogar, oficina o comunidad mediante sensores inteligentes.
+
+**Keywords**: radiación no ionizante, campos electromagnéticos, monitoreo EMF, salud, tecnología, sensores IoT, contaminación electromagnética, seguridad, ambiente, bienestar, exposición, protección.
+
+**Author**: EMSafe Team
+
 <div id="424"><h3>4.2.4. Searching Systems</h3></div>
 
+Para facilitar el acceso a información específica y evitar que los usuarios se sientan abrumados entre grandes volúmenes de datos, EMSafe implementará diferentes sistemas de búsqueda dentro de la Aplicación Web. Estos estarán diseñados de acuerdo a las necesidades particulares de cada segmento de usuario, priorizando la rapidez, claridad y relevancia de los resultados.
+
+
+### Segmento 1: Personas interesadas en su salud
+
+Este grupo utilizará principalmente el sistema de búsqueda dentro del historial de mediciones. Para ello, se brindará un buscador simple acompañado de filtros intuitivos:
+- Buscador por fecha o rango de fechas
+- Filtro por tipo de alerta
+- Filtro por zona monitoreada
+
+Los resultados se mostrarán en una tabla con:
+- Nivel EMF registrado
+- Fecha y hora de la medición
+- Estado del sensor (activo/inactivo)
+- Color de alerta (verde, amarillo, rojo)
+
+Además se incluirá un gráfico para una mayor comprensión del resultado.
+
+### Segmento 2: Empresas con maquinaria electromagnética
+
+Dado que las empresas pueden tener decenas de sensores distribuidos en distintas zonas, se implementará un sistema de búsqueda avanzado con múltiples filtros combinables:
+- Filtro por zona o ubicación
+- Filtro por sensor específico
+- Filtro por fecha y hora
+- Filtro por nivel de exposición
+- Búsqueda por palabra clave
+
+Los resultados se desplegarán en tablas con opción de ordenar las columnas, exportar los datos (Excel/PDF) o generar gráficas comparativas por zona y período.
+
 <div id="425"><h3>4.2.5. Navigation Systems</h3></div>
+La Landing Page de EMSafe cuenta con un menú principal horizontal ubicado en la parte superior del sitio, visible en todo momento mientras el usuario navega. Este menú está compuesto por enlaces que lo llevan directamente a las distintas secciones del contenido utilizando un sistema de anclas para hacer scroll automático hacia cada bloque de información.
+El orden de las secciones fue pensado para seguir un flujo natural de lectura e interés: primero se presenta la solución (Inicio y Características), luego se refuerza su valor (Beneficios), se plantea el problema que resuelve (Problemática), se muestran pruebas sociales (Testimonios) y finalmente se invita a interactuar (Contacto). Este sistema de navegación permite que el usuario recorra el contenido de forma lineal o salte directamente a la sección que más le interese, con tiempos de carga inmediatos gracias al uso de navegación interna. Además, el menú está diseñado para ser completamente responsive, adaptándose a dispositivos móviles mediante un ícono desplegable, asegurando una buena experiencia desde cualquier pantalla.
+A continuación se explicará la información que se puede visualizar en cada una de las secciones según el usuario logueado en la plataforma de EMSafe.
+
+**Segmento 1: Personas interesadas en su salud**
+
+Este grupo de usuarios accede a la plataforma con el objetivo de monitorear la exposición a radiación electromagnética en su entorno personal, como el hogar o espacios compartidos. Por ello, se prioriza una navegación sencilla, guiada y centrada en la información útil y en tiempo real.
+
+- **Inicio (Dashboard)**: Sección principal tras iniciar sesión. Muestra el nivel actual de exposición, gráficas simples, estado del sensor y mensajes importantes.
+- **Mi sensor**: Vista donde el usuario puede ver los detalles del sensor instalado: ubicación, intensidad de señal y estado de funcionamiento.
+- **Historial**: Permite revisar mediciones pasadas, compararlas por día o semana y acceder a estadísticas de exposición.
+- **Recomendaciones**: Muestra consejos personalizados para reducir la exposición, basados en las mediciones recientes del usuario.
+- **Perfil**: Configuración básica de la cuenta, información personal y preferencias de notificación.
+- **Soporte**: Sección de ayuda con preguntas frecuentes, contacto directo y guía rápida para nuevos usuarios.
+
+**Segmento 2: Empresas con maquinaria electromagnética**
+
+Este perfil requiere un acceso más técnico y administrativo, ya que busca monitorear múltiples áreas, sensores y usuarios al mismo tiempo, a menudo dentro de instalaciones industriales o clínicas. La navegación está organizada por áreas de control y gestión.
+
+- **Dashboard general**: Vista principal con un mapa o listado de zonas monitoreadas, mostrando los niveles actuales de exposición en cada una. Se resaltan con color aquellas áreas que exceden los límites recomendados.
+- **Zonas monitoreadas**: Listado detallado de todas las áreas con sensores, permitiendo acceder a los datos de cada una por separado.
+- **Alertas**: Historial de eventos críticos, categorizados por gravedad y fecha. Incluye sistema de filtros para búsquedas específicas.
+- **Reportes**: Generador de informes descargables (PDF, Excel) con estadísticas por área, fecha o tipo de sensor.
+- **Usuarios y permisos**: Gestión de cuentas internas, asignación de roles y configuración de accesos diferenciados por perfil (técnico, supervisor, administrador).
+- **Configuración**: Ajustes generales del sistema, umbrales de alerta, mantenimiento de sensores, personalización del panel.
 
 <div id="43"><h3>4.3. Landing Page UI Design</h3></div>
 
@@ -657,19 +1001,249 @@ En esta sección se presenta la organización de la base de datos mediante un es
 <div id="51"><h2>5.1. Software Configuration Management</h2></div>
 
 <div id="511"><h3>5.1.1. Software Development Environment Configuration</h3></div>
+En esta sección se describen las herramientas utilizadas por nuestro equipo de EMSafe para colaborar de manera efectiva durante todo el ciclo de vida del producto digital. Estas herramientas se organizan según las actividades que soportan: gestión del proyecto, diseño de producto, desarrollo de software, despliegue y documentación.
+
+#### Project Management y Requirements Management
+
+- [**Trello**](https://trello.com/): Herramienta visual utilizada para la planificación y seguimiento de tareas del proyecto. Facilita el trabajo en equipo mediante tableros compartidos.
+- [**Google Drive**](https://drive.google.com/) & [**Google Docs**](https://docs.google.com/): Plataforma de trabajo colaborativo para almacenar documentación, redactar informes y gestionar entregables todo en la nube.
+
+---
+
+#### Product UX/UI Design
+
+- [**Figma**](https://www.figma.com/): Herramienta principal para diseñar interfaces, crear wireframes y prototipos interactivos. Soporta colaboración en tiempo real.
+- [**Miro**](https://miro.com/): Plataforma para crear mapas mentales, flujos de usuario y esquemas de navegación, útil en fases iniciales del diseño y planificación.
+
+---
+
+#### Software Development
+
+- [**IntelliJ IDEA**](https://www.jetbrains.com/idea/): Entorno de desarrollo utilizado para programar el backend en Spring Boot. Ofrece herramientas avanzadas para depuración, testing y gestión de proyectos en Java.
+- [**Visual Studio Code (VS Code)**](https://code.visualstudio.com/): Editor de código utilizado para desarrollar la aplicación frontend en Angular. Ligero, extensible y con terminal integrada.
+- [**Angular**](https://angular.io/): Framework para construir la interfaz web del sistema. Permite desarrollar aplicaciones SPA modernas y mantenibles.
+- [**Angular Material**](https://material.angular.io/): Librería de componentes basada en Material Design que permite mantener un diseño coherente, accesible y profesional en la interfaz.
+- [**Spring Boot**](https://spring.io/projects/spring-boot): Framework Java para el desarrollo del backend. Facilita la creación de APIs RESTful que se comunican con el frontend y la base de datos.
+- [**Git**](https://git-scm.com/) + [**GitHub**](https://github.com/): Sistema de control de versiones distribuido para gestionar el código fuente, colaborar entre miembros del equipo y mantener el historial de cambios.
+
+---
+
+#### Software Deployment
+
+- [**GitHub Pages**](https://pages.github.com/): Servicio utilizado para el despliegue de la Landing Page estática del proyecto directamente desde un repositorio GitHub.
+- [**Railway**](https://railway.app/): Servicio en la nube empleado para desplegar tanto el frontend en Angular como el backend en Spring Boot. Estos entornos permiten exponer los servicios web y la aplicación de forma pública.
+
+---
+
+#### Software Documentation
+
+- [**Notion**](https://www.notion.so/): Espacio centralizado para almacenar documentación técnica y funcional del sistema, como manuales de usuario, decisiones de arquitectura y guías de uso.
+- [**Swagger**](https://swagger.io/): Herramienta para documentar y visualizar la API REST del backend desarrollado en Spring Boot. Permite probar endpoints desde una interfaz gráfica.
 
 
 <div id="512"><h3>5.1.2. Source Code Management</h3></div>
 
+Para la gestión del código fuente del proyecto EMSafe, nuestro equipo utiliza [**GitHub**](https://github.com/) como plataforma central, aprovechando el sistema de control de versiones [**Git**](https://git-scm.com/) para facilitar la colaboración, el seguimiento de cambios y la integración de nuevas funcionalidades de forma ordenada y segura.
 
+---
+
+#### Repositorios del Proyecto
+
+- **Landing Page**:  
+  [https://github.com/EMSafeUPC/EMSafe.github.io](https://github.com/EMSafeUPC/EMSafe.github.io)
+
+- **Frontend Web Application (Angular)**:  
+  [https://github.com/EMSafeUPC/EMSafe-frontend](https://github.com/EMSafeUPC/EMSafe-frontend)
+
+- **Web Services (Spring Boot – Backend)**:  
+  [https://github.com/EMSafeUPC/EMSafe-backend](https://github.com/EMSafeUPC/EMSafe-backend)
+
+---
+
+#### Modelo de Ramas - GitFlow
+
+Para el desarrollo colaborativo y el control de versiones, adoptamos el workflow **GitFlow**, basado en la estructura propuesta por *Vincent Driessen*. Este modelo permite desarrollar múltiples funcionalidades en paralelo, controlar versiones estables y facilitar correcciones en producción.
+
+##### Ramas principales
+
+- **`main`**: Contiene el código en estado estable, listo para producción o despliegue. Solo se fusionan cambios aprobados, verificados y testeados.
+- **`develop`**: Rama de integración donde se combinan todas las nuevas funcionalidades antes de ser consideradas para una nueva versión estable.
+
+##### Ramas de soporte
+
+- **feature/**: Se crean a partir de `develop` para desarrollar nuevas funcionalidades.
+- **release/**: Se crean desde `develop` cuando se prepara una nueva versión del sistema. Se realizan ajustes menores, documentación y pruebas finales antes de integrarse a `main`.
+- **hotfix/**: Se crean directamente desde `main` para corregir errores críticos en producción. Una vez resuelto el problema, se fusionan tanto en `main` como en `develop`.
+
+---
+
+#### Semantic Versioning (SemVer)
+
+EMSafe aplica la convención [**Semantic Versioning 2.0.0**](https://semver.org/), donde los números de versión siguen el formato `MAJOR.MINOR.PATCH`:
+
+- **MAJOR**: Se incrementa cuando se introducen cambios incompatibles con versiones anteriores.
+- **MINOR**: Se incrementa cuando se agregan nuevas funcionalidades de forma retrocompatible.
+- **PATCH**: Se incrementa al aplicar correcciones menores o ajustes retrocompatibles.
+
+---
+
+#### Convención de Commits – Conventional Commits
+
+Para mantener un historial claro y significativo de los cambios, el equipo utiliza la convención [**Conventional Commits**](https://www.conventionalcommits.org/), lo que facilita:
+
+- la lectura del historial de versiones,
+- el uso de herramientas de integración continua,
+- la generación automática de changelogs.
+
+##### Tipos de commits utilizados:
+
+- `feat`: Nueva funcionalidad  
+- `fix`: Corrección de errores  
+- `docs`: Cambios en documentación  
+- `style`: Cambios en formato/estilo sin afectar la lógica  
+- `refactor`: Reestructuración del código sin cambio funcional  
+- `test`: Cambios en tests  
+- `build`: Cambios que afectan al sistema de compilación o dependencias  
+- `ci`: Configuraciones de integración continua  
+- `chore`: Tareas menores de mantenimiento  
+- `perf`: Mejoras de rendimiento  
+- `revert`: Reversión de un commit anterior  
 
 <div id="513"><h3>5.1.3. Source Code Style Guide & Conventions</h3></div>
 
+Con el objetivo de mantener un código legible, limpio, coherente y fácilmente mantenible, se aplicarán guías de estilo y convenciones específicas para cada uno de los lenguajes y tecnologías utilizadas en el desarrollo del sistema.  
+Todas las variables, funciones, clases y elementos del sistema se nombrarán en inglés, siguiendo las convenciones estándar de nomenclatura y formato para cada lenguaje.
 
+---
+
+#### HTML / CSS
+
+- **Guía adoptada**: [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+- **Estructura**:
+  - El código HTML será indentado con 2 espacios (sin tabulaciones).
+  - Se dejarán líneas en blanco entre secciones para mejorar la legibilidad.
+- **Etiquetas**:
+  - Todas las etiquetas se cerrarán correctamente.
+  - Se evitará el uso de atributos innecesarios.
+  - Se usarán comillas dobles (`"`) para todos los valores de atributos.
+- **Nomenclatura CSS**:
+  - Se aplicará la metodología **BEM (Block Element Modifier)** para nombrar clases, mejorando la organización, escalabilidad y reutilización de estilos.
+
+---
+
+#### JavaScript / TypeScript
+
+- **Guías adoptadas**:
+  - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+  - [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)
+
+- **Formato**:
+  - `camelCase` para variables y funciones.
+  - `PascalCase` para clases y componentes.
+  - Uso exclusivo de `let` y `const` (evitar `var`).
+  - Inclusión de espacios alrededor de operadores y después de comas.
+
+- **Comentarios**:
+  - Se usarán comentarios claros y concisos.
+  - Los bloques complejos estarán documentados con `/* */`.
+
+- **Scope**:
+  - Las variables se definirán en el **scope más reducido posible**.
+
+---
+
+#### Angular (Frontend)
+
+- **Guía adoptada**: [Angular Style Guide](https://angular.io/guide/styleguide)
+
+- **Estructura del proyecto**:
+  - Cada componente tendrá su propio directorio con archivos: `.ts`, `.html`, `.css`, y `.spec.ts`.
+  - Se seguirá la convención: `feature-name.component.ts`.
+
+- **Nomenclatura**:
+  - Componentes: `PascalCase`
+  - Variables: `camelCase`
+  - Módulos: `PascalCase`
+
+- **Modularización**:
+  - El código se organizará por características (**feature-based folders**) para facilitar el mantenimiento y escalabilidad.
+
+---
+
+#### Java + Spring Boot (Backend)
+
+- **Guía adoptada**: [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) + buenas prácticas de Spring Boot.
+
+- **Estructura del proyecto**:
+  - Separación por capas: `controller`, `service`, `repository`, `dto`, `model`.
+  - Uso adecuado de anotaciones: `@Service`, `@RestController`, `@Repository`.
+
+- **Nomenclatura**:
+  - Clases: `PascalCase`
+  - Variables y métodos: `camelCase`
+  - Constantes: `MAYÚSCULAS_CON_GUIONES`
 
 <div id="514"><h3>5.1.4. Software Deployment Configuration</h3></div>
 
+La estrategia de despliegue está diseñada para asegurar que las aplicaciones funcionen correctamente y de forma estable en los entornos de producción. Para ello, se aplicarán herramientas y prácticas que permitan un proceso ágil, seguro y automatizado.
 
+---
+
+#### Landing Page
+
+La Landing Page está desarrollada como un sitio web estático utilizando HTML, CSS y JavaScript, y es desplegada mediante **GitHub Pages**, aprovechando la integración directa con el repositorio de código.
+
+- **Repositorio**:  
+  [https://github.com/EMSafeUPC/EMSafe.github.io](https://github.com/EMSafeUPC/EMSafe.github.io)
+
+- **Plataforma de despliegue**: GitHub Pages  
+- **Dominio de publicación**:  
+  [https://emsafeupc.github.io/EMSafe.github.io/](https://emsafeupc.github.io/EMSafe.github.io/)
+
+- **Modo de despliegue**:  
+  Automático, activado desde la rama `main`, con el contenido publicado desde la carpeta raíz del repositorio.
+
+Cada vez que se realiza un `push` a la rama `main`, la Landing Page se actualiza automáticamente en producción, permitiendo mantener siempre en línea la última versión del contenido público.
+
+---
+
+#### Frontend Web Application (Angular)
+
+La aplicación web de EMSafe, desarrollada con **Angular**, es desplegada mediante **Railway**, una plataforma que permite conectar directamente con GitHub y automatizar todo el proceso de compilación y publicación del proyecto.
+
+- **Repositorio**:  
+  [https://github.com/EMSafeUPC/EMSafe-frontend](https://github.com/EMSafeUPC/EMSafe-frontend)
+
+- **Comando de build**:  
+  `ng build --configuration=production`
+
+- **Despliegue**:  
+  Railway detecta los cambios en la rama `main`, compila el proyecto y publica automáticamente la nueva versión.
+
+- **Configuración adicional**:  
+  Las variables de entorno necesarias para la conexión con la API del backend serán gestionadas desde el panel de Railway.
+
+Este enfoque permite mantener el frontend actualizado sin necesidad de despliegues manuales, garantizando eficiencia y rapidez en la entrega de nuevas versiones.
+
+---
+
+#### Web Services (Spring Boot)
+
+El backend, desarrollado con **Spring Boot**, también se desplegará en **Railway**, permitiendo exponer la API REST de forma pública y controlada. Railway gestiona el servidor, los puertos, las variables de entorno y el acceso a la base de datos.
+
+- **Repositorio**:  
+  [https://github.com/EMSafeUPC/EMSafe-backend](https://github.com/EMSafeUPC/EMSafe-backend)
+
+- **Compilación del proyecto**:  
+  `./mvnw clean package`  
+  o  
+  `./gradlew build`
+
+- **Despliegue**:  
+  Automático mediante integración con GitHub. Railway se encarga de detectar cambios en `main`, construir el `.jar`, y ejecutar el servicio en su entorno cloud.
+
+- **API Documentation**:  
+  Al desplegarse, el backend expone la interfaz de prueba **Swagger UI**, útil para validar los endpoints y probar funcionalidades.
 
 <br>
 
