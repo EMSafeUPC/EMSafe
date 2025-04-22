@@ -40,7 +40,18 @@ width=30%"/>
 </div>
 
 ## Team members:
-
+| Nombre |Código|
+|:-------:|:----------:|
+<<<<<<< feature/Sprint-1
+|fabio|-|
+|Gongora Castillejos,Williams Jesus|U20221C186|
+=======
+|Nicolich Alvis, Fabio Maurizio|U202218791|
+|Gongora Castillejos, Williams Jesus|U20221C186|
+|-|-|
+>>>>>>> develop
+|-|-|
+|Lopez de la Cruz, Mauro Fabricio|U202215695|
 
 </br></br>
 
