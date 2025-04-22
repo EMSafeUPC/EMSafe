@@ -467,6 +467,29 @@ Dado que las empresas pueden tener decenas de sensores distribuidos en distintas
 Los resultados se desplegarán en tablas con opción de ordenar las columnas, exportar los datos (Excel/PDF) o generar gráficas comparativas por zona y período.
 
 <div id="425"><h3>4.2.5. Navigation Systems</h3></div>
+La Landing Page de EMSafe cuenta con un menú principal horizontal ubicado en la parte superior del sitio, visible en todo momento mientras el usuario navega. Este menú está compuesto por enlaces que lo llevan directamente a las distintas secciones del contenido utilizando un sistema de anclas para hacer scroll automático hacia cada bloque de información.
+El orden de las secciones fue pensado para seguir un flujo natural de lectura e interés: primero se presenta la solución (Inicio y Características), luego se refuerza su valor (Beneficios), se plantea el problema que resuelve (Problemática), se muestran pruebas sociales (Testimonios) y finalmente se invita a interactuar (Contacto). Este sistema de navegación permite que el usuario recorra el contenido de forma lineal o salte directamente a la sección que más le interese, con tiempos de carga inmediatos gracias al uso de navegación interna. Además, el menú está diseñado para ser completamente responsive, adaptándose a dispositivos móviles mediante un ícono desplegable, asegurando una buena experiencia desde cualquier pantalla.
+A continuación se explicará la información que se puede visualizar en cada una de las secciones según el usuario logueado en la plataforma de EMSafe.
+
+**Segmento 1: Personas interesadas en su salud**
+Este grupo de usuarios accede a la plataforma con el objetivo de monitorear la exposición a radiación electromagnética en su entorno personal, como el hogar o espacios compartidos. Por ello, se prioriza una navegación sencilla, guiada y centrada en la información útil y en tiempo real.
+
+- **Inicio (Dashboard)**: Sección principal tras iniciar sesión. Muestra el nivel actual de exposición, gráficas simples, estado del sensor y mensajes importantes.
+- **Mi sensor**: Vista donde el usuario puede ver los detalles del sensor instalado: ubicación, intensidad de señal y estado de funcionamiento.
+- **Historial**: Permite revisar mediciones pasadas, compararlas por día o semana y acceder a estadísticas de exposición.
+- **Recomendaciones**: Muestra consejos personalizados para reducir la exposición, basados en las mediciones recientes del usuario.
+- **Perfil**: Configuración básica de la cuenta, información personal y preferencias de notificación.
+- **Soporte**: Sección de ayuda con preguntas frecuentes, contacto directo y guía rápida para nuevos usuarios.
+
+**Segmento 2: Empresas con maquinaria electromagnética**
+Este perfil requiere un acceso más técnico y administrativo, ya que busca monitorear múltiples áreas, sensores y usuarios al mismo tiempo, a menudo dentro de instalaciones industriales o clínicas. La navegación está organizada por áreas de control y gestión.
+
+- **Dashboard general**: Vista principal con un mapa o listado de zonas monitoreadas, mostrando los niveles actuales de exposición en cada una. Se resaltan con color aquellas áreas que exceden los límites recomendados.
+- **Zonas monitoreadas**: Listado detallado de todas las áreas con sensores, permitiendo acceder a los datos de cada una por separado.
+- **Alertas**: Historial de eventos críticos, categorizados por gravedad y fecha. Incluye sistema de filtros para búsquedas específicas.
+- **Reportes**: Generador de informes descargables (PDF, Excel) con estadísticas por área, fecha o tipo de sensor.
+- **Usuarios y permisos**: Gestión de cuentas internas, asignación de roles y configuración de accesos diferenciados por perfil (técnico, supervisor, administrador).
+- **Configuración**: Ajustes generales del sistema, umbrales de alerta, mantenimiento de sensores, personalización del panel.
 
 <div id="43"><h3>4.3. Landing Page UI Design</h3></div>
 
