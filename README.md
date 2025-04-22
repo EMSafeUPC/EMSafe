@@ -390,15 +390,19 @@ Dado que tratamos un tema técnico como la radiación no ionizante, evitamos tec
 <div id="412"><h3>4.1.2. Web Style Guidelines</h3></div>
 
 **Diseño Responsivo**
+
 El sitio web de EMSafe está pensado para ofrecer una experiencia óptima sin importar el tipo de dispositivo. Gracias al uso de CSS responsivo y estructuras flexibles, la interfaz se ajusta de forma fluida a pantallas de escritorio, tablets y móviles, manteniendo la funcionalidad y el diseño en cada vista.
 
 **Interacción intuitiva**
+
 La experiencia de navegación será sencilla y directa. Se prioriza un acceso rápido a las secciones más importantes, con menús organizados, etiquetas claras y sin necesidad de hacer scroll para llegar a las opciones clave. Esto garantiza que cualquier usuario, técnico o no, pueda orientarse fácilmente.
 
 **Estilo visual coherente**
+
 Todo el diseño mantiene una línea gráfica consistente, utilizando la paleta de colores definida, la tipografía Poppins, y estilos homogéneos en botones, formularios y enlaces. Esta coherencia refuerza la identidad de EMSafe y mejora la comprensión visual del contenido.
 
 **Optimización del rendimiento**
+
 La web estará optimizada para cargar de forma rápida y eficiente, minimizando el uso de recursos pesados. Se emplearán buenas prácticas como compresión de imágenes, carga diferida de scripts y limpieza del código para asegurar estabilidad incluso con conexiones lentas.
 
 <div id="42"><h2>4.2. Information Architecture</h2></div>
