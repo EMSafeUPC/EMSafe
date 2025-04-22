@@ -361,28 +361,30 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 <div id="411"><h3>4.1.1. General Style Guidelines</h3></div>
 
 **Branding**
+
 El nombre EMSafe surge de la combinación de “EM” (campos electromagnéticos) y “Safe” (seguro), reflejando nuestra misión de proteger de la exposición excesiva a la radiación no ionizante.
 Buscamos un nombre que fuera claro, directo y fácil de recordar, pero que también transmitiera confianza tecnológica. Al incluir un término en inglés, se alinea con el lenguaje común del sector y nos permite conectar con una audiencia global.
 Elegir un nombre con significado refuerza la identidad de la marca y nos diferencia frente a otras propuestas, facilitando que nuestro público identifique rápidamente el propósito del servicio y se sienta atraído por la solución que ofrecemos.
 Logo de EMSafe:
-
 ![Image](https://github.com/user-attachments/assets/cfd18c2b-11c7-44d6-9592-088cfb9344a7)
 
 **Typography**
-Para EMSafe se eligió la tipografía Poppins por su estilo moderno, limpio y geométrico, alineado con la identidad tecnológica de la plataforma. Su buena legibilidad y versatilidad en distintos pesos permite organizar la información de forma clara y jerárquica. Además, al estar optimizada para web, asegura una experiencia fluida en todos los dispositivos.
 
+Para EMSafe se eligió la tipografía Poppins por su estilo moderno, limpio y geométrico, alineado con la identidad tecnológica de la plataforma. Su buena legibilidad y versatilidad en distintos pesos permite organizar la información de forma clara y jerárquica. Además, al estar optimizada para web, asegura una experiencia fluida en todos los dispositivos.
 ![Image](https://github.com/user-attachments/assets/1af30274-0c13-4a76-85c8-c17461db6992)
 
 **Colors**
+
 Se usará una paleta que refuerce la identidad de EMSafe, transmitiendo tecnología, confianza y bienestar. El azul profundo representa profesionalismo y seguridad, mientras que el púrpura aporta un toque distintivo y moderno. Como acento, el cian sugiere innovación y frescura, guiando la atención del usuario en elementos clave.
 Los fondos claros y tarjetas blancas aseguran una interfaz limpia y legible, mientras que los grises complementan la composición con sobriedad y contraste visual. Esta combinación permite construir una experiencia coherente, accesible y visualmente equilibrada.
-
 ![Image](https://github.com/user-attachments/assets/8a0d3d31-3b1f-41f4-a582-5dd854009c38)
 
 **Spacing**
+
 Tanto en la Landing Page como en la aplicación se utiliza un espaciado limpio y equilibrado para mejorar la legibilidad, evitar la sobrecarga visual y facilitar la navegación. El uso estratégico de espacios en blanco ayuda a organizar el contenido, dar respiro a la vista y guiar la atención del usuario hacia la información más relevante.
 
 **Tone & Language**
+
 La comunicación de EMSafe adopta un tono serio pero accesible, formal sin ser rígido y siempre claro y directo. Buscamos informar y orientar sin alarmar, por lo que el lenguaje utilizado es sereno, empático y fácil de entender. 
 Dado que tratamos un tema técnico como la radiación no ionizante, evitamos tecnicismos innecesarios y priorizamos explicaciones simples, permitiendo que cualquier persona pueda comprender la información y tomar decisiones informadas. Este estilo nos ayuda a transmitir confianza y cercanía, reforzando nuestro compromiso con el bienestar y la seguridad a través de la tecnología.
 
@@ -412,13 +414,17 @@ La web estará optimizada para cargar de forma rápida y eficiente, minimizando 
 Esta sección describe los sistemas de organización implementados tanto en la Landing Page actual como en futuras versiones de la plataforma EMSafe. Se definen los esquemas jerárquicos, secuenciales y temáticos utilizados para estructurar la información de manera clara, eficiente y alineada con los objetivos del proyecto. Esto garantiza una navegación fluida y una experiencia coherente para los distintos tipos de usuarios.
 
 **Grupo de Usuarios 1: Personas interesadas en su salud**
+
 **Organización jerárquica:**
+
 La estructura de la landing está pensada para captar rápidamente la atención de este perfil de usuario. Se presenta primero la propuesta de valor "Protege tu entorno de la radiación electromagnética", seguida de las características principales del sistema, sus beneficios a nivel personal, la problemática global, testimonios de usuarios reales y finalmente el contacto. Esta jerarquía permite al visitante comprender de forma progresiva cómo EMSafe puede ayudarle directamente en su vida diaria.
 Categorización por tópicos:
 La información está dividida en secciones temáticas (Características, Beneficios, Problemática, Testimonios), permitiendo a los usuarios enfocarse en los aspectos que más les interesan de manera rápida y directa.
 
 **Grupo de Usuarios 2: Empresas con alta maquinaria electromagnética**
+
 **Organización jerárquica:**
+
 Este tipo de usuario encuentra primero información orientada al valor organizacional del sistema: monitoreo en tiempo real, prevención de riesgos laborales y cumplimiento normativo. Luego, se presenta evidencia del impacto positivo (testimonios de empresas) y un formulario de contacto para solicitar una demo adaptada a sus necesidades.
 Organización matricial:
 En la aplicación empresarial proyectada, se implementará una visualización matricial que permita monitorear múltiples sensores distribuidos por áreas o locaciones, facilitando el análisis simultáneo y la detección de puntos críticos dentro de la infraestructura de la empresa.
@@ -453,6 +459,7 @@ Los SEO Tags y Meta Tags son esenciales para mejorar el posicionamiento de la la
 Para facilitar el acceso a información específica y evitar que los usuarios se sientan abrumados entre grandes volúmenes de datos, EMSafe implementará diferentes sistemas de búsqueda dentro de la Aplicación Web. Estos estarán diseñados de acuerdo a las necesidades particulares de cada segmento de usuario, priorizando la rapidez, claridad y relevancia de los resultados.
 
 **Segmento 1: Personas interesadas en su salud**
+
 Este grupo utilizará principalmente el sistema de búsqueda dentro del historial de mediciones. Para ello, se brindará un buscador simple acompañado de filtros intuitivos:
 - Buscador por fecha o rango de fechas
 - Filtro por tipo de alerta
@@ -467,6 +474,7 @@ Los resultados se mostrarán en una tabla con:
 Además se incluirá un gráfico para una mayor comprensión del resultado.
 
 **Segmento 2: Empresas con maquinaria electromagnética**
+
 Dado que las empresas pueden tener decenas de sensores distribuidos en distintas zonas, se implementará un sistema de búsqueda avanzado con múltiples filtros combinables:
 - Filtro por zona o ubicación
 - Filtro por sensor específico
@@ -482,6 +490,7 @@ El orden de las secciones fue pensado para seguir un flujo natural de lectura e 
 A continuación se explicará la información que se puede visualizar en cada una de las secciones según el usuario logueado en la plataforma de EMSafe.
 
 **Segmento 1: Personas interesadas en su salud**
+
 Este grupo de usuarios accede a la plataforma con el objetivo de monitorear la exposición a radiación electromagnética en su entorno personal, como el hogar o espacios compartidos. Por ello, se prioriza una navegación sencilla, guiada y centrada en la información útil y en tiempo real.
 
 - **Inicio (Dashboard)**: Sección principal tras iniciar sesión. Muestra el nivel actual de exposición, gráficas simples, estado del sensor y mensajes importantes.
@@ -492,6 +501,7 @@ Este grupo de usuarios accede a la plataforma con el objetivo de monitorear la e
 - **Soporte**: Sección de ayuda con preguntas frecuentes, contacto directo y guía rápida para nuevos usuarios.
 
 **Segmento 2: Empresas con maquinaria electromagnética**
+
 Este perfil requiere un acceso más técnico y administrativo, ya que busca monitorear múltiples áreas, sensores y usuarios al mismo tiempo, a menudo dentro de instalaciones industriales o clínicas. La navegación está organizada por áreas de control y gestión.
 
 - **Dashboard general**: Vista principal con un mapa o listado de zonas monitoreadas, mostrando los niveles actuales de exposición en cada una. Se resaltan con color aquellas áreas que exceden los límites recomendados.
