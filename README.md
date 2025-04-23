@@ -878,14 +878,96 @@ Esta sección muestra los wireframes que representan la organización y distribu
 
 ![Image](https://github.com/user-attachments/assets/2717c894-d8b9-42b8-b621-faf0692b6836)
 
+Web Applications Wireframes: [Web Applications - Wireframes](https://www.figma.com/design/nq4yhzzZgAy1SSPUPYF9Tc/WIREFRAMES-EMSAFE?node-id=0-1&t=P9iHuyROBCEzUyV9-1)
 
 <div id="443"><h3>4.4.3. Web Applications Mock-ups</h3></div>
 
+En esta sección se muestran los mock-ups de las aplicaciones web, creados con base a los Wireframes previamente definidos. Estos prototipos visuales permiten anticipar la estructura y el diseño de la interfaz, sirviendo como guía para comprender y llevar a cabo su implementación durante la fase de desarrollo.
+
+![Image](https://github.com/user-attachments/assets/d93c850b-d7fc-4ce9-b637-c8286c2cacfd)
+
+![Image](https://github.com/user-attachments/assets/96c0fbc1-9e5a-4f34-a38d-a39cd6022ec2)
+
+Web Applications Mock-ups: [Web Applications - Mock-ups](https://www.figma.com/design/nq4yhzzZgAy1SSPUPYF9Tc/WIREFRAMES-EMSAFE?node-id=0-1&t=P9iHuyROBCEzUyV9-1)
 
 <div id="444"><h3>4.4.4. Web Applications User Flow Diagrams</h3></div>
 
+1. **Autenticación y Acceso al Sistema**
+
+**User Goal**: Acceder de forma segura al sistema de monitoreo de radiación
+
+**Descripción**: Este flujo muestra cómo los usuarios inician sesión en el sistema, con validación de credenciales y redirección al dashboard principal. También incluye el proceso de registro para nuevos usuarios y la recuperación de contraseña
+
+![Image](https://github.com/user-attachments/assets/ebc30da9-bb14-48ef-ba76-1b72171b862d)
+
+2. **Monitoreo en Dashboard**
+
+**User Goal**: Obtener una visión general del estado de todos los dispositivos y alertas activas
+
+**Descripción**: Este flujo muestra cómo los usuarios interactúan con el dashboard principal para monitorear el estado de los dispositivos, ver alertas recientes y acceder a información detallada
+
+![Image](https://github.com/user-attachments/assets/0a9ba8ff-55dc-45a5-8872-b9ca7d1cdca8)
+
+3. **Historial de Dispositivos**
+
+**User Goal**: Analizar el historial de lecturas y comportamiento de los dispositivos.
+
+**Descripción**: Este flujo muestra cómo los usuarios pueden acceder y analizar el historial de lecturas de los dispositivos, aplicar filtros y exportar datos para análisis adicionales.
+
+![Image](https://github.com/user-attachments/assets/c2cb2f4c-a3c2-4366-afa5-5696f17d4f83)
+
+4. **Gestión de Dispositivos**
+
+**User Goal**: Administrar eficientemente los dispositivos de monitoreo de radiación.
+
+**Descripción**: Este flujo muestra cómo los usuarios pueden añadir, editar, eliminar y gestionar dispositivos de monitoreo, incluyendo la configuración de sus parámetros y ubicación.
+
+![Image](https://github.com/user-attachments/assets/aa284167-64a6-4109-8f9b-5bca1d12f58b)
+
+5. **Historial de Alarmas**
+
+**User Goal**: Monitorear y responder a las alarmas generadas por niveles anormales de radiación.
+
+**Descripción**: Este flujo muestra cómo los usuarios pueden visualizar, filtrar y gestionar las alarmas del sistema, incluyendo la resolución de alarmas activas y la revisión del historial de alarmas.
+
+![Image](https://github.com/user-attachments/assets/c61a51d7-fd13-4ded-b28e-060767705298)
+
+6. **Mapa de Radiación**
+
+**User Goal**: Visualizar geográficamente los niveles de radiación para identificar patrones y zonas críticas.
+
+**Descripción**: Este flujo muestra cómo los usuarios pueden interactuar con el mapa de radiación, aplicar filtros, visualizar zonas cercanas y compartir la visualización con otros usuarios.
+
+![Image](https://github.com/user-attachments/assets/8bd22a92-4021-4c28-ad3d-150ba527aad2)
+
+7. **Gestión de Perfil**
+
+**User Goal**: Personalizar la configuración de la cuenta y preferencias de notificación.
+
+**Descripción**: Este flujo muestra cómo los usuarios pueden gestionar su información personal, configurar preferencias de seguridad y personalizar las notificaciones que reciben del sistema.
+
+![Image](https://github.com/user-attachments/assets/fdc0b41b-3bb8-402c-a6a4-4176f0d2c7ea)
+
 
 <div id="45"><h3>4.5. Web Applications Prototyping</h3></div>
+
+En esta sección se presentan los prototipos desarrollados que simulan la navegación e interacción según los User Flow Diagrams establecidos. A continuación, se detallan los criterios clave que guiaron las decisiones de diseño e interacción:
+
+* **Estructura jerárquica clara:** La información está organizada por niveles de prioridad, permitiendo que las funciones críticas como monitoreo, alarmas y gestión de dispositivos estén siempre accesibles.
+
+* **Sistema de navegación consistente:** Se emplea un menú lateral persistente en desktop y un menú desplegable en mobile, facilitando el acceso rápido a todos los módulos del sistema.
+
+* **Agrupación de contenido por tareas:** Cada pantalla está orientada a una acción específica del usuario, como visualizar datos históricos o configurar dispositivos.
+
+* **Retroalimentación visual constante:** Se utilizan indicadores, alertas y estados visibles que informan al usuario sobre la actividad del sistema en tiempo real.
+
+* **Interacción centrada en el rol del usuario:** Las rutas y accesos se adaptan según el tipo de usuario, priorizando la seguridad y eficiencia en la navegación.
+
+![Image](https://github.com/user-attachments/assets/4e1ea3fa-9312-4875-9524-b5e5b542d99d)
+
+Enlace Prototyping: [Enlace Prototyping](https://kzmn783d18bhu2ibppvs.lite.vusercontent.net/)
+
+Enlace Video Explicación: [Video Explicación](https://drive.google.com/file/d/1BNS0XPBX7lb__Z1vwW7h488A4jqfWekX/view?usp=sharing)
 
 
 <div id="46"><h2>4.6. Domain-Driven Software Architecture</h2></div>
@@ -1469,6 +1551,10 @@ Se proporcionará información detallada sobre la colaboración y comunicación 
 
 - Link del Landing Page Desplegado: [Landing Page Desplegado](https://github.com/EMSafeUPC/EMSafe.github.io) 
 - Video presentación del LandingPage: [Video - LandingPage](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218791_upc_edu_pe/EahQualeON5FvFH1hlpNqTABN-q04gYGaZyajhej-8nFXQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cMoRGP)
-
-
+- Landing Page Wireframe: [Landing Page - Wireframe](https://www.figma.com/design/nq4yhzzZgAy1SSPUPYF9Tc/WIREFRAMES-EMSAFE?node-id=0-1&t=P9iHuyROBCEzUyV9-1)
+- Landing Page Mock-up: [Landing Page - Mock-up](https://www.figma.com/design/nq4yhzzZgAy1SSPUPYF9Tc/WIREFRAMES-EMSAFE?node-id=0-1&t=P9iHuyROBCEzUyV9-1)
+- Web Applications Wireframes: [Web Applications - Wireframes](https://www.figma.com/design/nq4yhzzZgAy1SSPUPYF9Tc/WIREFRAMES-EMSAFE?node-id=0-1&t=P9iHuyROBCEzUyV9-1)
+- Web Applications Mock-ups: [Web Applications - Mock-ups](https://www.figma.com/design/nq4yhzzZgAy1SSPUPYF9Tc/WIREFRAMES-EMSAFE?node-id=0-1&t=P9iHuyROBCEzUyV9-1)
+- Web Applications Prototyping: [Web Applications - Prototyping](https://kzmn783d18bhu2ibppvs.lite.vusercontent.net/)
+- Video presentación del Web Applications Prototyping: [Video - Web Applications Prototyping](https://drive.google.com/file/d/1BNS0XPBX7lb__Z1vwW7h488A4jqfWekX/view?usp=sharing)
 
