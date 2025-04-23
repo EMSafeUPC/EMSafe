@@ -100,6 +100,17 @@ Los integrantes son:
 
 (Fotos)
 
+![Image](https://github.com/user-attachments/assets/63667bba-4f1a-4e61-9609-fd42ff6c7bda)
+Imagen de Insights de los integrantes
+
+![Image](https://github.com/user-attachments/assets/06578b6d-8c71-45ba-af79-a7bc873860dc)
+Imagen de Commits de los integrantes
+
+![Image](https://github.com/user-attachments/assets/fe61f566-5959-49e7-a359-d5a6266a15de)
+Imagen de Commits de los integrantes
+
+<br><br>
+
 
 ## Contenido
 
