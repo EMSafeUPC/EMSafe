@@ -400,11 +400,23 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 
 <div id="461"><h3>4.6.1. Software Architecture Context Diagram</h3></div>
 
+En el presente diagrama se detalla cómo los usuarios interactúan con el sistema de monitoreo EMF y con otros sistemas externos, incluyendo el sistema de pago Stripe para la gestión de suscripciones, el servicio de correos electrónicos Microsoft Exchange para enviar notificaciones y alertas, y el sistema de notificaciones push Firebase Cloud Messaging (FCM) para enviar notificaciones en tiempo real.
+
+![Contexto](https://github.com/user-attachments/assets/470d778e-0b7a-4683-b69c-ad68585d72f6)
+
 
 <div id="462"><h3>4.6.2 Software Architecture Container Diagrams</h3></div>
 
+El diagrama de contenedores muestra la arquitectura interna del sistema de monitoreo EMF. Aquí se ilustran los principales componentes del sistema, como la aplicación web que presenta los datos en tiempo real a los usuarios, la API Backend que gestiona la lógica y seguridad, y los contenedores externos como el sistema de pagos, notificaciones y correos electrónicos, con sus respectivas interacciones.
+
+![Contexto](https://github.com/user-attachments/assets/e2c43614-6adc-4451-859b-faccd171bf3e)
+
 
 <div id="463"><h3>4.6.3. Software Architecture Components Diagrams</h3></div>
+
+En este diagrama se detalla cómo se organizan los componentes internos del sistema API Backend, desglosando los distintos elementos como el controlador REST que gestiona las solicitudes, el servicio de dominio que implementa la lógica de negocio, y los componentes relacionados con la seguridad, la validación de datos, el servicio de correos electrónicos y pagos, y el sistema de notificaciones push.
+
+![Contexto](https://github.com/user-attachments/assets/a7ca808d-f462-40bd-bce4-560b6a8a9c3c)
 
 
 <div id="47"><h2>4.7. Software Object-Oriented Design</h2></div>
