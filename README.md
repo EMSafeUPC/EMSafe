@@ -543,11 +543,9 @@ Con el objetivo de comprender en profundidad el contexto competitivo en el que s
 
 <div id="211"><h3>2.1.1. Análisis competitivo</h3></div>
 
+En esta sección podemos identificar el FODA —Fortalezas, Oportunidades, Debilidades y Amenazas— de los competidores actuales en el ámbito del monitoreo de campos electromagnéticos (EMF), especialmente aquellos relacionados con la exposición de personas a dispositivos tecnológicos en su entorno cotidiano. Este análisis considera plataformas similares que ofrecen funciones de monitoreo en tiempo real, gestión de alertas, notificaciones automáticas y procesamiento de datos provenientes de sensores IoT. Además, se evalúa su posicionamiento en el mercado, el nivel de innovación tecnológica, la accesibilidad al usuario final y sus alianzas estratégicas.
 
-
-
-
-![Analisis1](https://github.com/user-attachments/assets/00180cfa-f3be-4d39-a3d9-ee3c273ab7b3)
+![Analisis1](https://github.com/user-attachments/assets/7aac305a-e23d-4f88-a3cb-20083757fd05)
 ![Analisis2](https://github.com/user-attachments/assets/fff42246-d79a-4765-958f-4b2e2b362e56)
 
 
