@@ -620,7 +620,14 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 
 <div id="222"><h3>2.2.2. Registro de entrevistas</h3></div>
 
-
+|Entevistado 1|Luis Espiritu|
+|-|-|
+|Edad|24|
+|Distrito|San Juan de Miraflores, Lima|
+|Foto|![entrevista-1](https://github.com/user-attachments/assets/dfc74ff3-cc88-4fb9-b5f9-2593330f5e50)|
+|Link de la Entrevista|[Entrevista a Luis Espiritu](https://drive.google.com/file/d/1sAMJM4DCI8BO37gY6L8Mp1TTG8g4eWml/view?usp=sharing)|
+|Time | 0:03 - 07:01 |
+|Analisis de Entrevista| Luis, un economista de 24 años, enfrenta el desafío de no poder controlar eficazmente los altos niveles de radiación electromagnetica que presentan sus dispositivos en su hogar. Le resulta frustrante y preocupante los daños que pueden causar distintos dispositivos. Por ello, desea una aplicación que le permita monitorear, gestionar y mantenerse alerta de los niveles de radiación en su hogar. Además, el considera que el daño que producen distintos de sus dispositivos electromagnéticos le estan pejudicando en su vida cotidiana y en el trabajo. |
 
 <div id="223"><h3>2.2.3. Análisis de entrevistas</h3></div>
 
