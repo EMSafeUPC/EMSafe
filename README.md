@@ -878,6 +878,7 @@ Esta sección muestra los wireframes que representan la organización y distribu
 
 ![Image](https://github.com/user-attachments/assets/2717c894-d8b9-42b8-b621-faf0692b6836)
 
+Web Applications Wireframes: [Web Applications - Wireframes](https://www.figma.com/design/nq4yhzzZgAy1SSPUPYF9Tc/WIREFRAMES-EMSAFE?node-id=0-1&t=P9iHuyROBCEzUyV9-1)
 
 <div id="443"><h3>4.4.3. Web Applications Mock-ups</h3></div>
 
@@ -887,6 +888,7 @@ En esta sección se muestran los mock-ups de las aplicaciones web, creados con b
 
 ![Image](https://github.com/user-attachments/assets/96c0fbc1-9e5a-4f34-a38d-a39cd6022ec2)
 
+Web Applications Mock-ups: [Web Applications - Mock-ups](https://www.figma.com/design/nq4yhzzZgAy1SSPUPYF9Tc/WIREFRAMES-EMSAFE?node-id=0-1&t=P9iHuyROBCEzUyV9-1)
 
 <div id="444"><h3>4.4.4. Web Applications User Flow Diagrams</h3></div>
 
@@ -1549,6 +1551,10 @@ Se proporcionará información detallada sobre la colaboración y comunicación 
 
 - Link del Landing Page Desplegado: [Landing Page Desplegado](https://github.com/EMSafeUPC/EMSafe.github.io) 
 - Video presentación del LandingPage: [Video - LandingPage](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218791_upc_edu_pe/EahQualeON5FvFH1hlpNqTABN-q04gYGaZyajhej-8nFXQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cMoRGP)
-
-
+- Landing Page Wireframe: [Landing Page - Wireframe](https://www.figma.com/design/nq4yhzzZgAy1SSPUPYF9Tc/WIREFRAMES-EMSAFE?node-id=0-1&t=P9iHuyROBCEzUyV9-1)
+- Landing Page Mock-up: [Landing Page - Mock-up](https://www.figma.com/design/nq4yhzzZgAy1SSPUPYF9Tc/WIREFRAMES-EMSAFE?node-id=0-1&t=P9iHuyROBCEzUyV9-1)
+- Web Applications Wireframes: [Web Applications - Wireframes](https://www.figma.com/design/nq4yhzzZgAy1SSPUPYF9Tc/WIREFRAMES-EMSAFE?node-id=0-1&t=P9iHuyROBCEzUyV9-1)
+- Web Applications Mock-ups: [Web Applications - Mock-ups](https://www.figma.com/design/nq4yhzzZgAy1SSPUPYF9Tc/WIREFRAMES-EMSAFE?node-id=0-1&t=P9iHuyROBCEzUyV9-1)
+- Web Applications Prototyping: [Web Applications - Prototyping](https://kzmn783d18bhu2ibppvs.lite.vusercontent.net/)
+- Video presentación del Web Applications Prototyping: [Video - Web Applications Prototyping](https://drive.google.com/file/d/1BNS0XPBX7lb__Z1vwW7h488A4jqfWekX/view?usp=sharing)
 
