@@ -556,26 +556,170 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 
 
 <div id="23"><h2>2.3. Needfinding</h2></div>
-<div id="231"><h3>2.3.1. User Personas</h3></div>
 
+<div id="231"><h3>2.3.1. User Personas</h3></div>
+A través de un perfil detallado, esta sección explora las características demográficas, necesidades, deseos, comportamientos y problemas específicos de los usuarios de los segmentos objetivos predefinidos, facilitando el diseño de soluciones que se alineen mejor con sus expectativas y desafíos.
+
+**Segmento 1:** Personas interesadas en su salud
+
+<img src="img/User-Maria.png"/>
+
+**Segmento 2:** Empresas y organizaciones que operan maquinaria de alta emisión electromagnética
+
+<img src="img/User-Ricardo.png"/>
 
 <div id="232"><h3>2.3.2. User Task Matrix</h3></div>
 
+## Perfil: **Segmento 1**
+- Nombre: María Gutiérrez
+- Edad: 37 años
+- Profesión: Maestra de primaria
+- Interés: Proteger la salud de su familia ante la exposición electromagnética
+
+| Tarea                                                                 | Frecuencia | Importancia | Comentarios |
+|-----------------------------------------------------------------------|------------|-------------|-------------|
+| Verificar niveles de radiación en su casa                            | Diaria     | Alta        | Revisa exposición en zonas como dormitorio, sala y cocina. |
+| Recibir alertas si hay sobreexposición                               | Eventual   | Alta        | Desea alertas claras, automáticas y fáciles de entender. |
+| Acceder a recomendaciones para reducir exposición                    | Semanal    | Media       | Busca consejos simples como cambiar ubicación de dispositivos. |
+| Configurar zonas seguras en la app                                   | Ocasional  | Media       | Le interesa definir áreas donde sus hijos juegan o duermen. |
+| Consultar histórico de niveles de exposición                         | Mensual    | Media       | Quiere evaluar cambios a lo largo del tiempo para tomar decisiones. |
+| Compartir inquietudes o consejos en redes o foros                    | Ocasional  | Baja        | Busca validar preocupaciones con otros padres o usuarios. |
 
 
-</br>
+## Perfil: **Segmento 2**
+- Nombre: Ricardo Sánchez
+- Edad: 42 años
+- Profesión: Técnico en telecomunicaciones
+- Interés: Garantizar entornos seguros en industrias y cumplir con normativas
+
+| Tarea                                                                 | Frecuencia | Importancia | Comentarios |
+|-----------------------------------------------------------------------|------------|-------------|-------------|
+| Instalar sensores en entornos industriales                           | Recurrente | Alta        | Necesita facilidad de instalación y conectividad inmediata. |
+| Ver dashboards de radiación en tiempo real                           | Diaria     | Alta        | Usa los datos para supervisar condiciones operativas. |
+| Generar reportes PDF para auditorías o clientes                      | Semanal    | Alta        | Automatización y formatos exportables son clave. |
+| Configurar umbrales personalizados de alerta                         | Ocasional  | Alta        | Desea adaptar alertas a normas de seguridad de su empresa. |
+| Integrar datos con plataformas internas mediante API                 | Eventual   | Media       | Requiere endpoints bien documentados y estables. |
+| Realizar mantenimientos o actualizaciones de sensores                | Mensual    | Media       | Importante para asegurar continuidad del monitoreo. |
+
 
 <div id="233"><h3>2.3.3. User Journey Mapping</h3></div>
+El User Journey Mapping es una herramienta visual que ayuda a comprender y visualizar la experiencia completa de un usuario al interactuar con un producto o servicio, desde el primer contacto hasta la acción final. El objetivo es identificar puntos de dolor (pain points) y momentos clave (touchpoints) que afectan la satisfacción y efectividad de la experiencia del usuario. Este mapa ayuda a los equipos de diseño, desarrollo y marketing a alinear sus esfuerzos para mejorar la experiencia del usuario en cada etapa de su interacción.
+
+**María - Usuario Individual**
+
+![Journy-1](https://github.com/user-attachments/assets/9c3b63a1-0a12-444b-95c4-2e08ab590ebe)
+
+
+**Ricardo - Usuario Corporativo**
+
+![Journy-2](https://github.com/user-attachments/assets/be08662f-2552-45a7-9823-3b2957ad5f65)
+
+
 
 <div id="234"><h3>2.3.4. Empathy Mapping</h3></div>
 
+El Empathy Mapping es una herramienta que ayuda a comprender más profundamente las necesidades, deseos, preocupaciones y emociones de los usuarios. Al centrarse en lo que los usuarios piensan, sienten, dicen y hacen, el mapa permite a los diseñadores y equipos de producto conectar mejor con los usuarios y crear soluciones que realmente resuelvan sus problemas y satisfagan sus expectativas.
+
+**Segmento 1**: Personas interesadas en su salud
+
+![Mapa de empatía 1  (1)](https://github.com/user-attachments/assets/7ce77cdd-c794-4d3c-8ed1-0dbcdaec9763)
+
+
+
+**Segmento 2**: Empresas y organizaciones que operan maquinaria de alta emisión electromagnética
+
+![Empathy map 2](https://github.com/user-attachments/assets/2f8b73b0-4d1f-4722-abe4-c82622cc50e1)
+
+
 <div id="235"><h3>2.3.5. As-is Mapping</h3></div>
 
+El As-is Scenario Mapping es un ejercicio que permite visualizar y comprender cómo los usuarios interactúan actualmente con un producto o servicio. Mapea los flujos y procesos actuales para identificar ineficiencias, puntos de dolor o áreas de mejora. Es útil para identificar problemas existentes en la experiencia del usuario y establecer una base para las futuras mejoras.
+
+**Segmento 1**: Personas interesadas en su salud
+![image](https://github.com/user-attachments/assets/cb38de20-9acc-4a75-a44b-e5cb1dab275d)
+
+
+**Segmento 2**: Empresas y organizaciones que operan maquinaria de alta emisión electromagnética
+![image](https://github.com/user-attachments/assets/523853c6-c15e-489b-b95a-51ff8cfdc44d)
+
+
 <div id="24"><h3>2.4. Ubiquitous Language</h3></div>
+
+El Ubiquitous Language es un concepto clave en el diseño de productos y sistemas que promueve un lenguaje común y claro entre todos los miembros del equipo, incluyendo diseñadores, desarrolladores, y stakeholders. Este lenguaje compartido facilita la comunicación, asegura que todos comprendan de la misma manera los conceptos clave del proyecto y ayuda a reducir malentendidos durante el proceso de desarrollo.
+
+** Sensor**
+Dispositivo IoT que detecta niveles de radiación electromagnética no ionizante en un entorno específico.
+
+** Radiación No Ionizante**
+Tipo de radiación emitida por dispositivos como routers, celulares y electrodomésticos. No altera el ADN, pero su exposición prolongada puede tener efectos en la salud.
+
+** Medición en Tiempo Real**
+Proceso continuo mediante el cual los sensores registran y envían datos al sistema para su visualización inmediata.
+
+** Plataforma EMSafe**
+Interfaz web donde los usuarios acceden a reportes, visualizan datos de radiación y configuran alertas o zonas de monitoreo.
+
+** Umbral de Seguridad**
+Valor límite de radiación definido según estándares internacionales (como ICNIRP o WHO), que al superarse genera una alerta en la plataforma.
+
+** Alerta Automática**
+Notificación enviada al usuario cuando los sensores detectan niveles de radiación por encima del umbral establecido.
+
+** Recomendación Personalizada**
+Consejo específico basado en las mediciones del entorno del usuario, con sugerencias para reducir la exposición.
+
+** Mapa de Calor**
+Visualización geoespacial que muestra los niveles de radiación por zona, usando colores para representar intensidad.
+
+** Zona Crítica**
+Área con mediciones constantes por encima del umbral de seguridad, que requiere intervención o cambios.
+
+** Usuario Individual**
+Persona que utiliza EMSafe para protegerse y/o proteger a su familia de la exposición a radiación en su hogar u oficina.
+
+** Usuario Corporativo**
+Empresa u organización que implementa EMSafe para monitorear y reducir la exposición de sus trabajadores a campos electromagnéticos.
+
+** API REST**
+Interfaz de programación que permite integrar EMSafe con otros sistemas para recibir o enviar datos automáticamente.
+
+** Dashboard**
+Panel principal donde el usuario ve el resumen de mediciones, alertas recientes y estado de los sensores en tiempo real.
+
+** Reporte**
+Documento generado automáticamente que resume los niveles de radiación detectados en un periodo específico, útil para toma de decisiones o auditorías.
+
+** Integración**
+Proceso de conectar EMSafe con sistemas externos (por ejemplo, sistemas de gestión empresarial o plataformas de seguridad laboral).
+
+** Auditoría**
+Revisión de cumplimiento normativo que puede requerir evidencia de monitoreo de radiación. EMSafe facilita esta evidencia a través de reportes certificados.
+
+** Configuración de Sensor**
+Proceso donde el usuario asigna ubicación, nombre y parámetros de umbral al sensor IoT desde la plataforma.
+
+** Salud Electromagnética**
+Estado de bienestar físico asociado a la exposición controlada o reducida a campos electromagnéticos en el entorno diario.
+
+** Comunidad**
+Grupo de usuarios o vecinos que comparten sus mediciones de forma colaborativa para generar mapas de exposición en áreas comunes.
+
 
 <div id="3"><h1>Capitulo III: Requirements Elicitation</h1></div>
 
 <div id="31"><h2>3.1. To-Be Scenario Mapping</h2></div>
+
+El To-Be Scenario Mapping es el proceso de crear una visión del futuro deseado para la experiencia del usuario. A diferencia del mapeo de escenarios actuales, este enfoque visualiza cómo debería ser la interacción con el producto una vez que se hayan implementado mejoras o nuevas funcionalidades. Ayuda a planificar los cambios necesarios para lograr una experiencia más eficiente, agradable y alineada con las necesidades de los usuarios.
+
+**Segmento 1**: Personas interesadas en su salud
+
+![image](https://github.com/user-attachments/assets/58ebbbc0-6bcc-4508-bad2-2a652554fcd3)
+
+
+**Segmento 2**: Empresas y organizaciones que operan maquinaria de alta emisión electromagnética
+
+![image](https://github.com/user-attachments/assets/8822b72d-441c-48a9-9d44-97ee72508fd3)
+
 
 <div id="32"><h2>3.2. User Stories</h2></div>
 
