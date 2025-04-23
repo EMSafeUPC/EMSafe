@@ -418,61 +418,61 @@ El As-is Scenario Mapping es un ejercicio que permite visualizar y comprender c�
 
 El Ubiquitous Language es un concepto clave en el diseño de productos y sistemas que promueve un lenguaje común y claro entre todos los miembros del equipo, incluyendo diseñadores, desarrolladores, y stakeholders. Este lenguaje compartido facilita la comunicación, asegura que todos comprendan de la misma manera los conceptos clave del proyecto y ayuda a reducir malentendidos durante el proceso de desarrollo.
 
-** Sensor**
+**Sensor**:
 Dispositivo IoT que detecta niveles de radiación electromagnética no ionizante en un entorno específico.
 
-** Radiación No Ionizante**
+**Radiación No Ionizante**:
 Tipo de radiación emitida por dispositivos como routers, celulares y electrodomésticos. No altera el ADN, pero su exposición prolongada puede tener efectos en la salud.
 
-** Medición en Tiempo Real**
+**Medición en Tiempo Real**:
 Proceso continuo mediante el cual los sensores registran y envían datos al sistema para su visualización inmediata.
 
-** Plataforma EMSafe**
+**Plataforma EMSafe**:
 Interfaz web donde los usuarios acceden a reportes, visualizan datos de radiación y configuran alertas o zonas de monitoreo.
 
-** Umbral de Seguridad**
+**Umbral de Seguridad**:
 Valor límite de radiación definido según estándares internacionales (como ICNIRP o WHO), que al superarse genera una alerta en la plataforma.
 
-** Alerta Automática**
+**Alerta Automática**:
 Notificación enviada al usuario cuando los sensores detectan niveles de radiación por encima del umbral establecido.
 
-** Recomendación Personalizada**
+**Recomendación Personalizada**:
 Consejo específico basado en las mediciones del entorno del usuario, con sugerencias para reducir la exposición.
 
-** Mapa de Calor**
+**Mapa de Calor**:
 Visualización geoespacial que muestra los niveles de radiación por zona, usando colores para representar intensidad.
 
-** Zona Crítica**
+**Zona Crítica**:
 Área con mediciones constantes por encima del umbral de seguridad, que requiere intervención o cambios.
 
-** Usuario Individual**
+**Usuario Individual**:
 Persona que utiliza EMSafe para protegerse y/o proteger a su familia de la exposición a radiación en su hogar u oficina.
 
-** Usuario Corporativo**
+**Usuario Corporativo**:
 Empresa u organización que implementa EMSafe para monitorear y reducir la exposición de sus trabajadores a campos electromagnéticos.
 
-** API REST**
+**API REST**:
 Interfaz de programación que permite integrar EMSafe con otros sistemas para recibir o enviar datos automáticamente.
 
-** Dashboard**
+**Dashboard**:
 Panel principal donde el usuario ve el resumen de mediciones, alertas recientes y estado de los sensores en tiempo real.
 
-** Reporte**
+**Reporte**:
 Documento generado automáticamente que resume los niveles de radiación detectados en un periodo específico, útil para toma de decisiones o auditorías.
 
-** Integración**
+**Integración**:
 Proceso de conectar EMSafe con sistemas externos (por ejemplo, sistemas de gestión empresarial o plataformas de seguridad laboral).
 
-** Auditoría**
+**Auditoría**:
 Revisión de cumplimiento normativo que puede requerir evidencia de monitoreo de radiación. EMSafe facilita esta evidencia a través de reportes certificados.
 
-** Configuración de Sensor**
+**Configuración de Sensor**:
 Proceso donde el usuario asigna ubicación, nombre y parámetros de umbral al sensor IoT desde la plataforma.
 
-** Salud Electromagnética**
+**Salud Electromagnética**:
 Estado de bienestar físico asociado a la exposición controlada o reducida a campos electromagnéticos en el entorno diario.
 
-** Comunidad**
+**Comunidad**:
 Grupo de usuarios o vecinos que comparten sus mediciones de forma colaborativa para generar mapas de exposición en áreas comunes.
 
 
