@@ -1681,8 +1681,7 @@ A continuación, se muestra una tabla que documenta los commits clave asociados 
 | EMSafe/este-dev597         | develop       | 7cd6443       | docs: Added Web Style Guidelines         | empty                   | 21/04/2025              |
 | EMSafe/este-dev597          | develop       | 7aa5bd6       | docs: Added Organization Systems | empty                   | 21/04/2025              |
 | EMSafe/este-dev597  H          | develop       | 51f9d68       | docs: Added Labeling Systems                                 | empty                   | 21/04/2025              |
-| EMSafe/este-dev597            | develop       | 44a6653
-       | docs: Added SEO Tags and Meta Tags                                   | empty                   | 21/04/2025              |
+| EMSafe/este-dev597            | develop       | 44a6653    | docs: Added SEO Tags and Meta Tags                                   | empty                   | 21/04/2025              |
 | EMSafe/este-dev597         | develop       | 3094fb6       | docs: Added Searching Systems          | empty                   | 21/04/2025              |
 | EMSafe/este-dev597         | develop       | 743985f       | docs: Added Navigation Systems | empty                   | 27/09/2024              |
 | EMSafe/este-dev597         | develop       | dd24099       | docs: Added General Style Guidelines / img              | empty                   | 21/04/2025              |
