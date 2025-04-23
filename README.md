@@ -542,6 +542,9 @@ En esta sección podemos identificar el FODA —Fortalezas, Oportunidades, Debil
 
 <div id="212"><h3>2.1.2. Estrategias y tácticas frente a competidores</h3></div>
 
+Basándonos en las necesidades de la empresa, buscamos estrategias concretas para su adecuado desarrollo y el de sus clientes, promoviendo de esta manera una matriz FODA para realizar un análisis interno y externo efectivo.
+
+![Analisis2](https://github.com/user-attachments/assets/3c1579d8-1666-4cb5-b58a-4f4227b9ae94)
 
 <div id="22"><h2>2.2. Entrevistas</h2></div>
 
