@@ -44,8 +44,8 @@ width=30%"/>
 |:-------:|:----------:|
 |Nicolich Alvis, Fabio Maurizio |U202218791|
 |Gongora Castillejos,Williams Jesus|U20221C186|
-|-|-|
-|-|-|
+|Espinoza Ayquipa, Esteban Daniel|U202218396|
+|Mel Andree Orellana Rodriguez|U202116018|
 |Lopez de la Cruz Mauro Fabricio|U202215695|
 
 </br></br>
@@ -67,10 +67,10 @@ Enlace de la organización para el reporte del proyecto:
 Para el desarrollo del informe correspondiente a la entrega TB1, se estableció la implementación de secciones de la siguiente manera para cada integrante del equipo:
 
 |Integrante|Tareas Asignadas|
-|-|-|
+|Esteban Espinoza|-|
 |Williams Gongora|-|
 |Fabio Nicolich|-|
-|-|-|
+|Andree Orellana|-|
 |Fabricio Lopez|-|
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
@@ -83,9 +83,9 @@ Los integrantes son:
 
 * Williams Gongora (WiJeGo)
 * Fabio Nicolich (Nicolini03)
-* 
+* Andree Orellana
 * Fabricio Lopez (lopezFABRAX)
-* 
+* Esteban Espinoza
 
 (**Especifiquen los usuarios**)
 
