@@ -528,9 +528,18 @@ Empresas y organizaciones que operan maquinaria de alta emisión electromagnéti
 
 <div id="21"><h2>2.1. Competidores</h2></div>
 
+Con el objetivo de comprender en profundidad el contexto competitivo en el que se insertará nuestra solución tecnológica para el monitoreo de la contaminación electromagnética, se ha llevado a cabo un análisis exhaustivo de los principales actores que actualmente ofrecen propuestas relacionadas con esta problemática. Esta evaluación nos permite identificar las fortalezas, debilidades y enfoques de distintas soluciones disponibles en el mercado, lo cual resulta fundamental para el diseño y posicionamiento estratégico de nuestra plataforma.
+
+![Competidores](https://github.com/user-attachments/assets/fc82ba50-3e0e-43d6-8562-2582a9b8fe14)
 
 <div id="211"><h3>2.1.1. Análisis competitivo</h3></div>
 
+
+
+
+
+![Analisis1](https://github.com/user-attachments/assets/00180cfa-f3be-4d39-a3d9-ee3c273ab7b3)
+![Analisis2](https://github.com/user-attachments/assets/fff42246-d79a-4765-958f-4b2e2b362e56)
 
 
 <div id="212"><h3>2.1.2. Estrategias y tácticas frente a competidores</h3></div>
