@@ -52,7 +52,17 @@ width=30%"/>
 
 ## Registro de versiones del informe
 
-
+| Versión  | Fecha       | Autor                              | Descripción de modificación                                                    |
+|:----------:|:-------------:|:-------------------------------------:|:-------------------------------------------------------------------------------:|
+| TB1      | 10/04/2025  | Gongora Castillejos, Williams Jesus| Creación de la Estructura del informe                       |
+|          | 14/04/2025  | Gongora Castillejos, Williams Jesus| Incorporación del Landing Page UI Design                    |
+|          | 16/04/2025  | Gongora Castillejos, Williams Jesus| Incorporación del Web Applications Wireframes               |
+|          | 17/04/2025  | Gongora Castillejos, Williams Jesus| Incorporación del Web Applications Wireflow Diagrams        |
+|          | 19/04/2025  | Gongora Castillejos, Williams Jesus| Incorporación del Class Diagrams                            |
+|          | 20/04/2025  | Gongora Castillejos, Williams Jesus| Incorporación del Database Diagram                          |
+|          | 21/04/2025  | Gongora Castillejos, Williams Jesus| Incorporación del Web Applications Mock-ups                 |
+|          | 22/04/2025  | Gongora Castillejos, Williams Jesus| Incorporación del Web Applications Mock-ups                 |
+|          | 22/04/2025  | Gongora Castillejos, Williams Jesus| Incorporación del Web Applications Prototyping              |
 
 
 </br></br>
@@ -60,18 +70,19 @@ width=30%"/>
 ## Project Report Collaboration Insights
 
 
-Enlace de la organización para el reporte del proyecto: 
+Enlace de la organización para el reporte del proyecto: https://github.com/EMSafeUPC
 
 **TB1**
 
 Para el desarrollo del informe correspondiente a la entrega TB1, se estableció la implementación de secciones de la siguiente manera para cada integrante del equipo:
 
 |Integrante|Tareas Asignadas|
-|Esteban Espinoza|-|
-|Williams Gongora|-|
-|Fabio Nicolich|-|
-|Andree Orellana|-|
-|Fabricio Lopez|-|
+|------|------|
+|Esteban Espinoza|Idea conceptual de Proyecto, |
+|Williams Gongora|Idea conceptual de Proyecto, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping, Class Diagrams, Class Dictionary, Database Design, Database Diagram|
+|Fabio Nicolich|Idea conceptual de Proyecto, |
+|Andree Orellana|Idea conceptual de Proyecto, |
+|Fabricio Lopez|Idea conceptual de Proyecto, |
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
 
@@ -83,11 +94,9 @@ Los integrantes son:
 
 * Williams Gongora (WiJeGo)
 * Fabio Nicolich (Nicolini03)
-* Andree Orellana
+* Andree Orellana (melandree8)
 * Fabricio Lopez (lopezFABRAX)
-* Esteban Espinoza
-
-(**Especifiquen los usuarios**)
+* Esteban Espinoza (este-dev597)
 
 (Fotos)
 
@@ -231,7 +240,7 @@ La plataforma web permite a usuarios, organizaciones y comunidades monitorear y 
 Para lograrlo, se implementa una red de sensores IoT que detectan y transmiten datos de campos electromagnéticos mediante protocolos como WiFi. Estos sensores envían las mediciones a una infraestructura en la nube, donde la plataforma web centralizada procesa y almacena los datos, generando reportes en tiempo real. Además, mediante una API REST, se facilita la integración con otros sistemas y la recepción de actualizaciones en tiempo real, garantizando una comunicación fluida y eficiente entre sensores, servidor y usuarios.
 El propósito es proteger la salud y promover espacios seguros, basándose en estándares internacionales, mediante alertas automáticas y recomendaciones personalizadas que permiten tomar decisiones informadas y reducir la exposición a fuentes de radiación electromagnética.
 
-<div id="111"><h3>1.1.2. Perfiles de integrantes del equipo</h3></div>
+<div id="112"><h3>1.1.2. Perfiles de integrantes del equipo</h3></div>
 
 |Descripción del integrante|Perfil del integrante del equipo|
 | :--------| :--------:|
