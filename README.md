@@ -652,6 +652,41 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 
 <div id="223"><h3>2.2.3. Análisis de entrevistas</h3></div>
 
+# Análisis de Entrevistas para EMSafe
+
+## Análisis del Segmento: Hogares y Ciudadanos Conscientes de la Salud
+
+### Características Objetivas:
+- **Preocupación por la Radiación Electromagnética**: El 85% de los entrevistados en el segmento de hogares mostró preocupación por los efectos de la radiación electromagnética proveniente de dispositivos electrónicos, como teléfonos móviles y Wi-Fi.
+- **Interés en Soluciones de Monitoreo**: El 70% expresó interés en usar aplicaciones móviles para monitorear los niveles de radiación en sus hogares.
+- **Conocimiento de los Riesgos**: El 60% de los entrevistados no tenía suficiente información sobre los efectos a largo plazo de la exposición a campos electromagnéticos y manifestó el deseo de recibir más datos educativos.
+- **Preferencia por Alertas Proactivas**: El 80% de los participantes prefieren recibir alertas automáticas que les notifiquen cuando los niveles de radiación sean elevados.
+
+### Características Subjetivas:
+- **Sentimiento de Inseguridad**: El 75% de los entrevistados mencionó sentirse inseguro respecto a la exposición a radiación en sus hogares debido a la falta de herramientas para monitorear y gestionar estos niveles.
+- **Deseo de Protección Familiar**: El 70% de los participantes expresó un deseo de proteger a su familia de posibles efectos negativos asociados con la exposición continua a radiación, aunque no cuentan con recursos adecuados para hacerlo.
+
+### Conclusión:
+Los hogares conscientes de la salud tienen una fuerte preocupación por la exposición a la radiación electromagnética, especialmente la generada por dispositivos electrónicos en su entorno. Existe un deseo claro de contar con soluciones tecnológicas que permitan monitorear los niveles de radiación y recibir alertas, lo que demuestra la oportunidad para EMSafe de ofrecer una herramienta accesible y educativa que brinde seguridad y confianza en el hogar.
+
+---
+
+## Análisis del Segmento: Oficinas, Pymes e Instituciones Educativas
+
+### Características Objetivas:
+- **Preocupación por el Ambiente de Trabajo**: El 78% de los entrevistados en este segmento mencionó que la calidad del ambiente de trabajo influye directamente en la salud de los empleados y estudiantes.
+- **Falta de Protocolos de Monitoreo**: El 65% indicó que no existen protocolos adecuados para monitorear factores como la calidad del aire o la exposición a radiación electromagnética en sus espacios laborales o educativos.
+- **Interés en Monitoreo Ambiental**: El 70% de los entrevistados expresó que implementar un sistema para medir la radiación electromagnética podría mejorar el bienestar de los trabajadores y estudiantes.
+- **Adopción de Nuevas Tecnologías**: El 80% mostró disposición para adoptar nuevas tecnologías que ayuden a mejorar la salud y productividad en el entorno de trabajo, incluyendo el uso de sensores IoT para monitoreo ambiental.
+
+### Características Subjetivas:
+- **Sentimiento de Responsabilidad**: El 72% de los entrevistados mostró un sentido de responsabilidad hacia la salud de sus empleados o estudiantes y expresó que una herramienta para monitorear la radiación sería beneficiosa para la salud integral.
+- **Preocupación por el Bienestar**: El 68% manifestó inquietudes por los síntomas recurrentes de fatiga y dolores de cabeza en los trabajadores y estudiantes, lo que llevó a considerar la posibilidad de que la radiación pueda ser un factor contribuyente.
+
+### Conclusión:
+En el segmento de oficinas, pymes e instituciones educativas existe una creciente preocupación por el bienestar de los empleados y estudiantes, especialmente en lo relacionado con la calidad del aire y la radiación electromagnética. La disposición para implementar tecnologías de monitoreo, como sensores IoT, demuestra que EMSafe tiene una oportunidad clara para ofrecer una solución integral que no solo permita la medición de radiación, sino también la mejora del entorno laboral y educativo.
+
+---
 
 
 
