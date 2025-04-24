@@ -1306,71 +1306,82 @@ En esta sección se mostrará la evidencia del progreso alcanzado en el desarrol
 
 A continuación, se muestra una tabla que documenta los commits clave asociados con la implementación de cada repositorio del proyecto, lo que facilita la visualización del progreso del desarrollo técnico a lo largo de este sprint.
 
-| **Repository**            | **Branch** | **Commit Id** | **Commit Message**                                        | **Commit Message Body** | **Committed on (Date)** |
-|---------------------------|------------|---------------|----------------------------------------------------------|-------------------------|-------------------------|
-| EMSafe/WiJeGo     | Main          | 86b4d24       | chore: Create Readme structure                            | empty                   | 16/04/2025              |
-| EMSafe/WiJeGo     | develop       | a8dfe99       | docs: Update Student Outcome                              | empty                   | 17/04/2025              |
-| EMSafe/WiJeGo     | develop       | 3ce10bd       | docs: add Landing Page UI Design                          | empty                   | 19/04/2025              |
-| EMSafe/WiJeGo     | develop       | adda627       | docs: add Landing Page Wireframe                          | empty                   | 19/04/2025               |
-| EMSafe/WiJeGo     | develop       | a875c95       | docs: add Landing Page Mock-up                            | empty                   | 19/04/2025               |
-| EMSafe/WiJeGo     | develop       | 7f09dbc       | docs: add Web Applications Wireframes                     | empty                   | 19/04/2025               |
-| EMSafe/WiJeGo     | develop       | 9bea7f8       | docs: add Web Applications Wireflow Diagrams               | empty                   | 19/04/2025             |
-| EMSafe/WiJeGo     | develop       | 9cbd61d       | docs: add Class Diagrams                                   | empty                   | 19/04/2025               |
-| EMSafe/WiJeGo     | develop       | b07b3fd       | docs: add Class Dictionary                                 | empty                   | 19/04/2025               |
-| EMSafe/WiJeGo     | develop       | d90db2b       | docs: add Database Diagram                                 | empty                   | 19/04/2025               |
-| EMSafe/WiJeGo     | develop       | 5f64270       | Merge pull request #3 from EMSafeUPC/feature/Landing-Page-UI-Design | empty          | 19/04/2025               |
-| EMSafe/WiJeGo     | develop       | d0b8fc6       | feat(home): add content to Home component                  | empty                   | 19/04/2025               |
-| EMSafe/WiJeGo     | develop       | 3df7373       | feat(appointment): add content to Appointment component    | empty                   | 19/04/2025               |
-| EMSafe/WiJeGo     | develop       | 42a6619       | feat(doctors): add content to Doctors component            | empty                   | 19/04/2025               |
-| EMSafe/WiJeGo     | develop       | 213fdcf       | feat(account-elder): create Account Elder component        | empty                   | 19/04/2025               |
-| EMSafe/WiJeGo     | develop       | ebf68cb       | feat(registration): implement user registration feature    | empty                   | 19/04/2025               |
-| EMSafe/lopezFABRAX | develop   | ad60bed   | feat: agregar análisis de entrevistas para hogares y oficinas en EMSafe | empty               | 23/04/2025          |
-| EMSafe/lopezFABRAX | develop   | 6d01db1   | feat: update-Report-Collaboration                               | empty               | 23/04/2025          |
-| EMSafe/lopezFABRAX | develop   | 382d3ee   | feat: add entrevista                                            | empty               | 23/04/2025          |
-| EMSafe/lopezFABRAX | develop   | 0a9bcef   | feat: Formato mejorado para User Stories y Product Backlog      | empty               | 23/04/2025          |
-| EMSafe/lopezFABRAX | develop   | f7a8df3   | fix: Arreglo de Ubiquitous                                      | empty               | 23/04/2025          |
-| EMSafe/lopezFABRAX | develop   | a690d59   | fix: corregir y complementar diseño de entrevistas              | empty               | 22/04/2025          |
-| EMSafe/lopezFABRAX | develop   | 9a5ffb1   | feat: agregar preguntas para segmentos de hogares y oficinas    | empty               | 21/04/2025          |
-| EMSafe/lopezFABRAX | develop   | cb370d5   | fix : update img                                                | empty               | 19/04/2025          |
-| EMSafe/lopezFABRAX | develop   | fca3978   | feat: complete needfinding                                      | empty               | 19/04/2025          |
-| EMSafe/lopezFABRAX | develop   | 3f7bf5f   | Add files via upload                                            | empty               | 19/04/2025          |
-| EMSafe/lopezFABRAX | develop   | 62faddb   | Add files via upload                                            | empty               | 19/04/2025          |
-| EMSafe/lopezFABRAX | develop   | f1dc6dd   | Create ntntntn                                                  | empty               | 19/04/2025          |
-| EMSafe/lopezFABRAX | develop   | b9e543f   | Merge pull request #36 from EMSafeUPC/feature/Registro-de-entrevistas | empty         | 23/04/2025          |
-| EMSafe/lopezFABRAX | develop   | 2c75afa   | Merge pull request #33 from EMSafeUPC/feature/Project-Report-Collaboration-Insights | empty | 23/04/2025          |
-| EMSafe/lopezFABRAX | develop   | b158fac   | Merge pull request #32 from EMSafeUPC/feature/Registro-de-entrevistas | empty         | 23/04/2025          |
-| EMSafe/lopezFABRAX | develop   | 0746d88   | Merge pull request #30 from EMSafeUPC/feature/user-storys-product-backlog | empty      | 23/04/2025          |
-| EMSafe/lopezFABRAX | develop   | 91b70d9   | Merge pull request #23 from EMSafeUPC/feature/needfinding        | empty               | 23/04/2025          |
-| EMSafe/lopezFABRAX | develop   | 73e327c   | Merge pull request #21 from EMSafeUPC/feature/Diseño-Entrevistas | empty               | 23/04/2025          |
-| EMSafe/lopezFABRAX | develop   | 21a11da   | Merge pull request #19 from EMSafeUPC/feature/needfinding        | empty               | 23/04/2025          |
-| EMSafe/Nicolini03          | develop       | 4e19483       | docs: Added Descripcion de la Startup | empty                   | 21/04/2025              |
-| EMSafe/Nicolini03          | develop       | 3a950d8       | docs: Added Solution Profile | empty                   | 21/04/2025              |
-| EMSafe/Nicolini03          | develop       | e0091e7       | docs: Added Antecedentes y problemática   | empty                   | 21/04/2025              |
-| EMSafe/Nicolini03         | develop       | dd3c4e3       | docs: Added Lean UX Problem Statements.     | empty                   | 21/04/2025              |
-| EMSafe/Nicolini03          | develop       | 762a487      | docs: Added Lean UX Assumptions | empty                   | 21/04/2025 |
-| EMSafe/Nicolini03          | develop       | a9e6190       | docs: Added Lean UX Hypothesis Statements | empty                   | 21/04/2025              |
-| EMSafe/este-dev597          | develop       | a46e129       | docs: Added General Style Guidelines / texto | empty                   | 21/04/2025              |
-| EMSafe/Nicolini03          | develop      | 0b2bcab       | docs:  Added Lean UX Canvas  | empty                   | 21/04/2025              |
-| EMSafe/Nicolini03          | develop       | 135e685      | docs: Added Segmentos Objetivos  | empty                   | 21/04/2025              |
-| EMSafe/Nicolini03          | develop       | 567aa83       | docs: Added Sprint 1                    | empty                   | 21/04/2025              |
-| EMSafe/Nicolini03          | develop       | ff848c5       | docs: Added Sprint Backlog 1      | empty                   | 21/04/2025              |
-| EMSafe/este-dev597         | develop       | 7cd6443       | docs: Added Web Style Guidelines         | empty                   | 21/04/2025              |
-| EMSafe/este-dev597          | develop       | 7aa5bd6       | docs: Added Organization Systems | empty                   | 21/04/2025              |
-| EMSafe/este-dev597  H          | develop       | 51f9d68       | docs: Added Labeling Systems                                 | empty                   | 21/04/2025              |
-| EMSafe/este-dev597            | develop       | 44a6653
-       | docs: Added SEO Tags and Meta Tags                                   | empty                   | 21/04/2025              |
-| EMSafe/este-dev597         | develop       | 3094fb6       | docs: Added Searching Systems          | empty                   | 21/04/2025              |
-| EMSafe/este-dev597         | develop       | 743985f       | docs: Added Navigation Systems | empty                   | 27/09/2024              |
-| EMSafe/este-dev597         | develop       | dd24099       | docs: Added General Style Guidelines / img              | empty                   | 21/04/2025              |
-| EMSafe/este-dev597         | develop       | 340c49d       | feat(technical-support.component.vue): add technical-support.component.vue | empty                   | 21/04/2025              |
-| EMSafe/este-dev597         | develop       | 14b20ed       | create(toolbar-clinic.component.vue): create toolbar-clinic.component.vue | empty                   | 21/04/2025              |
-| EMSafe/este-dev597         | develop       | 668b068       | feat(toolbar-clinic.component.vue): add toolbar-clinic.component.vue | empty                   | 21/04/2025              |
-| EMSafe/este-dev597         | develop       | 895056c       | feat(toolbar-clinic.component.vue): refactor toolbar-clinic.component.vue | empty                   | 21/04/2025              |
-| tukun-vue/Ericksnpaii       | main       | 9364403       | feat(toolbar-clinic.component.vue): refactor toolbar-clinic.component.vue | empty                   | 27/09/2024              |
-| tukun-vue/nicolini03        | main       | cba892a       | create vs-panel component                                   | empty                   | 27/09/2024              |
-| tukun-vue/nicolini03        | main       | 5b83f5e       | create update-appointments component                        | empty                   | 27/09/2024              |
-| tukun-vue/nicolini03        | main       | 99fd234       | create toolbar-elder component                              | empty                   | 27/09/2024              |
-| tukun-vue/nicolini03        | main       | 0c22acb       | create css style                                            | empty                   | 27/09/2024              |
+| **Repository**             | **Branch** | **Commit Id** | **Commit Message**                                               | **Commit Message Body** | **Committed on (Date)** |
+|---------------------------|------------|---------------|------------------------------------------------------------------|-------------------------|-------------------------|
+| EMSafe/WiJeGo             | Main       | 86b4d24       | chore: Create Readme structure                                  | empty                   | 16/04/2025              |
+| EMSafe/WiJeGo             | develop    | a8dfe99       | docs: Update Student Outcome                                    | empty                   | 17/04/2025              |
+| EMSafe/WiJeGo             | develop    | 3ce10bd       | docs: add Landing Page UI Design                                | empty                   | 19/04/2025              |
+| EMSafe/WiJeGo             | develop    | adda627       | docs: add Landing Page Wireframe                                | empty                   | 19/04/2025              |
+| EMSafe/WiJeGo             | develop    | a875c95       | docs: add Landing Page Mock-up                                  | empty                   | 19/04/2025              |
+| EMSafe/WiJeGo             | develop    | 7f09dbc       | docs: add Web Applications Wireframes                           | empty                   | 19/04/2025              |
+| EMSafe/WiJeGo             | develop    | 9bea7f8       | docs: add Web Applications Wireflow Diagrams                    | empty                   | 19/04/2025              |
+| EMSafe/WiJeGo             | develop    | 9cbd61d       | docs: add Class Diagrams                                        | empty                   | 19/04/2025              |
+| EMSafe/WiJeGo             | develop    | b07b3fd       | docs: add Class Dictionary                                      | empty                   | 19/04/2025              |
+| EMSafe/WiJeGo             | develop    | d90db2b       | docs: add Database Diagram                                      | empty                   | 19/04/2025              |
+| EMSafe/WiJeGo             | develop    | 5f64270       | Merge pull request #3 from EMSafeUPC/feature/Landing-Page-UI-Design | empty              | 19/04/2025              |
+| EMSafe/WiJeGo             | develop    | d0b8fc6       | feat(home): add content to Home component                       | empty                   | 19/04/2025              |
+| EMSafe/WiJeGo             | develop    | 3df7373       | feat(appointment): add content to Appointment component         | empty                   | 19/04/2025              |
+| EMSafe/WiJeGo             | develop    | 42a6619       | feat(doctors): add content to Doctors component                 | empty                   | 19/04/2025              |
+| EMSafe/WiJeGo             | develop    | 213fdcf       | feat(account-elder): create Account Elder component             | empty                   | 19/04/2025              |
+| EMSafe/WiJeGo             | develop    | ebf68cb       | feat(registration): implement user registration feature         | empty                   | 19/04/2025              |
+| EMSafe/lopezFABRAX        | develop    | ad60bed       | feat: agregar análisis de entrevistas para hogares y oficinas en EMSafe | empty           | 23/04/2025              |
+| EMSafe/lopezFABRAX        | develop    | 6d01db1       | feat: update-Report-Collaboration                               | empty                   | 23/04/2025              |
+| EMSafe/lopezFABRAX        | develop    | 382d3ee       | feat: add entrevista                                            | empty                   | 23/04/2025              |
+| EMSafe/lopezFABRAX        | develop    | 0a9bcef       | feat: Formato mejorado para User Stories y Product Backlog      | empty                   | 23/04/2025              |
+| EMSafe/lopezFABRAX        | develop    | f7a8df3       | fix: Arreglo de Ubiquitous                                      | empty                   | 23/04/2025              |
+| EMSafe/lopezFABRAX        | develop    | a690d59       | fix: corregir y complementar diseño de entrevistas              | empty                   | 22/04/2025              |
+| EMSafe/lopezFABRAX        | develop    | 9a5ffb1       | feat: agregar preguntas para segmentos de hogares y oficinas    | empty                   | 21/04/2025              |
+| EMSafe/lopezFABRAX        | develop    | cb370d5       | fix : update img                                                | empty                   | 19/04/2025              |
+| EMSafe/lopezFABRAX        | develop    | fca3978       | feat: complete needfinding                                      | empty                   | 19/04/2025              |
+| EMSafe/lopezFABRAX        | develop    | 3f7bf5f       | Add files via upload                                            | empty                   | 19/04/2025              |
+| EMSafe/lopezFABRAX        | develop    | 62faddb       | Add files via upload                                            | empty                   | 19/04/2025              |
+| EMSafe/lopezFABRAX        | develop    | f1dc6dd       | Create ntntntn                                                  | empty                   | 19/04/2025              |
+| EMSafe/lopezFABRAX        | develop    | b9e543f       | Merge pull request #36 from EMSafeUPC/feature/Registro-de-entrevistas | empty         | 23/04/2025              |
+| EMSafe/lopezFABRAX        | develop    | 2c75afa       | Merge pull request #33 from EMSafeUPC/feature/Project-Report-Collaboration-Insights | empty | 23/04/2025 |
+| EMSafe/lopezFABRAX        | develop    | b158fac       | Merge pull request #32 from EMSafeUPC/feature/Registro-de-entrevistas | empty         | 23/04/2025              |
+| EMSafe/lopezFABRAX        | develop    | 0746d88       | Merge pull request #30 from EMSafeUPC/feature/user-storys-product-backlog | empty      | 23/04/2025 |
+| EMSafe/lopezFABRAX        | develop    | 91b70d9       | Merge pull request #23 from EMSafeUPC/feature/needfinding        | empty               | 23/04/2025              |
+| EMSafe/lopezFABRAX        | develop    | 73e327c       | Merge pull request #21 from EMSafeUPC/feature/Diseño-Entrevistas | empty               | 23/04/2025              |
+| EMSafe/lopezFABRAX        | develop    | 21a11da       | Merge pull request #19 from EMSafeUPC/feature/needfinding        | empty               | 23/04/2025              |
+| EMSafe/Nicolini03         | develop    | 4e19483       | docs: Added Descripcion de la Startup                          | empty                   | 21/04/2025              |
+| EMSafe/Nicolini03         | develop    | 3a950d8       | docs: Added Solution Profile                                   | empty                   | 21/04/2025              |
+| EMSafe/Nicolini03         | develop    | e0091e7       | docs: Added Antecedentes y problemática                        | empty                   | 21/04/2025              |
+| EMSafe/Nicolini03         | develop    | dd3c4e3       | docs: Added Lean UX Problem Statements                         | empty                   | 21/04/2025              |
+| EMSafe/Nicolini03         | develop    | 762a487       | docs: Added Lean UX Assumptions                                | empty                   | 21/04/2025              |
+| EMSafe/Nicolini03         | develop    | a9e6190       | docs: Added Lean UX Hypothesis Statements                      | empty                   | 21/04/2025              |
+| EMSafe/este-dev597        | develop    | a46e129       | docs: Added General Style Guidelines / texto                   | empty                   | 21/04/2025              |
+| EMSafe/Nicolini03         | develop    | 0b2bcab       | docs:  Added Lean UX Canvas                                    | empty                   | 21/04/2025              |
+| EMSafe/Nicolini03         | develop    | 135e685       | docs: Added Segmentos Objetivos                                | empty                   | 21/04/2025              |
+| EMSafe/Nicolini03         | develop    | 567aa83       | docs: Added Sprint 1                                           | empty                   | 21/04/2025              |
+| EMSafe/Nicolini03         | develop    | ff848c5       | docs: Added Sprint Backlog 1                                   | empty                   | 21/04/2025              |
+| EMSafe/este-dev597        | develop    | 7cd6443       | docs: Added Web Style Guidelines                               | empty                   | 21/04/2025              |
+| EMSafe/este-dev597        | develop    | 7aa5bd6       | docs: Added Organization Systems                               | empty                   | 21/04/2025              |
+| EMSafe/este-dev597        | develop    | 51f9d68       | docs: Added Labeling Systems                                   | empty                   | 21/04/2025              |
+| EMSafe/este-dev597        | develop    | 44a6653       | docs: Added SEO Tags and Meta Tags                             | empty                   | 21/04/2025              |
+| EMSafe/este-dev597        | develop    | 3094fb6       | docs: Added Searching Systems                                  | empty                   | 21/04/2025              |
+| EMSafe/este-dev597        | develop    | 743985f       | docs: Added Navigation Systems                                 | empty                   | 27/09/2024              |
+| EMSafe/este-dev597        | develop    | dd24099       | docs: Added General Style Guidelines / img                     | empty                   | 21/04/2025              |
+| EMSafe/este-dev597        | develop    | 340c49d       | feat(technical-support.component.vue): add technical-support.component.vue | empty        | 21/04/2025              |
+| EMSafe/este-dev597        | develop    | 14b20ed       | create(toolbar-clinic.component.vue): create toolbar-clinic.component.vue | empty       | 21/04/2025              |
+| EMSafe/este-dev597        | develop    | 668b068       | feat(toolbar-clinic.component.vue): add toolbar-clinic.component.vue | empty         | 21/04/2025              |
+| EMSafe/este-dev597        | develop    | 895056c       | feat(toolbar-clinic.component.vue): refactor toolbar-clinic.component.vue | empty      | 21/04/2025              |
+| tukun-vue/Ericksnpaii      | main       | 9364403       | feat(toolbar-clinic.component.vue): refactor toolbar-clinic.component.vue | empty      | 27/09/2024              |
+| tukun-vue/nicolini03       | main       | cba892a       | create vs-panel component                                      | empty                   | 27/09/2024              |
+| tukun-vue/nicolini03       | main       | 5b83f5e       | create update-appointments component                           | empty                   | 27/09/2024              |
+| tukun-vue/nicolini03       | main       | 99fd234       | create toolbar-elder component                                 | empty                   | 27/09/2024              |
+| tukun-vue/nicolini03       | main       | 0c22acb       | create css style                                               | empty                   | 27/09/2024              |
+| EMSafe/melandree8          | develop    | 65a620f       | docs: add Impact Mapping                                       | empty                   | 23/04/2025              |
+| EMSafe/melandree8          | develop    | c873713       | docs: Update competidores                                      | empty                   | 23/04/2025              |
+| EMSafe/melandree8          | develop    | 3839cb6       | docs: Update competidores                                      | empty                   | 23/04/2025              |
+| EMSafe/melandree8          | develop    | 2887032       | docs: add Domain-Driven-Software                               | empty                   | 21/04/2025              |
+| EMSafe/melandree8          | develop    | f90b0d4       | docs: Updated Team Members                                     | empty                   | 22/04/2025              |
+| EMSafe/melandree8          | develop    | 421da20       | docs: add tarea                                                | empty                   | 21/04/2025              |
+
+
+
+
+
+
 
 <div id="5215"><h4>5.2.1.5. Execution Evidence for Sprint Review</h4></div>
 
