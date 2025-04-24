@@ -2,7 +2,7 @@
 
 <h1 style="text-align: center;"> Informe del Trabajo Final </h1>
 <h3 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h3>
-
+ 
 <img src="https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/UPC-logo.png"
 alt="Logo UPC"
 style="display: block; 
