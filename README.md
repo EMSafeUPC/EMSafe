@@ -80,6 +80,15 @@ width=30%"/>
 |          | 21/04/2025  | Orellana Rodriguez, Mel Andree    | Desarrollo Software Architecture Container Diagrams                                      |
 |          | 22/04/2025  | Orellana Rodriguez, Mel Andree    | Desarrollo  Software Architecture Components Diagrams                                    |
 |          | 23/04/2025  | Orellana Rodriguez, Mel Andree    | Desarrollo de Analsis Comepetitivo y Estrategia                                          |
+|          | 20/04/2025  | Espinoza Ayquipa, Esteban Daniel    | Desarrollo de General Style Guidelines                                                               |
+|          | 20/04/2025  | Espinoza Ayquipa, Esteban Daniel    | Desarrollo de Web Style Guidelines                                                            |
+|          | 21/04/2025  | Espinoza Ayquipa, Esteban Daniel    | Elaboración de la sección Information Architecture                                                            |
+|          | 21/04/2025  | Espinoza Ayquipa, Esteban Daniel    | Desarrollo de Organization Systems                                                            |
+|          | 22/04/2025  | Espinoza Ayquipa, Esteban Daniel    | Desarrollo del Labeling Systems                                     |
+|          | 22/04/2025  | Espinoza Ayquipa, Esteban Daniel    | Desarrollo de SEO Tags and Meta Tags                                      |
+|          | 22/04/2025  | Espinoza Ayquipa, Esteban Daniel    | Desarrollo del Searching Systems                                    |
+|          | 23/04/2025  | Espinoza Ayquipa, Esteban Daniel    | Desarrollo de Navigation Systems                                          |
+|          | 23/04/2025  | Espinoza Ayquipa, Esteban Daniel    | Elaboración de la sección de Software Configuration Management                                          |
 
 </br></br>
 
