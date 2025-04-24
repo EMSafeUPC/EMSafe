@@ -694,6 +694,15 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 |Time | 0:04 - 04:44 |
 |Analisis de Entrevista| Rafael es un estudiante universitario de 21 años que reside en la casa de sus padres, donde pasa gran parte del día rodeada de dispositivos electrónicos como el router, el celular y la laptop. Tiene un manejo avanzado de la tecnología, se considera muy hábil para adaptarse a nuevas herramientas digitales. Su principal preocupación gira en torno a los efectos invisibles de la radiación electromagnética emitida por los aparatos del hogar, ya que ha notado síntomas como dolores de cabeza tras largas jornadas frente a la pantalla. Rafael valora mucho la prevención y estaría dispuesta a usar una aplicación que le brinde alertas y reportes claros sobre los niveles de radiación en su entorno. Para el, contar con una herramienta que le informe sobre qué dispositivos emiten más y cómo actuar ante esos niveles, sería clave para sentirse más seguro y cuidar su salud. |
 
+|Entevistado 6|Alejandro Ramirez|
+|-|-|
+|Edad|33|
+|Distrito|Lima, Lima|
+|Foto|![Image](https://github.com/user-attachments/assets/a55ebb1f-4447-4d12-ac70-2779d3ff1301)|
+|Link de la Entrevista|[Entrevista a Alejandro Ramirez](https://youtu.be/SQIEo2e1YZI)|
+|Time | 0:04 - 05:53 |
+|Analisis de Entrevista|  Alejandro Ramirez es un CEO de 33 años, un emprendedor muy apasionado y cuidadoso con todo lo que realiza. Ya que la empresa que dirige usa diferentes áreas alta maquinaria electromagnética siempre ha estado buscando una herramienta eficiente que pueda ayudarle a medir esta radiación ya que a pesar de cumplir las normativas sus colaboradores han reportado malestares frecuentes. Alejandro destaca que una app que pueda generar reportes en tiempo real sería un gran paso para optimizar su entorno laboral. |
+
 <div id="223"><h3>2.2.3. Análisis de entrevistas</h3></div>
 
 1. ### Análisis del Segmento: Hogares y Ciudadanos Conscientes de la Salud
