@@ -12,7 +12,7 @@ width=30%"/>
 
 <h5 style="text-align: center">UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS</h5>
 
-<h5 style="text-align: center">CARRERA</h5>
+<h5 style="text-align: center">CARRERA :</h5>
 <p style="text-align: center">Ingeniería de Software y Ciencias de la Computación
 </p>
 
