@@ -63,6 +63,15 @@ width=30%"/>
 |          | 21/04/2025  | Gongora Castillejos, Williams Jesus| Incorporación del Web Applications Mock-ups                 |
 |          | 22/04/2025  | Gongora Castillejos, Williams Jesus| Incorporación del Web Applications Mock-ups                 |
 |          | 22/04/2025  | Gongora Castillejos, Williams Jesus| Incorporación del Web Applications Prototyping              |
+|          | 19/04/2025  | López De La Cruz, Mauro Fabricio  | Ejecución del proceso de *Needfinding*                                                |
+|          | 18/04/2025  | López De La Cruz, Mauro Fabricio  | Elaboración de User Personas                                                          |
+|          | 17/04/2025  | López De La Cruz, Mauro Fabricio  | Desarrollo de User Task Matrix                                                        |
+|          | 20/04/2025  | López De La Cruz, Mauro Fabricio  | Elaboración del User Journey Mapping                                                  |
+|          | 19/04/2025  | López De La Cruz, Mauro Fabricio  | Desarrollo del Empathy Mapping                                                        |
+|          | 18/04/2025  | López De La Cruz, Mauro Fabricio  | Realización del As-is Scenario Mapping                                                |
+|          | 23/04/2025  | López De La Cruz, Mauro Fabricio  | Revisión y corrección de las User Stories                                             |
+|          | 23/04/2025  | López De La Cruz, Mauro Fabricio  | Reestructuración y actualización del Product Backlog                                  |
+|          | 18/04/2025  | López De La Cruz, Mauro Fabricio  | Desarrollo del Glosario de Ubiquitous Language para alinear términos del dominio   
 
 
 </br></br>
@@ -82,7 +91,7 @@ Para el desarrollo del informe correspondiente a la entrega TB1, se estableció 
 |Williams Gongora|Idea conceptual de Proyecto, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping, Class Diagrams, Class Dictionary, Database Design, Database Diagram|
 |Fabio Nicolich|Idea conceptual de Proyecto, |
 |Andree Orellana|Idea conceptual de Proyecto, |
-|Fabricio Lopez|Idea conceptual de Proyecto, |
+|Fabricio Lopez|Idea conceptual de Proyecto,Ejecución de Needfinding, elaboración de User Personas, desarrollo de User Task Matrix, creación de User Journey Mapping, diseño de Empathy Mapping, realización de As-is Scenario Mapping, revisión y corrección de User Stories, reestructuración y actualización de Product Backlog, desarrollo de glosario de Ubiquitous Language. |
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
 
