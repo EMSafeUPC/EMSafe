@@ -48,6 +48,7 @@ width=30%"/>
 |Mel Andree Orellana Rodriguez|U202116018|
 |Lopez de la Cruz Mauro Fabricio|U202215695|
 
+
 </br></br>
 
 ## Registro de versiones del informe
@@ -85,13 +86,14 @@ Enlace de la organización para el reporte del proyecto: https://github.com/EMSa
 
 Para el desarrollo del informe correspondiente a la entrega TB1, se estableció la implementación de secciones de la siguiente manera para cada integrante del equipo:
 
-|Integrante|Tareas Asignadas|
-|------|------|
-|Esteban Espinoza|Idea conceptual de Proyecto, |
-|Williams Gongora|Idea conceptual de Proyecto, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping, Class Diagrams, Class Dictionary, Database Design, Database Diagram|
-|Fabio Nicolich|Idea conceptual de Proyecto, |
-|Andree Orellana|Idea conceptual de Proyecto, User Stories, Impact Mapping, Product Backlog, Software Architecture Context Diagram, Software Architecture Container Diagrams,  Software Architecture Components Diagrams, Análisis competitivo, Estrategias y tácticas frente a competidores  |
-|Fabricio Lopez|Idea conceptual de Proyecto,Ejecución de Needfinding, elaboración de User Personas, desarrollo de User Task Matrix, creación de User Journey Mapping, diseño de Empathy Mapping, realización de As-is Scenario Mapping, revisión y corrección de User Stories, reestructuración y actualización de Product Backlog, desarrollo de glosario de Ubiquitous Language. |
+| Integrante | Tareas Asignadas |
+|------------|------------------|
+| Esteban Espinoza | Idea conceptual de Proyecto |
+| Williams Gongora | Idea conceptual de Proyecto, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping, Class Diagrams, Class Dictionary, Database Design, Database Diagram |
+| Fabio Nicolich | Idea conceptual de Proyecto |
+| Andree Orellana | Idea conceptual de Proyecto, User Stories, Impact Mapping, Product Backlog, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Análisis competitivo, Estrategias y tácticas frente a competidores |
+| Fabricio Lopez | Idea conceptual de Proyecto, Ejecución de Needfinding, elaboración de User Personas, desarrollo de User Task Matrix, creación de User Journey Mapping, diseño de Empathy Mapping, realización de As-is Scenario Mapping, revisión y corrección de User Stories, reestructuración y actualización de Product Backlog, desarrollo de glosario de Ubiquitous Language |
+
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
 
@@ -106,6 +108,7 @@ Los integrantes son:
 * Andree Orellana (melandree8)
 * Fabricio Lopez (lopezFABRAX)
 * Esteban Espinoza (este-dev597)
+
 
 (Fotos)
 
@@ -266,7 +269,7 @@ El propósito es proteger la salud y promover espacios seguros, basándose en es
 | :--------| :--------:|
 |Soy estudiante de Ingeniería de Software, cursando actualmente el quinto ciclo de la carrera. Me destaco por ser responsable, proactivo y poseer sólidas habilidades de liderazgo. Estoy comprometido con el trabajo en equipo, fomentando una comunicación efectiva y colaborativa para alcanzar resultados sobresalientes. Mi enfoque está en garantizar la calidad y el éxito de los proyectos, aportando creatividad, esfuerzo y dedicación en cada etapa del desarrollo. Cuento con conocimientos en lenguajes como C++, HTML, CSS, JavaScript, TypeScript y Python, y estoy enfocado en aprender a crear proyectos utilizando frameworks como Angular y Vue.|![Fabio](https://github.com/user-attachments/assets/4b9ef061-61ec-4ff8-b51f-b3ebc5209d7c)|
 | Mi nombre es **Williams Jesús Góngora Castillejos** y soy estudiante de la carrera de Ingeniería de Software. Me considero una persona inteligente en todo lo que conlleva a números y razonamiento intuitivo, además de ser creativo para generar soluciones como ingeniero. Cuento con conocimientos en SQL, C++ y Python. Dentro de mis habilidades interpersonales, soy amable, empático y trato de establecer confianza entre mis compañeros para realizar un mejor trabajo en equipo. |![williams](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/williams.jpg)|
-|-|-foto|
+| Mi nombre es Mel Andree Orellana Rodríguez. Soy estudiante de la carrera de Ingeniería de Software en la UPC y actualmente me encuentro cursando el séptimo ciclo.Tengo conocimientos en C++ y estoy desarrollándome en JavaScript, lo que me ha permitido ampliar mis habilidades hacia el desarrollo web. Me considero una persona comprensiva, con buena capacidad de comunicación y trabajo en equipo. Siempre estoy dispuesta a aprender cosas nuevas y a seguir mejorando. Además, me gusta colaborar y apoyar en lo que pueda ser útil, especialmente en proyectos donde pueda aportar valor y seguir creciendo tanto a nivel profesional como personal.| ![Andree](https://github.com/user-attachments/assets/5104b1ae-1ac7-40aa-93b6-d7dbda9b4efa) |
 |-|-foto|
 |Mi nombre es **Mauro Fabricio Lopez de la Cruz**, soy estudiante de la carrera ingeneria de software de la UPC y actualmente estoy cursando el quito ciclo . Tengo conocomiento en c++ , python, html ,css, javascript. Me considero una persona amable con capacidad de tener una muy buena comunnicacion en trabajos en grupo para el desarrollo de proyectos dando y ayudando en la solucion de problemas .|![file](https://github.com/user-attachments/assets/1b71c4fb-ee8e-4b0e-89c7-ffd7841631d9)|
 
