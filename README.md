@@ -72,8 +72,14 @@ width=30%"/>
 |          | 18/04/2025  | López De La Cruz, Mauro Fabricio  | Realización del As-is Scenario Mapping                                                |
 |          | 23/04/2025  | López De La Cruz, Mauro Fabricio  | Revisión y corrección de las User Stories                                             |
 |          | 23/04/2025  | López De La Cruz, Mauro Fabricio  | Reestructuración y actualización del Product Backlog                                  |
-|          | 18/04/2025  | López De La Cruz, Mauro Fabricio  | Desarrollo del Glosario de Ubiquitous Language para alinear términos del dominio   
-
+|          | 18/04/2025  | López De La Cruz, Mauro Fabricio  | Desarrollo del Glosario de Ubiquitous Language para alinear términos del dominio      |
+|          | 21/04/2025  | Orellana Rodriguez, Mel Andree    | Desarrollo de User Stories                                                               |
+|          | 20/04/2025  | Orellana Rodriguez, Mel Andree    | Desarrollo de Impact  Mapping                                                            |
+|          | 22/04/2025  | Orellana Rodriguez, Mel Andree    | Desarrollo de Product Backlog                                                            |
+|          | 22/04/2025  | Orellana Rodriguez, Mel Andree    | Desarrollo del Software Architecture Context Diagram                                     |
+|          | 21/04/2025  | Orellana Rodriguez, Mel Andree    | Desarrollo Software Architecture Container Diagrams                                      |
+|          | 22/04/2025  | Orellana Rodriguez, Mel Andree    | Desarrollo  Software Architecture Components Diagrams                                    |
+|          | 23/04/2025  | Orellana Rodriguez, Mel Andree    | Desarrollo de Analsis Comepetitivo y Estrategia                                          |
 
 </br></br>
 
