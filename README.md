@@ -658,6 +658,17 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 |Time | 0:03 - 06:06 |
 |Analisis de Entrevista|  Alejandra Gallo un estudiante de ciencia de la computacion de 21años expresa su preocupación por la exposición constante a las ondas electromagnéticas generadas por dispositivos electrónicos como celulares, routers y electrodomésticos. Señala que aunque muchos no lo notan, estos campos pueden tener efectos negativos en la salud a largo plazo, como alteraciones del sueño, dolores de cabeza o incluso riesgos más serios aún en estudio. Gallo destaca la importancia de tomar conciencia sobre este tema, promover investigaciones al respecto y adoptar hábitos que reduzcan la exposición diaria a estas ondas.. |
 
+|Entevistado 3|Iris Rodriguez|
+|-|-|
+|Edad|40|
+|Distrito|Cieneguilla, Lima|
+|Foto|![image](https://github.com/user-attachments/assets/3eec7c99-1829-4bbf-8f5d-03c40d9a1e1f)|
+|Link de la Entrevista|[Entrevista a Iris Rodriguez](https://www.youtube.com/watch?v=QkMyjgKGX7I)|
+|Time | 0:04 - 05:53 |
+|Analisis de Entrevista|  Iris es una mujer de 40 años, ama de casa y madre dedicada. Su día gira en torno al cuidado de sus hijos, siempre atenta a su bienestar. Una de sus mayores preocupaciones son los aparatos electrónicos del hogar, como el microondas, el router, el WiFi y los teléfonos móviles, ya que sabe que emiten ondas electromagnéticas que podrían afectar la salud, especialmente la de los más pequeños. Al estar tan pendiente de sus hijos, Iris considera muy importante contar con una herramienta que le permita saber qué dispositivos están emitiendo más radiación en su casa. Ella recomienda el desarrollo de una plataforma o producto que le ayude a identificar esos equipos y le dé información clara para poder tomar medidas y proteger a su familia. |
+
+
+
 
 <div id="223"><h3>2.2.3. Análisis de entrevistas</h3></div>
 
