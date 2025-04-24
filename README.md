@@ -1324,6 +1324,25 @@ A continuación, se muestra una tabla que documenta los commits clave asociados 
 | EMSafe/WiJeGo     | develop       | 42a6619       | feat(doctors): add content to Doctors component            | empty                   | 19/04/2025               |
 | EMSafe/WiJeGo     | develop       | 213fdcf       | feat(account-elder): create Account Elder component        | empty                   | 19/04/2025               |
 | EMSafe/WiJeGo     | develop       | ebf68cb       | feat(registration): implement user registration feature    | empty                   | 19/04/2025               |
+| EMSafe/lopezFABRAX | develop   | ad60bed   | feat: agregar análisis de entrevistas para hogares y oficinas en EMSafe | empty               | 23/04/2025          |
+| EMSafe/lopezFABRAX | develop   | 6d01db1   | feat: update-Report-Collaboration                               | empty               | 23/04/2025          |
+| EMSafe/lopezFABRAX | develop   | 382d3ee   | feat: add entrevista                                            | empty               | 23/04/2025          |
+| EMSafe/lopezFABRAX | develop   | 0a9bcef   | feat: Formato mejorado para User Stories y Product Backlog      | empty               | 23/04/2025          |
+| EMSafe/lopezFABRAX | develop   | f7a8df3   | fix: Arreglo de Ubiquitous                                      | empty               | 23/04/2025          |
+| EMSafe/lopezFABRAX | develop   | a690d59   | fix: corregir y complementar diseño de entrevistas              | empty               | 22/04/2025          |
+| EMSafe/lopezFABRAX | develop   | 9a5ffb1   | feat: agregar preguntas para segmentos de hogares y oficinas    | empty               | 21/04/2025          |
+| EMSafe/lopezFABRAX | develop   | cb370d5   | fix : update img                                                | empty               | 19/04/2025          |
+| EMSafe/lopezFABRAX | develop   | fca3978   | feat: complete needfinding                                      | empty               | 19/04/2025          |
+| EMSafe/lopezFABRAX | develop   | 3f7bf5f   | Add files via upload                                            | empty               | 19/04/2025          |
+| EMSafe/lopezFABRAX | develop   | 62faddb   | Add files via upload                                            | empty               | 19/04/2025          |
+| EMSafe/lopezFABRAX | develop   | f1dc6dd   | Create ntntntn                                                  | empty               | 19/04/2025          |
+| EMSafe/lopezFABRAX | develop   | b9e543f   | Merge pull request #36 from EMSafeUPC/feature/Registro-de-entrevistas | empty         | 23/04/2025          |
+| EMSafe/lopezFABRAX | develop   | 2c75afa   | Merge pull request #33 from EMSafeUPC/feature/Project-Report-Collaboration-Insights | empty | 23/04/2025          |
+| EMSafe/lopezFABRAX | develop   | b158fac   | Merge pull request #32 from EMSafeUPC/feature/Registro-de-entrevistas | empty         | 23/04/2025          |
+| EMSafe/lopezFABRAX | develop   | 0746d88   | Merge pull request #30 from EMSafeUPC/feature/user-storys-product-backlog | empty      | 23/04/2025          |
+| EMSafe/lopezFABRAX | develop   | 91b70d9   | Merge pull request #23 from EMSafeUPC/feature/needfinding        | empty               | 23/04/2025          |
+| EMSafe/lopezFABRAX | develop   | 73e327c   | Merge pull request #21 from EMSafeUPC/feature/Diseño-Entrevistas | empty               | 23/04/2025          |
+| EMSafe/lopezFABRAX | develop   | 21a11da   | Merge pull request #19 from EMSafeUPC/feature/needfinding        | empty               | 23/04/2025          |
 | EMSafe/Nicolini03          | develop       | 4e19483       | docs: Added Descripcion de la Startup | empty                   | 21/04/2025              |
 | EMSafe/Nicolini03          | develop       | 3a950d8       | docs: Added Solution Profile | empty                   | 21/04/2025              |
 | EMSafe/Nicolini03          | develop       | e0091e7       | docs: Added Antecedentes y problemática   | empty                   | 21/04/2025              |
