@@ -44,7 +44,7 @@ width=30%"/>
 |:-------:|:----------:|
 |Nicolich Alvis, Fabio Maurizio |U202218791|
 |Gongora Castillejos,Williams Jesus|U20221C186|
-|-|-|
+|Espinoza Ayquipa, Esteban Daniel|U202218396|
 |-|-|
 |Lopez de la Cruz Mauro Fabricio|U202215695|
 
