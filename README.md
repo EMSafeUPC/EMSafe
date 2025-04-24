@@ -528,10 +528,10 @@ Por otro lado, investigaciones destacan que en entornos laborales industriales y
 Por todo lo mencionado, se establecen los dos segmentos objetivos que serán abordados a lo largo del proyecto:
 
 **Segmento 1:**
-Personas interesadas en su salud
+Personas comprometidas con el cuidado de su salud
 
 **Segmento 2:**
-Empresas y organizaciones que operan maquinaria de alta emisión electromagnética
+Miembros de empresas y organizaciones que operan maquinaria de emisión electromagnética
 
 <div id="2"><h1>Capítulo II: Requirements Elicitation & Analysis</h1></div>
 
@@ -566,7 +566,7 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 
 ---
 
-## 🏠 Segmento 1: Hogares y ciudadanos conscientes de la salud
+## 🏠 Segmento 1: Personas comprometidas con el cuidado de su salud
 
 ### Información personal:
 - ¿Cuál es su nombre?
@@ -592,7 +592,7 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 
 ---
 
-## 🏢 Segmento 2: Oficinas, pymes e instituciones educativas
+## 🏢 Segmento 2: Miembros de empresas y organizaciones que operan maquinaria de emisión electromagnética
 
 ### Información personal:
 - ¿Cuál es su nombre?
@@ -647,8 +647,23 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 |Time | 0:04 - 05:53 |
 |Analisis de Entrevista|  Iris es una mujer de 40 años, ama de casa y madre dedicada. Su día gira en torno al cuidado de sus hijos, siempre atenta a su bienestar. Una de sus mayores preocupaciones son los aparatos electrónicos del hogar, como el microondas, el router, el WiFi y los teléfonos móviles, ya que sabe que emiten ondas electromagnéticas que podrían afectar la salud, especialmente la de los más pequeños. Al estar tan pendiente de sus hijos, Iris considera muy importante contar con una herramienta que le permita saber qué dispositivos están emitiendo más radiación en su casa. Ella recomienda el desarrollo de una plataforma o producto que le ayude a identificar esos equipos y le dé información clara para poder tomar medidas y proteger a su familia. |
 
+|Entevistado 4|Oscar Soto|
+|-|-|
+|Edad|28|
+|Arequipa|
+|Foto|![Oscar](https://github.com/user-attachments/assets/28dc2d6b-3e04-4b0e-8166-c6e6b0b6b224)|
+|Link de la Entrevista|[Entrevista a Oscar Soto](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218791_upc_edu_pe/Ef6_sIik729Ln9QFrp9gZ70B5oIf7vAkeG2A36L2VNt61w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=EVS3zS)|
+|Time | 0:04 - 07:48 |
+|Analisis de Entrevista| Oscar es un técnico electromecánico de 28 años que trabaja en una planta industrial en Arequipa, donde opera maquinaria de alta carga electromagnética. Con más de 3 años de experiencia en el rubro, tiene un manejo avanzado de sistemas tecnológicos, software de análisis de vibraciones y herramientas de monitoreo en tiempo real. Su preocupación principal es la exposición constante a campos electromagnéticos, un riesgo invisible que podría estar afectando la salud de él y de sus compañeros, quienes han reportado síntomas como fatiga y dolores de cabeza. Ricardo valora profundamente la prevención y la seguridad laboral, y considera fundamental implementar soluciones tecnológicas que permitan monitorear estos niveles. Estaría completamente dispuesto a usar sensores IoT y aplicaciones que generen alertas automáticas y reportes claros, ya que para él, contar con una herramienta que visualice estos riesgos invisibles sería clave para reducir la exposición y proteger la salud del equipo técnico en el entorno industrial. |
 
-
+|Entevistado 5|Rafael Bravo|
+|-|-|
+|Edad|21|
+|Lima|
+|Foto|![Rafa](https://github.com/user-attachments/assets/9fb4a4a5-7d4f-4294-aeeb-ff3708c92d7c)|
+|Link de la Entrevista|[Entrevista a Rafael Bravo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218791_upc_edu_pe/EbcvqRb3ziBLubPBirMFZEYBMzHntl3uh0pZOLRsrNYLnA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=r0avvj)|
+|Time | 0:04 - 04:44 |
+|Analisis de Entrevista| Rafael es un estudiante universitario de 21 años que reside en la casa de sus padres, donde pasa gran parte del día rodeada de dispositivos electrónicos como el router, el celular y la laptop. Tiene un manejo avanzado de la tecnología, se considera muy hábil para adaptarse a nuevas herramientas digitales. Su principal preocupación gira en torno a los efectos invisibles de la radiación electromagnética emitida por los aparatos del hogar, ya que ha notado síntomas como dolores de cabeza tras largas jornadas frente a la pantalla. Rafael valora mucho la prevención y estaría dispuesta a usar una aplicación que le brinde alertas y reportes claros sobre los niveles de radiación en su entorno. Para el, contar con una herramienta que le informe sobre qué dispositivos emiten más y cómo actuar ante esos niveles, sería clave para sentirse más seguro y cuidar su salud. |
 
 <div id="223"><h3>2.2.3. Análisis de entrevistas</h3></div>
 
