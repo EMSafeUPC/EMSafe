@@ -675,9 +675,7 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 
 <div id="223"><h3>2.2.3. Análisis de entrevistas</h3></div>
 
-# Análisis de Entrevistas para EMSafe
-
-## Análisis del Segmento: Hogares y Ciudadanos Conscientes de la Salud
+1. ### Análisis del Segmento: Hogares y Ciudadanos Conscientes de la Salud
 
 ### Características Objetivas:
 - **Preocupación por la Radiación Electromagnética**: El 85% de los entrevistados en el segmento de hogares mostró preocupación por los efectos de la radiación electromagnética proveniente de dispositivos electrónicos, como teléfonos móviles y Wi-Fi.
@@ -694,7 +692,7 @@ Los hogares conscientes de la salud tienen una fuerte preocupación por la expos
 
 ---
 
-## Análisis del Segmento: Oficinas, Pymes e Instituciones Educativas
+2. ### Análisis del Segmento: Oficinas, Pymes e Instituciones Educativas
 
 ### Características Objetivas:
 - **Preocupación por el Ambiente de Trabajo**: El 78% de los entrevistados en este segmento mencionó que la calidad del ambiente de trabajo influye directamente en la salud de los empleados y estudiantes.
@@ -1866,12 +1864,8 @@ A continuación, se muestra una tabla que documenta los commits clave asociados 
 | EMSafe/este-dev597         | develop       | 3094fb6       | docs: Added Searching Systems          | empty                   | 21/04/2025              |
 | EMSafe/este-dev597         | develop       | 743985f       | docs: Added Navigation Systems | empty                   | 27/09/2024              |
 | EMSafe/este-dev597         | develop       | dd24099       | docs: Added General Style Guidelines / img              | empty                   | 21/04/2025              |
-| EMSafe/este-dev597         | develop       | 340c49d       | feat(technical-support.component.vue): add technical-support.component.vue | empty                   | 21/04/2025              |
-| EMSafe/este-dev597         | develop       | 14b20ed       | create(toolbar-clinic.component.vue): create toolbar-clinic.component.vue | empty                   | 21/04/2025              |
-| EMSafe/este-dev597         | develop       | 668b068       | feat(toolbar-clinic.component.vue): add toolbar-clinic.component.vue | empty                   | 21/04/2025              |
-| EMSafe/este-dev597         | develop       | 895056c       | feat(toolbar-clinic.component.vue): refactor toolbar-clinic.component.vue | empty                   | 21/04/2025              |
 
-
+<br>
 <div id="5215"><h4>5.2.1.5. Execution Evidence for Sprint Review</h4></div>
 
 En este primer Sprint del proyecto, hemos logrado implementar y desplegar una Landing Page de EMSafe, nuestra startup. Utilizando tecnologías esenciales como HTML, CSS y JavaScript, construimos una interfaz simple, atractiva y funcional, diseñada para resaltar los beneficios y propósito de la plataforma.
@@ -1948,13 +1942,26 @@ Se proporcionará información detallada sobre la colaboración y comunicación 
 
 **Integrantes y aportantes:**
 
+| Integrante | Tareas Asignadas |
+|------------|------------------|
+| Esteban Espinoza | Idea conceptual de Proyecto |
+| Williams Gongora | Idea conceptual de Proyecto, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping, Class Diagrams, Class Dictionary, Database Design, Database Diagram |
+| Fabio Nicolich | Idea conceptual de Proyecto |
+| Andree Orellana | Idea conceptual de Proyecto, User Stories, Impact Mapping, Product Backlog, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Análisis competitivo, Estrategias y tácticas frente a competidores |
+| Fabricio Lopez | Idea conceptual de Proyecto, Ejecución de Needfinding, elaboración de User Personas, desarrollo de User Task Matrix, creación de User Journey Mapping, diseño de Empathy Mapping, realización de As-is Scenario Mapping, revisión y corrección de User Stories, reestructuración y actualización de Product Backlog, desarrollo de glosario de Ubiquitous Language |
+
+<br>
+
 **Analítica de los commits de los aportantes:**
 
 **Desarrollo para el Sprint 1:**
 
-**Network: se muestran los últimos commits efectuados**
 
+![Image](https://github.com/user-attachments/assets/63667bba-4f1a-4e61-9609-fd42ff6c7bda)
+Imagen de Insights de los integrantes
 
+![Image](https://github.com/user-attachments/assets/06578b6d-8c71-45ba-af79-a7bc873860dc)
+Imagen de Commits de los integrantes
 
 <div id="conclusiones"><h1>Conclusiones</h1></div>
 
