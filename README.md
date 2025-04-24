@@ -863,6 +863,8 @@ El To-Be Scenario Mapping es el proceso de crear una visión del futuro deseado 
 
 El Impact Mapping es una herramienta estratégica que aplicaremos en EMSafe para alinear nuestras funcionalidades técnicas con los objetivos del proyecto. Esta técnica nos permitirá visualizar y priorizar aquellas características del sistema que generan mayor valor, optimizando la toma de decisiones y el uso de recursos. En nuestro caso, utilizaremos el Impact Mapping para comprender cómo nuestras soluciones tecnológicas pueden mejorar el monitoreo de la contaminación electromagnética, asegurando que el desarrollo de la plataforma esté en sintonía con las necesidades de los usuarios y los objetivos de salud pública.
 
+![Impact_Mapping](https://github.com/user-attachments/assets/64da095b-efff-4e00-b733-a0947944f7b4)
+
 
 
 
