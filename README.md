@@ -42,25 +42,37 @@ width=30%"/>
 ## Team members:
 | Nombre |Código|
 |:-------:|:----------:|
-<<<<<<< feature/Sprint-1
-|fabio|-|
+|Nicolich Alvis, Fabio Maurizio |U202218791|
 |Gongora Castillejos,Williams Jesus|U20221C186|
-=======
-|Nicolich Alvis, Fabio Maurizio|U202218791|
-|Gongora Castillejos, Williams Jesus|U20221C186|
-|-|-|
->>>>>>> develop
-|-|-|
-|Lopez de la Cruz, Mauro Fabricio|U202215695|
+|Espinoza Ayquipa, Esteban Daniel|U202218396|
+|Mel Andree Orellana Rodriguez|U202116018|
+|Lopez de la Cruz Mauro Fabricio|U202215695|
+
 
 </br></br>
 
 ## Registro de versiones del informe
 
-
-|Versión|Fecha|Autor|Descripción de modificación|
-|:-:|:-:|:-:|:-:|
-|TB1|||Creación del documento de trabajo en formato markdown, capítulo I, capítulo II, capítulo III, capítulo IV y capítulo V    |
+| Versión  | Fecha       | Autor                              | Descripción de modificación                                                    |
+|:----------:|:-------------:|:-------------------------------------:|:-------------------------------------------------------------------------------:|
+| TB1      | 10/04/2025  | Gongora Castillejos, Williams Jesus| Creación de la Estructura del informe                       |
+|          | 14/04/2025  | Gongora Castillejos, Williams Jesus| Incorporación del Landing Page UI Design                    |
+|          | 16/04/2025  | Gongora Castillejos, Williams Jesus| Incorporación del Web Applications Wireframes               |
+|          | 17/04/2025  | Gongora Castillejos, Williams Jesus| Incorporación del Web Applications Wireflow Diagrams        |
+|          | 19/04/2025  | Gongora Castillejos, Williams Jesus| Incorporación del Class Diagrams                            |
+|          | 20/04/2025  | Gongora Castillejos, Williams Jesus| Incorporación del Database Diagram                          |
+|          | 21/04/2025  | Gongora Castillejos, Williams Jesus| Incorporación del Web Applications Mock-ups                 |
+|          | 22/04/2025  | Gongora Castillejos, Williams Jesus| Incorporación del Web Applications Mock-ups                 |
+|          | 22/04/2025  | Gongora Castillejos, Williams Jesus| Incorporación del Web Applications Prototyping              |
+|          | 19/04/2025  | López De La Cruz, Mauro Fabricio  | Ejecución del proceso de *Needfinding*                                                |
+|          | 18/04/2025  | López De La Cruz, Mauro Fabricio  | Elaboración de User Personas                                                          |
+|          | 17/04/2025  | López De La Cruz, Mauro Fabricio  | Desarrollo de User Task Matrix                                                        |
+|          | 20/04/2025  | López De La Cruz, Mauro Fabricio  | Elaboración del User Journey Mapping                                                  |
+|          | 19/04/2025  | López De La Cruz, Mauro Fabricio  | Desarrollo del Empathy Mapping                                                        |
+|          | 18/04/2025  | López De La Cruz, Mauro Fabricio  | Realización del As-is Scenario Mapping                                                |
+|          | 23/04/2025  | López De La Cruz, Mauro Fabricio  | Revisión y corrección de las User Stories                                             |
+|          | 23/04/2025  | López De La Cruz, Mauro Fabricio  | Reestructuración y actualización del Product Backlog                                  |
+|          | 18/04/2025  | López De La Cruz, Mauro Fabricio  | Desarrollo del Glosario de Ubiquitous Language para alinear términos del dominio   
 
 
 </br></br>
@@ -68,18 +80,20 @@ width=30%"/>
 ## Project Report Collaboration Insights
 
 
-Enlace de la organización para el reporte del proyecto: 
+Enlace de la organización para el reporte del proyecto: https://github.com/EMSafeUPC
 
 **TB1**
 
 Para el desarrollo del informe correspondiente a la entrega TB1, se estableció la implementación de secciones de la siguiente manera para cada integrante del equipo:
 
-|Integrante|Tareas Asignadas|
-|-|-|
-|Williams Gongora|-|
-|Fabio Nicolich|-|
-|-|-|
-|Fabricio Lopez|-|
+| Integrante | Tareas Asignadas |
+|------------|------------------|
+| Esteban Espinoza | Idea conceptual de Proyecto |
+| Williams Gongora | Idea conceptual de Proyecto, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping, Class Diagrams, Class Dictionary, Database Design, Database Diagram |
+| Fabio Nicolich | Idea conceptual de Proyecto |
+| Andree Orellana | Idea conceptual de Proyecto, User Stories, Impact Mapping, Product Backlog, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Análisis competitivo, Estrategias y tácticas frente a competidores |
+| Fabricio Lopez | Idea conceptual de Proyecto, Ejecución de Needfinding, elaboración de User Personas, desarrollo de User Task Matrix, creación de User Journey Mapping, diseño de Empathy Mapping, realización de As-is Scenario Mapping, revisión y corrección de User Stories, reestructuración y actualización de Product Backlog, desarrollo de glosario de Ubiquitous Language |
+
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
 
@@ -91,13 +105,23 @@ Los integrantes son:
 
 * Williams Gongora (WiJeGo)
 * Fabio Nicolich (Nicolini03)
-* 
+* Andree Orellana (melandree8)
 * Fabricio Lopez (lopezFABRAX)
-* 
+* Esteban Espinoza (este-dev597)
 
-(**Especifiquen los usuarios**)
 
 (Fotos)
+
+![Image](https://github.com/user-attachments/assets/63667bba-4f1a-4e61-9609-fd42ff6c7bda)
+Imagen de Insights de los integrantes
+
+![Image](https://github.com/user-attachments/assets/06578b6d-8c71-45ba-af79-a7bc873860dc)
+Imagen de Commits de los integrantes
+
+![Image](https://github.com/user-attachments/assets/fe61f566-5959-49e7-a359-d5a6266a15de)
+Imagen de Commits de los integrantes
+
+<br><br>
 
 
 ## Contenido
@@ -200,11 +224,34 @@ El curso contribuye al cumplimiento del Student Outcome ABET:</br>
 
 </br>
 
-| **Criterio específico**| **Acciones realizadas**| **Conclusiones**|
-|--|--|--|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Gongora Castillejos, Williams**<br>**TB1:** | - |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Gongora Castillejos, Williams**<br>**TB1:** | - |
+**Criterio específico:**
+Comunica oralmente con efectividad a diferentes rangos de audiencia
 
+| Acción Realizada | Participantes          | Descripción |
+|------------------|------------------------|-------------|
+| TB1              | Lopez de La Cruz, Fabricio | Identificación de Problemáticas:<br>Realicé una investigación preliminar para entender los problemas y necesidades del usuario.<br>Analicé el contexto y el mercado para identificar desafíos y oportunidades.<br>Documentación y Comunicación:<br>Generación de Documentación: Creé documentación completa de procesos, decisiones y resultados. |
+| TB1              | Orellana Rodriguez, Andree  | Definición de Requisitos:<br>User Stories: Redacté historias de usuario que detallan los requisitos funcionales.<br>Modelado de Solución: Representé la solución visualmente con diagramas y otros artefactos.<br>Documentación y Comunicación:<br>Generación de Documentación: Creé documentación completa de procesos, decisiones y resultados. |
+| TB1              | Espinoza Ayquipa, Esteban  | Diseño Visual y Prototipado:<br>Principios de Diseño: Creé una propuesta visual coherente.<br>Prototipos: Creé y refiné diseños interactivos.<br>Documentación y Comunicación:<br>Generación de Documentación: Creé documentación completa de procesos, decisiones y resultados. |
+| TB1              | Gongora Castillejos, Williams | Implementación de Landing Page:<br>Desarrollo: Implementé la Landing Page, servicios del servidor y aplicaciones web con los lenguajes, frameworks y herramientas especificados.<br>Documentación y Comunicación:<br>Generación de Documentación: Creé documentación completa de procesos, decisiones y resultados. |
+| TB1              | Nicolich Alvis, Fabio | Aplicación del Proceso Lean UX:<br>Segmentación de Objetivos: Definí objetivos según las necesidades.<br>Lean UX Canvas: Resumí la información en un Lean UX Canvas para una visión general y hoja de ruta del proyecto.<br>Documentación y Comunicación:<br>Generación de Documentación: Creé documentación completa de procesos, decisiones y resultados. |
+
+**Conclusiones**
+La incorporación de Lean UX y UX Research nos permitió comprender a fondo las necesidades de los usuarios y establecer con precisión los requisitos del proyecto. Esto contribuyó a la definición de User Stories y al desarrollo de un diseño visual sólido para la Landing Page y las aplicaciones web. Además, la adopción del patrón Domain Driven Design junto con tecnologías actualizadas nos permitió cumplir con los objetivos definidos en el product backlog y satisfacer los requisitos del sprint, asegurando una solución integral y funcional.
+
+**Criterio específico**
+Comunica por escrito con efectividad a diferentes rangos de audiencia
+
+| Acción Realizada | Participantes          | Descripción |
+|------------------|------------------------|-------------|
+| TB1              | Gongora Castillejos, Williams | Ejecución y Documentación de Procesos:<br>Lean UX y UX Research: Documenté procesos como User Personas, Task Matrix y Journey Maps.<br> |
+| TB1              | Orellana Rodriguez, Andree | Validación y Retroalimentación:<br>Validation Interviews: Entrevisté a representantes de User Personas para obtener feedback.<br>Identificación de Hallazgos: Documenté y abordé problemas encontrados en las entrevistas. |
+| TB1              | Espinoza Ayquipa, Esteban | Ejecución y Documentación de Procesos:<br>Design y Prototyping: Desarrollé y documenté el diseño visual y los prototipos. |
+| TB1              | Nicolich Alvis, Fabio Maurizio | Aplicación de Buenas Prácticas de Programación:<br>Convenciones y Nomenclatura: Seguí las convenciones de nomenclatura para consistencia y claridad. |
+| TB1              | Lopez de La Cruz, Fabricio | Ejecución y Documentación de Procesos:<br>Lean UX y UX Research: Documenté y ejecuté Lean UX y UX Research, incluyendo User Personas, Task Matrix y Journey Maps.<br>Design y Prototyping: Desarrollé y documenté el diseño visual y los prototipos. |
+
+
+#### Conclusiones
+El uso correcto de lenguajes de programación, herramientas especializadas y la aplicación de buenas prácticas y convenciones permitió una implementación efectiva y colaborativa del proyecto. La aplicación disciplinada de Lean UX, UX Research y metodologías ágiles, junto con una documentación bien elaborada, garantizó el desarrollo de una solución sólida y validada a través de entrevistas con User Personas. Además, el enfoque en la mejora continua facilitará la actualización y optimización de los artefactos en función de nuevos hallazgos y recomendaciones. Finalmente, se mantuvo una comunicación clara y precisa de la propuesta a lo largo del proceso.
 
 <br>
 
@@ -216,14 +263,14 @@ La plataforma web permite a usuarios, organizaciones y comunidades monitorear y 
 Para lograrlo, se implementa una red de sensores IoT que detectan y transmiten datos de campos electromagnéticos mediante protocolos como WiFi. Estos sensores envían las mediciones a una infraestructura en la nube, donde la plataforma web centralizada procesa y almacena los datos, generando reportes en tiempo real. Además, mediante una API REST, se facilita la integración con otros sistemas y la recepción de actualizaciones en tiempo real, garantizando una comunicación fluida y eficiente entre sensores, servidor y usuarios.
 El propósito es proteger la salud y promover espacios seguros, basándose en estándares internacionales, mediante alertas automáticas y recomendaciones personalizadas que permiten tomar decisiones informadas y reducir la exposición a fuentes de radiación electromagnética.
 
-<div id="111"><h3>1.1.2. Perfiles de integrantes del equipo</h3></div>
+<div id="112"><h3>1.1.2. Perfiles de integrantes del equipo</h3></div>
 
 |Descripción del integrante|Perfil del integrante del equipo|
 | :--------| :--------:|
-|Soy estudiante de Ingeniería de Software, cursando actualmente el quinto ciclo de la carrera. Me destaco por ser responsable, proactivo y poseer sólidas habilidades de liderazgo. Estoy comprometido con el trabajo en equipo, fomentando una comunicación efectiva y colaborativa para alcanzar resultados sobresalientes. Mi enfoque está en garantizar la calidad y el éxito de los proyectos, aportando creatividad, esfuerzo y dedicación en cada etapa del desarrollo. Cuento con conocimientos en lenguajes como C++, HTML, CSS, JavaScript y Python, y estoy enfocado en aprender a crear proyectos utilizando frameworks como Angular y Vue.|![fabio](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/)|
+|Soy estudiante de Ingeniería de Software, cursando actualmente el quinto ciclo de la carrera. Me destaco por ser responsable, proactivo y poseer sólidas habilidades de liderazgo. Estoy comprometido con el trabajo en equipo, fomentando una comunicación efectiva y colaborativa para alcanzar resultados sobresalientes. Mi enfoque está en garantizar la calidad y el éxito de los proyectos, aportando creatividad, esfuerzo y dedicación en cada etapa del desarrollo. Cuento con conocimientos en lenguajes como C++, HTML, CSS, JavaScript, TypeScript y Python, y estoy enfocado en aprender a crear proyectos utilizando frameworks como Angular y Vue.|![Fabio](https://github.com/user-attachments/assets/4b9ef061-61ec-4ff8-b51f-b3ebc5209d7c)|
 | Mi nombre es **Williams Jesús Góngora Castillejos** y soy estudiante de la carrera de Ingeniería de Software. Me considero una persona inteligente en todo lo que conlleva a números y razonamiento intuitivo, además de ser creativo para generar soluciones como ingeniero. Cuento con conocimientos en SQL, C++ y Python. Dentro de mis habilidades interpersonales, soy amable, empático y trato de establecer confianza entre mis compañeros para realizar un mejor trabajo en equipo. |![williams](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/williams.jpg)|
-|-|-foto|
-|-|-foto|
+| Mi nombre es Mel Andree Orellana Rodríguez. Soy estudiante de la carrera de Ingeniería de Software en la UPC y actualmente me encuentro cursando el séptimo ciclo.Tengo conocimientos en C++ y estoy desarrollándome en JavaScript, lo que me ha permitido ampliar mis habilidades hacia el desarrollo web. Me considero una persona comprensiva, con buena capacidad de comunicación y trabajo en equipo. Siempre estoy dispuesta a aprender cosas nuevas y a seguir mejorando. Además, me gusta colaborar y apoyar en lo que pueda ser útil, especialmente en proyectos donde pueda aportar valor y seguir creciendo tanto a nivel profesional como personal.| ![Andree](https://github.com/user-attachments/assets/5104b1ae-1ac7-40aa-93b6-d7dbda9b4efa) |
+|Mi nombre es Esteban Daniel Espinoza Ayquipa, estoy cursando el quinto ciclo de la carrera de Ingeniería de Software. Soy una persona creativa, proactiva y eficiente al momento de elaborar proyectos siempre apuntando a la optimización. Tengo un nivel intermedio en las siguientes tecnologías ReactJS, ExpressJs, MySQL y Python orientado a realizar proyectos FullStack.|![Image](https://github.com/user-attachments/assets/48562958-d86e-4df7-ba2d-5d0621193258)|
 |Mi nombre es **Mauro Fabricio Lopez de la Cruz**, soy estudiante de la carrera ingeneria de software de la UPC y actualmente estoy cursando el quito ciclo . Tengo conocomiento en c++ , python, html ,css, javascript. Me considero una persona amable con capacidad de tener una muy buena comunnicacion en trabajos en grupo para el desarrollo de proyectos dando y ayudando en la solucion de problemas .|![file](https://github.com/user-attachments/assets/1b71c4fb-ee8e-4b0e-89c7-ffd7841631d9)|
 
 
@@ -504,69 +551,446 @@ Por otro lado, investigaciones destacan que en entornos laborales industriales y
 Por todo lo mencionado, se establecen los dos segmentos objetivos que serán abordados a lo largo del proyecto:
 
 **Segmento 1:**
-Personas interesadas en su salud
+Personas comprometidas con el cuidado de su salud
 
 **Segmento 2:**
-Empresas y organizaciones que operan maquinaria de alta emisión electromagnética
+Miembros de empresas y organizaciones que operan maquinaria de emisión electromagnética
 
 <div id="2"><h1>Capítulo II: Requirements Elicitation & Analysis</h1></div>
 
 <div id="21"><h2>2.1. Competidores</h2></div>
 
+Con el objetivo de comprender en profundidad el contexto competitivo en el que se insertará nuestra solución tecnológica para el monitoreo de la contaminación electromagnética, se ha llevado a cabo un análisis exhaustivo de los principales actores que actualmente ofrecen propuestas relacionadas con esta problemática. Esta evaluación nos permite identificar las fortalezas, debilidades y enfoques de distintas soluciones disponibles en el mercado, lo cual resulta fundamental para el diseño y posicionamiento estratégico de nuestra plataforma.
+
+![Competidores](https://github.com/user-attachments/assets/fc82ba50-3e0e-43d6-8562-2582a9b8fe14)
 
 <div id="211"><h3>2.1.1. Análisis competitivo</h3></div>
 
+En esta sección podemos identificar el FODA —Fortalezas, Oportunidades, Debilidades y Amenazas— de los competidores actuales en el ámbito del monitoreo de campos electromagnéticos (EMF), especialmente aquellos relacionados con la exposición de personas a dispositivos tecnológicos en su entorno cotidiano. Este análisis considera plataformas similares que ofrecen funciones de monitoreo en tiempo real, gestión de alertas, notificaciones automáticas y procesamiento de datos provenientes de sensores IoT. Además, se evalúa su posicionamiento en el mercado, el nivel de innovación tecnológica, la accesibilidad al usuario final y sus alianzas estratégicas.
+
+![Analisis1](https://github.com/user-attachments/assets/7aac305a-e23d-4f88-a3cb-20083757fd05)
+![Analisis2](https://github.com/user-attachments/assets/fff42246-d79a-4765-958f-4b2e2b362e56)
 
 
 <div id="212"><h3>2.1.2. Estrategias y tácticas frente a competidores</h3></div>
 
+Basándonos en las necesidades de la empresa, buscamos estrategias concretas para su adecuado desarrollo y el de sus clientes, promoviendo de esta manera una matriz FODA para realizar un análisis interno y externo efectivo.
+
+![Analisis2](https://github.com/user-attachments/assets/3c1579d8-1666-4cb5-b58a-4f4227b9ae94)
 
 <div id="22"><h2>2.2. Entrevistas</h2></div>
 
 Una entrevista es un proceso de comunicación en el que una persona (entrevistador) realiza preguntas y otra persona (entrevistado) responde, con el objetivo de obtener información relevante sobre un tema específico. En este ámbito sería conocer la opinión y necesidades respecto a las preguntas que se le haría para llegar a comprender a nuestro público. 
-Para , es muy importante la información de cada entrevista que se realizará y de esa forma nuestra StartUp pueda lograr el éxito. Finalmente, realizaremos en total 3 entrevistas, 3 por el segmento a dueños de hogar que poseen consumo de agua y luz, y al segmento de dueños de taller y/o fábricas. Un integrante del grupo realizó las entrevistas de manera virtual por diversas plataformas.
+Para , es muy importante la información de cada entrevista que se realizará y de esa forma nuestra StartUp pueda lograr el éxito. Finalmente, realizaremos un total de seis entrevistas: tres dirigidas al segmento de Hogares y ciudadanos conscientes de la salud y tres al segmento de Oficinas, pymes e instituciones educativas.
 
 <div id="221"><h3>2.2.1. Diseño de entrevistas</h3></div>
 
 A fin de obtener información valiosa sobre las necesidades, deseos y desafíos de nuestro público objetivo, hemos planteado una serie de preguntas.
 
+---
+
+## 🏠 Segmento 1: Personas comprometidas con el cuidado de su salud
+
+### Información personal:
+- ¿Cuál es su nombre?
+- ¿Cuál es su edad?
+- ¿En qué ciudad resides?
+- ¿Cuál es su ocupación profesional? ¿Se encuentra laborando actualmente?
+
+### Personalidad, aspecto emocional y habilidades del usuario:
+- ¿Podrías compartir una frase o dicho que refleje tu forma de ver la vida?
+- ¿Cuáles son algunas de tus fortalezas o debilidades personales?
+- ¿Qué medios digitales (TV, YouTube, redes sociales, etc.) sueles consumir?
+- ¿Te sientes cómodo/a usando aplicaciones móviles o dispositivos electrónicos en casa? ¿Has tenido dificultades para aprender a usarlos?
+- ¿Qué sistema operativo utilizas en tu celular? ¿iOS o Android?
+- ¿Qué navegador web usas con mayor frecuencia?
+
+### Evaluación del problema:
+- ¿Sabías que los aparatos electrónicos emiten radiación electromagnética constantemente dentro del hogar?
+- ¿Has experimentado molestias como insomnio o dolores de cabeza que asocies con el uso prolongado de dispositivos electrónicos?
+- ¿Qué tanto te preocupa la exposición a campos electromagnéticos en tu entorno diario?
+- ¿Qué acciones tomas actualmente para reducir tu exposición a dispositivos electrónicos?
+- ¿Qué información te gustaría tener para sentirte más seguro respecto a este tipo de exposición?
+- ¿Usarías una aplicación que te alerte cuando los niveles de radiación en tu casa sean elevados?
+
+---
+
+## 🏢 Segmento 2: Miembros de empresas y organizaciones que operan maquinaria de emisión electromagnética
+
+### Información personal:
+- ¿Cuál es su nombre?
+- ¿Cuál es su edad?
+- ¿En qué ciudad resides?
+- ¿Cuál es su rol dentro de la organización? ¿Desde hace cuánto tiempo lo desempeñas?
+
+### Personalidad, aspecto emocional y habilidades del usuario:
+- ¿Qué lema o principio te guía en tu trabajo diario?
+- ¿Qué cualidades personales consideras importantes para gestionar un entorno laboral saludable?
+- ¿Qué plataformas digitales sueles usar para informarte o entretenerte?
+- ¿Qué nivel de familiaridad tienes con el uso de aplicaciones o herramientas tecnológicas en tu entorno laboral?
+- ¿Qué sistema operativo usas en tu celular y computadora?
+- ¿Te consideras alguien abierto a la implementación de nuevas tecnologías?
+
+### Evaluación del problema:
+- ¿Consideras que el ambiente tecnológico de tu organización podría estar afectando la salud de los trabajadores o estudiantes?
+- ¿Existen actualmente protocolos de monitoreo ambiental en tu institución (ruido, calidad del aire, etc.)?
+- ¿Has recibido quejas de fatiga, dolores de cabeza u otros síntomas relacionados con el entorno de trabajo?
+- ¿Qué tan importante crees que sería monitorear la exposición a radiación electromagnética en tu espacio laboral?
+- ¿Qué beneficios verías en contar con alertas automáticas o reportes sobre estos niveles?
+- ¿Estarías dispuesto a implementar sensores IoT en tu oficina para prevenir posibles riesgos invisibles?
+
+
 
 <div id="222"><h3>2.2.2. Registro de entrevistas</h3></div>
 
+|Entevistado 1|Luis Espiritu|
+|-|-|
+|Edad|24|
+|Distrito|San Juan de Miraflores, Lima|
+|Foto|![entrevista-1](https://github.com/user-attachments/assets/dfc74ff3-cc88-4fb9-b5f9-2593330f5e50)|
+|Link de la Entrevista|[Entrevista a Luis Espiritu](https://drive.google.com/file/d/1sAMJM4DCI8BO37gY6L8Mp1TTG8g4eWml/view?usp=sharing)|
+|Time | 0:03 - 07:01 |
+|Analisis de Entrevista| Luis, un economista de 24 años, enfrenta el desafío de no poder controlar eficazmente los altos niveles de radiación electromagnetica que presentan sus dispositivos en su hogar. Le resulta frustrante y preocupante los daños que pueden causar distintos dispositivos. Por ello, desea una aplicación que le permita monitorear, gestionar y mantenerse alerta de los niveles de radiación en su hogar. Además, el considera que el daño que producen distintos de sus dispositivos electromagnéticos le estan pejudicando en su vida cotidiana y en el trabajo. |
 
+|Entevistado 2|Alejandra Gallo|
+|-|-|
+|Edad|21|
+|Distrito|Santiago de Surco, Lima|
+|Foto|![entrevista-2](![image](https://github.com/user-attachments/assets/7e404ad9-df3e-47bc-89ac-53b4096fb6fc)|
+|Link de la Entrevista|[Entrevista a Alejandra Gallo](https://drive.google.com/file/d/1KPiL8Y_FUCPUfuuG7mqipLlrIHS7DajK/view?usp=drive_link)|
+|Time | 0:03 - 06:06 |
+|Analisis de Entrevista|  Alejandra Gallo un estudiante de ciencia de la computacion de 21años expresa su preocupación por la exposición constante a las ondas electromagnéticas generadas por dispositivos electrónicos como celulares, routers y electrodomésticos. Señala que aunque muchos no lo notan, estos campos pueden tener efectos negativos en la salud a largo plazo, como alteraciones del sueño, dolores de cabeza o incluso riesgos más serios aún en estudio. Gallo destaca la importancia de tomar conciencia sobre este tema, promover investigaciones al respecto y adoptar hábitos que reduzcan la exposición diaria a estas ondas.. |
+
+|Entevistado 3|Iris Rodriguez|
+|-|-|
+|Edad|40|
+|Distrito|Cieneguilla, Lima|
+|Foto|![image](https://github.com/user-attachments/assets/3eec7c99-1829-4bbf-8f5d-03c40d9a1e1f)|
+|Link de la Entrevista|[Entrevista a Iris Rodriguez](https://www.youtube.com/watch?v=QkMyjgKGX7I)|
+|Time | 0:04 - 05:53 |
+|Analisis de Entrevista|  Iris es una mujer de 40 años, ama de casa y madre dedicada. Su día gira en torno al cuidado de sus hijos, siempre atenta a su bienestar. Una de sus mayores preocupaciones son los aparatos electrónicos del hogar, como el microondas, el router, el WiFi y los teléfonos móviles, ya que sabe que emiten ondas electromagnéticas que podrían afectar la salud, especialmente la de los más pequeños. Al estar tan pendiente de sus hijos, Iris considera muy importante contar con una herramienta que le permita saber qué dispositivos están emitiendo más radiación en su casa. Ella recomienda el desarrollo de una plataforma o producto que le ayude a identificar esos equipos y le dé información clara para poder tomar medidas y proteger a su familia. |
+
+|Entevistado 4|Oscar Soto|
+|-|-|
+|Edad|28|
+|Arequipa|
+|Foto|![Oscar](https://github.com/user-attachments/assets/28dc2d6b-3e04-4b0e-8166-c6e6b0b6b224)|
+|Link de la Entrevista|[Entrevista a Oscar Soto](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218791_upc_edu_pe/Ef6_sIik729Ln9QFrp9gZ70B5oIf7vAkeG2A36L2VNt61w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=EVS3zS)|
+|Time | 0:04 - 07:48 |
+|Analisis de Entrevista| Oscar es un técnico electromecánico de 28 años que trabaja en una planta industrial en Arequipa, donde opera maquinaria de alta carga electromagnética. Con más de 3 años de experiencia en el rubro, tiene un manejo avanzado de sistemas tecnológicos, software de análisis de vibraciones y herramientas de monitoreo en tiempo real. Su preocupación principal es la exposición constante a campos electromagnéticos, un riesgo invisible que podría estar afectando la salud de él y de sus compañeros, quienes han reportado síntomas como fatiga y dolores de cabeza. Ricardo valora profundamente la prevención y la seguridad laboral, y considera fundamental implementar soluciones tecnológicas que permitan monitorear estos niveles. Estaría completamente dispuesto a usar sensores IoT y aplicaciones que generen alertas automáticas y reportes claros, ya que para él, contar con una herramienta que visualice estos riesgos invisibles sería clave para reducir la exposición y proteger la salud del equipo técnico en el entorno industrial. |
+
+|Entevistado 5|Rafael Bravo|
+|-|-|
+|Edad|21|
+|Lima|
+|Foto|![Rafa](https://github.com/user-attachments/assets/9fb4a4a5-7d4f-4294-aeeb-ff3708c92d7c)|
+|Link de la Entrevista|[Entrevista a Rafael Bravo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218791_upc_edu_pe/EbcvqRb3ziBLubPBirMFZEYBMzHntl3uh0pZOLRsrNYLnA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=r0avvj)|
+|Time | 0:04 - 04:44 |
+|Analisis de Entrevista| Rafael es un estudiante universitario de 21 años que reside en la casa de sus padres, donde pasa gran parte del día rodeada de dispositivos electrónicos como el router, el celular y la laptop. Tiene un manejo avanzado de la tecnología, se considera muy hábil para adaptarse a nuevas herramientas digitales. Su principal preocupación gira en torno a los efectos invisibles de la radiación electromagnética emitida por los aparatos del hogar, ya que ha notado síntomas como dolores de cabeza tras largas jornadas frente a la pantalla. Rafael valora mucho la prevención y estaría dispuesta a usar una aplicación que le brinde alertas y reportes claros sobre los niveles de radiación en su entorno. Para el, contar con una herramienta que le informe sobre qué dispositivos emiten más y cómo actuar ante esos niveles, sería clave para sentirse más seguro y cuidar su salud. |
 
 <div id="223"><h3>2.2.3. Análisis de entrevistas</h3></div>
 
+1. ### Análisis del Segmento: Hogares y Ciudadanos Conscientes de la Salud
+
+### Características Objetivas:
+- **Preocupación por la Radiación Electromagnética**: El 85% de los entrevistados en el segmento de hogares mostró preocupación por los efectos de la radiación electromagnética proveniente de dispositivos electrónicos, como teléfonos móviles y Wi-Fi.
+- **Interés en Soluciones de Monitoreo**: El 70% expresó interés en usar aplicaciones móviles para monitorear los niveles de radiación en sus hogares.
+- **Conocimiento de los Riesgos**: El 60% de los entrevistados no tenía suficiente información sobre los efectos a largo plazo de la exposición a campos electromagnéticos y manifestó el deseo de recibir más datos educativos.
+- **Preferencia por Alertas Proactivas**: El 80% de los participantes prefieren recibir alertas automáticas que les notifiquen cuando los niveles de radiación sean elevados.
+
+### Características Subjetivas:
+- **Sentimiento de Inseguridad**: El 75% de los entrevistados mencionó sentirse inseguro respecto a la exposición a radiación en sus hogares debido a la falta de herramientas para monitorear y gestionar estos niveles.
+- **Deseo de Protección Familiar**: El 70% de los participantes expresó un deseo de proteger a su familia de posibles efectos negativos asociados con la exposición continua a radiación, aunque no cuentan con recursos adecuados para hacerlo.
+
+### Conclusión:
+Los hogares conscientes de la salud tienen una fuerte preocupación por la exposición a la radiación electromagnética, especialmente la generada por dispositivos electrónicos en su entorno. Existe un deseo claro de contar con soluciones tecnológicas que permitan monitorear los niveles de radiación y recibir alertas, lo que demuestra la oportunidad para EMSafe de ofrecer una herramienta accesible y educativa que brinde seguridad y confianza en el hogar.
+
+---
+
+2. ### Análisis del Segmento: Oficinas, Pymes e Instituciones Educativas
+
+### Características Objetivas:
+- **Preocupación por el Ambiente de Trabajo**: El 78% de los entrevistados en este segmento mencionó que la calidad del ambiente de trabajo influye directamente en la salud de los empleados y estudiantes.
+- **Falta de Protocolos de Monitoreo**: El 65% indicó que no existen protocolos adecuados para monitorear factores como la calidad del aire o la exposición a radiación electromagnética en sus espacios laborales o educativos.
+- **Interés en Monitoreo Ambiental**: El 70% de los entrevistados expresó que implementar un sistema para medir la radiación electromagnética podría mejorar el bienestar de los trabajadores y estudiantes.
+- **Adopción de Nuevas Tecnologías**: El 80% mostró disposición para adoptar nuevas tecnologías que ayuden a mejorar la salud y productividad en el entorno de trabajo, incluyendo el uso de sensores IoT para monitoreo ambiental.
+
+### Características Subjetivas:
+- **Sentimiento de Responsabilidad**: El 72% de los entrevistados mostró un sentido de responsabilidad hacia la salud de sus empleados o estudiantes y expresó que una herramienta para monitorear la radiación sería beneficiosa para la salud integral.
+- **Preocupación por el Bienestar**: El 68% manifestó inquietudes por los síntomas recurrentes de fatiga y dolores de cabeza en los trabajadores y estudiantes, lo que llevó a considerar la posibilidad de que la radiación pueda ser un factor contribuyente.
+
+### Conclusión:
+En el segmento de oficinas, pymes e instituciones educativas existe una creciente preocupación por el bienestar de los empleados y estudiantes, especialmente en lo relacionado con la calidad del aire y la radiación electromagnética. La disposición para implementar tecnologías de monitoreo, como sensores IoT, demuestra que EMSafe tiene una oportunidad clara para ofrecer una solución integral que no solo permita la medición de radiación, sino también la mejora del entorno laboral y educativo.
+
+---
 
 
 
 <div id="23"><h2>2.3. Needfinding</h2></div>
-<div id="231"><h3>2.3.1. User Personas</h3></div>
 
+<div id="231"><h3>2.3.1. User Personas</h3></div>
+A través de un perfil detallado, esta sección explora las características demográficas, necesidades, deseos, comportamientos y problemas específicos de los usuarios de los segmentos objetivos predefinidos, facilitando el diseño de soluciones que se alineen mejor con sus expectativas y desafíos.
+
+**Segmento 1:** Personas interesadas en su salud
+
+<img src="img/User-Maria.png"/>
+
+**Segmento 2:** Empresas y organizaciones que operan maquinaria de alta emisión electromagnética
+
+<img src="img/User-Ricardo.png"/>
 
 <div id="232"><h3>2.3.2. User Task Matrix</h3></div>
 
+## Perfil: **Segmento 1**
+- Nombre: María Gutiérrez
+- Edad: 37 años
+- Profesión: Maestra de primaria
+- Interés: Proteger la salud de su familia ante la exposición electromagnética
+
+| Tarea                                                                 | Frecuencia | Importancia | Comentarios |
+|-----------------------------------------------------------------------|------------|-------------|-------------|
+| Verificar niveles de radiación en su casa                            | Diaria     | Alta        | Revisa exposición en zonas como dormitorio, sala y cocina. |
+| Recibir alertas si hay sobreexposición                               | Eventual   | Alta        | Desea alertas claras, automáticas y fáciles de entender. |
+| Acceder a recomendaciones para reducir exposición                    | Semanal    | Media       | Busca consejos simples como cambiar ubicación de dispositivos. |
+| Configurar zonas seguras en la app                                   | Ocasional  | Media       | Le interesa definir áreas donde sus hijos juegan o duermen. |
+| Consultar histórico de niveles de exposición                         | Mensual    | Media       | Quiere evaluar cambios a lo largo del tiempo para tomar decisiones. |
+| Compartir inquietudes o consejos en redes o foros                    | Ocasional  | Baja        | Busca validar preocupaciones con otros padres o usuarios. |
 
 
-</br>
+## Perfil: **Segmento 2**
+- Nombre: Ricardo Sánchez
+- Edad: 42 años
+- Profesión: Técnico en telecomunicaciones
+- Interés: Garantizar entornos seguros en industrias y cumplir con normativas
+
+| Tarea                                                                 | Frecuencia | Importancia | Comentarios |
+|-----------------------------------------------------------------------|------------|-------------|-------------|
+| Instalar sensores en entornos industriales                           | Recurrente | Alta        | Necesita facilidad de instalación y conectividad inmediata. |
+| Ver dashboards de radiación en tiempo real                           | Diaria     | Alta        | Usa los datos para supervisar condiciones operativas. |
+| Generar reportes PDF para auditorías o clientes                      | Semanal    | Alta        | Automatización y formatos exportables son clave. |
+| Configurar umbrales personalizados de alerta                         | Ocasional  | Alta        | Desea adaptar alertas a normas de seguridad de su empresa. |
+| Integrar datos con plataformas internas mediante API                 | Eventual   | Media       | Requiere endpoints bien documentados y estables. |
+| Realizar mantenimientos o actualizaciones de sensores                | Mensual    | Media       | Importante para asegurar continuidad del monitoreo. |
+
 
 <div id="233"><h3>2.3.3. User Journey Mapping</h3></div>
+El User Journey Mapping es una herramienta visual que ayuda a comprender y visualizar la experiencia completa de un usuario al interactuar con un producto o servicio, desde el primer contacto hasta la acción final. El objetivo es identificar puntos de dolor (pain points) y momentos clave (touchpoints) que afectan la satisfacción y efectividad de la experiencia del usuario. Este mapa ayuda a los equipos de diseño, desarrollo y marketing a alinear sus esfuerzos para mejorar la experiencia del usuario en cada etapa de su interacción.
+
+**María - Usuario Individual**
+
+![Journy-1](https://github.com/user-attachments/assets/9c3b63a1-0a12-444b-95c4-2e08ab590ebe)
+
+
+**Ricardo - Usuario Corporativo**
+
+![Journy-2](https://github.com/user-attachments/assets/be08662f-2552-45a7-9823-3b2957ad5f65)
+
+
 
 <div id="234"><h3>2.3.4. Empathy Mapping</h3></div>
 
+El Empathy Mapping es una herramienta que ayuda a comprender más profundamente las necesidades, deseos, preocupaciones y emociones de los usuarios. Al centrarse en lo que los usuarios piensan, sienten, dicen y hacen, el mapa permite a los diseñadores y equipos de producto conectar mejor con los usuarios y crear soluciones que realmente resuelvan sus problemas y satisfagan sus expectativas.
+
+**Segmento 1**: Personas interesadas en su salud
+
+![Mapa de empatía 1  (1)](https://github.com/user-attachments/assets/7ce77cdd-c794-4d3c-8ed1-0dbcdaec9763)
+
+
+
+**Segmento 2**: Empresas y organizaciones que operan maquinaria de alta emisión electromagnética
+
+![Empathy map 2](https://github.com/user-attachments/assets/2f8b73b0-4d1f-4722-abe4-c82622cc50e1)
+
+
 <div id="235"><h3>2.3.5. As-is Mapping</h3></div>
 
+El As-is Scenario Mapping es un ejercicio que permite visualizar y comprender cómo los usuarios interactúan actualmente con un producto o servicio. Mapea los flujos y procesos actuales para identificar ineficiencias, puntos de dolor o áreas de mejora. Es útil para identificar problemas existentes en la experiencia del usuario y establecer una base para las futuras mejoras.
+
+**Segmento 1**: Personas interesadas en su salud
+![image](https://github.com/user-attachments/assets/cb38de20-9acc-4a75-a44b-e5cb1dab275d)
+
+
+**Segmento 2**: Empresas y organizaciones que operan maquinaria de alta emisión electromagnética
+![image](https://github.com/user-attachments/assets/523853c6-c15e-489b-b95a-51ff8cfdc44d)
+
+
 <div id="24"><h3>2.4. Ubiquitous Language</h3></div>
+
+El Ubiquitous Language es un concepto clave en el diseño de productos y sistemas que promueve un lenguaje común y claro entre todos los miembros del equipo, incluyendo diseñadores, desarrolladores, y stakeholders. Este lenguaje compartido facilita la comunicación, asegura que todos comprendan de la misma manera los conceptos clave del proyecto y ayuda a reducir malentendidos durante el proceso de desarrollo.
+
+**Sensor**:
+Dispositivo IoT que detecta niveles de radiación electromagnética no ionizante en un entorno específico.
+
+**Radiación No Ionizante**:
+Tipo de radiación emitida por dispositivos como routers, celulares y electrodomésticos. No altera el ADN, pero su exposición prolongada puede tener efectos en la salud.
+
+**Medición en Tiempo Real**:
+Proceso continuo mediante el cual los sensores registran y envían datos al sistema para su visualización inmediata.
+
+**Plataforma EMSafe**:
+Interfaz web donde los usuarios acceden a reportes, visualizan datos de radiación y configuran alertas o zonas de monitoreo.
+
+**Umbral de Seguridad**:
+Valor límite de radiación definido según estándares internacionales (como ICNIRP o WHO), que al superarse genera una alerta en la plataforma.
+
+**Alerta Automática**:
+Notificación enviada al usuario cuando los sensores detectan niveles de radiación por encima del umbral establecido.
+
+**Recomendación Personalizada**:
+Consejo específico basado en las mediciones del entorno del usuario, con sugerencias para reducir la exposición.
+
+**Mapa de Calor**:
+Visualización geoespacial que muestra los niveles de radiación por zona, usando colores para representar intensidad.
+
+**Zona Crítica**:
+Área con mediciones constantes por encima del umbral de seguridad, que requiere intervención o cambios.
+
+**Usuario Individual**:
+Persona que utiliza EMSafe para protegerse y/o proteger a su familia de la exposición a radiación en su hogar u oficina.
+
+**Usuario Corporativo**:
+Empresa u organización que implementa EMSafe para monitorear y reducir la exposición de sus trabajadores a campos electromagnéticos.
+
+**API REST**:
+Interfaz de programación que permite integrar EMSafe con otros sistemas para recibir o enviar datos automáticamente.
+
+**Dashboard**:
+Panel principal donde el usuario ve el resumen de mediciones, alertas recientes y estado de los sensores en tiempo real.
+
+**Reporte**:
+Documento generado automáticamente que resume los niveles de radiación detectados en un periodo específico, útil para toma de decisiones o auditorías.
+
+**Integración**:
+Proceso de conectar EMSafe con sistemas externos (por ejemplo, sistemas de gestión empresarial o plataformas de seguridad laboral).
+
+**Auditoría**:
+Revisión de cumplimiento normativo que puede requerir evidencia de monitoreo de radiación. EMSafe facilita esta evidencia a través de reportes certificados.
+
+**Configuración de Sensor**:
+Proceso donde el usuario asigna ubicación, nombre y parámetros de umbral al sensor IoT desde la plataforma.
+
+**Salud Electromagnética**:
+Estado de bienestar físico asociado a la exposición controlada o reducida a campos electromagnéticos en el entorno diario.
+
+**Comunidad**:
+Grupo de usuarios o vecinos que comparten sus mediciones de forma colaborativa para generar mapas de exposición en áreas comunes.
+
 
 <div id="3"><h1>Capitulo III: Requirements Elicitation</h1></div>
 
 <div id="31"><h2>3.1. To-Be Scenario Mapping</h2></div>
 
+El To-Be Scenario Mapping es el proceso de crear una visión del futuro deseado para la experiencia del usuario. A diferencia del mapeo de escenarios actuales, este enfoque visualiza cómo debería ser la interacción con el producto una vez que se hayan implementado mejoras o nuevas funcionalidades. Ayuda a planificar los cambios necesarios para lograr una experiencia más eficiente, agradable y alineada con las necesidades de los usuarios.
+
+**Segmento 1**: Personas interesadas en su salud
+
+![image](https://github.com/user-attachments/assets/58ebbbc0-6bcc-4508-bad2-2a652554fcd3)
+
+
+**Segmento 2**: Empresas y organizaciones que operan maquinaria de alta emisión electromagnética
+
+![image](https://github.com/user-attachments/assets/8822b72d-441c-48a9-9d44-97ee72508fd3)
+
+
 <div id="32"><h2>3.2. User Stories</h2></div>
+
+| Epic ID   | Título de las Epics                                  |
+| :-------- | :--------------------------------------------------- |
+| **EPIC01** | Funcionalidad del Sistema (EMSafe)                    |
+| **EPIC02** | Landing Page (desarrollo y experiencia del usuario) |
+| **EPIC03** | Web Application (desarrollo y experiencia del usuario) |
+| **EPIC04** | Backend API (integración y gestión de API)          |
+| **EPIC05** | Personalización y perfil del usuario (Actualizar data) |
+
+<br>
+
+| Epic /Story ID | Título                                      | Descripción                                                                                                | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                         | Relacionado con (Epic ID) |
+| :------------- | :----------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------ |
+| US01          | Visualización de Niveles EM                | **Como** usuario,<br>**Quiero** visualizar en tiempo real los niveles de contaminación electromagnética en mi zona,<br>**Para** saber si es seguro permanecer ahí. | **Escenario 1:**<br>**Dado que** la exposición prolongada puede afectar la salud,<br><br>**Cuando** un ciudadano accede a la plataforma,<br><br>**Entonces** debe visualizar los niveles actualizados en un mapa.                                                                                                                             | EPIC01                  |
+| US02          | Alertas Automatizadas                       | **Como** usuario,<br>**Quiero** recibir alertas automáticas cuando los niveles EM superen los límites recomendados,<br>**Para** poder actuar a tiempo. | **Escenario 1:**<br>**Dado que** los picos de radiación pueden ser peligrosos,<br><br>**Cuando** se detecta un nivel elevado,<br><br>**Entonces** el sistema debe enviar una notificación al usuario.<br><br>**Escenario 2:**<br>**Dado que** un usuario no tiene activadas las notificaciones,<br><br>**Cuando** los niveles EM superan los límites,<br><br>**Entonces** el sistema debe registrar el evento sin enviar alerta. | EPIC01                  |
+| US03          | Recomendaciones Personalizadas              | **Como** usuario,<br>**Quiero** recibir recomendaciones según mi historial de exposición<br>**Para** reducir riesgos en mi entorno.   | **Escenario 1:**<br>**Dado que** cada usuario tiene un nivel de exposición distinto,<br><br>**Cuando** el sistema analiza su historial,<br><br>**Entonces** envía recomendaciones específicas.<br><br>**Escenario 2:**<br>**Dado que** el usuario no tiene suficiente historial registrado,<br><br>**Cuando** el sistema intenta generar recomendaciones,<br><br>**Entonces** se muestra un mensaje indicando que no hay suficiente información disponible. | EPIC01                  |
+| US04          | Visualizar la sección Características        | **Como** visitante del sitio web estático,<br>**Quiero** acceder a la sección “Características”,<br>**Para** conocer los diferentes servicios ofrecidos por la start-up. | **Escenario 1:**<br>**Dado que** las clientes buscan información sobre los servicios ofrecidos,<br><br>**Cuando** las ingresan a la sección Características,<br><br>**Entonces** pueden visualizar la información de cuáles son los servicios disponibles que ofrece la start-up.                                                                  | EPIC02                  |
+| US06          | Gestión de Perfiles                        | **Como** usuario,<br>**Quiero** configurar mi perfil y preferencias para recibir información personalizada.<br>**Para** ajustar mis alertas y zonas de interés según mis necesidades. | **Escenario 1:**<br>**Dado que** los usuarios tienen necesidades distintas,<br><br>**Cuando** editan su perfil,<br><br>**Entonces** pueden ajustar tipos de alerta y zonas de interés.                                                                                                                                          | EPIC05                  |
+| US07          | Visualizar la sección Problemática          | **Como** visitante del sitio web estático,<br>**Quiero** ver información sobre la contaminación electromagnética para entender sus riesgos.<br>**Para** estar informado sobre los peligros.. | **Escenario 1:**<br>**Dado que** muchos usuarios no conocen sobre el tema,<br><br>**Cuando** acceden a la sección Problemática,<br><br>**Entonces** encuentran información clara y educativa.                                                                                                                            | EPIC02                  |
+| US08          | Visualizar la sección Beneficios            | **Como** visitante del sitio web estático,<br>**Quiero** ver información sobre los beneficios de la startup para un mejor cuidado personal.<br>**Para** conocer las ventajas de usar la plataforma. | **Escenario 1:**<br>**Dado que** los usuarios buscan información sobre los beneficios ofrecidos,<br><br>**Cuando** ingresan a la sección Beneficios,<br><br>**Entonces** pueden visualizar la información de cuáles son los beneficios disponibles que ofrece la start-up.                                                                   | EPIC05                  |
+| US09          | CTA Claros                                | **Como** visitante,<br>**Quiero** botones de acción claros para registrarme o explorar la demo fácilmente.<br>**Para** tener un acceso rápido y directo. | **Escenario 1:**<br>**Dado que** un buen diseño mejora la conversión,<br><br>**Cuando** el visitante entra a la landing,<br><br>**Entonces** debe ver botones llamativos y funcionales.                                                                                                                                                            | EPIC02                  |
+| US10          | Responsive Design                          | **Como** usuario móvil,<br>**Quiero** navegar fácilmente desde mi celular para usar la plataforma en cualquier lugar.<br>**Para** acceder a la plataforma sin problemas desde cualquier dispositivo. | **Escenario 1:**<br>**Dado que** muchos acceden desde dispositivos móviles,<br><br>**Cuando** entran a la web,<br><br>**Entonces** esta se adapta correctamente a la pantalla.                                                                                                                                  | EPIC02                  |
+| US11          | Testimonios de Usuarios                    | **Como** visitante,<br>**Quiero** leer experiencias de otros usuarios para confiar en la herramienta.<br>**Para** sentirme seguro al usarla.                               | **Escenario 1:**<br>**Dado que** la validación social genera confianza,<br><br>**Cuando** el visitante baja en la página,<br><br>**Entonces** encuentra comentarios positivos.                                                                                                                                                                | EPIC02                  |
+| US12          | Dashboard Personal                         | **Como** usuario registrado,<br>**Quiero** tener un panel con mis métricas personalizadas para dar seguimiento a mi exposición.<br>**Para** poder gestionar mi exposición de manera eficiente. | **Escenario 1:**<br>**Dado que** la personalización mejora la experiencia,<br><br>**Cuando** el usuario inicia sesión,<br><br>**Entonces** visualiza sus datos históricos.                                                                                                                                             | EPIC03                  |
+| US13          | Visualizar link público de acceso al Landing Page | **Como** visitante del sitio web,<br>**Quiero** acceder al Landing page,<br>**Para** observar la información de la empresa desarrolladora.                     | **Escenario 1:**<br>**Dado que** los usuarios necesitan obtener información sobre la empresa desarrolladora,<br><br>**Cuando** los usuarios ingresan al landing page,<br><br>**Entonces** los usuarios pueden observar la información relevante de la empresa desarrolladora.                                                                 | EPIC02                  |
+| US14          | Filtrado de Datos                          | **Como** usuario,<br>**Quiero** filtrar por fecha, zona y tipo de fuente EM para un análisis más específico.<br>**Para** obtener resultados más detallados y relevantes. | **Escenario 1:**<br>**Dado que** se manejan muchos datos,<br><br>**Cuando** el usuario selecciona filtros,<br><br>**Entonces** el sistema muestra solo la información relevante.                                                                                                                                                              | EPIC03                  |
+| US15          | Desarrollo de estructura HTML del landing Page  | **Como** Developer de la aplicación,<br>**Quiero** crear la estructura básica del landing page usando HTML,<br>**Para** asegurar que las secciones estén correctamente definidas y organizadas. | **Escenario 1:**<br>**Dado que** el landing page debe ser adaptable a diferentes dispositivos,<br><br>**Cuando** se defina la estructura HTML,<br><br>**Entonces** el diseño debe permitir que las secciones sean responsivas, manteniendo su claridad y coherencia en cualquier resolución de pantalla.                                | EPIC03                  |
+| US16          | Desarrollo de estilos CSS del Landing Page     | **Como** developer de la aplicación,<br>**Quiero** aplicar estilos visuales al landing page usando CSS,<br>**Para** darle un diseño atractivo y coherente con el Mock-up. | **Escenario 1:**<br>**Dado que** el diseño debe adaptarse a diferentes dispositivos,<br><br>**Cuando** se apliquen los estilos CSS,<br><br>**Entonces** el Landing page debe mantener su apariencia coherente y responsive en varias resoluciones de pantalla.                                                              | EPIC03                  |
+| US17          | Eliminar datos personales de un paciente     | **Como** desarrollador,<br>**Quiero** eliminar los datos personales de un paciente mediante la API,<br>**Para** remover información que ya no es relevante.                | **Escenario 1:**<br>**Dado que** existe el endpoint "/api/v1/pacientes/{id}/datos" y se puede acceder a él,<br><br>**Cuando** se hace una solicitud de tipo DELETE indicando un ID específico de un usuario,<br><br>**Entonces** el sistema debe responder con un código 200, y en la respuesta se debe confirmar que los datos personales del usuario fueron eliminados. | EPIC04                  |
+| US18          | Alertas de Sensor Fallido                    | **Como** usuario,<br>**Quiero** ser notificado si un sensor deja de funcionar para evitar información incorrecta.<br>**Para** asegurarme de que los datos sean precisos.     | **Escenario 1:**<br>**Dado que** los sensores pueden fallar,<br><br>**Cuando** uno de ellos se desconecta,<br><br>**Entonces** el sistema envía una alerta inmediata.                                                                                                                                                              | EPIC04                  |
+| US19          | API de Integración                         | **Como** proveedor tecnológico,<br>**Quiero** integrar mis sensores vía API para interoperar con la plataforma.<br>**Para** que los datos se integren en tiempo real.        | **Escenario 1:**<br>**Dado que** se buscan alianzas tecnológicas,<br><br>**Cuando** el proveedor conecta su sistema,<br><br>**Entonces** los datos se integran en tiempo real.                                                                                                                                                   | EPIC04                  |
+| US20          | Registro de exposición personal            | **Como** usuario,<br>**Quiero** registrar manualmente mi ubicación frecuente para hacer seguimiento personalizado.<br>**Para** realizar un análisis de mi exposición en función de mis ubicaciones. | **Escenario 1:**<br>**Dado que** no siempre se cuenta con GPS,<br><br>**Cuando** el usuario ingresa una dirección,<br><br>**Entonces** se vincula a su perfil.                                                                                                                                                | EPIC01                  |
+| US21          | Visualizar sección Contacto                 | **Como** usuario,<br>**Quiero** enviar comentarios o preguntas al equipo de soporte desde la web estática.<br>**Para** resolver dudas o problemas rápidamente.             | **Escenario 1:**<br>**Dado que** algunos usuarios requieren ayuda,<br><br>**Cuando** llenan el formulario,<br><br>**Entonces** reciben una confirmación de envío.                                                                                                                                                               | EPIC02                  |
+| US22          | Perfil de exposición por día               | **Como** usuario,<br>**Quiero** ver un resumen diario de mi exposición EM para controlar mis hábitos.<br>**Para** saber cómo varía mi exposición a lo largo del tiempo.   | **Escenario 1:**<br>**Dado que** el control personal es importante,<br><br>**Cuando** revisa su panel,<br><br>**Entonces** encuentra un gráfico de barras por día.                                                                                                                                                            | EPIC03                  |
+| US23          | Historial de alertas                       | **Como** usuario,<br>**Quiero** consultar todas las alertas pasadas para identificar patrones en mi exposición.<br>**Para** poder tomar decisiones informadas.                 | **Escenario 1:**<br>**Dado que** las alertas reflejan riesgos,<br><br>**Cuando** el usuario abre su historial,<br><br>**Entonces** ve fecha, hora y nivel de alerta.                                                                                                                                                             | EPIC03                  |
+| US24          | Obtener números de emergencia                | **Como** desarrollador,<br>**Quiero** obtener los números de emergencia de un adulto mayor a través de una API para mostrarlos al personal médico o familiar.<br>**Para** que se pueda contactar a los servicios adecuados rápidamente. | **Escenario 1:**<br>**Dado que** el Endpoint "/api/v1/adultos-mayores/{id}/números-emergencia" está disponible,<br><br>**Cuando** se envía una solicitud GET para un adulto mayor específico,<br><br>**Entonces** se recibe una respuesta con el estado 200, y se incluyen los números de emergencia del adulto mayor en el cuerpo de la respuesta. | EPIC04                  |
+| US25          | Obtener los signos en tiempo real            | **Como** desarrollador,<br>**Quiero** obtener los signos vitales en tiempo real de un usuario a través de una API<br>**Para** que pueda monitorearlos constantemente.        | **Escenario 1:**<br>**Dado que** el Endpoint "/api/v1/adultos-mayores/{id}/signos-vitales" está disponible,<br><br>**Cuando** se envía una solicitud GET para un ID de adulto mayor válido,<br><br>**Entonces** se recibe una respuesta con el estado 200<br>Y se muestran los signos vitales en tiempo real en el cuerpo de la respuesta. | EPIC04                  |
+| US26          | Obtener datos personales del perfil de un usuario | **Como** desarrollador,<br>**Quiero** obtener los datos personales de un usuario a través de una API<br>**Para** que pueda mostrar su perfil completo en la aplicación.   | **Escenario 1:**<br>**Dado que** el Endpoint "/api/v1/usuarios/{id}/perfil" está disponible,<br><br>**Cuando** se envía una solicitud GET para un ID de adulto mayor inexistente,<br><br>**Entonces** se recibe una respuesta con el estado 404,<br>Y se incluye un mensaje en el cuerpo de la respuesta que indica: "El perfil solicitado no existe."existe."         | EPIC04                  |
+| US27          | Pruebas automáticas de diagnóstico           | **Como** administrador,<br>**Quiero** que el sistema ejecute pruebas periódicas en los sensores<br>**Para** que pueda detectar fallos automáticamente.                          | **Escenario 1:**<br>**Dado que** los fallos pueden pasar desapercibidos,<br><br>**Cuando** el sistema corre las pruebas,<br><br>**Entonces** informa cualquier error detectado.                                                                                                                                                | EPIC04                  |
+| US28          | Autenticación segura                         | **Como** usuario,<br>**Quiero** iniciar sesión de forma segura<br>**Para** que pueda proteger mis datos personales.                                                        | **Escenario 1:**<br>**Dado que** se manejan datos sensibles,<br><br>**Cuando** el usuario inicia sesión,<br><br>**Entonces** se valida con múltiples factores de autenticación.                                                                                                                                                  | EPIC03                  |
+| US29          | Desarrollo de funcionalidad con Javascript   | **Como** desarrollador de EMSafe,<br>**Quiero** implementar funcionalidades interactivas en el sitio utilizando JavaScript<br>**Para** que se mejore la experiencia del usuario. | **Escenario 1:**<br>**Dado que** los usuarios interactúan con distintos elementos del sitio,<br><br>**Cuando** acceden a secciones como formularios, menús desplegables o mapas interactivos,<br><br>**Entonces** los elementos deben responder dinámicamente.                                                                    | EPIC03                  |
+| US030         | Redirección al Aplicación Web                | **Como** developer de EMSafe,<br>**Quiero** implementar un botón que redireccione al visitante a la aplicación web<br>**Para** que se facilite el inicio de sesión.        | **Escenario 1:**<br>**Dado que** el visitante está en la página de inicio de EMSafe,<br><br>**Cuando** hace clic en el botón de redirección,<br><br>**Entonces** debe ser redirigido automáticamente a la página de inicio de sesión de la aplicación web,<br>Sin necesidad de recargar la página de inicio.                               | EPIC03                  |
+| US31          | Desarrollo de technical support            | **Como** developer de EMSafe,<br>**Quiero** implementar la sección de technical support<br>**Para** que el usuario pueda comunicarse con soporte técnico en caso de inconvenientes. | **Escenario 1:**<br>**Dado que** el usuario está navegando en la página de soporte de EMSafe,<br><br>**Cuando** accede a la sección de soporte técnico,<br><br>**Entonces** debe poder ver un formulario donde pueda enviar su consulta, incluir su nombre, correo electrónico, descripción del problema y adjuntar archivos si es necesario.<br>Y el sistema debe enviar una confirmación de recepción de la consulta y proporcionar un tiempo estimado de respuesta. | EPIC03                  |
+| US32          | Visualización de la sección de ubicación del centro de investigación | **Como** visitante del sitio web de EMSafe,<br>**Quiero** visualizar una sección con la ubicación del centro de investigación en el landing page<br>**Para** que conozca la dirección exacta y cómo llegar al centro. | **Escenario 1:**<br>**Dado que** el usuario está en la página de inicio (landing page) de EMSafe,<br><br>**Cuando** el usuario se desplaza hacia la sección "Ubicación del Centro de Investigación",<br><br>**Entonces** debe ver un mapa interactivo o una representación visual clara con la dirección exacta del centro de investigación. | EPIC02                  |
+| US33          | Visualización de la sección de testimonios   | **Como** visitante del sitio web de EMSafe,<br>**Quiero** visualizar una sección
+
 
 <div id="33"><h2>3.3. Impact Mapping</h2></div>
 
+El Impact Mapping es una herramienta estratégica que aplicaremos en EMSafe para alinear nuestras funcionalidades técnicas con los objetivos del proyecto. Esta técnica nos permitirá visualizar y priorizar aquellas características del sistema que generan mayor valor, optimizando la toma de decisiones y el uso de recursos. En nuestro caso, utilizaremos el Impact Mapping para comprender cómo nuestras soluciones tecnológicas pueden mejorar el monitoreo de la contaminación electromagnética, asegurando que el desarrollo de la plataforma esté en sintonía con las necesidades de los usuarios y los objetivos de salud pública.
+
+![Impact_Mapping](https://github.com/user-attachments/assets/64da095b-efff-4e00-b733-a0947944f7b4)
+
+
+
+
 <div id="34"><h2>3.4. Product Backlog</h2></div>
+
+Una vez completada la redacción de todas las User Stories (US), es esencial establecer un orden de prioridad. Para ello, se emplea el Product Backlog, donde las historias de usuario se organizan según su relevancia y el valor que aportan al proyecto. La estimación del esfuerzo necesario para cada historia se realizó utilizando la escala de Fibonacci (1, 2, 3, 5, 8), a través de los Story Points. A mayor cantidad de puntos, se asume que la US requiere más trabajo o tiene un mayor impacto en la plataforma. Por lo tanto, aquellas historias con una puntuación más alta serán consideradas prioritarias y se abordarán en las primeras etapas del desarrollo.
+
+
+# 3.4. Product Backlog
+
+| #Orden | User Story ID | Título                                      | Descripción                                                                                                                                                                                                                                                           | Story Points |
+| :----- | :------------ | :--------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-----------: |
+| 1      | US15          | Desarrollo de estructura HTML del landing Page | **Como** Developer de la aplicación,<br>**Quiero       5       |
+| 2      | US16          | Desarrollo de estilos CSS del Landing Page    | **Como** developer de la aplicación,<br>**Quiero** aplicar estilos visuales al landing page usando CSS,<br>**Para** darle un diseño atractivo y coherente con el Mock-up.                                                                                                |       5       |
+| 3      | US04          | Visualizar la sección Características        | **Como** visitante del sitio web estático,<br>**Quiero** acceder a la sección “Características”,<br>**Para** conocer los diferentes servicios ofrecidos por la start-up.                                                                                             |       3       |
+| 4      | US07          | Visualizar la sección Problemática          | **Como** visitante del sitio web estático,<br>**Quiero** ver información sobre la contaminación electromagnética para entender sus riesgos.<br>**Para** estar informado sobre los peligros..                                                                                                |       3       |
+| 5      | US09          | CTA Claros                                | **Como** visitante,<br>**Quiero** botones de acción claros para registrarme o explorar la demo fácilmente.<br>**Para** tener un acceso rápido y directo. |       2       |
+| 6      | US10          | Responsive Design                          | **Como** usuario móvil,<br>**Quiero** navegar fácilmente desde mi celular para usar la plataforma en cualquier lugar.<br>**Para** acceder a la plataforma sin problemas desde cualquier dispositivo.                          |       3       |
+| 7      | US11          | Testimonios de Usuarios                    | **Como** visitante,<br>**Quiero** leer experiencias de otros usuarios para confiar en la herramienta.<br>**Para** sentirme seguro al usarla.                                                                                             |       2       |
+| 8      | US13          | Visualizar link público de acceso al Landing Page | **Como** visitante del sitio web,<br>**Quiero** acceder al Landing page,<br>**Para** observar la información de la empresa desarrolladora.                                                                                             |       1       |
+| 9      | US32          | Visualización de la sección de ubicación del centro de investigación | **Como** visitante del sitio web de EMSafe,<br>**Quiero** visualizar una sección con la ubicación del centro de investigación en el landing page<br>**Para** que conozca la dirección exacta y cómo llegar al centro.                                                                                             |       3       |
+| 10     | US33          | Visualización de la sección de testimonios   | **Como** visitante del sitio web de EMSafe,<br>**Quiero** visualizar una sección con testimonios de usuarios<br>**Para** que confíe en la calidad del servicio ofrecido y en la efectividad de la plataforma.                                                                            |       3       |
+| 11     | US01          | Visualización de Niveles EM                | **Como** usuario,<br>**Quiero** visualizar en tiempo real los niveles de contaminación electromagnética en mi zona,<br>**Para** saber si es seguro permanecer ahí.                                                                                                                      |       8       |
+| 12     | US02          | Alertas Automatizadas                       | **Como** usuario,<br>**Quiero** recibir alertas automáticas cuando los niveles EM superen los límites recomendados,<br>**Para** poder actuar a tiempo.                                                                                                                                 |       5       |
+| 13     | US03          | Recomendaciones Personalizadas              | **Como** usuario,<br>**Quiero** recibir recomendaciones según mi historial de exposición<br>**Para** reducir riesgos en mi entorno.                                                                                                                    |       5       |
+| 14     | US20          | Registro de exposición personal            | **Como** usuario,<br>**Quiero** registrar manualmente mi ubicación frecuente para hacer seguimiento personalizado.<br>**Para** realizar un análisis de mi exposición en función de mis ubicaciones.                                                                                       |       3       |
+| 15     | US06          | Gestión de Perfiles                        | **Como** usuario,<br>**Quiero** configurar mi perfil y preferencias para recibir información personalizada.<br>**Para** ajustar mis alertas y zonas de interés según mis necesidades.                                                                                                    |       3       |
+| 16     | US08          | Visualizar la sección Beneficios            | **Como** visitante del sitio web estático,<br>**Quiero** ver información sobre los beneficios de la startup para un mejor cuidado personal.<br>**Para** conocer las ventajas de usar la plataforma.                                                                                      |       2       |
+| 17     | US12          | Dashboard Personal                         | **Como** usuario registrado,<br>**Quiero** tener un panel con mis métricas personalizadas para dar seguimiento a mi exposición.<br>**Para** poder gestionar mi exposición de manera eficiente.                                                                                             |       5       |
+| 18     | US14          | Filtrado de Datos                          | **Como** usuario,<br>**Quiero** filtrar por fecha, zona y tipo de fuente EM para un análisis más específico.<br>**Para** obtener resultados más detallados y relevantes.                                                                                                                |       3       |
+| 19     | US22          | Perfil de exposición por día               | **Como** usuario,<br>**Quiero** ver un resumen diario de mi exposición EM para controlar mis hábitos.<br>**Para** saber cómo varía mi exposición a lo largo del tiempo.                                                                                                                  |       3       |
+| 20     | US23          | Historial de alertas                       | **Como** usuario,<br>**Quiero** consultar todas las alertas pasadas para identificar patrones en mi exposición.<br>**Para** poder tomar decisiones informadas.                                                                                                                            |       2       |
+| 21     | US28          | Autenticación segura                         | **Como** usuario,<br>**Quiero** iniciar sesión de forma segura<br>**Para** que pueda proteger mis datos personales.                                                                                                                                     |       5       |
+| 22     | US29          | Desarrollo de funcionalidad con Javascript   | **Como** desarrollador de EMSafe,<br>**Quiero** implementar funcionalidades interactivas en el sitio utilizando JavaScript<br>**Para** que se mejore la experiencia del usuario.                                                                                                          |       3       |
+| 23     | US30          | Redirección al Aplicación Web                | **Como** developer de EMSafe,<br>**Quiero** implementar un botón que redireccione al visitante a la aplicación web<br>**Para** que se facilite el inicio de sesión.                                                                                                                     |       2       |
+| 24     | US31          | Desarrollo de technical support            | **Como** developer de EMSafe,<br>**Quiero** implementar la sección de technical support<br>**Para** que el usuario pueda comunicarse con soporte técnico en caso de inconvenientes.                                                                                                      |       5       |
+| 25     | US21          | Visualizar sección Contacto                 | **Como** usuario,<br>**Quiero** enviar comentarios o preguntas al equipo de soporte desde la web estática.<br>**Para** resolver dudas o problemas rápidamente.                                                                                                                            |       2       |
+| 26     | US17          | Eliminar datos personales de un paciente    | **Como** desarrollador,<br>**Quiero** eliminar los datos personales de un paciente mediante la API,<br>**Para** remover información que ya no es relevante.                                                                                                                              |       3       |
+| 27     | US18          | Alertas de Sensor Fallido                    | **Como** usuario,<br>**Quiero** ser notificado si un sensor deja de funcionar para evitar información incorrecta.<br>**Para** asegurarme de que los datos sean precisos.                                                                                                                  |       3       |
+| 28     | US19          | API de Integración                         | **Como** proveedor tecnológico,<br>**Quiero** integrar mis sensores vía API para interoperar con la plataforma.<br>**Para** que los datos se integren en tiempo real.                                                                                                                    |       8       |
+| 29     | US24          | Obtener números de emergencia                | **Como** desarrollador,<br>**Quiero** obtener los números de emergencia de un adulto mayor a través de una API para mostrarlos al personal médico o familiar.<br>**Para** que se pueda contactar a los servicios adecuados rápidamente.                                                 |       2       |
+| 30     | US25          | Obtener los signos en tiempo real            | **Como** desarrollador,<br>**Quiero** obtener los signos vitales en tiempo real de un usuario a través de una API<br>**Para** que pueda monitorearlos constantemente.                                                                                                                   |       5       |
+| 31     | US26          | Obtener datos personales del perfil de un usuario | **Como** desarrollador,<br>**Quiero** obtener los datos personales de un usuario a través de una API<br>**Para** que pueda mostrar su perfil completo en la aplicación.                                                                                                     |       3       |
+| 32     | US27          | Pruebas automáticas de diagnóstico           | **Como** administrador,<br>**Quiero** que el sistema ejecute pruebas periódicas en los sensores<br>**Para** que pueda detectar fallos automáticamente.                                                                                                                                     |       5       |
+
 
 <div id="4"><h1>Capítulo IV: Product Design</h1></div>
 
@@ -863,25 +1287,119 @@ Esta sección muestra los wireframes que representan la organización y distribu
 
 ![Image](https://github.com/user-attachments/assets/2717c894-d8b9-42b8-b621-faf0692b6836)
 
+Web Applications Wireframes: [Web Applications - Wireframes](https://www.figma.com/design/nq4yhzzZgAy1SSPUPYF9Tc/WIREFRAMES-EMSAFE?node-id=0-1&t=P9iHuyROBCEzUyV9-1)
 
 <div id="443"><h3>4.4.3. Web Applications Mock-ups</h3></div>
 
+En esta sección se muestran los mock-ups de las aplicaciones web, creados con base a los Wireframes previamente definidos. Estos prototipos visuales permiten anticipar la estructura y el diseño de la interfaz, sirviendo como guía para comprender y llevar a cabo su implementación durante la fase de desarrollo.
+
+![Image](https://github.com/user-attachments/assets/d93c850b-d7fc-4ce9-b637-c8286c2cacfd)
+
+![Image](https://github.com/user-attachments/assets/96c0fbc1-9e5a-4f34-a38d-a39cd6022ec2)
+
+Web Applications Mock-ups: [Web Applications - Mock-ups](https://www.figma.com/design/nq4yhzzZgAy1SSPUPYF9Tc/WIREFRAMES-EMSAFE?node-id=0-1&t=P9iHuyROBCEzUyV9-1)
 
 <div id="444"><h3>4.4.4. Web Applications User Flow Diagrams</h3></div>
 
+1. **Autenticación y Acceso al Sistema**
+
+**User Goal**: Acceder de forma segura al sistema de monitoreo de radiación
+
+**Descripción**: Este flujo muestra cómo los usuarios inician sesión en el sistema, con validación de credenciales y redirección al dashboard principal. También incluye el proceso de registro para nuevos usuarios y la recuperación de contraseña
+
+![Image](https://github.com/user-attachments/assets/ebc30da9-bb14-48ef-ba76-1b72171b862d)
+
+2. **Monitoreo en Dashboard**
+
+**User Goal**: Obtener una visión general del estado de todos los dispositivos y alertas activas
+
+**Descripción**: Este flujo muestra cómo los usuarios interactúan con el dashboard principal para monitorear el estado de los dispositivos, ver alertas recientes y acceder a información detallada
+
+![Image](https://github.com/user-attachments/assets/0a9ba8ff-55dc-45a5-8872-b9ca7d1cdca8)
+
+3. **Historial de Dispositivos**
+
+**User Goal**: Analizar el historial de lecturas y comportamiento de los dispositivos.
+
+**Descripción**: Este flujo muestra cómo los usuarios pueden acceder y analizar el historial de lecturas de los dispositivos, aplicar filtros y exportar datos para análisis adicionales.
+
+![Image](https://github.com/user-attachments/assets/c2cb2f4c-a3c2-4366-afa5-5696f17d4f83)
+
+4. **Gestión de Dispositivos**
+
+**User Goal**: Administrar eficientemente los dispositivos de monitoreo de radiación.
+
+**Descripción**: Este flujo muestra cómo los usuarios pueden añadir, editar, eliminar y gestionar dispositivos de monitoreo, incluyendo la configuración de sus parámetros y ubicación.
+
+![Image](https://github.com/user-attachments/assets/aa284167-64a6-4109-8f9b-5bca1d12f58b)
+
+5. **Historial de Alarmas**
+
+**User Goal**: Monitorear y responder a las alarmas generadas por niveles anormales de radiación.
+
+**Descripción**: Este flujo muestra cómo los usuarios pueden visualizar, filtrar y gestionar las alarmas del sistema, incluyendo la resolución de alarmas activas y la revisión del historial de alarmas.
+
+![Image](https://github.com/user-attachments/assets/c61a51d7-fd13-4ded-b28e-060767705298)
+
+6. **Mapa de Radiación**
+
+**User Goal**: Visualizar geográficamente los niveles de radiación para identificar patrones y zonas críticas.
+
+**Descripción**: Este flujo muestra cómo los usuarios pueden interactuar con el mapa de radiación, aplicar filtros, visualizar zonas cercanas y compartir la visualización con otros usuarios.
+
+![Image](https://github.com/user-attachments/assets/8bd22a92-4021-4c28-ad3d-150ba527aad2)
+
+7. **Gestión de Perfil**
+
+**User Goal**: Personalizar la configuración de la cuenta y preferencias de notificación.
+
+**Descripción**: Este flujo muestra cómo los usuarios pueden gestionar su información personal, configurar preferencias de seguridad y personalizar las notificaciones que reciben del sistema.
+
+![Image](https://github.com/user-attachments/assets/fdc0b41b-3bb8-402c-a6a4-4176f0d2c7ea)
+
 
 <div id="45"><h3>4.5. Web Applications Prototyping</h3></div>
+
+En esta sección se presentan los prototipos desarrollados que simulan la navegación e interacción según los User Flow Diagrams establecidos. A continuación, se detallan los criterios clave que guiaron las decisiones de diseño e interacción:
+
+* **Estructura jerárquica clara:** La información está organizada por niveles de prioridad, permitiendo que las funciones críticas como monitoreo, alarmas y gestión de dispositivos estén siempre accesibles.
+
+* **Sistema de navegación consistente:** Se emplea un menú lateral persistente en desktop y un menú desplegable en mobile, facilitando el acceso rápido a todos los módulos del sistema.
+
+* **Agrupación de contenido por tareas:** Cada pantalla está orientada a una acción específica del usuario, como visualizar datos históricos o configurar dispositivos.
+
+* **Retroalimentación visual constante:** Se utilizan indicadores, alertas y estados visibles que informan al usuario sobre la actividad del sistema en tiempo real.
+
+* **Interacción centrada en el rol del usuario:** Las rutas y accesos se adaptan según el tipo de usuario, priorizando la seguridad y eficiencia en la navegación.
+
+![Image](https://github.com/user-attachments/assets/4e1ea3fa-9312-4875-9524-b5e5b542d99d)
+
+Enlace Prototyping: [Enlace Prototyping](https://kzmn783d18bhu2ibppvs.lite.vusercontent.net/)
+
+Enlace Video Explicación: [Video Explicación](https://drive.google.com/file/d/1BNS0XPBX7lb__Z1vwW7h488A4jqfWekX/view?usp=sharing)
 
 
 <div id="46"><h2>4.6. Domain-Driven Software Architecture</h2></div>
 
 <div id="461"><h3>4.6.1. Software Architecture Context Diagram</h3></div>
 
+En el presente diagrama se detalla cómo los usuarios interactúan con el sistema de monitoreo EMF y con otros sistemas externos, incluyendo el sistema de pago Stripe para la gestión de suscripciones, el servicio de correos electrónicos Microsoft Exchange para enviar notificaciones y alertas, y el sistema de notificaciones push Firebase Cloud Messaging (FCM) para enviar notificaciones en tiempo real.
+
+![Contexto](https://github.com/user-attachments/assets/470d778e-0b7a-4683-b69c-ad68585d72f6)
+
 
 <div id="462"><h3>4.6.2 Software Architecture Container Diagrams</h3></div>
 
+El diagrama de contenedores muestra la arquitectura interna del sistema de monitoreo EMF. Aquí se ilustran los principales componentes del sistema, como la aplicación web que presenta los datos en tiempo real a los usuarios, la API Backend que gestiona la lógica y seguridad, y los contenedores externos como el sistema de pagos, notificaciones y correos electrónicos, con sus respectivas interacciones.
+
+![Contexto](https://github.com/user-attachments/assets/e2c43614-6adc-4451-859b-faccd171bf3e)
+
 
 <div id="463"><h3>4.6.3. Software Architecture Components Diagrams</h3></div>
+
+En este diagrama se detalla cómo se organizan los componentes internos del sistema API Backend, desglosando los distintos elementos como el controlador REST que gestiona las solicitudes, el servicio de dominio que implementa la lógica de negocio, y los componentes relacionados con la seguridad, la validación de datos, el servicio de correos electrónicos y pagos, y el sistema de notificaciones push.
+
+![Contexto](https://github.com/user-attachments/assets/a7ca808d-f462-40bd-bce4-560b6a8a9c3c)
 
 
 <div id="47"><h2>4.7. Software Object-Oriented Design</h2></div>
@@ -1378,11 +1896,7 @@ A continuación, se muestra una tabla que documenta los commits clave asociados 
 | EMSafe/melandree8          | develop    | 421da20       | docs: add tarea                                                | empty                   | 21/04/2025              |
 
 
-
-
-
-
-
+<br>
 <div id="5215"><h4>5.2.1.5. Execution Evidence for Sprint Review</h4></div>
 
 En este primer Sprint del proyecto, hemos logrado implementar y desplegar una Landing Page de EMSafe, nuestra startup. Utilizando tecnologías esenciales como HTML, CSS y JavaScript, construimos una interfaz simple, atractiva y funcional, diseñada para resaltar los beneficios y propósito de la plataforma.
@@ -1459,13 +1973,26 @@ Se proporcionará información detallada sobre la colaboración y comunicación 
 
 **Integrantes y aportantes:**
 
+| Integrante | Tareas Asignadas |
+|------------|------------------|
+| Esteban Espinoza | Idea conceptual de Proyecto |
+| Williams Gongora | Idea conceptual de Proyecto, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping, Class Diagrams, Class Dictionary, Database Design, Database Diagram |
+| Fabio Nicolich | Idea conceptual de Proyecto |
+| Andree Orellana | Idea conceptual de Proyecto, User Stories, Impact Mapping, Product Backlog, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Análisis competitivo, Estrategias y tácticas frente a competidores |
+| Fabricio Lopez | Idea conceptual de Proyecto, Ejecución de Needfinding, elaboración de User Personas, desarrollo de User Task Matrix, creación de User Journey Mapping, diseño de Empathy Mapping, realización de As-is Scenario Mapping, revisión y corrección de User Stories, reestructuración y actualización de Product Backlog, desarrollo de glosario de Ubiquitous Language |
+
+<br>
+
 **Analítica de los commits de los aportantes:**
 
 **Desarrollo para el Sprint 1:**
 
-**Network: se muestran los últimos commits efectuados**
 
+![Image](https://github.com/user-attachments/assets/63667bba-4f1a-4e61-9609-fd42ff6c7bda)
+Imagen de Insights de los integrantes
 
+![Image](https://github.com/user-attachments/assets/06578b6d-8c71-45ba-af79-a7bc873860dc)
+Imagen de Commits de los integrantes
 
 <div id="conclusiones"><h1>Conclusiones</h1></div>
 
@@ -1484,6 +2011,10 @@ Se proporcionará información detallada sobre la colaboración y comunicación 
 
 - Link del Landing Page Desplegado: [Landing Page Desplegado](https://github.com/EMSafeUPC/EMSafe.github.io) 
 - Video presentación del LandingPage: [Video - LandingPage](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218791_upc_edu_pe/EahQualeON5FvFH1hlpNqTABN-q04gYGaZyajhej-8nFXQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cMoRGP)
-
-
+- Landing Page Wireframe: [Landing Page - Wireframe](https://www.figma.com/design/nq4yhzzZgAy1SSPUPYF9Tc/WIREFRAMES-EMSAFE?node-id=0-1&t=P9iHuyROBCEzUyV9-1)
+- Landing Page Mock-up: [Landing Page - Mock-up](https://www.figma.com/design/nq4yhzzZgAy1SSPUPYF9Tc/WIREFRAMES-EMSAFE?node-id=0-1&t=P9iHuyROBCEzUyV9-1)
+- Web Applications Wireframes: [Web Applications - Wireframes](https://www.figma.com/design/nq4yhzzZgAy1SSPUPYF9Tc/WIREFRAMES-EMSAFE?node-id=0-1&t=P9iHuyROBCEzUyV9-1)
+- Web Applications Mock-ups: [Web Applications - Mock-ups](https://www.figma.com/design/nq4yhzzZgAy1SSPUPYF9Tc/WIREFRAMES-EMSAFE?node-id=0-1&t=P9iHuyROBCEzUyV9-1)
+- Web Applications Prototyping: [Web Applications - Prototyping](https://kzmn783d18bhu2ibppvs.lite.vusercontent.net/)
+- Video presentación del Web Applications Prototyping: [Video - Web Applications Prototyping](https://drive.google.com/file/d/1BNS0XPBX7lb__Z1vwW7h488A4jqfWekX/view?usp=sharing)
 
