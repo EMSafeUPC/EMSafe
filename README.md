@@ -45,7 +45,7 @@ width=30%"/>
 |Nicolich Alvis, Fabio Maurizio|U202218791|
 |Gongora Castillejos, Williams Jesus|U20221C186|
 |-|-|
-|Orellana Rodriguez, Mel Andree|U202116018|
+|Mel Andree, Orellana Rodriguez |U202116018|
 |Lopez de la Cruz, Mauro Fabricio|U202215695|
 
 </br></br>
