@@ -629,6 +629,16 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 |Time | 0:03 - 07:01 |
 |Analisis de Entrevista| Luis, un economista de 24 años, enfrenta el desafío de no poder controlar eficazmente los altos niveles de radiación electromagnetica que presentan sus dispositivos en su hogar. Le resulta frustrante y preocupante los daños que pueden causar distintos dispositivos. Por ello, desea una aplicación que le permita monitorear, gestionar y mantenerse alerta de los niveles de radiación en su hogar. Además, el considera que el daño que producen distintos de sus dispositivos electromagnéticos le estan pejudicando en su vida cotidiana y en el trabajo. |
 
+|Entevistado 2|Alejandra Gallo|
+|-|-|
+|Edad|21|
+|Distrito|Santiago de Surco, Lima|
+|Foto|![entrevista-2](![image](https://github.com/user-attachments/assets/7e404ad9-df3e-47bc-89ac-53b4096fb6fc)|
+|Link de la Entrevista|[Entrevista a Alejandra Gallo](https://drive.google.com/file/d/1KPiL8Y_FUCPUfuuG7mqipLlrIHS7DajK/view?usp=drive_link)|
+|Time | 0:03 - 06:06 |
+|Analisis de Entrevista|  Alejandra Gallo un estudiante de ciencia de la computacion de 21años expresa su preocupación por la exposición constante a las ondas electromagnéticas generadas por dispositivos electrónicos como celulares, routers y electrodomésticos. Señala que aunque muchos no lo notan, estos campos pueden tener efectos negativos en la salud a largo plazo, como alteraciones del sueño, dolores de cabeza o incluso riesgos más serios aún en estudio. Gallo destaca la importancia de tomar conciencia sobre este tema, promover investigaciones al respecto y adoptar hábitos que reduzcan la exposición diaria a estas ondas.. |
+
+
 <div id="223"><h3>2.2.3. Análisis de entrevistas</h3></div>
 
 
