@@ -1842,7 +1842,7 @@ A continuación, se muestra una tabla que documenta los commits clave asociados 
 | EMSafe/Nicolini03          | develop       | ff848c5       | docs: Added Sprint Backlog 1      | empty                   | 21/04/2025              |
 | EMSafe/este-dev597         | develop       | 7cd6443       | docs: Added Web Style Guidelines         | empty                   | 21/04/2025              |
 | EMSafe/este-dev597          | develop       | 7aa5bd6       | docs: Added Organization Systems | empty                   | 21/04/2025              |
-| EMSafe/este-dev597  H          | develop       | 51f9d68       | docs: Added Labeling Systems                                 | empty                   | 21/04/2025              |
+| EMSafe/este-dev597            | develop       | 51f9d68       | docs: Added Labeling Systems                                 | empty                   | 21/04/2025              |
 | EMSafe/este-dev597            | develop       | 44a6653    | docs: Added SEO Tags and Meta Tags                                   | empty                   | 21/04/2025              |
 | EMSafe/este-dev597         | develop       | 3094fb6       | docs: Added Searching Systems          | empty                   | 21/04/2025              |
 | EMSafe/este-dev597         | develop       | 743985f       | docs: Added Navigation Systems | empty                   | 27/09/2024              |
@@ -1851,11 +1851,7 @@ A continuación, se muestra una tabla que documenta los commits clave asociados 
 | EMSafe/este-dev597         | develop       | 14b20ed       | create(toolbar-clinic.component.vue): create toolbar-clinic.component.vue | empty                   | 21/04/2025              |
 | EMSafe/este-dev597         | develop       | 668b068       | feat(toolbar-clinic.component.vue): add toolbar-clinic.component.vue | empty                   | 21/04/2025              |
 | EMSafe/este-dev597         | develop       | 895056c       | feat(toolbar-clinic.component.vue): refactor toolbar-clinic.component.vue | empty                   | 21/04/2025              |
-| tukun-vue/Ericksnpaii       | main       | 9364403       | feat(toolbar-clinic.component.vue): refactor toolbar-clinic.component.vue | empty                   | 27/09/2024              |
-| tukun-vue/nicolini03        | main       | cba892a       | create vs-panel component                                   | empty                   | 27/09/2024              |
-| tukun-vue/nicolini03        | main       | 5b83f5e       | create update-appointments component                        | empty                   | 27/09/2024              |
-| tukun-vue/nicolini03        | main       | 99fd234       | create toolbar-elder component                              | empty                   | 27/09/2024              |
-| tukun-vue/nicolini03        | main       | 0c22acb       | create css style                                            | empty                   | 27/09/2024              |
+
 
 <div id="5215"><h4>5.2.1.5. Execution Evidence for Sprint Review</h4></div>
 
