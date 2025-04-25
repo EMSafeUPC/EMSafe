@@ -105,7 +105,7 @@ Para el desarrollo del informe correspondiente a la entrega TB1, se estableció 
 |------------|------------------|
 | Esteban Espinoza | Idea conceptual de Proyecto |
 | Williams Gongora | Idea conceptual de Proyecto, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping, Class Diagrams, Class Dictionary, Database Design, Database Diagram |
-| Fabio Nicolich | Idea conceptual de Proyecto,  |
+| Fabio Nicolich | Idea conceptual de Proyecto, Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Software Configuration Management, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration |
 | Andree Orellana | Idea conceptual de Proyecto, User Stories, Impact Mapping, Product Backlog, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Análisis competitivo, Estrategias y tácticas frente a competidores |
 | Fabricio Lopez | Idea conceptual de Proyecto, Ejecución de Needfinding, elaboración de User Personas, desarrollo de User Task Matrix, creación de User Journey Mapping, diseño de Empathy Mapping, realización de As-is Scenario Mapping, revisión y corrección de User Stories, reestructuración y actualización de Product Backlog, desarrollo de glosario de Ubiquitous Language |
 
