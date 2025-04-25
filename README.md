@@ -72,7 +72,7 @@ width=30%"/>
 |          | 18/04/2025  | López De La Cruz, Mauro Fabricio  | Realización del As-is Scenario Mapping                                                |
 |          | 23/04/2025  | López De La Cruz, Mauro Fabricio  | Revisión y corrección de las User Stories                                             |
 |          | 23/04/2025  | López De La Cruz, Mauro Fabricio  | Reestructuración y actualización del Product Backlog                                  |
-|          | 18/04/2025  | López De La Cruz, Mauro Fabricio  | Desarrollo del Glosario de Ubiquitous Language para alinear términos del dominio   
+|          | 18/04/2025  | López De La Cruz, Mauro Fabricio  | Desarrollo del Glosario de Ubiquitous Language para alinear términos del dominio      |
 
 
 </br></br>
@@ -88,9 +88,10 @@ Para el desarrollo del informe correspondiente a la entrega TB1, se estableció 
 
 | Integrante | Tareas Asignadas |
 |------------|------------------|
-| Esteban Espinoza | Idea conceptual de Proyecto |
+| Esteban Espinoza | Idea conceptual de Proyecto,  |
 | Williams Gongora | Idea conceptual de Proyecto, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping, Class Diagrams, Class Dictionary, Database Design, Database Diagram |
-| Fabio Nicolich | Idea conceptual de Proyecto |
+| Fabio Nicolich | Idea conceptual de Proyecto, Antecedentes y problemática, Lean UX Process,  Lean UX Problem Statements, Lean UX Assumptions, Lean UX Hypothesis Statements, Lean UX Canvas, Segmentos objetivo.
+, Sprint Planning 1, Aspect Leaders and Collaborators, Sprint Backlog 1, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint, User Stories, Product Backlog |
 | Andree Orellana | Idea conceptual de Proyecto, User Stories, Impact Mapping, Product Backlog, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Análisis competitivo, Estrategias y tácticas frente a competidores |
 | Fabricio Lopez | Idea conceptual de Proyecto, Ejecución de Needfinding, elaboración de User Personas, desarrollo de User Task Matrix, creación de User Journey Mapping, diseño de Empathy Mapping, realización de As-is Scenario Mapping, revisión y corrección de User Stories, reestructuración y actualización de Product Backlog, desarrollo de glosario de Ubiquitous Language |
 
