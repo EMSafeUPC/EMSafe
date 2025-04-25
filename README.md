@@ -88,7 +88,13 @@ width=30%"/>
 |          | 22/04/2025  | Espinoza Ayquipa, Esteban Daniel    | Desarrollo de SEO Tags and Meta Tags                                      |
 |          | 22/04/2025  | Espinoza Ayquipa, Esteban Daniel    | Desarrollo del Searching Systems                                    |
 |          | 23/04/2025  | Espinoza Ayquipa, Esteban Daniel    | Desarrollo de Navigation Systems                                          |
-|          | 23/04/2025  | Espinoza Ayquipa, Esteban Daniel    | Elaboración de la sección de Software Configuration Management                                          |
+|          | 23/04/2025  | Nicolich Alvis, Fabio Maurizio    | Antecedentes y problemática                                          |
+|          | 20/04/2025  | Nicolich Alvis, Fabio Maurizio   | Lean UX Canvas                                                            |
+|          | 21/04/2025  | Nicolich Alvis, Fabio Maurizio   | Segemento Objetivo                                                            |
+|          | 21/04/2025  | Nicolich Alvis, Fabio Maurizio   | Sprint 1                                                            |
+|          | 22/04/2025  | Nicolich Alvis, Fabio Maurizio   | Descripción de la Startup                                     |
+|          | 22/04/2025  | Nicolich Alvis, Fabio Maurizio    | Lean UX Process                                     |
+
 
 </br></br>
 
@@ -277,6 +283,12 @@ El uso correcto de lenguajes de programación, herramientas especializadas y la 
 La plataforma web permite a usuarios, organizaciones y comunidades monitorear y evaluar en tiempo real la contaminación electromagnética generada por dispositivos tecnológicos que forman parte de su entorno diario. A través de servicios de análisis, medición y visualización, se proporcionan datos precisos sobre los niveles de radiación no ionizante emitida por routers, teléfonos móviles, electrodomésticos y estaciones de telecomunicaciones.
 Para lograrlo, se implementa una red de sensores IoT que detectan y transmiten datos de campos electromagnéticos mediante protocolos como WiFi. Estos sensores envían las mediciones a una infraestructura en la nube, donde la plataforma web centralizada procesa y almacena los datos, generando reportes en tiempo real. Además, mediante una API REST, se facilita la integración con otros sistemas y la recepción de actualizaciones en tiempo real, garantizando una comunicación fluida y eficiente entre sensores, servidor y usuarios.
 El propósito es proteger la salud y promover espacios seguros, basándose en estándares internacionales, mediante alertas automáticas y recomendaciones personalizadas que permiten tomar decisiones informadas y reducir la exposición a fuentes de radiación electromagnética.
+
+**Misión**
+Monitorear y evaluar en tiempo real la contaminación electromagnética del entorno mediante tecnología IoT, análisis en la nube y visualización inteligente de datos, con el objetivo de proteger la salud de las personas, promover espacios seguros y facilitar decisiones informadas a través de alertas automáticas y recomendaciones personalizadas.
+
+**Visión**
+Ser la plataforma líder en Latinoamérica en la detección y gestión de radiación electromagnética no ionizante, estableciendo un nuevo estándar de bienestar y prevención tecnológica para hogares, organizaciones y comunidades conectadas.
 
 <div id="112"><h3>1.1.2. Perfiles de integrantes del equipo</h3></div>
 
