@@ -2069,6 +2069,66 @@ En esta sección se presenta el progreso alcanzado en el desarrollo de la aplica
 
 La tabla que se muestra a continuación recopila los commits clave realizados en cada repositorio del proyecto, lo cual permite hacer un seguimiento del avance técnico logrado en este sprint.
 
+### 5.2.2.4. Execution Evidence for Sprint Review
+
+Durante el segundo Sprint, el equipo trabajó en funcionalidades clave relacionadas con el monitoreo y control de exposición electromagnética. A continuación, se presentan los *features* y escenarios Gherkin derivados de las historias de usuario implementadas en este Sprint. Cada escenario representa un comportamiento esperado validado por el equipo.
+
+---
+
+#### Feature: Gestión del Perfil del Usuario
+
+**Scenario: Actualización de datos personales del perfil**  
+Dado que el usuario ha iniciado sesión en la plataforma,  
+Cuando accede a la sección de su perfil y modifica sus datos personales,  
+Entonces el sistema actualiza correctamente su información en la base de datos.
+
+---
+
+#### Feature: Monitoreo de Niveles EM y Alertas
+
+**Scenario: Visualización en tiempo real de niveles EM**  
+Dado que el usuario accede al panel de monitoreo,  
+Cuando el sistema recibe los datos desde los sensores,  
+Entonces se muestra en tiempo real el nivel de contaminación electromagnética en la zona del usuario.
+
+**Scenario: Recepción de alertas automáticas por niveles altos**  
+Dado que los niveles EM superan el umbral recomendado,  
+Cuando se detecta una condición de alerta,  
+Entonces el sistema envía automáticamente una notificación al usuario.
+
+---
+
+#### Feature: Personalización y Recomendaciones
+
+**Scenario: Recomendaciones personalizadas según historial**  
+Dado que el sistema cuenta con el historial de exposición del usuario,  
+Cuando este accede a la sección de recomendaciones,  
+Entonces se le muestran sugerencias para reducir su exposición en función de su comportamiento.
+
+**Scenario: Registro manual de ubicación frecuente**  
+Dado que el usuario quiere personalizar su seguimiento,  
+Cuando registra una ubicación frecuente desde su perfil,  
+Entonces el sistema asocia esa ubicación con su perfil para analizar mejor su exposición.
+
+**Scenario: Visualización del perfil de exposición diario**  
+Dado que el usuario desea conocer su exposición diaria,  
+Cuando accede a la sección de resumen,  
+Entonces se le presenta un gráfico o resumen de los niveles EM registrados durante el día.
+
+---
+
+#### Feature: Interactividad y Seguimiento
+
+**Scenario: Funcionalidad interactiva mediante JavaScript**  
+Dado que el usuario interactúa con la interfaz de EMSafe,  
+Cuando navega por las secciones del sistema,  
+Entonces experimenta una navegación fluida e interactiva gracias a las funcionalidades implementadas con JavaScript.
+
+**Scenario: Consulta del historial de alertas**  
+Dado que el usuario quiere analizar su historial de exposición,  
+Cuando accede a la sección de alertas pasadas,  
+Entonces se le muestran todas las alertas generadas con fecha, hora y nivel EM.
+
 <div id="conclusiones"><h1>Conclusiones</h1></div>
 
 
