@@ -2063,6 +2063,12 @@ En este sprint, el equipo centrará sus esfuerzos en el desarrollo del frontend 
 | US22       | Funcionalidad JS     | 8  | Funcionalidad Javascript| Como desarrollador de EMSafe, Quiero implementar funcionalidades interactivas en el sitio utilizando JavaScript Para que se mejore la experiencia del usuario. | 7                  |             |                                             |
 | US23       | Historial alertas    | 9  | Historial alertas         | Como usuario, Quiero consultar todas las alertas pasadas para identificar patrones en mi exposición. Para poder tomar decisiones informadas.   | 5                  |             |                                             |
 
+## 5.2.2.3. Development Evidence for Sprint Review
+
+En esta sección se presenta el progreso alcanzado en el desarrollo de la aplicación web durante el sprint, enfocado principalmente en la implementación de las interfaces y funciones fundamentales. El trabajo se centró en construir una experiencia de usuario sólida mediante la creación de elementos visuales, componentes interactivos y una navegación coherente. 
+
+La tabla que se muestra a continuación recopila los commits clave realizados en cada repositorio del proyecto, lo cual permite hacer un seguimiento del avance técnico logrado en este sprint.
+
 <div id="conclusiones"><h1>Conclusiones</h1></div>
 
 
