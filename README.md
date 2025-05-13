@@ -976,17 +976,16 @@ El To-Be Scenario Mapping es el proceso de crear una visión del futuro deseado 
 | US32          | Visualización de la sección de ubicación del centro de investigación | **Como** visitante del sitio web de EMSafe,<br>**Quiero** visualizar una sección con la ubicación del centro de investigación en el landing page<br>**Para** que conozca la dirección exacta y cómo llegar al centro. | **Escenario 1:**<br>**Dado que** el usuario está en la página de inicio (landing page) de EMSafe,<br><br>**Cuando** el usuario se desplaza hacia la sección "Ubicación del Centro de Investigación",<br><br>**Entonces** debe ver un mapa interactivo o una representación visual clara con la dirección exacta del centro de investigación. | EPIC02                  |
 | US33 | Inicio de Sesión | Como usuario registrado,<br>Quiero iniciar sesión con mis credenciales,<br>Para acceder de forma segura al sistema de monitoreo. | Escenario 1:<br>Dado que deseo acceder a mis datos de monitoreo,<br><br>Cuando ingreso mis credenciales correctamente,<br><br>Entonces debo ser redirigido al dashboard principal. | EPIC03 |
 | US34 | Registro de Usuario | Como nuevo usuario,<br>Quiero registrarme en la plataforma,<br>Para poder acceder al sistema de monitoreo. | Escenario 1:<br>Dado que aún no tengo una cuenta,<br><br>Cuando completo el formulario de registro con mis datos,<br><br>Entonces mi cuenta debe ser creada y recibir confirmación. | EPIC03 |
-| US35 | Visualización de Dashboard | Como usuario,<br>Quiero visualizar un panel con el estado general de todos los dispositivos y alertas,<br>Para tener una visión completa del sistema. | Escenario 1:<br>Dado que el monitoreo es constante,<br><br>Cuando ingreso al dashboard,<br><br>Entonces debo ver los dispositivos activos, alertas recientes y gráficos resumen. | EPIC03 |
-| US36 | Historial de Dispositivos | Como usuario,<br>Quiero revisar el historial de lecturas de cada dispositivo,<br>Para analizar su comportamiento a lo largo del tiempo. | Escenario 1:<br>Dado que necesito verificar patrones pasados,<br><br>Cuando accedo al historial de un dispositivo,<br><br>Entonces debo poder filtrar y visualizar lecturas anteriores. | EPIC03 |
-| US37 | Exportación de Historial | Como usuario,<br>Quiero exportar el historial de lecturas de dispositivos,<br>Para analizarlos externamente o compartirlos. | Escenario 1:<br>Dado que quiero trabajar los datos fuera del sistema,<br><br>Cuando aplico filtros y selecciono exportar,<br><br>Entonces debo obtener un archivo en formato Excel o PDF. | EPIC03 |
-| US38 | Gestión de Dispositivos | Como administrador,<br>Quiero agregar, editar o eliminar dispositivos de monitoreo,<br>Para mantener actualizado el sistema. | Escenario 1:<br>Dado que el inventario de dispositivos puede cambiar,<br><br>Cuando accedo a la gestión de dispositivos,<br><br>Entonces debo poder realizar operaciones CRUD sobre ellos. | EPIC03 |
-| US39 | Configuración de Dispositivos | Como administrador,<br>Quiero configurar los parámetros y ubicación de cada dispositivo,<br>Para asegurar un monitoreo correcto según el entorno. | Escenario 1:<br>Dado que cada zona puede requerir límites distintos,<br><br>Cuando edito un dispositivo,<br><br>Entonces debo poder establecer umbrales y su localización geográfica. | EPIC03 |
-| US40 | Visualización de Historial de Alarmas | Como usuario,<br>Quiero consultar el historial de alarmas del sistema,<br>Para identificar eventos de riesgo anteriores. | Escenario 1:<br>Dado que las alarmas reflejan incidentes pasados,<br><br>Cuando accedo al módulo de historial de alarmas,<br><br>Entonces debo poder filtrar por fecha, zona y estado. | EPIC03 |
-| US41 | Gestión de Alarmas | Como usuario,<br>Quiero marcar alarmas como resueltas o en revisión,<br>Para mantener el sistema actualizado y organizado. | Escenario 1:<br>Dado que se debe hacer seguimiento a las alarmas,<br><br>Cuando consulto una alarma activa,<br><br>Entonces debo poder actualizar su estado y dejar comentarios. | EPIC03 |
-| US42 | Mapa de Radiación | Como usuario,<br>Quiero visualizar un mapa con los niveles de radiación en tiempo real,<br>Para conocer las zonas con mayor exposición. | Escenario 1:<br>Dado que necesito tomar decisiones en función de la zona,<br><br>Cuando accedo al mapa de radiación,<br><br>Entonces debo ver los niveles por ubicación y color de intensidad. | EPIC03 |
-| US43 | Filtrado del Mapa | Como usuario,<br>Quiero aplicar filtros al mapa de radiación,<br>Para identificar patrones según fecha, zona o nivel. | Escenario 1:<br>Dado que quiero hacer análisis más específicos,<br><br>Cuando selecciono los filtros en el mapa,<br><br>Entonces la visualización debe actualizarse con base en ellos. | EPIC03 |
-| US44 | Compartir el Mapa | Como usuario,<br>Quiero compartir el mapa de radiación con otros,<br>Para informarles sobre los niveles actuales de exposición. | Escenario 1:<br>Dado que quiero alertar a familiares o colegas,<br><br>Cuando presiono la opción de compartir,<br><br>Entonces el sistema debe generar un enlace para enviar o publicar. | EPIC03 |
-| US45 | Actualización de Perfil | Como usuario,<br>Quiero modificar mis datos personales,<br>Para mantener mi perfil actualizado. | Escenario 1:<br>Dado que mi información puede cambiar,<br><br>Cuando edito mi perfil,<br><br>Entonces los cambios deben guardarse correctamente y reflejarse en mi cuenta. | EPIC03 |
+| US35 | Historial de Dispositivos | Como usuario,<br>Quiero revisar el historial de lecturas de cada dispositivo,<br>Para analizar su comportamiento a lo largo del tiempo. | Escenario 1:<br>Dado que necesito verificar patrones pasados,<br><br>Cuando accedo al historial de un dispositivo,<br><br>Entonces debo poder filtrar y visualizar lecturas anteriores. | EPIC03 |
+| US36 | Exportación de Historial | Como usuario,<br>Quiero exportar el historial de lecturas de dispositivos,<br>Para analizarlos externamente o compartirlos. | Escenario 1:<br>Dado que quiero trabajar los datos fuera del sistema,<br><br>Cuando aplico filtros y selecciono exportar,<br><br>Entonces debo obtener un archivo en formato Excel o PDF. | EPIC03 |
+| US37 | Gestión de Dispositivos | Como administrador,<br>Quiero agregar, editar o eliminar dispositivos de monitoreo,<br>Para mantener actualizado el sistema. | Escenario 1:<br>Dado que el inventario de dispositivos puede cambiar,<br><br>Cuando accedo a la gestión de dispositivos,<br><br>Entonces debo poder realizar operaciones CRUD sobre ellos. | EPIC03 |
+| US38 | Configuración de Dispositivos | Como administrador,<br>Quiero configurar los parámetros y ubicación de cada dispositivo,<br>Para asegurar un monitoreo correcto según el entorno. | Escenario 1:<br>Dado que cada zona puede requerir límites distintos,<br><br>Cuando edito un dispositivo,<br><br>Entonces debo poder establecer umbrales y su localización geográfica. | EPIC03 |
+| US49 | Visualización de Historial de Alarmas | Como usuario,<br>Quiero consultar el historial de alarmas del sistema,<br>Para identificar eventos de riesgo anteriores. | Escenario 1:<br>Dado que las alarmas reflejan incidentes pasados,<br><br>Cuando accedo al módulo de historial de alarmas,<br><br>Entonces debo poder filtrar por fecha, zona y estado. | EPIC03 |
+| US40 | Gestión de Alarmas | Como usuario,<br>Quiero marcar alarmas como resueltas o en revisión,<br>Para mantener el sistema actualizado y organizado. | Escenario 1:<br>Dado que se debe hacer seguimiento a las alarmas,<br><br>Cuando consulto una alarma activa,<br><br>Entonces debo poder actualizar su estado y dejar comentarios. | EPIC03 |
+| US41 | Mapa de Radiación | Como usuario,<br>Quiero visualizar un mapa con los niveles de radiación en tiempo real,<br>Para conocer las zonas con mayor exposición. | Escenario 1:<br>Dado que necesito tomar decisiones en función de la zona,<br><br>Cuando accedo al mapa de radiación,<br><br>Entonces debo ver los niveles por ubicación y color de intensidad. | EPIC03 |
+| US42 | Filtrado del Mapa | Como usuario,<br>Quiero aplicar filtros al mapa de radiación,<br>Para identificar patrones según fecha, zona o nivel. | Escenario 1:<br>Dado que quiero hacer análisis más específicos,<br><br>Cuando selecciono los filtros en el mapa,<br><br>Entonces la visualización debe actualizarse con base en ellos. | EPIC03 |
+| US43 | Compartir el Mapa | Como usuario,<br>Quiero compartir el mapa de radiación con otros,<br>Para informarles sobre los niveles actuales de exposición. | Escenario 1:<br>Dado que quiero alertar a familiares o colegas,<br><br>Cuando presiono la opción de compartir,<br><br>Entonces el sistema debe generar un enlace para enviar o publicar. | EPIC03 |
+
 
 
 <div id="33"><h2>3.3. Impact Mapping</h2></div>
@@ -2077,21 +2076,114 @@ En este sprint, el equipo centrará sus esfuerzos en el desarrollo del frontend 
 
 | User Story | Work-Item / Task Id | ID | Title                     | Description                                                                                                                               | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
 |------------|----------------------|----|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|---------------------------------------------|
-| US05       | Actualizar perfil    | 1  | Actualizar perfil usuario | Como usuario registrado, Quiero poder actualizar mis datos personales desde mi perfil, Para mantener mi información actualizada.            | 5                  |             |                                             |
-| US01       | Visualización Niveles| 2  | Visualización Niveles EM  | Como usuario, Quiero visualizar en tiempo real los niveles de contaminación electromagnética en mi zona, Para saber si es seguro permanecer ahí. | 7                  |             |                                             |
-| US02       | Alertas Automatizadas| 3  | Alertas Automatizadas     | Como usuario, Quiero recibir alertas automáticas cuando los niveles EM superen los límites recomendados, Para poder actuar a tiempo.        | 4                  |             |                                             |
-| US03       | Recomendaciones Pers.| 4  | Recomendaciones Pers.     | Como usuario, Quiero recibir recomendaciones según mi historial de exposición Para reducir riesgos en mi entorno.                             | 7                  |             |                                             |
-| US20       | Registro exposición  | 5  | Registro exposición       | Como usuario, Quiero registrar manualmente mi ubicación frecuente para hacer seguimiento personalizado. Para realizar un análisis de mi exposición en función de mis ubicaciones. | 5                  |             |                                             |
-| US17       | Eliminar datos       | 6  | Eliminar datos paciente   | Como desarrollador, Quiero eliminar los datos personales de un paciente mediante la API, Para remover información que ya no es relevante.      | 7                  |             |                                             |
-| US19       | Perfil exposición    | 7  | Perfil exposición día   | Como usuario, Quiero ver un resumen diario de mi exposición EM para controlar mis hábitos. Para saber cómo varía mi exposición a lo largo del tiempo. | 4                  |             |                                             |
-| US22       | Funcionalidad JS     | 8  | Funcionalidad Javascript| Como desarrollador de EMSafe, Quiero implementar funcionalidades interactivas en el sitio utilizando JavaScript Para que se mejore la experiencia del usuario. | 7                  |             |                                             |
-| US23       | Historial alertas    | 9  | Historial alertas         | Como usuario, Quiero consultar todas las alertas pasadas para identificar patrones en mi exposición. Para poder tomar decisiones informadas.   | 5                  |             |                                             |
+| US05       | Actualizar perfil    | 1  | Actualizar perfil usuario | Como usuario registrado, Quiero poder actualizar mis datos personales desde mi perfil, Para mantener mi información actualizada.            | 5                  |   Williams          |    Done                                         |
+| US01       | Visualización Niveles| 2  | Visualización Niveles EM  | Como usuario, Quiero visualizar en tiempo real los niveles de contaminación electromagnética en mi zona, Para saber si es seguro permanecer ahí. | 7                  |    Williams         |    Done                                         |
+| US02       | Alertas Automatizadas| 3  | Alertas Automatizadas     | Como usuario, Quiero recibir alertas automáticas cuando los niveles EM superen los límites recomendados, Para poder actuar a tiempo.        | 4                  |     Fabio        |     Done                                        |
+| US43          |  Compartir Mapa| 4 |Compartir Mapa                 | Como usuario, quiero compartir el mapa de radiación con otros, para informarles sobre los niveles actuales de exposición.                    | 5                  |     Andre        |    Done                                             |
+| US20       | Registro exposición  | 5  | Registro exposición       | Como usuario, Quiero registrar manualmente mi ubicación frecuente para hacer seguimiento personalizado. Para realizar un análisis de mi exposición en función de mis ubicaciones. | 5       |   Andre          |           Done                                  |
+| US42          |  Filtrado Mapa | 6 |Filtrado Mapa                  | Como usuario, quiero aplicar filtros al mapa de radiación, para identificar patrones según fecha, zona o nivel.                               | 8                  |    Andre         |      Done                                           |
+| US19       | Perfil exposición    | 7  | Perfil exposición día   | Como usuario, Quiero ver un resumen diario de mi exposición EM para controlar mis hábitos. Para saber cómo varía mi exposición a lo largo del tiempo. | 4                  |    Williams          |    Done                                         |
+| US22       | Funcionalidad JS     | 8  | Funcionalidad Javascript| Como desarrollador de EMSafe, Quiero implementar funcionalidades interactivas en el sitio utilizando JavaScript Para que se mejore la experiencia del usuario. | 7                  |   Williams           |                     Done                        |
+| US23       | Historial alertas    | 9  | Historial alertas         | Como usuario, Quiero consultar todas las alertas pasadas para identificar patrones en mi exposición. Para poder tomar decisiones informadas.   | 5                  |    Fabio         |         Done                                    |
+| US33          | Inicio de Sesión| 10 |Inicio de Sesión               | Como usuario registrado, quiero iniciar sesión con mis credenciales, para acceder de forma segura al sistema de monitoreo.                 | 8                  |      Williams        |       Done                                          |
+| US34          |  Registro de Usuario| 11 |Registro de Usuario            | Como nuevo usuario, quiero registrarme en la plataforma, para poder acceder al sistema de monitoreo.                                          | 5                  |     Williams         |  Done                                               |
+| US35          |  Historial Dispositivos| 12 |Historial Dispositivos         | Como usuario, quiero revisar el historial de lecturas de cada dispositivo, para analizar su comportamiento a lo largo del tiempo.             | 13                 |     Esteban        |  Done                                               |
+| US36          |  Exportación Historial| 13|Exportación Historial          | Como usuario, quiero exportar el historial de lecturas de dispositivos, para analizarlos externamente o compartirlos.                         | 8                  |    Esteban         |   Done                                              |
+| US37          |  Gestión Dispositivos| 14|Gestión Dispositivos           | Como administrador, quiero agregar, editar o eliminar dispositivos de monitoreo, para mantener actualizado el sistema.                        | 12                 |     Fabricio        |  Done                                               |
+| US38          |  Configuración Dispositivos| 15 |Configuración Dispositivos     | Como administrador, quiero configurar los parámetros y ubicación de cada dispositivo, para asegurar un monitoreo correcto según el entorno.   | 10                 |    Fabricio         |                         Done                        |
+| US49          |  Historial Alarmas| 16 |Historial Alarmas              | Como usuario, quiero consultar el historial de alarmas del sistema, para identificar eventos de riesgo anteriores.                            | 8                  |      Fabio       |      Done                                           |
+| US40          |  Gestión Alarmas| 17 |Gestión Alarmas                | Como usuario, quiero marcar alarmas como resueltas o en revisión, para mantener el sistema actualizado y organizado.                         | 6                  |     Fabio        |        Done                                         |
+| US41          | Mapa Radiación | 18|Mapa Radiación                 | Como usuario, quiero visualizar un mapa con los niveles de radiación en tiempo real, para conocer las zonas con mayor exposición.             | 13                 |   Andre          |       Done                                          |
+
+
+
 
 ## 5.2.2.3. Development Evidence for Sprint Review
 
 En esta sección se presenta el progreso alcanzado en el desarrollo de la aplicación web durante el sprint, enfocado principalmente en la implementación de las interfaces y funciones fundamentales. El trabajo se centró en construir una experiencia de usuario sólida mediante la creación de elementos visuales, componentes interactivos y una navegación coherente. 
 
 La tabla que se muestra a continuación recopila los commits clave realizados en cada repositorio del proyecto, lo cual permite hacer un seguimiento del avance técnico logrado en este sprint.
+
+| **Repository**             | **Branch** | **Commit Id** | **Commit Message**                                               | **Commit Message Body** | **Committed on (Date)** |
+|---------------------------|------------|---------------|------------------------------------------------------------------|-------------------------|-------------------------|
+| EMSafe_FrontEnd/WiJeGo             | Main       | 86b4d24       | chore: initial setup and structure of the Angular project                                 | empty                   | 16/04/2025              |
+| EMSafe_FrontEnd/WiJeGo             | develop    | a8dfe99       | feat: add language-switcher, styles, animation and responsive design                                  | empty                   | 17/04/2025              |
+|EMSafe_FrontEnd/WiJeGo | develop | fe1987f | feat: Update routes.json | empty | 10/05/2025|
+|EMSafe_FrontEnd/WiJeGo | develop | ac5fec7 | feat: Update db.json | empty | 10/05/2025|
+|EMSafe_FrontEnd/WiJeGo | develop | 9fb2246 | style: fix colors of headers | empty | 10/05/2025|
+|EMSafe_FrontEnd/WiJeGo | develop | 2a37ee0 | style: fix structure of sidebar | empty | 10/05/2025|
+|EMSafe_FrontEnd/WiJeGo | develop | 220dabe | fix: Delete package-lock.json | empty | 10/05/2025|
+|EMSafe_FrontEnd/WiJeGo | develop | f12e929 | fix: Delete .idea directory | empty | 10/05/2025|
+|EMSafe_FrontEnd/WiJeGo | develop | eeea1dd | fix: remove files | empty | 10/05/2025|
+|EMSafe_FrontEnd/WiJeGo | develop | c95b28b | feat: add translations for menu and user sections in English and Spanish | empty | 10/05/2025|
+|EMSafe_FrontEnd/WiJeGo | develop | d7d5055 | feat: update global styles and integrate custom font in layout | empty | 10/05/2025|
+|EMSafe_FrontEnd/WiJeGo | develop | d949c82 | feat(routes): add server-side rendering with prerender support | empty | 10/05/2025|
+|EMSafe_FrontEnd/WiJeGo | develop | 7bbd290 | feat(routes): configure application routes and server-side rendering setup | empty | 10/05/2025|
+|EMSafe_FrontEnd/WiJeGo | develop | 44e4086 | feat(app): integrate header, sidebar, and responsive layout improvements | empty | 10/05/2025|
+|EMSafe_FrontEnd/WiJeGo | develop | f34edb5 | feat(sidebar): subscribe to open state and improve menu structure | empty | 10/05/2025|
+|EMSafe_FrontEnd/WiJeGo | develop | 3198396 | feat(sidebar): enhance layout and styles for responsive and user-friendly design | empty | 10/05/2025|
+|EMSafe_FrontEnd/WiJeGo | develop | 5f6abec | feat(header): integrate language switcher and improve sidebar toggle functionality | empty | 08/05/2025|
+|EMSafe_FrontEnd/WiJeGo | develop | 2cb4e75 | feat(header): integrate language switcher and improve sidebar toggle functionality | empty | 08/05/2025|
+|EMSafe_FrontEnd/WiJeGo | develop | 407cef3 | feat: add language-switcher, styles, animation and responsive design | empty | 08/05/2025|
+|EMSafe_FrontEnd/WiJeGo | develop | 880138f | feat: update icon | empty | 08/05/2025|
+|EMSafe_FrontEnd/WiJeGo | develop | 86b4d24 | chore: initial setup and structure of the Angular project | empty | 05/05/2025|
+|EMSafe_FrontEnd/WiJeGo | develop | a8dfe99 | feat: add language-switcher, styles, animation and responsive design | empty | 08/05/2025|
+EMSafe_FrontEnd/WiJeGo | develop | fe1987f | feat: Update routes.json | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | ac5fec7 | feat: Update db.json | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 9fb2246 | style: fix colors of headers | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 2a37ee0 | style: fix structure of sidebar | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 220dabe | fix: Delete package-lock.json | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | f12e929 | fix: Delete .idea directory | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | eeea1dd | fix: remove files | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | c95b28b | feat: add translations for menu and user sections in English and Spanish | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | d7d5055 | feat: update global styles and integrate custom font in layout | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | d949c82 | feat(routes): add server-side rendering with prerender support | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 7bbd290 | feat(routes): configure application routes and server-side rendering setup | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 44e4086 | feat(app): integrate header, sidebar, and responsive layout improvements | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | f34edb5 | feat(sidebar): subscribe to open state and improve menu structure | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 3198396 | feat(sidebar): enhance layout and styles for responsive and user-friendly design | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 5f6abec | feat(header): integrate language switcher and improve sidebar toggle functionality | empty | 08/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 2cb4e75 | feat(header): integrate language switcher and improve sidebar toggle functionality | empty | 08/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 407cef3 | feat: add language-switcher, styles, animation and responsive design | empty | 08/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 880138f | feat: update icon | empty | 08/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 86b4d24 | chore: initial setup and structure of the Angular project | empty | 05/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | a8dfe99 | feat: add language-switcher, styles, animation and responsive design | empty | 08/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 8f6a3f0 | Merge pull request #1 from EMSafeUPC/feature/dashboard | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | de6c2c9 | feat(i18n): add and update dashboard and alarm translations in English and Spanish | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 10bba45 | feat: add data service for devices, alarms, statistics, and settings | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | f351db2 | feat: add dashboard component logic and data handling | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 1e7a2d3 | feat: add dashboard.component.css styles | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | f684101 | feat: add dashboard page layout and statistics widgets | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | a444e98 | feat: add main app layout and localization setup | empty |  10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | ea27162 | feat: add stats-card.component.ts logic | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 00fe8ae | feat: add stats-card.component.css styles | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | c293091 | feat: add stats card component and stats-card.component.html | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 5b94b09 | feat: add device-card.component.ts logic | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | f07de66 | feat: add device card component UI and styles | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | c901a11 | feat: add alarm card component logic and styles | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 157973d | feat: add alarm card component UI | empty | 10/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 36e8e6c | feat: Update sidebar.component.ts | empty | 12/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | d64a163 | feat: Update header.component.ts | empty | 12/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | e70ad88 | feat: Update header.component.css | empty | 12/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | ca37422 | fix: Update header.component.ts | empty | 12/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 8c92ce8 | fix: Update header.component.html | empty | 12/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | adf7416 | fix: Update style header.component.css | empty | 12/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 9f8843b | Merge pull request #4 from EMSafeUPC/feature/settings | empty | 12/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 7ba4394 | feat: add styles for settings page layout and components | empty | 12/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 877e353 | feat: implement user preferences, login history and session management logic | empty | 12/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 9414f61 | feat: add preferences and account security sections to settings page | empty | 12/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | e9c43e1 | Merge pull request #3 from EMSafeUPC/feature/profile | empty | 12/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 5bfac7a | feat: implement user profile and password update forms with validation and feedback | empty | 12/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 6fce3ef | feat: add user profile page layout, forms and styles | empty | 12/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 3377a5e | feat: add user profile, preferences, password and session management methods to UserService | empty | 12/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | e37e963 | Merge pull request #2 from EMSafeUPC/feature/login | empty | 12/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 7eed026 | feat: update device, alarm and statistics data in db.json | empty | 12/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 68dbb32 | feat: update English and Spanish translations | empty | 12/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | c8b9103 | feat: update login page styles and template | empty | 12/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 83e1d83 | feat: implement AuthService with login, logout and session management | empty | 12/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 0137dd8 | feat: add LoginGuardService and LoginGuard | empty | 12/05/2025
+EMSafe_FrontEnd/WiJeGo | develop | 0f0ae15 | feat(core): add empty AuthService | empty | 12/05/2025
+
 
 ### 5.2.2.4. Execution Evidence for Sprint Review
 
@@ -2152,6 +2244,45 @@ Entonces experimenta una navegación fluida e interactiva gracias a las funciona
 Dado que el usuario quiere analizar su historial de exposición,  
 Cuando accede a la sección de alertas pasadas,  
 Entonces se le muestran todas las alertas generadas con fecha, hora y nivel EM.
+
+
+<div id="5215"><h4>5.2.2.5. Execution Evidence for Sprint Review</h4></div>
+
+En esta sección se presenta un resumen de los logros alcanzados durante este sprint, enfocados en el desarrollo del frontend de la aplicación web. 
+
+<div id="5216"><h4>5.2.2.6. Services Documentation Evidence for Sprint Review</h4></div>
+
+Esta sección documenta los endpoints desarrollados durante el Sprint para la gestión de la aplicacion
+
+<div id="5217"><h4>5.2.2.7. Software Deployment Evidence for Sprint Review</h4></div>
+
+En este sprint, el enfoque ha estado completamente en el desarrollo del frontend de la aplicación web. A continuación, se detallan los pasos necesarios para desplegar correctamente este producto digital a partir del repositorio de código fuente.
+
+<div id="5218"><h4>5.2.2.8. Team Collaboration Insights during Sprint</h4></div>
+
+Se proporcionará información detallada sobre la colaboración y comunicación entre los miembros del equipo de desarrollo durante el sprint. Esto incluirá la coordinación de actividades, la gestión de tareas asignadas y la resolución de inconvenientes surgidos en el proceso. Las responsabilidades se distribuyeron equitativamente entre los integrantes del equipo. A continuación, se presenta un análisis general de los commits realizados por cada aportante, reflejando su participación en el proyecto.
+
+**Integrantes y aportantes:**
+
+| Integrante | Tareas Asignadas |
+|------------|------------------|
+| Esteban Espinoza | Idea conceptual de Proyecto, Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Software Configuration Management, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration |
+| Williams Gongora | Idea conceptual de Proyecto, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping, Class Diagrams, Class Dictionary, Database Design, Database Diagram |
+| Fabio Nicolich | Idea conceptual de Proyecto, Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Software Configuration Management, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration |
+| Andree Orellana | Idea conceptual de Proyecto, User Stories, Impact Mapping, Product Backlog, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Análisis competitivo, Estrategias y tácticas frente a competidores |
+| Fabricio Lopez | Idea conceptual de Proyecto, Ejecución de Needfinding, elaboración de User Personas, desarrollo de User Task Matrix, creación de User Journey Mapping, diseño de Empathy Mapping, realización de As-is Scenario Mapping, revisión y corrección de User Stories, reestructuración y actualización de Product Backlog, desarrollo de glosario de Ubiquitous Language |
+
+<br>
+
+**Analítica de los commits de los aportantes:**
+
+**Desarrollo para el Sprint 2:**
+
+
+![Image](https://github.com/user-attachments/assets/63667bba-4f1a-4e61-9609-fd42ff6c7bda)
+Imagen de Insights de los integrantes
+
+![Image](https://github.com/user-attachments/assets/06578b6d-8c71-45ba-af79-a7bc873860dc)
 
 <div id="conclusiones"><h1>Conclusiones</h1></div>
 
