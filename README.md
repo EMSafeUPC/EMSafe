@@ -2049,7 +2049,19 @@ En este sprint, el equipo centrará sus esfuerzos en el desarrollo del frontend 
 
 **Sprint #2**
 
+### Sprint Backlog 2
 
+| User Story | Work-Item / Task Id | ID | Title                     | Description                                                                                                                               | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
+|------------|----------------------|----|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|---------------------------------------------|
+| US05       | Actualizar perfil    | 1  | Actualizar perfil usuario | Como usuario registrado, Quiero poder actualizar mis datos personales desde mi perfil, Para mantener mi información actualizada.            | 5                  |             |                                             |
+| US01       | Visualización Niveles| 2  | Visualización Niveles EM  | Como usuario, Quiero visualizar en tiempo real los niveles de contaminación electromagnética en mi zona, Para saber si es seguro permanecer ahí. | 7                  |             |                                             |
+| US02       | Alertas Automatizadas| 3  | Alertas Automatizadas     | Como usuario, Quiero recibir alertas automáticas cuando los niveles EM superen los límites recomendados, Para poder actuar a tiempo.        | 4                  |             |                                             |
+| US03       | Recomendaciones Pers.| 4  | Recomendaciones Pers.     | Como usuario, Quiero recibir recomendaciones según mi historial de exposición Para reducir riesgos en mi entorno.                             | 7                  |             |                                             |
+| US20       | Registro exposición  | 5  | Registro exposición       | Como usuario, Quiero registrar manualmente mi ubicación frecuente para hacer seguimiento personalizado. Para realizar un análisis de mi exposición en función de mis ubicaciones. | 5                  |             |                                             |
+| US17       | Eliminar datos       | 6  | Eliminar datos paciente   | Como desarrollador, Quiero eliminar los datos personales de un paciente mediante la API, Para remover información que ya no es relevante.      | 7                  |             |                                             |
+| US19       | Perfil exposición    | 7  | Perfil exposición día   | Como usuario, Quiero ver un resumen diario de mi exposición EM para controlar mis hábitos. Para saber cómo varía mi exposición a lo largo del tiempo. | 4                  |             |                                             |
+| US22       | Funcionalidad JS     | 8  | Funcionalidad Javascript| Como desarrollador de EMSafe, Quiero implementar funcionalidades interactivas en el sitio utilizando JavaScript Para que se mejore la experiencia del usuario. | 7                  |             |                                             |
+| US23       | Historial alertas    | 9  | Historial alertas         | Como usuario, Quiero consultar todas las alertas pasadas para identificar patrones en mi exposición. Para poder tomar decisiones informadas.   | 5                  |             |                                             |
 
 <div id="conclusiones"><h1>Conclusiones</h1></div>
 
