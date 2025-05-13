@@ -2034,6 +2034,23 @@ Imagen de Insights de los integrantes
 ![Image](https://github.com/user-attachments/assets/06578b6d-8c71-45ba-af79-a7bc873860dc)
 
 
+## 5.2.2. Sprint 2
+
+Esta sección presenta el progreso realizado durante el Sprint 2, detallando tanto el avance del producto como el trabajo en equipo. Se incluyen los resultados del Sprint Planning, el Sprint Backlog, evidencias del desarrollo y la ejecución para la Sprint Review, la documentación de los servicios desarrollados y reflexiones sobre la colaboración del equipo a lo largo del sprint.
+
+### 5.2.2.1. Sprint Planning 2
+
+En esta sección se detallan los aspectos clave de la reunión de planificación del Sprint. Se inicia con una introducción que describe el enfoque principal del sprint y sus metas. A continuación, se presenta un cuadro resumen que organiza la información relevante discutida durante la reunión de planificación, siguiendo la estructura indicada para proporcionar claridad sobre las tareas y los objetivos acordados.
+![image](https://github.com/user-attachments/assets/ce32cde5-9dd1-4e32-849f-e84f9d8d34c4)
+
+### 5.2.2.2. Sprint Backlog 2
+
+En este sprint, el equipo centrará sus esfuerzos en el desarrollo del frontend de la aplicación web, con especial atención a la creación y optimización de las interfaces de usuario. El objetivo principal es garantizar una interacción intuitiva y eficiente con las funcionalidades básicas del sistema, estableciendo la base visual y de navegación para futuras mejoras. Este trabajo abarca la implementación de elementos cruciales como formularios, paneles de control y componentes visuales, buscando ofrecer una experiencia fluida al usuario final.
+
+**Sprint #2**
+
+
+
 <div id="conclusiones"><h1>Conclusiones</h1></div>
 
 
