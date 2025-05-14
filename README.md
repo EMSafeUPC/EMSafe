@@ -2250,13 +2250,78 @@ Entonces se le muestran todas las alertas generadas con fecha, hora y nivel EM.
 
 En esta sección se presenta un resumen de los logros alcanzados durante este sprint, enfocados en el desarrollo del frontend de la aplicación web. 
 
+* **Login**
+
+![Image](https://github.com/user-attachments/assets/afa042fd-976d-423b-b4f6-7f363abc84bc)
+
+* **Login Completado**
+
+![Image](https://github.com/user-attachments/assets/9b0a7edf-3a8c-4fbe-ae09-0a0356bfa79c)
+
+* **Dashboard**
+
+![Image](https://github.com/user-attachments/assets/0d5af534-a30e-469b-9c49-2474181c5b26)
+
+![Image](https://github.com/user-attachments/assets/26849cf1-cc71-4d0c-8a05-83db40ed4851)
+
+* **Historial de Alarmas**
+
+![Image](https://github.com/user-attachments/assets/4f0361c7-07fd-4376-93f0-0f7a255bcf48)
+
+* **Historial de Dispositivos**
+
+![Image](https://github.com/user-attachments/assets/de380e9a-35c9-4fac-aac4-3ce83ea17dd2)
+
+![Image](https://github.com/user-attachments/assets/4560dee5-19f2-4230-bccf-7b1abceb8dba)
+
+* **Mapa de Radiacion**
+
+![Image](https://github.com/user-attachments/assets/7cefb63c-f158-4aab-b3be-30cdd2142a31)
+
+* **Configuracion de Perfil**
+
+![Image](https://github.com/user-attachments/assets/880d5d35-6025-44cb-80cb-6b0e67edb328)
+
+![Image](https://github.com/user-attachments/assets/3847cb22-1af2-4537-b34b-b9609a926695)
+
+* **Language Switcher y Menu de Opciones del User**
+
+![Image](https://github.com/user-attachments/assets/182a567f-24c6-47d0-abd3-decda42a5e94)
+
+
 <div id="5216"><h4>5.2.2.6. Services Documentation Evidence for Sprint Review</h4></div>
 
-Esta sección documenta los endpoints desarrollados durante el Sprint para la gestión de la aplicacion
+Durante el presente Sprint, se desarrollaron y documentaron diversos endpoints que forman parte de los servicios backend de la aplicación. Estos endpoints permiten la interacción entre el cliente y el servidor, facilitando operaciones clave como la consulta de datos, la gestión de dispositivos, la visualización de niveles de radiación y la administración de usuarios.
+
+![Image](https://github.com/user-attachments/assets/6f0a480e-8f94-4ff3-9448-98136687539a)
+
+![Image](https://github.com/user-attachments/assets/1803ff6f-affc-4ff2-8589-6bf82876ba74)
 
 <div id="5217"><h4>5.2.2.7. Software Deployment Evidence for Sprint Review</h4></div>
 
-En este sprint, el enfoque ha estado completamente en el desarrollo del frontend de la aplicación web. A continuación, se detallan los pasos necesarios para desplegar correctamente este producto digital a partir del repositorio de código fuente.
+Durante este Sprint, el equipo centró sus esfuerzos en el desarrollo del frontend de la aplicación web, utilizando el framework Angular. Como parte del proceso de entrega continua, se documentaron los pasos necesarios para desplegar correctamente el producto digital desde el repositorio de código fuente hasta un entorno de producción utilizando Firebase Hosting.
+
+A continuación, se detallan las etapas clave del proceso de despliegue:
+
+1. Compilación del Proyecto Angular
+Se ejecutó el comando ng build --configuration production desde el directorio raíz del proyecto Angular (EMSafe), lo cual generó los archivos optimizados en la carpeta dist/emsafe.
+
+2. Inicialización de Firebase Hosting
+Se utilizó la herramienta de línea de comandos de Firebase (firebase-tools) para inicializar el entorno de hosting. Durante este proceso se configuró la carpeta pública como dist/emsafe y se habilitó el modo de aplicación de una sola página (SPA), redirigiendo todas las rutas a index.html.
+
+3. Configuración del archivo firebase.json
+Se definió la estructura de despliegue en el archivo firebase.json, incluyendo reglas de redirección y exclusión de archivos innecesarios. Esto garantiza que solo los archivos relevantes del frontend sean servidos al usuario final.
+
+4. Despliegue a Producción
+Finalmente, se ejecutó el comando firebase deploy, lo cual subió los archivos compilados al entorno de Firebase Hosting. Una vez completado el despliegue, se verificó el correcto funcionamiento de la aplicación accediendo a la URL proporcionada por Firebase.
+
+![Image](https://github.com/user-attachments/assets/08fef940-b20a-42a6-869c-f3fdd4abd841)
+
+![Image](https://github.com/user-attachments/assets/4be41d00-593c-4b79-9355-cbf309c9039b)
+
+![Image](https://github.com/user-attachments/assets/c5565627-7672-4c61-af08-dd23ac580ed3)
+
+![Image](https://github.com/user-attachments/assets/73bf6da0-ce83-4545-876e-a69380fdcfdb)
 
 <div id="5218"><h4>5.2.2.8. Team Collaboration Insights during Sprint</h4></div>
 
@@ -2281,8 +2346,6 @@ Se proporcionará información detallada sobre la colaboración y comunicación 
 
 ![Image](https://github.com/user-attachments/assets/63667bba-4f1a-4e61-9609-fd42ff6c7bda)
 Imagen de Insights de los integrantes
-
-![Image](https://github.com/user-attachments/assets/06578b6d-8c71-45ba-af79-a7bc873860dc)
 
 <div id="conclusiones"><h1>Conclusiones</h1></div>
 
