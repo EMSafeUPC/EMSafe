@@ -2370,4 +2370,5 @@ Imagen de Insights de los integrantes
 - Web Applications Mock-ups: [Web Applications - Mock-ups](https://www.figma.com/design/nq4yhzzZgAy1SSPUPYF9Tc/WIREFRAMES-EMSAFE?node-id=0-1&t=P9iHuyROBCEzUyV9-1)
 - Web Applications Prototyping: [Web Applications - Prototyping](https://kzmn783d18bhu2ibppvs.lite.vusercontent.net/)
 - Video presentación del Web Applications Prototyping: [Video - Web Applications Prototyping](https://drive.google.com/file/d/1BNS0XPBX7lb__Z1vwW7h488A4jqfWekX/view?usp=sharing)
+- - Link del Web Applications Desplegado: [Web Applications Desplegado](https://4200-firebase-emsafefrontendgit-1747178470962.cluster-etsqrqvqyvd4erxx7qq32imrjk.cloudworkstations.dev/dashboard)
 
