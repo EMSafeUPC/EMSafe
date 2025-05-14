@@ -227,6 +227,15 @@ Imagen de Commits de los integrantes
    &emsp;&emsp;5.2.1.6. [Services Documentation Evidence for Sprint Review](#5216) <br>
    &emsp;&emsp;5.2.1.7. [Software Deployment Evidence for Sprint Review](#5217) <br>
    &emsp;&emsp;5.2.1.8. [Team Collaboration Insights during Sprint](#5218) <br>
+   &emsp;5.2.2. [Sprint 2](#521) <br>
+   &emsp;&emsp;5.2.2.1. [Sprint Planning 2](#5221) <br>
+   &emsp;&emsp;5.2.2.2. [Sprint Backlog 2](#5222) <br>
+   &emsp;&emsp;5.2.2.3. [Development Evidence for Sprint Review](#5223) <br>
+   &emsp;&emsp;5.2.2.4. [Testing Suite Evidence for Sprint Review](#5224) <br>
+   &emsp;&emsp;5.2.2.5. [Execution Evidence for Sprint Review](#5225) <br>
+   &emsp;&emsp;5.2.2.6. [Services Documentation Evidence for Sprint Review](#5226) <br>
+   &emsp;&emsp;5.2.2.7. [Software Deployment Evidence for Sprint Review](#5227) <br>
+   &emsp;&emsp;5.2.2.8. [Team Collaboration Insights during Sprint](#5228) <br>
    
 
 6. [**Conclusiones**](#conclusiones)
