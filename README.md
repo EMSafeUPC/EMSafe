@@ -2530,8 +2530,13 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 * **Recomendación:** Implementar botones de exportación en todas las tablas de datos principales, ofreciendo múltiples formatos (CSV, Excel, PDF). La funcionalidad debe respetar los filtros aplicados por el usuario y incluir metadatos como fecha de exportación y rango de datos seleccionado. Adicionalmente, considerar la opción de exportación programada para reportes periódicos.
 
-
 ### 5.4. Video About-the-Product
+
+La sección proporciona un panorama general del producto, resaltando su objetivo, características principales y el valor que brinda a sus usuarios.  Esta introducción facilita la comprensión del contexto del producto y su orientación a cubrir las demandas de los usuarios, sincronizando sus características y habilidades con las metas de la solución sugerida.
+
+URL en Microsoft Teams: 
+
+Duración:
 
 <div id="conclusiones"><h1>Conclusiones</h1></div>
 
