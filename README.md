@@ -2468,9 +2468,14 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 #### TABLA RESUMEN:
 
-| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
-| :--: | :------- | :--: | :--------------------------|
-|  |  |  |  |
+| # | Problema | Escala de severidad | Heurística/Principio violada(o)
+|-----|-----|-----|-----
+| 1 | Falta de confirmación visual al guardar cambios en el perfil | 3 | Visibilidad del estado del sistema
+| 2 | Estados de alarmas con contraste visual insuficiente | 3 | Reconocimiento antes que recuerdo
+| 3 | Ausencia de breadcrumbs en la navegación | 2 | Visibilidad del estado del sistema
+| 4 | Falta de validación en tiempo real en formularios | 2 | Prevención de errores
+| 5 | Gráfico de radiación sin etiquetas descriptivas | 2 | Coincidencia entre el sistema y el mundo real
+| 6 | Ausencia de funcionalidad de exportación de datos | 2 | Flexibilidad y eficiencia de uso
 
 ### 5.4. Video About-the-Product
 
