@@ -2477,6 +2477,60 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 | 5 | Gráfico de radiación sin etiquetas descriptivas | 2 | Coincidencia entre el sistema y el mundo real
 | 6 | Ausencia de funcionalidad de exportación de datos | 2 | Flexibilidad y eficiencia de uso
 
+
+#### ANÁLISIS DETALLADO DE PROBLEMAS
+
+* **PROBLEMA #1:** Falta de confirmación visual al guardar cambios en el perfil
+
+* **Problema:** En la sección "Mi Perfil", cuando el usuario modifica su información personal o cambia su contraseña, no existe una confirmación visual clara que indique que los cambios se han guardado exitosamente. El botón "Guardar Cambios" no proporciona feedback inmediato, dejando al usuario sin certeza sobre si la acción se completó correctamente. Esta falta de retroalimentación puede generar incertidumbre y llevar al usuario a intentar guardar múltiples veces o abandonar el proceso sin estar seguro del resultado.
+
+![image](https://hackmd.io/_uploads/SkvEsKlExg.png)
+
+
+* **Recomendación:** Implementar un sistema de notificaciones toast o mensajes de confirmación que aparezcan inmediatamente después de guardar los cambios. Adicionalmente, se puede cambiar temporalmente el color del botón o mostrar un ícono de verificación para confirmar visualmente que la acción fue exitosa.
+
+* **PROBLEMA #2:** Estados de alarmas con contraste visual insuficiente
+
+* **Problema:** En el historial de alarmas, los estados "Activa" y "Resuelta" se muestran con etiquetas de colores que no proporcionan suficiente contraste visual para distinguir rápidamente entre estados críticos y resueltos. Las etiquetas rojas y verdes pueden no ser accesibles para usuarios con daltonismo, y la diferenciación no es lo suficientemente prominente para situaciones de emergencia donde la identificación rápida es crucial.
+
+![image](https://hackmd.io/_uploads/r1hiiteElx.png)
+
+
+* **Recomendación:** Implementar un sistema de notificaciones toast o mensajes de confirmación que aparezcan inmediatamente después de guardar los cambios. Adicionalmente, se puede cambiar temporalmente el color del botón o mostrar un ícono de verificación para confirmar visualmente que la acción fue exitosa.
+
+* **PROBLEMA #3:** Ausencia de breadcrumbs en la navegación
+
+* **Problema:** La aplicación carece de breadcrumbs o indicadores de ruta que muestren al usuario su ubicación actual dentro de la jerarquía del sistema. Aunque existe un menú lateral, no hay una indicación clara de la ruta de navegación, especialmente cuando se accede a subsecciones o se realizan acciones específicas. Esto puede desorientar al usuario y dificultar la navegación eficiente, especialmente en sesiones prolongadas de trabajo.
+
+![image](https://hackmd.io/_uploads/BkqDhtlVgg.png)
+
+* **Recomendación:** Implementar breadcrumbs en la parte superior del contenido principal, mostrando la ruta completa desde la página principal hasta la sección actual. Esto debe incluir enlaces clickeables para facilitar la navegación rápida a niveles superiores.
+
+* **PROBLEMA #4:** Falta de validación en tiempo real en formularios
+
+* **Problema:** Los formularios de la aplicación, incluyendo el login y los formularios de perfil, no proporcionan validación en tiempo real mientras el usuario escribe. Los errores solo se detectan al enviar el formulario, lo que puede frustrar al usuario y aumentar el tiempo necesario para completar las tareas. Esto es particularmente problemático en campos críticos como contraseñas o datos de configuración.
+
+![image](https://hackmd.io/_uploads/ByrSaFeNxl.png)
+
+* **Recomendación:** Implementar validación en tiempo real que muestre mensajes de error o confirmación mientras el usuario escribe. Incluir indicadores visuales como bordes de colores, íconos de estado y mensajes de ayuda contextual que guíen al usuario hacia la entrada correcta de datos.
+
+* **PROBLEMA #5:** Gráfico de radiación sin etiquetas descriptivas
+
+* **Problema:** El gráfico "Niveles de Radiación (24h)" en el panel principal carece de etiquetas descriptivas en los ejes y no proporciona suficiente contexto sobre las unidades de medida o los rangos de valores considerados normales, elevados o críticos. Esto dificulta la interpretación correcta de los datos por parte de usuarios que no sean expertos técnicos, limitando la utilidad del dashboard para la toma de decisiones informadas.
+
+![image](https://hackmd.io/_uploads/BygRnYlVgg.png)
+
+* **Recomendación:** Añadir etiquetas claras en ambos ejes del gráfico, incluir una leyenda que explique las unidades de medida (μSv/h), y agregar líneas de referencia que indiquen los umbrales de seguridad. También se recomienda incluir tooltips informativos al pasar el cursor sobre los puntos de datos para mostrar valores exactos y contexto temporal.
+
+* **PROBLEMA #6:**  Ausencia de funcionalidad de exportación de datos
+
+* **Problema:** Las tablas de datos del sistema, como el historial de dispositivos y el historial de alarmas, no incluyen opciones para exportar la información a formatos externos como CSV, Excel o PDF. Esta limitación obliga a los usuarios a realizar capturas de pantalla o transcribir manualmente los datos cuando necesitan generar reportes, compartir información con terceros, o realizar análisis externos. Para usuarios que manejan grandes volúmenes de datos de radiación, esta carencia representa una barrera significativa para la productividad y puede llevar a errores de transcripción manual.
+
+![image](https://hackmd.io/_uploads/Sk6W0FeNeg.png)
+
+* **Recomendación:** Implementar botones de exportación en todas las tablas de datos principales, ofreciendo múltiples formatos (CSV, Excel, PDF). La funcionalidad debe respetar los filtros aplicados por el usuario y incluir metadatos como fecha de exportación y rango de datos seleccionado. Adicionalmente, considerar la opción de exportación programada para reportes periódicos.
+
+
 ### 5.4. Video About-the-Product
 
 <div id="conclusiones"><h1>Conclusiones</h1></div>
