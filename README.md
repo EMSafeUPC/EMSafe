@@ -2356,6 +2356,124 @@ Se proporcionará información detallada sobre la colaboración y comunicación 
 ![Image](https://github.com/user-attachments/assets/63667bba-4f1a-4e61-9609-fd42ff6c7bda)
 Imagen de Insights de los integrantes
 
+## 5.2.2. Sprint 3
+
+
+
+### 5.2.2.1. Sprint Planning 3
+
+
+
+### 5.2.2.2. Sprint Backlog 3
+
+
+
+## 5.2.2.3. Development Evidence for Sprint Review
+
+
+
+### 5.2.2.4. Execution Evidence for Sprint Review
+
+<div id="5215"><h4>5.2.2.5. Execution Evidence for Sprint Review</h4></div>
+
+
+<div id="5216"><h4>5.2.2.6. Services Documentation Evidence for Sprint Review</h4></div>
+
+
+<div id="5217"><h4>5.2.2.7. Software Deployment Evidence for Sprint Review</h4></div>
+
+
+
+<div id="5218"><h4>5.2.2.8. Team Collaboration Insights during Sprint</h4></div>
+
+Se proporcionará información detallada sobre la colaboración y comunicación entre los miembros del equipo de desarrollo durante el sprint. Esto incluirá la coordinación de actividades, la gestión de tareas asignadas y la resolución de inconvenientes surgidos en el proceso. Las responsabilidades se distribuyeron equitativamente entre los integrantes del equipo. A continuación, se presenta un análisis general de los commits realizados por cada aportante, reflejando su participación en el proyecto.
+
+**Integrantes y aportantes:**
+
+| Integrante | Tareas Asignadas |
+|------------|------------------|
+| Esteban Espinoza | Idea conceptual de Proyecto, Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Software Configuration Management, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration |
+| Williams Gongora | Idea conceptual de Proyecto, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping, Class Diagrams, Class Dictionary, Database Design, Database Diagram |
+| Fabio Nicolich | Idea conceptual de Proyecto, Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Software Configuration Management, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration |
+| Andree Orellana | Idea conceptual de Proyecto, User Stories, Impact Mapping, Product Backlog, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Análisis competitivo, Estrategias y tácticas frente a competidores |
+| Fabricio Lopez | Idea conceptual de Proyecto, Ejecución de Needfinding, elaboración de User Personas, desarrollo de User Task Matrix, creación de User Journey Mapping, diseño de Empathy Mapping, realización de As-is Scenario Mapping, revisión y corrección de User Stories, reestructuración y actualización de Product Backlog, desarrollo de glosario de Ubiquitous Language |
+
+<br>
+
+**Analítica de los commits de los aportantes:**
+
+**Desarrollo para el Sprint 3:**
+
+
+![Image](https://github.com/user-attachments/assets/63667bba-4f1a-4e61-9609-fd42ff6c7bda)
+Imagen de Insights de los integrantes
+
+### 5.3. Validation Interviews
+
+#### 5.3.1. Diseño de Entrevistas
+
+#### 5.3.2. Registro de Entrevistas
+
+#### 5.3.3. Evaluaciones según heurísticas
+
+#### UX Heuristics & Principles Evaluation
+
+#### Usability - Inclusive Design - Information Architecture
+
+* **CARRERA**: Ingeniería de Software
+* **CURSO**: 1ASI0729
+* **SECCION**: Desarrollo de Aplicaciones Open Source
+* **PROFESORES**: Todos
+* **AUDITOR**: EMSafe
+* **CLIENTE(S)**: Todos
+
+**NOTA**: Los contenidos de este formato (en color plomo) son referidos a un sitio web de ejemplo. Use este formato como referencia de la estructura que tiene que ser entregada y elimine el contenido en plomo. Coloque su contenido con color azul.
+
+#### SITE O APP A EVALUAR:
+
+EMSafe
+
+#### TAREAS A EVALUAR:
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1.  Registro de un usuario nuevo
+2.  Publicación de un post
+3.  Búsqueda de un paquete turístico
+4.  Reserva de un viaje
+5.  Cancelación de una reserva
+6.  Agregar items a un pedido
+7.  Pago de un paquete turístico
+8.  Etc.
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1.  Compartir reservas entre usuarios
+2.  Presentar ofertas de último minuto
+3.  Administrar puntos del programa de fidelización de viajes
+4.  Guardar "alerta de paquetes"
+5.  Etc.
+
+
+#### ESCALA DE SEVERIDAD:
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+| :---- | :---------- |
+| 1     | Problema superficial: Puede ser fácilmente superado por el usuario y ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: Puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: Ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les asigne una prioridad alta. |
+| 4     | Problema muy grave: Un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+#### TABLA RESUMEN:
+
+| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
+| :--: | :------- | :--: | :--------------------------|
+|  |  |  |  |
+
+### 5.4. Video About-the-Product
+
 <div id="conclusiones"><h1>Conclusiones</h1></div>
 
 
