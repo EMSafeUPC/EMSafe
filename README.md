@@ -2358,17 +2358,35 @@ Imagen de Insights de los integrantes
 
 ## 5.2.2. Sprint 3
 
-
+En esta sección se detallan los aspectos clave del Sprint Planning Meeting del Sprint 3. Se inicia con una introducción que explica la orientación del sprint y los objetivos principales, enfocándose en la creación de la primera versión del backend y la rectificación de detalles en el frontend.
 
 ### 5.2.2.1. Sprint Planning 3
 
+A continuación, se muestra un cuadro resumen que estructura los datos importantes debatidos durante la reunión de planificación del sprint, siguiendo la estructura establecida para ofrecer claridad sobre las tareas y metas pactadas. 
 
+
+| Sprint # | 3 |
+|---|---|
+| **Sprint Planning Background** | |
+| Date | 18/06/2025 |
+| Time | 03:00 PM |
+| Location | Reunión virtual mediante llamada Discord |
+| Prepared By | Fabio Nicolich |
+| Attendees (to planning meeting) | Esteban Daniel Espinoza Ayquipa, Mel Andree
+Orellana Rodriguez, Fabricio Lopes de La
+Cruz, Fabio Maurizio Nicolich Alvis |
+| **Sprint 3 - 2 Review Summary** | Desarrollo de Back-end y despliegue |
+| **Sprint 3 - 2 Retrospective Summary** | Correcciones de errores en la documentación. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 3 Goal** | Our focus is on developing the main layou and navigation structure for the dashbooard We believe it delivers a clear and intuitive user experience for navigating the platform. This will be confirmed when users car access different sections of the dashboard without encountering navigation errors|
+| **Sprint 3 Velocity** | 110 |
+| **Sum of Story Points** | 110 |
 
 ### 5.2.2.2. Sprint Backlog 3
 
 
 
-## 5.2.2.3. Development Evidence for Sprint Review
+### 5.2.2.3. Development Evidence for Sprint Review
 
 
 
