@@ -2538,6 +2538,14 @@ URL en Microsoft Teams:
 
 Duración:
 
+### 5.5. About the Team
+
+Esta parte facilitará la identificación del equipo que impulsó el proyecto, mostrando un video que refleja la esencia de nuestro proceso laboral, resaltando cómo cada integrante aportó con sus destrezas y empeños.  Además, cada participante relata en cámara su vivencia personal, detallando las tareas que llevó a cabo, los éxitos alcanzados y las habilidades que cultivó durante el proceso.  Algunos de los éxitos alcanzados en el equipo comprenden una comunicación eficaz que nos facilitó mantenernos en sintonía en cada fase del proyecto, garantizando que todas las ideas y contribuciones fueran oídas y tenidas en cuenta.
+
+URL en Microsoft Teams: 
+
+Duración:
+
 <div id="conclusiones"><h1>Conclusiones</h1></div>
 
 
