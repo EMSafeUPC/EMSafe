@@ -2384,6 +2384,37 @@ Cruz, Fabio Maurizio Nicolich Alvis |
 
 ### 5.2.2.2. Sprint Backlog 3
 
+**Sprint Goal:** Desarrollar correcciones del frontend y funcionalidades del backend según las user stories establecidas.
+
+**Sprint Duration:** 2 semanas
+
+| User Story | Work-Item / Task Id | ID | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done)
+|-----|-----|-----|-----|-----|-----|-----|-----
+| US05 | WI-301 | T301 | Implementar actualización de perfil de usuario | Desarrollar funcionalidad completa para que los usuarios puedan actualizar sus datos personales desde el perfil | 12 | Frontend Team | To-do
+| US12 | WI-302 | T302 | Desarrollar dashboard personal con métricas | Crear panel personalizado que muestre métricas y datos históricos del usuario | 16 | Frontend Team | To-do
+| US14 | WI-303 | T303 | Implementar sistema de filtrado de datos | Desarrollar filtros por fecha, zona y tipo de fuente EM en las interfaces de usuario | 14 | Frontend Team | To-do
+| US22 | WI-304 | T304 | Crear vista de perfil de exposición diaria | Implementar gráfico de barras que muestre el resumen diario de exposición EM del usuario | 10 | Frontend Team | To-do
+| US23 | WI-305 | T305 | Desarrollar historial de alertas | Crear interfaz para consultar todas las alertas pasadas con fecha, hora y nivel de alerta | 12 | Frontend Team | To-do
+| US35 | WI-306 | T306 | Implementar historial de dispositivos | Desarrollar vista para revisar el historial de lecturas de cada dispositivo con filtros | 14 | Frontend Team | To-do
+| US36 | WI-307 | T307 | Agregar funcionalidad de exportación | Implementar botones de exportación para historial de dispositivos en formatos Excel y PDF | 18 | Frontend Team | To-do
+| US41 | WI-308 | T308 | Desarrollar mapa de radiación interactivo | Crear visualización de mapa con niveles de radiación en tiempo real por ubicación | 20 | Frontend Team | To-do
+| US42 | WI-309 | T309 | Implementar filtros para mapa de radiación | Desarrollar filtros específicos para el mapa según fecha, zona y nivel de radiación | 8 | Frontend Team | To-do
+| US49 | WI-310 | T310 | Crear módulo de historial de alarmas | Implementar interfaz completa para consultar historial de alarmas con filtros avanzados | 16 | Frontend Team | To-do
+| US19 | WI-311 | T311 | Desarrollar API de integración de sensores | Crear endpoints REST para recibir e integrar datos de sensores externos en tiempo real | 24 | Backend Team | To-do
+| US02 | WI-312 | T312 | Implementar sistema de alertas automatizadas | Desarrollar lógica backend para detectar niveles elevados y enviar notificaciones automáticas | 20 | Backend Team | To-do
+| US03 | WI-313 | T313 | Crear motor de recomendaciones personalizadas | Desarrollar algoritmo que analice historial de exposición y genere recomendaciones específicas | 28 | Backend Team | To-do
+| US37 | WI-314 | T314 | Implementar CRUD de gestión de dispositivos | Desarrollar operaciones completas para agregar, editar y eliminar dispositivos de monitoreo | 22 | Backend Team | To-do
+| US38 | WI-315 | T315 | Desarrollar configuración de dispositivos | Crear API para establecer parámetros, umbrales y ubicación geográfica de cada dispositivo | 18 | Backend Team | To-do
+
+
+**Total Estimated Hours:** 252 horas
+
+**Sprint Notes:**
+
+- Las tareas de frontend se enfocan en completar las interfaces de usuario según las user stories
+- Las tareas de backend implementan la lógica de negocio y APIs necesarias para el funcionamiento del sistema
+- Se priorizan las funcionalidades core del sistema de monitoreo de radiación electromagnética
+- El sprint incluye tanto desarrollo de nuevas funcionalidades como refinamiento de interfaces existentes
 
 
 ### 5.2.2.3. Development Evidence for Sprint Review
