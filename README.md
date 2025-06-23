@@ -2379,11 +2379,11 @@ Se proporcionará información detallada sobre la colaboración y comunicación 
 ![Image](https://github.com/user-attachments/assets/63667bba-4f1a-4e61-9609-fd42ff6c7bda)
 Imagen de Insights de los integrantes
 
-## 5.2.2. Sprint 3
+## 5.2.3 Sprint 3
 
 En esta sección se detallan los aspectos clave del Sprint Planning Meeting del Sprint 3. Se inicia con una introducción que explica la orientación del sprint y los objetivos principales, enfocándose en la creación de la primera versión del backend y la rectificación de detalles en el frontend.
 
-### 5.2.2.1. Sprint Planning 3
+### 5.2.3.1. Sprint Planning 3
 
 A continuación, se muestra un cuadro resumen que estructura los datos importantes debatidos durante la reunión de planificación del sprint, siguiendo la estructura establecida para ofrecer claridad sobre las tareas y metas pactadas. 
 
@@ -2399,11 +2399,16 @@ A continuación, se muestra un cuadro resumen que estructura los datos important
 | **Sprint 3 - 2 Review Summary** | Desarrollo de Back-end y despliegue |
 | **Sprint 3 - 2 Retrospective Summary** | Correcciones de errores en la documentación. |
 | **Sprint Goal & User Stories** | |
-| **Sprint 3 Goal** | Our focus is on developing the main layou and navigation structure for the dashbooard We believe it delivers a clear and intuitive user experience for navigating the platform. This will be confirmed when users car access different sections of the dashboard without encountering navigation errors|
-| **Sprint 3 Velocity** | 110 |
-| **Sum of Story Points** | 110 |
+| **Sprint 3 Goal** | Our focus is on developing the core backend functionalities that power the dashboard. We are working to ensure a reliable structure that supports smooth navigation across the platform. We believe this will deliver a clear and intuitive user experience, which will be validated when users are able to access different sections of the dashboard without facing navigation or data loading issues.|
+| **Sprint 3 Velocity** | 80 |
+| **Sum of Story Points** | 80 |
 
-### 5.2.2.2. Sprint Backlog 3
+
+### 5.2.3.2. Aspect Leaders and Collaborators.
+
+
+
+### 5.2.3.3. Sprint Backlog 3
 
 **Sprint Goal:** Desarrollar correcciones del frontend y funcionalidades del backend según las user stories establecidas.
 
@@ -2430,23 +2435,47 @@ A continuación, se muestra un cuadro resumen que estructura los datos important
 - El sprint incluye tanto desarrollo de nuevas funcionalidades como refinamiento de interfaces existentes
 
 
-### 5.2.2.3. Development Evidence for Sprint Review
+### 5.2.3.4. Development Evidence for Sprint Review
+
+En esta sección se detallan los avances logrados en la implementación del producto durante el sprint, centrados en el desarrollo de la primera versión del backend de la aplicación web y en la corrección de detalles en el frontend. El enfoque principal ha sido avanzar en la construcción de las funcionalidades esenciales del backend y optimizar las interfaces de usuario, cumpliendo con los objetivos establecidos. Se ha trabajado en aspectos clave como la gestión de dispositivos, la interacción del usuario y la navegación, lo que permitirá una experiencia más robusta para los usuarios. A continuación, se presenta una tabla que documenta los commits relevantes relacionados con la implementación de cada repositorio del proyecto, lo que permite visualizar el progreso del desarrollo técnico durante este sprint.
+
+| Repository                    | Branch  | Commit Id | Commit Message                                                   | Commit Message Body | Commited on (Date) |
+|------------------------------|---------|-----------|------------------------------------------------------------------|---------------------|--------------------|
+| EMSafe_FrontEnd/Nicolini03   | develop | f737a5f   | feat(controller): update MapController route                     | empty               | 22/06/2025         |
+| EMSafe_FrontEnd/Nicolini03   | develop | f8787d7   | feat(controller): update RadiationPointRepository                | empty               | 22/06/2025         |
+| EMSafe_FrontEnd/Nicolini03   | develop | 52c538f   | chore: remove unused data                                        | empty               | 22/06/2025         |
+| EMSafe_FrontEnd/Nicolini03   | develop | 73f0a93   | chore: remove unused Delete.java placeholder files               | empty               | 22/06/2025         |
+| EMSafe_FrontEnd/Nicolini03   | develop | 4be4505   | feat(auth): replace cross origin domain                          | empty               | 22/06/2025         |
+| EMSafe_FrontEnd/Nicolini03   | develop | e602369   | feat(controller): add DeviceCatalogController with endpoints for enums | empty         | 22/06/2025         |
+| EMSafe_FrontEnd/Nicolini03   | develop | e3ee102   | feat(frequency): implement MeasurementFrequency entity and related services | empty   | 22/06/2025         |
+| EMSafe_FrontEnd/Nicolini03   | develop | 32d7c11   | feat(type): add Type entity with repository and services         | empty               | 22/06/2025         |
+| EMSafe_FrontEnd/Nicolini03   | develop | 749791d   | feat(status): implement Status entity, repository and service layer | empty            | 22/06/2025         |
+| EMSafe_FrontEnd/Nicolini03   | develop | cdc17a6   | feat(device): add Device entity, repository, service and controller | empty           | 22/06/2025         |
+| EMSafe_FrontEnd/Nicolini03   | develop | 4143c32   | feat(auth): implementation of authentication system              | empty               | 22/06/2025         |
+| EMSafe_FrontEnd/Nicolini03   | develop | 8adad5e   | InitialCommit: setup EMSafe backend project                      | empty               | 22/06/2025         |
+
+
+### 5.2.2.5. Execution Evidence for Sprint Review
+
+Esta sección inicia con un resumen de los logros alcanzados en este Sprint, donde se ha implementado la primera versión del backend de la aplicación. Durante este período, se han desarrollado endpoints fundamentales para gestionar la información de doctores, pacientes y otros elementos clave del sistema. Esto incluye la creación de endpoints para agregar, actualizar y consultar datos. Junto a esto, se incluye un enlace a un video que ilustra y explica la visualización y navegación logradas en este Sprint, mostrando cómo los usuarios pueden interactuar con las funcionalidades disponibles de manera intuitiva. Vista general de los endpoints generados via Swagger: Se observan los endopoints con sus respectivos títulos.
 
 
 
-### 5.2.2.4. Execution Evidence for Sprint Review
-
-<div id="5215"><h4>5.2.2.5. Execution Evidence for Sprint Review</h4></div>
-
-
-<div id="5216"><h4>5.2.2.6. Services Documentation Evidence for Sprint Review</h4></div>
-
-
-<div id="5217"><h4>5.2.2.7. Software Deployment Evidence for Sprint Review</h4></div>
 
 
 
-<div id="5218"><h4>5.2.2.8. Team Collaboration Insights during Sprint</h4></div>
+### VIDEO PENDIENTE!!!!!
+
+
+
+
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
 
 Se proporcionará información detallada sobre la colaboración y comunicación entre los miembros del equipo de desarrollo durante el sprint. Esto incluirá la coordinación de actividades, la gestión de tareas asignadas y la resolución de inconvenientes surgidos en el proceso. Las responsabilidades se distribuyeron equitativamente entre los integrantes del equipo. A continuación, se presenta un análisis general de los commits realizados por cada aportante, reflejando su participación en el proyecto.
 
