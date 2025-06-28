@@ -2459,12 +2459,15 @@ En esta sección se detallan los avances logrados en la implementación del prod
 
 Esta sección inicia con un resumen de los logros alcanzados en este Sprint, donde se ha implementado la primera versión del backend de la aplicación. Durante este período, se han desarrollado endpoints fundamentales para gestionar la información de doctores, pacientes y otros elementos clave del sistema. Esto incluye la creación de endpoints para agregar, actualizar y consultar datos. Junto a esto, se incluye un enlace a un video que ilustra y explica la visualización y navegación logradas en este Sprint, mostrando cómo los usuarios pueden interactuar con las funcionalidades disponibles de manera intuitiva. Vista general de los endpoints generados via Swagger: Se observan los endopoints con sus respectivos títulos.
 
+![Captura de pantalla 2025-06-28 151225](https://github.com/user-attachments/assets/f0e6d710-abc8-4abe-acf3-810e0ce1abf9)
+
+![Captura de pantalla 2025-06-28 151238](https://github.com/user-attachments/assets/12bb47f2-842d-4b39-a585-843c8ab2b9bd)
+
+![Captura de pantalla 2025-06-28 151250](https://github.com/user-attachments/assets/b91f3e7f-c7e9-47e0-b656-22ae9929d0fe)
 
 
 
-
-
-### VIDEO PENDIENTE!!!!!
+Url del video: https://drive.google.com/file/d/1jQR4ete6P4XBctOWhciMbmaBhGhS-IG5/view?usp=drive_link 
 
 
 
