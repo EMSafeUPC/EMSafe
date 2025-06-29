@@ -2478,6 +2478,103 @@ Url del video: https://drive.google.com/file/d/1jQR4ete6P4XBctOWhciMbmaBhGhS-IG5
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+# 🚀 Despliegue del Backend EMSafe con Jenkins en AWS EC2
+
+Este documento describe paso a paso cómo se realizó el despliegue del backend EMSafe usando Jenkins sobre una instancia EC2 de AWS. El backend está desarrollado con Spring Boot y se conecta a una base de datos MySQL desplegada también en AWS.
+
+---
+
+## ⚙️ Requisitos Previos
+
+- ✅ Instancia EC2 para Jenkins (Ubuntu) con puertos abiertos: 22 (SSH), 8080 (Jenkins), 9090 (backend).
+- ✅ Jenkins instalado y configurado en la instancia.
+- ✅ Maven instalado en la instancia EC2 (`mvn -v` debe responder correctamente).
+- ✅ Repositorio Git configurado: [`https://github.com/EMSafeUPC/EMSafe_BackEnd.git`](https://github.com/EMSafeUPC/EMSafe_BackEnd.git)
+- ✅ Base de datos MySQL activa (en otra instancia EC2 o RDS) accesible desde el backend.
+- ✅ Archivo `application.properties` configurado correctamente.
+
+---
+
+## 🗂️ Estructura del Proyecto
+
+El backend se encuentra en la carpeta `EMSafe-platform/`, y el archivo Maven `pom.xml` está dentro de esa carpeta.
+
+---
+
+## 🔧 Configuración del Job en Jenkins
+
+![Captura de pantalla 2025-06-29 120002](https://github.com/user-attachments/assets/991820f7-1cb0-4111-a655-6b252919d2a8)
+
+
+1. Crear un nuevo proyecto **Freestyle** llamado `despliegue_emsafe`.
+2. Configurar el repositorio Git:
+   - URL: `https://github.com/EMSafeUPC/EMSafe_BackEnd.git`
+   - Rama: `develop`
+3. En la sección **Build Steps**, agregar:
+   - 🧱 **Ejecutar tareas Maven**:
+     ```
+     clean install
+     ```
+   - 🧱 **Ejecutar línea de comandos (Shell)**:
+     ```bash
+     echo "🔁 Cerrando procesos anteriores de EMSafe..."
+     pkill -f platform-0.0.1-SNAPSHOT.jar || echo "No se encontraron procesos previos"
+
+     echo "🚀 Iniciando EMSafe backend completo (Swagger y todos los endpoints)..."
+     cd EMSafe-platform/target
+     nohup java -jar platform-0.0.1-SNAPSHOT.jar --server.port=9090 > log.txt 2>&1 &
+     echo "✅ EMSafe backend iniciado en http://<IP_PUBLICA_BACKEND>:9090/swagger-ui/index.html"
+     ```
+
+---
+
+## 🌐 Configuración de Seguridad en AWS
+
+### 🔐 Security Groups
+![Captura de pantalla 2025-06-29 114120](https://github.com/user-attachments/assets/32df5ef3-ce9d-4c10-be70-1c25065578dc)
+
+#### Instancia Jenkins/Backend:
+- `TCP 22` → para acceso SSH.
+- `TCP 8080` → para Jenkins.
+- `TCP 9090` → para backend EMSafe (Swagger y API REST).
+
+#### Instancia de base de datos:
+- `TCP 3306` → permitir acceso **desde la IP pública del backend**.
+
+### 📌 IP Elástica
+
+Asigna una IP elástica a la instancia del backend para que no cambie con cada reinicio:
+1. En AWS EC2 → Elastic IPs → Allocate new address.
+2. Asóciala a la instancia EC2 del backend.
+![Captura de pantalla 2025-06-29 114307](https://github.com/user-attachments/assets/e35818bb-e2a8-4b5d-9167-78860d5748f4)
+
+---
+
+## 📁 Configuración del `application.properties`
+
+Asegúrate de que tu `application.properties` esté correctamente configurado con los valores de producción:
+
+```properties
+spring.application.name=EMSafe-platform
+spring.datasource.url=jdbc:mysql://<IP_DB_PUBLICA>:3306/emsafedb
+spring.datasource.username=root
+spring.datasource.password=1234
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+
+server.port=9090
+
+spring.jpa.show-sql=true
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.open-in-view=true
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
+
+documentation.application.version=${project.version}
+documentation.application.description=${project.description}
+ ```
+![Captura de pantalla 2025-06-29 114105](https://github.com/user-attachments/assets/f0928bf8-d622-4658-acaf-6b6c05e304c9)
+
+---
+
 ### 5.2.2.8. Team Collaboration Insights during Sprint
 
 Se proporcionará información detallada sobre la colaboración y comunicación entre los miembros del equipo de desarrollo durante el sprint. Esto incluirá la coordinación de actividades, la gestión de tareas asignadas y la resolución de inconvenientes surgidos en el proceso. Las responsabilidades se distribuyeron equitativamente entre los integrantes del equipo. A continuación, se presenta un análisis general de los commits realizados por cada aportante, reflejando su participación en el proyecto.
