@@ -2471,9 +2471,65 @@ Url del video: https://drive.google.com/file/d/1jQR4ete6P4XBctOWhciMbmaBhGhS-IG5
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-Esta sección documenta los endpoints desarrollados durante el Sprint enfocados en la gestión de puntos geográficos y la autenticación dentro de la plataforma. Las funcionalidades implementadas incluyen operaciones GET, POST, PUT y DELETE, reflejadas mediante ejemplos de llamadas y respuestas en la documentación generada con OpenAPI.
+Esta sección recopila los endpoints desarrollados y validados durante el Sprint, enfocados en la gestión de perfiles, dispositivos, mapas de radiación, alarmas y autenticación de usuarios en la plataforma. Se documenta el uso de los métodos HTTP correspondientes (GET, POST, PUT, DELETE) junto con ejemplos de llamadas, respuestas y validaciones funcionales. La documentación se ha generado mediante OpenAPI, permitiendo una visualización clara y organizada de los servicios.
 
-Se han incluido capturas de pantalla que evidencian la interacción con los Web Services, junto con enlaces al repositorio y commits relevantes que respaldan este avance. Todo ello sustenta el trabajo realizado durante el Sprint de manera verificable y estructurada.
+Además, se incluyen capturas de pantalla que demuestran la interacción con los servicios web, y se enlazan los commits relevantes del repositorio para sustentar el trabajo realizado.
+
+1. Auth Controller
+   
+* POST /api/v1/auth/register – Registro de nuevos usuarios
+
+* POST /api/v1/auth/login – Autenticación de acceso
+
+2. Profile Management
+   
+* PUT /api/v1/profile/change-password – Cambio de contraseña
+
+* POST /api/v1/profile/validate-password – Validar contraseña actual
+
+* GET /api/v1/profile/username – Obtener nombre de usuario
+
+* GET /api/v1/profile/name – Obtener nombre completo
+
+* GET /api/v1/profile/email – Obtener dirección de correo electrónico
+
+3. Device Catalogs (Datos estáticos)
+   
+* GET /api/v1/device-catalogs/types – Tipos de dispositivos
+
+* GET /api/v1/device-catalogs/statuses – Estados de dispositivos
+
+* GET /api/v1/device-catalogs/frequencies – Frecuencias de emisión
+
+4. Radiation Map (Puntos geográficos)
+   
+* POST /api/v1/map/points – Crear nuevo punto de radiación
+
+* PUT /api/v1/map/points/{id} – Actualizar punto de radiación
+
+* DELETE /api/v1/map/points/{id} – Eliminar punto de radiación
+
+* GET /api/v1/map/points – Listar todos los puntos registrados
+
+5. Device Endpoints
+   
+* POST /api/v1/devices – Crear dispositivo
+
+* PUT /api/v1/devices/{deviceId} – Actualizar dispositivo existente
+
+* DELETE /api/v1/devices/{deviceId} – Eliminar dispositivo
+
+* GET /api/v1/devices – Obtener listado de dispositivos
+
+6. Alarm Management
+   
+* POST /api/v1/alarms – Crear alarma
+
+* PUT /api/v1/alarms/{id} – Actualizar alarma
+
+* DELETE /api/v1/alarms/{id} – Eliminar alarma
+
+* GET /api/v1/alarms – Obtener todas las alarmas
 
 ![image](https://github.com/user-attachments/assets/5e3ad644-725e-46f4-a730-b437ff31d973)
 
