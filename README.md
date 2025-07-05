@@ -2469,11 +2469,19 @@ Esta sección inicia con un resumen de los logros alcanzados en este Sprint, don
 
 Url del video: https://drive.google.com/file/d/1jQR4ete6P4XBctOWhciMbmaBhGhS-IG5/view?usp=drive_link 
 
-
-
-
-
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Esta sección documenta los endpoints desarrollados durante el Sprint enfocados en la gestión de puntos geográficos y la autenticación dentro de la plataforma. Las funcionalidades implementadas incluyen operaciones GET, POST, PUT y DELETE, reflejadas mediante ejemplos de llamadas y respuestas en la documentación generada con OpenAPI.
+
+Se han incluido capturas de pantalla que evidencian la interacción con los Web Services, junto con enlaces al repositorio y commits relevantes que respaldan este avance. Todo ello sustenta el trabajo realizado durante el Sprint de manera verificable y estructurada.
+
+![image](https://github.com/user-attachments/assets/5e3ad644-725e-46f4-a730-b437ff31d973)
+
+![image](https://github.com/user-attachments/assets/002e9e2d-b3fc-4de6-bfd0-4705cff490fd)
+
+![image](https://github.com/user-attachments/assets/d3060063-9bc9-4686-8dc0-c5426eda1b33)
+
+![image](https://github.com/user-attachments/assets/80ca603f-13e8-4a22-872a-2b47e08c5496)
 
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
