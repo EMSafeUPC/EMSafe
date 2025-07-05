@@ -2667,6 +2667,40 @@ Imagen de Insights de los integrantes
 
 #### 5.3.1. Diseño de Entrevistas
 
+A continuación se presentan las preguntas diseñadas para las entrevistas finales, clasificadas según los segmentos objetivos del proyecto EMSafe. Estas entrevistas buscan validar la propuesta de valor, la utilidad de la solución y detectar oportunidades de mejora basadas en la experiencia de los usuarios.
+
+---
+
+### ✅ Segmento 1: Personas comprometidas con el cuidado de su salud
+
+1. ¿Cómo te enteraste de EMSafe y qué te motivó a usarlo?
+2. ¿Qué tan fácil te resultó registrarte y comenzar a usar la plataforma?
+3. ¿Entendiste claramente los niveles de radiación que te muestra EMSafe?
+4. ¿Te parecieron útiles las alertas automáticas sobre niveles elevados?
+5. ¿Aplicaste alguna recomendación de la plataforma para reducir tu exposición?
+6. ¿Sientes que ahora tienes mayor control sobre tu entorno respecto a radiación?
+7. ¿Qué parte de EMSafe fue más valiosa para ti y por qué?
+8. ¿Qué te gustaría que se mejorara o añadiera en la plataforma?
+9. ¿Recomendarías EMSafe a otras personas preocupadas por su salud? ¿Por qué?
+
+---
+
+### ✅ Segmento 2: Miembros de empresas y organizaciones que operan maquinaria de emisión electromagnética
+
+1. ¿Qué tipo de maquinaria o tecnología utiliza tu organización que emite radiación electromagnética?
+2. ¿Tenían algún sistema de monitoreo previo antes de usar EMSafe?
+3. ¿Cómo se integró EMSafe en sus procesos o rutinas laborales?
+4. ¿Qué tan útiles fueron las mediciones en tiempo real para tomar decisiones?
+5. ¿Las alertas automáticas ayudaron a prevenir riesgos o a cambiar comportamientos?
+6. ¿Qué impacto tuvo EMSafe en la percepción de seguridad de los trabajadores?
+7. ¿La visualización de datos fue clara para todo el equipo, incluso sin conocimientos técnicos?
+8. ¿Qué funcionalidades empresariales crees que deberían incluirse en futuras versiones?
+9. ¿Consideras que EMSafe podría integrarse con otros sistemas de tu organización (por ejemplo, salud ocupacional)?
+10. ¿Recomendarías el uso de EMSafe a otras empresas similares? ¿Por qué?
+
+---
+
+
 #### 5.3.2. Registro de Entrevistas
 
 #### 5.3.3. Evaluaciones según heurísticas
