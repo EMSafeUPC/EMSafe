@@ -2406,6 +2406,12 @@ A continuación, se muestra un cuadro resumen que estructura los datos important
 
 ### 5.2.3.2. Aspect Leaders and Collaborators.
 
+| Team Member (Last Name, First Name) | GitHub Username | Profile (L/C) | Navegación (L/C) | Devices (CTA) (L/C) | Alarms (L/C) | Dashboard (L/C) |
+|------------------------------------|------------------|------------------------------------|------------------|----------------------------------|-------------|--------------------------------------|
+| Espinoza, Esteban                  | este-dev597      | C                                  | C                | C                                | L           | C                                    |
+| Gongora, Williams                  | WiJeGo           | L                                  | C                | C                                | C           | L                                    |
+| Lopez, Fabricio                    | LopezFABRAX      | C                                  | C                | L                                | C           | C                                    |
+| Nicolich, Fabio                    | Nicolini03       | C                                  | L                | C                                | C           | C                                    |
 
 
 ### 5.2.3.3. Sprint Backlog 3
@@ -2416,11 +2422,11 @@ A continuación, se muestra un cuadro resumen que estructura los datos important
 
 | User Story | ID | Title                        | Description                                                                                                                                                                                                                 | Estimation (Hours) | Assigned To | Status |
 |------------|----|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|--------------|--------|
-| US44       | 1  | Desarrollo de Devices         | Como developer de TukunTech, Quiero implementar la sección de dispositivos, Para visualizar todos los dispositivos registrados en la plataforma.                                                                           | 5h                 | Andree       | Done   |
-| US45       | 2  | Desarrollo de Map Radiation   | Como developer de TukunTech, Quiero implementar la sección del mapa de radiación, Para visualizar los niveles de radiación registrados por zona geográfica.                                                               | 5h                 | Fabio        | Done   |
-| US46       | 3  | Desarrollo de Alarms          | Como developer de TukunTech, Quiero implementar la sección de alarmas, Para visualizar y gestionar las alertas generadas por la plataforma.                                                                               | 5h                 | Williams     | Done   |
-| US47       | 4  | Desarrollo de Profile         | Como developer de TukunTech, Quiero implementar la sección de perfil, Para que los usuarios puedan ver y editar su información personal.                                                                                  | 5h                 | Esteban      | Done   |
-| US48       | 5  | Desarrollo de Dashboard       | Como developer de TukunTech, Quiero implementar el dashboard principal, Para mostrar un resumen general de la plataforma y accesos rápidos.                                                                               | 5h                 | Fabrizio     | Done   |
+| US44       | 1  | Desarrollo de Devices         | Como developer de TukunTech, Quiero implementar la sección de dispositivos, Para visualizar todos los dispositivos registrados en la plataforma.                                                                           | 5h                 | Andree       | In Progress   |
+| US45       | 2  | Desarrollo de Map Radiation   | Como developer de TukunTech, Quiero implementar la sección del mapa de radiación, Para visualizar los niveles de radiación registrados por zona geográfica.                                                               | 5h                 | Fabio        | In Progress   |
+| US46       | 3  | Desarrollo de Alarms          | Como developer de TukunTech, Quiero implementar la sección de alarmas, Para visualizar y gestionar las alertas generadas por la plataforma.                                                                               | 5h                 | Williams     | In Progress   |
+| US47       | 4  | Desarrollo de Profile         | Como developer de TukunTech, Quiero implementar la sección de perfil, Para que los usuarios puedan ver y editar su información personal.                                                                                  | 5h                 | Esteban      | In Progress   |
+| US48       | 5  | Desarrollo de Dashboard       | Como developer de TukunTech, Quiero implementar el dashboard principal, Para mostrar un resumen general de la plataforma y accesos rápidos.                                                                               | 5h                 | Fabrizio     | In Progress   |
 | US49       | 6  | Gestión de Devices            | Como developer de TukunTech, Quiero implementar y consumir los endpoints del módulo de dispositivos, Para mantener actualizada y gestionable la información desde la aplicación.                                          | 5h                 | Fabio        | Done   |
 | US50       | 7  | Gestión de Map Radiation      | Como developer de TukunTech, Quiero consumir los endpoints relacionados con puntos de radiación, Para visualizarlos y gestionarlos en el mapa de la aplicación.                                                            | 5h                 | Williams     | Done   |
 | US51       | 8  | Gestión de Alarms             | Como developer de TukunTech, Quiero consumir los endpoints de alarmas, Para mostrar, crear, actualizar y eliminar alertas del sistema.                                                                                     | 5h                 | Fabrizio     | Done   |
@@ -2455,9 +2461,9 @@ En esta sección se detallan los avances logrados en la implementación del prod
 | EMSafe_FrontEnd/Nicolini03   | develop | 8adad5e   | InitialCommit: setup EMSafe backend project                      | empty               | 22/06/2025         |
 
 
-### 5.2.2.5. Execution Evidence for Sprint Review
+### 5.2.3.5. Execution Evidence for Sprint Review
 
-Esta sección inicia con un resumen de los logros alcanzados en este Sprint, donde se ha implementado la primera versión del backend de la aplicación. Durante este período, se han desarrollado endpoints fundamentales para gestionar la información de doctores, pacientes y otros elementos clave del sistema. Esto incluye la creación de endpoints para agregar, actualizar y consultar datos. Junto a esto, se incluye un enlace a un video que ilustra y explica la visualización y navegación logradas en este Sprint, mostrando cómo los usuarios pueden interactuar con las funcionalidades disponibles de manera intuitiva. Vista general de los endpoints generados via Swagger: Se observan los endopoints con sus respectivos títulos.
+Esta sección inicia con un resumen de los logros alcanzados en este Sprint, donde se ha implementado la primera versión del backend de la aplicación. Durante este período, se han desarrollado endpoints fundamentales para gestionar la información de dispositivos, alarmas y otros elementos clave del sistema. Esto incluye la creación de endpoints para agregar, actualizar y consultar datos. Junto a esto, se incluye un enlace a un video que ilustra y explica la visualización y navegación logradas en este Sprint, mostrando cómo los usuarios pueden interactuar con las funcionalidades disponibles de manera intuitiva. Vista general de los endpoints generados via Swagger: Se observan los endopoints con sus respectivos títulos.
 
 ![Captura de pantalla 2025-06-28 151225](https://github.com/user-attachments/assets/f0e6d710-abc8-4abe-acf3-810e0ce1abf9)
 
@@ -2662,6 +2668,176 @@ Se proporcionará información detallada sobre la colaboración y comunicación 
 
 ![Image](https://github.com/user-attachments/assets/63667bba-4f1a-4e61-9609-fd42ff6c7bda)
 Imagen de Insights de los integrantes
+
+5.2.4. Sprint 4
+
+En esta sección se detallan los aspectos clave del Sprint Planning Meeting del Sprint 4. Se inicia con una introducción que explica la orientación del sprint y los objetivos principales, enfocándose en la creación de la últim versión del backend y la rectificación de detalles en el frontend para el despliegue del servicio web completo.
+
+5.2.4.1.Sprint Planning 4.
+
+A continuación, se muestra un cuadro resumen que estructura los datos importantes debatidos durante la reunión de planificación del sprint, siguiendo la estructura establecida para ofrecer claridad sobre las tareas y metas pactadas. 
+
+
+| Sprint # | 4 |
+|---|---|
+| **Sprint Planning Background** | |
+| Date | 06/07/2025 |
+| Time | 08:00 PM |
+| Location | Reunión virtual mediante llamada Discord |
+| Prepared By | Fabio Nicolich |
+| Attendees (to planning meeting) | Esteban Daniel Espinoza Ayquipa, Fabricio Lopes de La Cruz, Fabio Maurizio Nicolich Alvis |
+| **Sprint 4 - 3 Review Summary** | Desarrollo de Back-end y despliegue final del web service|
+| **Sprint 4 - 3 Retrospective Summary** | Correcciones de errores en la documentación del informe, diseño del frontend y orden en las carpetas según DDD. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 3 Goal** | Our focus is on the final delivery of the web service, where we connected all core backend functionalities with the front end and improved the overall design. We are working to ensure a reliable structure that supports smooth navigation across the platform. We believe this will deliver a clear and intuitive user experience, which will be validated when users can seamlessly access different sections of the dashboard without facing navigation or data loading issues.|
+| **Sprint 3 Velocity** | 80 |
+| **Sum of Story Points** | 80 |
+5.2.4.2. Aspect Leaders and Collaborators.
+
+| Team Member (Last Name, First Name) | GitHub Username | Profile (L/C) | Navegación (L/C) | Devices (CTA) (L/C) | Alarms (L/C) | Dashboard (L/C) |
+|------------------------------------|------------------|------------------------------------|------------------|----------------------------------|-------------|--------------------------------------|
+| Espinoza, Esteban                  | este-dev597      | C                                  | C                | C                                | L           | C                                    |
+| Gongora, Williams                  | WiJeGo           | L                                  | C                | C                                | C           | L                                    |
+| Lopez, Fabricio                    | LopezFABRAX      | C                                  | C                | L                                | C           | C                                    |
+| Nicolich, Fabio                    | Nicolini03       | C                                  | L                | C                                | C           | C                                    |
+
+5.2.4.3.Sprint Backlog 4.
+
+| User Story | ID | Title                        | Description                                                                                                                                                                                                                 | Estimation (Hours) | Assigned To | Status |
+|------------|----|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|--------------|--------|
+| US44       | 1  | Desarrollo de Devices         | Como developer de TukunTech, Quiero implementar la sección de dispositivos, Para visualizar todos los dispositivos registrados en la plataforma.                                                                           | 5h                 | Andree      | Done   |
+| US45       | 2  | Desarrollo de Map Radiation   | Como developer de TukunTech, Quiero implementar la sección del mapa de radiación, Para visualizar los niveles de radiación registrados por zona geográfica.                                                               | 5h                 | Fabio        | Done   |
+| US46       | 3  | Desarrollo de Alarms          | Como developer de TukunTech, Quiero implementar la sección de alarmas, Para visualizar y gestionar las alertas generadas por la plataforma.                                                                               | 5h                 | Williams     | Done   |
+| US47       | 4  | Desarrollo de Profile         | Como developer de TukunTech, Quiero implementar la sección de perfil, Para que los usuarios puedan ver y editar su información personal.                                                                                  | 5h                 | Esteban      | Done   |
+| US48       | 5  | Desarrollo de Dashboard       | Como developer de TukunTech, Quiero implementar el dashboard principal, Para mostrar un resumen general de la plataforma y accesos rápidos.                                                                               | 5h                 | Fabrizio     | Done   |
+
+
+5.2.4.4.Development Evidence for Sprint Review.
+
+En esta sección se detallan los avances logrados en la implementación del producto durante el sprint, centrados en el desarrollo de la primera versión del backend de la aplicación web y en la corrección de detalles en el frontend. El enfoque principal ha sido avanzar en la construcción de las funcionalidades esenciales del backend y optimizar las interfaces de usuario, cumpliendo con los objetivos establecidos. Se ha trabajado en aspectos clave como la gestión de dispositivos, la interacción del usuario y la navegación, lo que permitirá una experiencia más robusta para los usuarios. A continuación, se presenta una tabla que documenta los commits relevantes relacionados con la implementación de cada repositorio del proyecto, lo que permite visualizar el progreso del desarrollo técnico durante este sprint.
+
+| Repository                    | Branch  | Commit Id | Commit Message                                                   | Commit Message Body | Commited on (Date) |
+|------------------------------|---------|-----------|------------------------------------------------------------------|---------------------|--------------------|
+| EMSafe_FrontEnd/Nicolini03   | develop | 402a5a2   | feat(devices): add GET, POST and DELETE endpoints for device management                     | empty               | 04/07/2025         |
+| EMSafe_FrontEnd/lopezFABRAX   | develop | e63b9bd  | feat: Conexión frontend-backend y arreglo de perfil                | empty               | 05/07/2025         |
+| EMSafe_FrontEnd/Nicolini03   | develop | db10b3a   | avance alarmas frontend                                        | empty               | 01/07/2025         |
+| EMSafe_FrontEnd/WiJeGo   | develop | 47f8cda   | Update auth.service.ts               | empty               | 03/07/2025         |
+
+
+5.2.4.5.Execution Evidence for Sprint Review.
+
+Esta sección inicia con un resumen de los logros alcanzados en este Sprint, donde se ha implementado la última versión del backend de la aplicación. Se mantuvieron los endpoints del sprint anterior junto a sus rutas respectivas.
+
+![Captura de pantalla 2025-06-28 151225](https://github.com/user-attachments/assets/f0e6d710-abc8-4abe-acf3-810e0ce1abf9)
+
+![Captura de pantalla 2025-06-28 151238](https://github.com/user-attachments/assets/12bb47f2-842d-4b39-a585-843c8ab2b9bd)
+
+![Captura de pantalla 2025-06-28 151250](https://github.com/user-attachments/assets/b91f3e7f-c7e9-47e0-b656-22ae9929d0fe)
+
+
+5.2.4.6.Services Documentation Evidence for Sprint Review.
+
+Esta sección recopila los mismos endpoints desarrollados y validados durante el Sprint 3, enfocados en la gestión de perfiles, dispositivos, mapas de radiación, alarmas y autenticación de usuarios en la plataforma. Se documenta el uso de los métodos HTTP correspondientes (GET, POST, PUT, DELETE) junto con ejemplos de llamadas, respuestas y validaciones funcionales. La documentación se ha generado mediante OpenAPI, permitiendo una visualización clara y organizada de los servicios.
+
+Además, se incluyen capturas de pantalla que demuestran la interacción con los servicios web, y se enlazan los commits relevantes del repositorio para sustentar el trabajo realizado.
+
+1. Auth Controller
+   
+* POST /api/v1/auth/register – Registro de nuevos usuarios
+
+* POST /api/v1/auth/login – Autenticación de acceso
+
+2. Profile Management
+   
+* PUT /api/v1/profile/change-password – Cambio de contraseña
+
+* POST /api/v1/profile/validate-password – Validar contraseña actual
+
+* GET /api/v1/profile/username – Obtener nombre de usuario
+
+* GET /api/v1/profile/name – Obtener nombre completo
+
+* GET /api/v1/profile/email – Obtener dirección de correo electrónico
+
+3. Device Catalogs (Datos estáticos)
+   
+* GET /api/v1/device-catalogs/types – Tipos de dispositivos
+
+* GET /api/v1/device-catalogs/statuses – Estados de dispositivos
+
+* GET /api/v1/device-catalogs/frequencies – Frecuencias de emisión
+
+4. Radiation Map (Puntos geográficos)
+   
+* POST /api/v1/map/points – Crear nuevo punto de radiación
+
+* PUT /api/v1/map/points/{id} – Actualizar punto de radiación
+
+* DELETE /api/v1/map/points/{id} – Eliminar punto de radiación
+
+* GET /api/v1/map/points – Listar todos los puntos registrados
+
+5. Device Endpoints
+   
+* POST /api/v1/devices – Crear dispositivo
+
+* PUT /api/v1/devices/{deviceId} – Actualizar dispositivo existente
+
+* DELETE /api/v1/devices/{deviceId} – Eliminar dispositivo
+
+* GET /api/v1/devices – Obtener listado de dispositivos
+
+6. Alarm Management
+   
+* POST /api/v1/alarms – Crear alarma
+
+* PUT /api/v1/alarms/{id} – Actualizar alarma
+
+* DELETE /api/v1/alarms/{id} – Eliminar alarma
+
+* GET /api/v1/alarms – Obtener todas las alarmas
+
+![image](https://github.com/user-attachments/assets/5e3ad644-725e-46f4-a730-b437ff31d973)
+
+![image](https://github.com/user-attachments/assets/002e9e2d-b3fc-4de6-bfd0-4705cff490fd)
+
+![image](https://github.com/user-attachments/assets/d3060063-9bc9-4686-8dc0-c5426eda1b33)
+
+![image](https://github.com/user-attachments/assets/80ca603f-13e8-4a22-872a-2b47e08c5496)
+
+
+5.2.4.7.Software Deployment Evidence for Sprint Review.
+
+Se utilizó el mismo paso a paso del sprint 3 para el nuevo y último despliegue del sprint 4. 
+
+5.2.4.8.Team Collaboration Insights during Sprint.
+
+En esta sección, el equipo describe el desarrollo de las actividades de implementación, resaltando el uso de herramientas colaborativas como GitHub, Trello, Discord y WhatsApp para optimizar la comunicación y el seguimiento del progreso. GitHub ha sido esencial para gestionar el código y registrar los commits de cada miembro, mientras que Trello ha facilitado la organización de tareas y el monitoreo del avance en los distintos productos del Sprint, como la página de aterrizaje, las aplicaciones web y los servicios backend. Discord y WhatsApp han sido clave para la comunicación en tiempo real, permitiendo a los integrantes resolver dudas y coordinar actividades de manera ágil. A continuación, se muestran capturas de pantalla de los análisis de colaboración y de los commits en GitHub, demostrando la participación activa de todos los miembros en la implementación del proyecto.
+
+**Integrantes y aportantes:**
+
+| Integrante | Tareas Asignadas |
+|------------|------------------|
+| Esteban Espinoza | Idea conceptual de Proyecto, Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Software Configuration Management, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration, Desarrollo de la funcionalidad completa de las alarmas del servicio web |
+| Williams Gongora | Idea conceptual de Proyecto, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping, Class Diagrams, Class Dictionary, Database Design, Database Diagram, Desarrollo de la funcionalidad completa del dashboard, radiation map, Login y despliegue de la Landing Page |
+| Fabio Nicolich | Idea conceptual de Proyecto, Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Software Configuration Management, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration, Desarrollo de la funcionalidad completa del Login y Devices |
+| Fabricio Lopez | Idea conceptual de Proyecto, Ejecución de Needfinding, elaboración de User Personas, desarrollo de User Task Matrix, creación de User Journey Mapping, diseño de Empathy Mapping, realización de As-is Scenario Mapping, revisión y corrección de User Stories, reestructuración y actualización de Product Backlog, desarrollo de glosario de Ubiquitous Language, Desarrollo de la funcionalidad completa del profile y despliegue del servicio web |
+
+<br>
+
+**Analítica de los commits de los aportantes:**
+
+**Commits Landing Page:**
+![Image](https://github.com/user-attachments/assets/c0fff3e9-d73a-4d6b-8d25-5531bccc4341) 
+
+
+**Commits Frontend:**
+![Image](https://github.com/user-attachments/assets/328f1b79-f3d0-4eff-9574-f9718bf28cff) 
+
+
+**Commits Backend:**
+![Image](https://github.com/user-attachments/assets/4ccb3975-522f-49c6-b72e-272a6c54e581) 
+
 
 ### 5.3. Validation Interviews
 
