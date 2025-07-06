@@ -3010,19 +3010,36 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 La sección proporciona un panorama general del producto, resaltando su objetivo, características principales y el valor que brinda a sus usuarios.  Esta introducción facilita la comprensión del contexto del producto y su orientación a cubrir las demandas de los usuarios, sincronizando sus características y habilidades con las metas de la solución sugerida.
 
 URL en Microsoft Teams: 
+[Video Avout The Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218791_upc_edu_pe/Ecr4gx5JJKpInMJ9cE75mQwBDwbGKn4O6r74JwKe_Mq-eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SvfIWe)
 
-Duración:
+Duración: 4:00 minutos
 
-### 5.5. About the Team
-
-Esta parte facilitará la identificación del equipo que impulsó el proyecto, mostrando un video que refleja la esencia de nuestro proceso laboral, resaltando cómo cada integrante aportó con sus destrezas y empeños.  Además, cada participante relata en cámara su vivencia personal, detallando las tareas que llevó a cabo, los éxitos alcanzados y las habilidades que cultivó durante el proceso.  Algunos de los éxitos alcanzados en el equipo comprenden una comunicación eficaz que nos facilitó mantenernos en sintonía en cada fase del proyecto, garantizando que todas las ideas y contribuciones fueran oídas y tenidas en cuenta.
-
-URL en Microsoft Teams: 
-
-Duración:
 
 <div id="conclusiones"><h1>Conclusiones</h1></div>
 
+- Aplicación completa del ciclo de vida de desarrollo de software
+El proyecto permite aplicar todas las fases del desarrollo de software moderno, desde la identificación de necesidades hasta el despliegue de una solución funcional en la nube. Se fomenta una experiencia real de desarrollo ágil mediante Sprints y el uso de herramientas colaborativas como GitHub.
+
+- Enfoque práctico, colaborativo e interdisciplinario
+Se exige un trabajo en equipo intensivo donde todos los integrantes deben participar tanto en la documentación, diseño, programación, pruebas y despliegue. Esto asegura que cada miembro desarrolle competencias técnicas, de comunicación y de gestión de proyectos.
+
+- Desarrollo de una solución web open-source realista
+El trabajo culmina con el desarrollo de un sistema web distribuido basado en tecnologías open-source como Java (Spring Boot) para backend y Angular para frontend, incluyendo una página web estática (landing page) y RESTful API. El sistema está orientado a resolver un problema específico de negocio con innovación y escalabilidad.
+
+- Integración de buenas prácticas de ingeniería de software
+Se exige el uso de convenciones como GitFlow, Conventional Commits, diseño basado en dominio (DDD), arquitectura C4, y documentación con estándares como OpenAPI, lo cual fortalece el profesionalismo del proyecto.
+
+- Incorporación de UX, accesibilidad e internacionalización
+A lo largo del proyecto se aplican técnicas de UX (Lean UX, User Personas, Journey Maps, Empathy Maps, etc.), además de garantizar que la solución cumpla con criterios de accesibilidad (a11y) e internacionalización (i18n), promoviendo la inclusión y experiencia del usuario.
+
+- Validación continua con usuarios reales
+Se incluyen entrevistas, pruebas de validación y evaluación heurística de la interfaz y experiencia de usuario, lo cual refuerza el enfoque centrado en el usuario y permite tomar decisiones con base en datos reales.
+
+- Preparación para el entorno profesional y estándares internacionales
+La estructura del proyecto refleja estándares como los propuestos por ABET (Student Outcome 3), lo cual posiciona a los estudiantes con un perfil competitivo para el entorno laboral global.
+
+- Énfasis en la ética profesional
+Se refuerza la importancia del comportamiento ético en ingeniería de software, incluyendo términos de servicio, transparencia en el proceso, y responsabilidad profesional, en línea con los códigos de ética de IEEE/ACM.
 
 
 <div id="bibliografia"><h1>Bibliografía</h1></div>
