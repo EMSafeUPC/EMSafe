@@ -2692,6 +2692,8 @@ A continuación, se muestra un cuadro resumen que estructura los datos important
 | **Sprint 3 Goal** | Our focus is on the final delivery of the web service, where we connected all core backend functionalities with the front end and improved the overall design. We are working to ensure a reliable structure that supports smooth navigation across the platform. We believe this will deliver a clear and intuitive user experience, which will be validated when users can seamlessly access different sections of the dashboard without facing navigation or data loading issues.|
 | **Sprint 3 Velocity** | 80 |
 | **Sum of Story Points** | 80 |
+
+
 5.2.4.2. Aspect Leaders and Collaborators.
 
 | Team Member (Last Name, First Name) | GitHub Username | Profile (L/C) | Navegación (L/C) | Devices (CTA) (L/C) | Alarms (L/C) | Dashboard (L/C) |
