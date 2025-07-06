@@ -2700,8 +2700,16 @@ A continuación se presentan las preguntas diseñadas para las entrevistas final
 
 ---
 
-
 #### 5.3.2. Registro de Entrevistas
+
+|Entevistado 1|Alejandra Gallo|
+|-|-|
+|Edad|21|
+|Distrito|Santiago de Surco, Lima|
+|Foto|![entrevista-2](![image](https://github.com/user-attachments/assets/f959aec3-3822-4264-9986-63c9b08c3589)|
+|Link de la Entrevista|[Entrevista a Alejandra Gallo](https://drive.google.com/file/d/1VuiOiitp4axgWxiT7hL5cKidguUxZ_Kg/view?usp=sharing)|
+|Time | 0:03 - 06:06 |
+|Analisis de Entrevista|  Alejandra Gallo un estudiante de ciencia de la computacion de 21años expresa su preocupación por la exposición constante a las ondas electromagnéticas generadas por dispositivos electrónicos como celulares, routers y electrodomésticos. Señala que aunque muchos no lo notan, estos campos pueden tener efectos negativos en la salud a largo plazo, como alteraciones del sueño, dolores de cabeza o incluso riesgos más serios aún en estudio. Gallo destaca la importancia de tomar conciencia sobre este tema, promover investigaciones al respecto y adoptar hábitos que reduzcan la exposición diaria a estas ondas.. |
 
 #### 5.3.3. Evaluaciones según heurísticas
 
