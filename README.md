@@ -45,7 +45,6 @@ width=30%"/>
 |Nicolich Alvis, Fabio Maurizio |U202218791|
 |Gongora Castillejos,Williams Jesus|U20221C186|
 |Espinoza Ayquipa, Esteban Daniel|U202218396|
-|Mel Andree Orellana Rodriguez|U202116018|
 |Lopez de la Cruz Mauro Fabricio|U202215695|
 
 
@@ -96,6 +95,52 @@ width=30%"/>
 |          | 22/04/2025  | Nicolich Alvis, Fabio Maurizio    | Lean UX Process                                     |
 
 
+| Versión  | Fecha       | Autor                              | Descripción de modificación                                                    |
+|:--------:|:-----------:|:-----------------------------------:|:-------------------------------------------------------------------------------:|
+|   TP     | 24/04/2025  | Gongora Castillejos, Williams Jesus | Configuración del entorno inicial del backend y estructura de carpetas         |
+|          | 25/04/2025  | Nicolich Alvis, Fabio Maurizio      | Configuración de servicios RESTful para aggregate `devices`                    |
+|          | 25/04/2025  | Espinoza Ayquipa, Esteban Daniel    | Diseño responsivo del dashboard en frontend                                    |
+|          | 26/04/2025  | López De La Cruz, Mauro Fabricio    | Implementación del módulo de autenticación y sesión (`profile`)               |
+|          | 26/04/2025  | Gongora Castillejos, Williams Jesus | Desarrollo del CRUD para el aggregate `radiation map` en el backend            |
+|          | 27/04/2025  | Nicolich Alvis, Fabio Maurizio      | Conexión del frontend con la API de `devices`                                  |
+|          | 27/04/2025  | Espinoza Ayquipa, Esteban Daniel    | Estilización del módulo de `alarms` en el frontend                             |
+|          | 28/04/2025  | López De La Cruz, Mauro Fabricio    | Despliegue inicial del backend en servidor cloud                               |
+|          | 28/04/2025  | Gongora Castillejos, Williams Jesus | Configuración de Docker y docker-compose para desarrollo local                 |
+|          | 29/04/2025  | Nicolich Alvis, Fabio Maurizio      | Integración de datos en tiempo real para `radiation map`                       |
+|          | 29/04/2025  | Espinoza Ayquipa, Esteban Daniel    | Creación del sistema de notificaciones para `alarms`                           |
+|          | 30/04/2025  | López De La Cruz, Mauro Fabricio    | Documentación de endpoints del backend con Swagger                             |
+
+
+| Versión  | Fecha       | Autor                              | Descripción de modificación                                                    |
+|:--------:|:-----------:|:-----------------------------------:|:-------------------------------------------------------------------------------:|
+|   TB2    | 30/04/2025  | Gongora Castillejos, Williams Jesus | Despliegue de la aplicación web en entorno productivo con monitoreo activado   |
+|          | 02/05/2025  | Espinoza Ayquipa, Esteban Daniel    | Implementación de dashboard analítico con métricas de radiación                |
+|          | 03/05/2025  | Nicolich Alvis, Fabio Maurizio      | Creación de filtros personalizados para el dashboard de `radiation map`        |
+|          | 04/05/2025  | López De La Cruz, Mauro Fabricio    | Integración de gestión de perfiles de usuario (`profile`)                      |
+|          | 06/05/2025  | Gongora Castillejos, Williams Jesus | Optimización del backend con patrones DDD para aggregates `alarms` y `devices` |
+|          | 08/05/2025  | Nicolich Alvis, Fabio Maurizio      | Pruebas de carga sobre servicios de `devices` y `radiation map`                |
+|          | 10/05/2025  | Espinoza Ayquipa, Esteban Daniel    | Refactor del diseño visual para compatibilidad mobile-first                    |
+|          | 13/05/2025  | López De La Cruz, Mauro Fabricio    | Integración con base de datos externa para recopilación de datos EMF           |
+|          | 16/05/2025  | Gongora Castillejos, Williams Jesus | Configuración de variables de entorno para despliegue automatizado             |
+|          | 20/05/2025  | Nicolich Alvis, Fabio Maurizio      | Diseño de dashboard administrativo para monitoreo de alertas                   |
+|          | 24/05/2025  | Espinoza Ayquipa, Esteban Daniel    | Optimización de experiencia de usuario en dispositivos táctiles                |
+
+
+| Versión  | Fecha       | Autor                              | Descripción de modificación                                                    |
+|:--------:|:-----------:|:-----------------------------------:|:-------------------------------------------------------------------------------:|
+|    TF    | 27/05/2025  | López De La Cruz, Mauro Fabricio    | Validación de formularios para creación de dispositivos                        |
+|          | 30/05/2025  | Gongora Castillejos, Williams Jesus | Automatización del proceso de despliegue con scripts CI/CD                     |
+|          | 02/06/2025  | Nicolich Alvis, Fabio Maurizio      | Incorporación de gráficos dinámicos en `radiation map`                         |
+|          | 06/06/2025  | Espinoza Ayquipa, Esteban Daniel    | Mejoras de accesibilidad para usuarios con discapacidad visual                 |
+|          | 10/06/2025  | López De La Cruz, Mauro Fabricio    | Revisión general del sistema para entrega parcial                              |
+|          | 15/06/2025  | Gongora Castillejos, Williams Jesus | Reestructuración modular del frontend por componentes                          |
+|          | 20/06/2025  | Nicolich Alvis, Fabio Maurizio      | Corrección de errores en el sistema de notificaciones                          |
+|          | 25/06/2025  | Espinoza Ayquipa, Esteban Daniel    | Mejora del rendimiento en cargas iniciales del dashboard                       |
+|          | 01/07/2025  | López De La Cruz, Mauro Fabricio    | Validación y pruebas finales del flujo completo del sistema                    |
+|          | 03/07/2025  | Gongora Castillejos, Williams Jesus | Documentación final del sistema y arquitectura implementada                    |
+|          | 06/07/2025  | Nicolich Alvis, Fabio Maurizio      | Preparación del entregable final y presentación del sistema                    |
+
+
 </br></br>
 
 ## Project Report Collaboration Insights
@@ -105,15 +150,14 @@ Enlace de la organización para el reporte del proyecto: https://github.com/EMSa
 
 **TB1**
 
-Para el desarrollo del informe correspondiente a la entrega TB1, se estableció la implementación de secciones de la siguiente manera para cada integrante del equipo:
+Para el desarrollo del informe correspondiente a todas las entregas, se estableció la implementación de secciones de la siguiente manera para cada integrante del equipo:
 
 | Integrante | Tareas Asignadas |
 |------------|------------------|
-| Esteban Espinoza | Idea conceptual de Proyecto, Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Software Configuration Management, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration |
-| Williams Gongora | Idea conceptual de Proyecto, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping, Class Diagrams, Class Dictionary, Database Design, Database Diagram |
-| Fabio Nicolich | Idea conceptual de Proyecto, Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Software Configuration Management, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration |
-| Andree Orellana | Idea conceptual de Proyecto, User Stories, Impact Mapping, Product Backlog, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Análisis competitivo, Estrategias y tácticas frente a competidores |
-| Fabricio Lopez | Idea conceptual de Proyecto, Ejecución de Needfinding, elaboración de User Personas, desarrollo de User Task Matrix, creación de User Journey Mapping, diseño de Empathy Mapping, realización de As-is Scenario Mapping, revisión y corrección de User Stories, reestructuración y actualización de Product Backlog, desarrollo de glosario de Ubiquitous Language |
+| Esteban Espinoza | Idea conceptual de Proyecto, Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Software Configuration Management, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration, Funcionaliad completa de alarmas |
+| Williams Gongora | Idea conceptual de Proyecto, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping, Class Diagrams, Class Dictionary, Database Design, Database Diagram, Funcionaliad completa de radiation map y dahsboard |
+| Fabio Nicolich | Idea conceptual de Proyecto, Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Software Configuration Management, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration, Funcionaliad completa de dispositivos |
+| Fabricio Lopez | Idea conceptual de Proyecto, Ejecución de Needfinding, elaboración de User Personas, desarrollo de User Task Matrix, creación de User Journey Mapping, diseño de Empathy Mapping, realización de As-is Scenario Mapping, revisión y corrección de User Stories, reestructuración y actualización de Product Backlog, desarrollo de glosario de Ubiquitous Language, Funcionaliad completa del perfil |
 
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
@@ -126,7 +170,6 @@ Los integrantes son:
 
 * Williams Gongora (WiJeGo)
 * Fabio Nicolich (Nicolini03)
-* Andree Orellana (melandree8)
 * Fabricio Lopez (lopezFABRAX)
 * Esteban Espinoza (este-dev597)
 
@@ -260,7 +303,6 @@ Comunica oralmente con efectividad a diferentes rangos de audiencia
 | Acción Realizada | Participantes          | Descripción |
 |------------------|------------------------|-------------|
 | TB1              | Lopez de La Cruz, Fabricio | Identificación de Problemáticas:<br>Realicé una investigación preliminar para entender los problemas y necesidades del usuario.<br>Analicé el contexto y el mercado para identificar desafíos y oportunidades.<br>Documentación y Comunicación:<br>Generación de Documentación: Creé documentación completa de procesos, decisiones y resultados. |
-| TB1              | Orellana Rodriguez, Andree  | Definición de Requisitos:<br>User Stories: Redacté historias de usuario que detallan los requisitos funcionales.<br>Modelado de Solución: Representé la solución visualmente con diagramas y otros artefactos.<br>Documentación y Comunicación:<br>Generación de Documentación: Creé documentación completa de procesos, decisiones y resultados. |
 | TB1              | Espinoza Ayquipa, Esteban  | Diseño Visual y Prototipado:<br>Principios de Diseño: Creé una propuesta visual coherente.<br>Prototipos: Creé y refiné diseños interactivos.<br>Documentación y Comunicación:<br>Generación de Documentación: Creé documentación completa de procesos, decisiones y resultados. |
 | TB1              | Gongora Castillejos, Williams | Implementación de Landing Page:<br>Desarrollo: Implementé la Landing Page, servicios del servidor y aplicaciones web con los lenguajes, frameworks y herramientas especificados.<br>Documentación y Comunicación:<br>Generación de Documentación: Creé documentación completa de procesos, decisiones y resultados. |
 | TB1              | Nicolich Alvis, Fabio | Aplicación del Proceso Lean UX:<br>Segmentación de Objetivos: Definí objetivos según las necesidades.<br>Lean UX Canvas: Resumí la información en un Lean UX Canvas para una visión general y hoja de ruta del proyecto.<br>Documentación y Comunicación:<br>Generación de Documentación: Creé documentación completa de procesos, decisiones y resultados. |
@@ -274,7 +316,6 @@ Comunica por escrito con efectividad a diferentes rangos de audiencia
 | Acción Realizada | Participantes          | Descripción |
 |------------------|------------------------|-------------|
 | TB1              | Gongora Castillejos, Williams | Ejecución y Documentación de Procesos:<br>Lean UX y UX Research: Documenté procesos como User Personas, Task Matrix y Journey Maps.<br> |
-| TB1              | Orellana Rodriguez, Andree | Validación y Retroalimentación:<br>Validation Interviews: Entrevisté a representantes de User Personas para obtener feedback.<br>Identificación de Hallazgos: Documenté y abordé problemas encontrados en las entrevistas. |
 | TB1              | Espinoza Ayquipa, Esteban | Ejecución y Documentación de Procesos:<br>Design y Prototyping: Desarrollé y documenté el diseño visual y los prototipos. |
 | TB1              | Nicolich Alvis, Fabio Maurizio | Aplicación de Buenas Prácticas de Programación:<br>Convenciones y Nomenclatura: Seguí las convenciones de nomenclatura para consistencia y claridad. |
 | TB1              | Lopez de La Cruz, Fabricio | Ejecución y Documentación de Procesos:<br>Lean UX y UX Research: Documenté y ejecuté Lean UX y UX Research, incluyendo User Personas, Task Matrix y Journey Maps.<br>Design y Prototyping: Desarrollé y documenté el diseño visual y los prototipos. |
@@ -282,6 +323,36 @@ Comunica por escrito con efectividad a diferentes rangos de audiencia
 
 #### Conclusiones
 El uso correcto de lenguajes de programación, herramientas especializadas y la aplicación de buenas prácticas y convenciones permitió una implementación efectiva y colaborativa del proyecto. La aplicación disciplinada de Lean UX, UX Research y metodologías ágiles, junto con una documentación bien elaborada, garantizó el desarrollo de una solución sólida y validada a través de entrevistas con User Personas. Además, el enfoque en la mejora continua facilitará la actualización y optimización de los artefactos en función de nuevos hallazgos y recomendaciones. Finalmente, se mantuvo una comunicación clara y precisa de la propuesta a lo largo del proceso.
+
+
+### TB2
+
+| Criterio específico                             | Acciones Realizadas                                                                                                                      | Conclusiones                                                                                                                         |
+|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Gongora Castillejos, Williams**: Aplicación de Buenas Prácticas de Programación para los archivos backend. Seguimiento de convenciones de nomenclatura para consistencia y comprensión de archivos. Implementación del video "About-The-Team". Definición de las technical stories en el sprint backlog. Integración de Lean UX y UX Research para una solución centrada en el usuario, validada a través de entrevistas con User Personas.  | El enfoque estratégico en lenguajes y herramientas facilitó un desarrollo ágil y colaborativo. La documentación clara ayudó en la comprensión y aceptación de la propuesta. |
+|                                                 | **Espinoza Ayquipa, Esteban**: Implementación de testimonios en la sección home. Definición del Sprint Planning 3. Uso de Gherkin para el Testing Suite Evidence para el Sprint Review e implementación de endpoints para el desarrollo del backend utilizando buenas prácticas y DDD. | La aplicación de Gherkin y DDD optimizó la claridad en la documentación y la efectividad en los procesos de revisión del Sprint.                                  |
+|                                                 | **Lopez de La Cruz, Fabricio**: Implementación de la sección "About the Product" en la landing page. Creación de endpoints en el desarrollo backend, aplicando el Domain Driven Design. | La aplicación de DDD en el backend facilitó la organización del código y la integración con el equipo, mejorando la eficiencia y la coherencia del proyecto.         |
+|                                                 | **Nicolich Alvis, Fabio Maurizio**: Entrevista a los segmentos objetivos. Registro de entrevistas de los segmentos objetivo. Implementación del video "About the Product" en la landing page. Creación de endpoints en el desarrollo backend, aplicando el Domain Driven Design. | Las entrevistas documentadas aseguraron un entendimiento profundo del usuario, ayudando a enfocar el desarrollo en la landing page y el backend.                      |
+
+| Criterio específico                             | Acciones Realizadas                                                                                                                      | Conclusiones                                                                                                                         |
+|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia | **Gongora Castillejos, Williams**: Participación en videos "About the Product" y "About the Team". Comunicación continua con el equipo con fines de organización. Integración de Lean UX y UX Research para identificar las necesidades del usuario, facilitando la creación de User Stories y diseño visual. Implementación de Domain Driven Design para cumplir con los objetivos del sprint. | La comunicación continua y el enfoque en UX Research contribuyeron a una solución funcional que alineaba bien los objetivos del sprint con las necesidades del usuario. |
+|                                                 | **Espinoza Ayquipa, Esteban**: Participación en videos "About the Product" y "About the Team". Comunicación continua con el equipo con fines de organización. | La comunicación efectiva entre el equipo ayudó a mantener la organización y la alineación de objetivos.                                                                   |
+|                                                 | **Lopez de La Cruz, Fabricio**: Organización y comunicación entre los integrantes del grupo por diferentes medios. Participación en video "About the Team". | La comunicación organizada facilitó la coordinación en el equipo, promoviendo la eficiencia en el desarrollo y asegurando la alineación en las tareas.                  |
+|                                                 | **Nicolich Alvis, Fabio Maurizio**: Participación en videos "About the Product" y "About the Team". Comunicación constante mediante WhatsApp y Discord con el equipo. | La comunicación a través de canales digitales garantizó la alineación del equipo y facilitó la colaboración en el desarrollo del proyecto.                              |
+
+
+### TF1
+
+### Comunica por oralmente con efectividad a diferentes rangos de audiencia
+
+
+| **Criterio específico**                       | **Acciones Realizadas**                                                                                                                 | **Conclusiones**                                                                                                                                                                                                                                                                                                                              |
+|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Gongora Castillejos, Williams**                  | Participación en video de exposición. Comunicación constante con el equipo por Discord y de manera presencial.                          | La comunicación efectiva en el equipo permitió cumplir con los objetivos del TF1, garantizando coordinación y claridad en la presentación del proyecto mediante herramientas digitales como Discord y WhatsApp.                                                                                         |
+| **Espinoza Ayquipa, Esteban**         | Participación en video de exposición. Comunicación constante mediante Discord con el equipo.                                            | La comunicación efectiva en el equipo permitió cumplir con los objetivos del TF1, garantizando coordinación y claridad en la presentación del proyecto mediante herramientas digitales como Discord y WhatsApp.                                                                                         |
+| **Lopez de La Cruz, Fabricio**       | Participación en video de exposición. Comunicación constante mediante Discord con el equipo.                                            | La comunicación efectiva en el equipo permitió cumplir con los objetivos del TF1, garantizando coordinación y claridad en la presentación del proyecto mediante herramientas digitales como Discord y WhatsApp.                                                                                         |
+| **Nicolich Alvis, Fabio Maurizio**           | Participación en video de exposición. Comunicación activa mediante Discord y WhatsApp.                                                  | La comunicación efectiva en el equipo permitió cumplir con los objetivos del TF1, garantizando coordinación y claridad en la presentación del proyecto mediante herramientas digitales como Discord y WhatsApp.                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 <br>
 
@@ -305,7 +376,6 @@ Ser la plataforma líder en Latinoamérica en la detección y gestión de radiac
 | :--------| :--------:|
 |Soy estudiante de Ingeniería de Software, cursando actualmente el quinto ciclo de la carrera. Me destaco por ser responsable, proactivo y poseer sólidas habilidades de liderazgo. Estoy comprometido con el trabajo en equipo, fomentando una comunicación efectiva y colaborativa para alcanzar resultados sobresalientes. Mi enfoque está en garantizar la calidad y el éxito de los proyectos, aportando creatividad, esfuerzo y dedicación en cada etapa del desarrollo. Cuento con conocimientos en lenguajes como C++, HTML, CSS, JavaScript, TypeScript y Python, y estoy enfocado en aprender a crear proyectos utilizando frameworks como Angular y Vue.|![Fabio](https://github.com/user-attachments/assets/4b9ef061-61ec-4ff8-b51f-b3ebc5209d7c)|
 | Mi nombre es **Williams Jesús Góngora Castillejos** y soy estudiante de la carrera de Ingeniería de Software. Me considero una persona inteligente en todo lo que conlleva a números y razonamiento intuitivo, además de ser creativo para generar soluciones como ingeniero. Cuento con conocimientos en SQL, C++ y Python. Dentro de mis habilidades interpersonales, soy amable, empático y trato de establecer confianza entre mis compañeros para realizar un mejor trabajo en equipo. |![williams](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/williams.jpg)|
-| Mi nombre es Mel Andree Orellana Rodríguez. Soy estudiante de la carrera de Ingeniería de Software en la UPC y actualmente me encuentro cursando el séptimo ciclo.Tengo conocimientos en C++ y estoy desarrollándome en JavaScript, lo que me ha permitido ampliar mis habilidades hacia el desarrollo web. Me considero una persona comprensiva, con buena capacidad de comunicación y trabajo en equipo. Siempre estoy dispuesta a aprender cosas nuevas y a seguir mejorando. Además, me gusta colaborar y apoyar en lo que pueda ser útil, especialmente en proyectos donde pueda aportar valor y seguir creciendo tanto a nivel profesional como personal.| ![Andree](https://github.com/user-attachments/assets/5104b1ae-1ac7-40aa-93b6-d7dbda9b4efa) |
 |Mi nombre es Esteban Daniel Espinoza Ayquipa, estoy cursando el quinto ciclo de la carrera de Ingeniería de Software. Soy una persona creativa, proactiva y eficiente al momento de elaborar proyectos siempre apuntando a la optimización. Tengo un nivel intermedio en las siguientes tecnologías ReactJS, ExpressJs, MySQL y Python orientado a realizar proyectos FullStack.|![Image](https://github.com/user-attachments/assets/48562958-d86e-4df7-ba2d-5d0621193258)|
 |Mi nombre es **Mauro Fabricio Lopez de la Cruz**, soy estudiante de la carrera ingeneria de software de la UPC y actualmente estoy cursando el quito ciclo . Tengo conocomiento en c++ , python, html ,css, javascript. Me considero una persona amable con capacidad de tener una muy buena comunnicacion en trabajos en grupo para el desarrollo de proyectos dando y ayudando en la solucion de problemas .|![file](https://github.com/user-attachments/assets/1b71c4fb-ee8e-4b0e-89c7-ffd7841631d9)|
 
