@@ -2885,16 +2885,21 @@ Este documento describe paso a paso cómo se realizó el despliegue del frontend
 
 ## 🔧 Configuración del Firebase y el proyecto
 1. Crear un nuevo proyecto llamado `emsafe`.
-![Captura de pantalla 2025-06-29 114120](https://storage.googleapis.com/la_liga_files/images/deploy.png)
+
+    ![Captura de pantalla 2025-06-29 114120](https://storage.googleapis.com/la_liga_files/images/deploy.png)
 
 2. Tener preparado y listo el archivo de configuración de Firebase.
-![Captura de pantalla 2025-06-29 114120](https://storage.googleapis.com/la_liga_files/images/deploy-2.png)
 
-3. En la terminal del proyecto ejecutar el comando npm run build, esto nos generará la carpeta /dist
-![Captura de pantalla 2025-06-29 114120](https://storage.googleapis.com/la_liga_files/images/deploy-3.png)
+    ![Captura de pantalla 2025-06-29 114120](https://storage.googleapis.com/la_liga_files/images/deploy-2.png)
+
+3. En la terminal del proyecto ejecutar el comando `npm run build`; esto generará la carpeta `/dist`.
+
+    ![Captura de pantalla 2025-06-29 114120](https://storage.googleapis.com/la_liga_files/images/deploy-3.png)
    
-4. Finalmente ejecutar el comando firebase deploy y de esta manera tenemos el proyecto frontend desplegado en el siguiente dominio https://emsafe-bcdfd.web.app/
-![Captura de pantalla 2025-06-29 114120](https://storage.googleapis.com/la_liga_files/images/deploy-4.png)
+4. Finalmente, ejecutar el comando `firebase deploy`; de esta manera el proyecto frontend quedará desplegado en el dominio  
+   <https://emsafe-bcdfd.web.app/>
+
+    ![Captura de pantalla 2025-06-29 114120](https://storage.googleapis.com/la_liga_files/images/deploy-4.png)
 
 5.2.4.8.Team Collaboration Insights during Sprint.
 
